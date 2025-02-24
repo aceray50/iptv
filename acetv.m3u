@@ -72,6 +72,8 @@ https://video.tegnaone.com/kare/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
 #EXTINF:0,WPVI-TV ABC 6 24/7 News (Philadelphia PA)
 https://content-ausw1.uplynk.com/channel/c03e1d48809d476eb0dfa839b6fb0ca4.m3u8
+#EXTINF:0,WCAU-TV NBC 10 (Philadelphia PA)
+https://nbculocallive.akamaized.net/hls/live/2035366/philadelphia/stream2/master.m3u8
 #EXTINF:0,WCAU-TV NBC 10 24/7 News (Philadelphia PA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889705/hls/playlist.m3u8?ads.xumo_channelId=88889705
 #EXTINF:0,WTXF-TV FOX 29 24/7 News (Philadelphia PA)
@@ -248,6 +250,8 @@ https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/9bfae0d
 https://content.uplynk.com/channel/4608c2dc86a14e3db517ef7e5042a915.m3u8
 #EXTINF:0,KUSA-TV NBC 9 24/7 News (Denver CO)
 https://video.tegnaone.com/kusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA-Production/live/index.m3u8
+#EXTINF:0,WRC-TV NBC 4 (Washington DC)
+https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream1/master.m3u8
 #EXTINF:0,WRC-TV NBC 4 24/7 News (Washington DC)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/playlist.m3u8?ads.xumo_channelId=99951181
 #EXTINF:0,WTTG-TV FOX 5 24/7 News (Washington DC)
