@@ -94,7 +94,7 @@ https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/
 https://apollo.production-public.tubi.io/live/ac-wtae.m3u8
 #EXTINF:0,WPXI-TV NBC 11 (Pittsburg PA)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
-#EXTINF:0,WFOR-TV CBS 4 News (Miami FL)
+#EXTINF:0,WFOR-TV CBS 4 (Miami FL)
 http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 #EXTINF:0,WFOR-TV CBS 4 24/7 News (Miami FL)
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
