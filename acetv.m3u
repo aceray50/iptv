@@ -1035,6 +1035,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 http://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:0,WNJU-TV Telemundo 47 (New York NY)
 https://tvpass.org/live/TelemundoEast/hd/S1BZRjFTU0NPbm14Sm8xVzlZeXBOU2NpZzdYVFh6R0xsZmdMaU9oWA==
+#EXTINF:0,WSCV-TV Telemundo 51 (Miami FL)
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:0,WXTV-TV Univision 41 (New York NY)
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 #EXTINF:0,WLTV-TV Univision 23 (Miami FL)
@@ -1704,12 +1706,6 @@ https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/720p/main.m3u8
 https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:0,Hope Church Channel
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:0,Daystar Television Network
-https://hls-live-broadcast-gc.cdn01.net/mpegts/232076_1278481/HCbVnPIL1zz6Sob4linOow/1740371300/master_mpegts.m3u8?channel_id=37099&source=othersites&device_id=753699897-1d49f49f0a51b751a3cc2c9c68c968e8&lcp=3&DVR&client_id=596064038424325547&play_id=1740284900375991
-#EXTINF:0,Daystar Television Network (Canada)
-https://hls-live-media-gc.cdn01.net/mpegts/232076_1278544/V-FHg3-PyzOJl_BGFIVjEA/1740371544/media_mpegts_0.m3u8?channel_id=38389&source=othersites&device_id=753699897-1d49f49f0a51b751a3cc2c9c68c968e8&lcp=3&DVR&client_id=412981042666829929&play_id=1740285144492512
-#EXTINF:0,TCT-TV (Tri-State Christian Television)
-https://live.vimeocdn.com/1740288353-0x617c951b8ecebeb691e33677aa539300e89925d0/faf28f5a-1a31-4d85-88c4-e2119da20f00_fmp4/hls.m3u8
 #EXTINF:0,TBN
 https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
 #EXTINF:0,TBN Inspire
@@ -2818,10 +2814,6 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 http://181.188.234.21:8000/play/a04i/index.m3u8
 #EXTINF:0,ETWN en Español
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:0,Daystar Television Network en Español
-https://hls-live-broadcast-gc.cdn01.net/mpegts/232076_1278490/94mr7bblDa6habm6Rt_x-g/1740371644/master_mpegts.m3u8?channel_id=37429&source=WebApp&app_id=4425&device_id=753699897-e2a9195afdd4e977df713ee980adca0c&lcp=3&DVR&client_id=349349249439673498&play_id=1740285244996626
-#EXTINF:0,Daystar Israel en Vivo
-https://hls-live-broadcast-gc.cdn01.net/mpegts/232076_1278496/d1YsH0m2GbxcWISfZyKQmw/1740371746/media_mpegts_0.m3u8?channel_id=37431&source=WebApp&app_id=4425&device_id=753699897-e2a9195afdd4e977df713ee980adca0c&lcp=3&DVR&client_id=748707537016496725&play_id=1740285346876349
 #EXTINF:0,Hallmark en Español
 https://amg00235-amg00235c3-estrellamedia-us-4154.playouts.now.amagi.tv/playlist/amg00235-crownmediafamilynetworksfast-hallmarkenespanolplex-estrellamediaworldwide/playlist.m3u8
 #EXTINF:0,Gusto TV en Español
