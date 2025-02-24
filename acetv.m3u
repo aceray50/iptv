@@ -1035,8 +1035,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 http://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:0,WNJU-TV Telemundo 47 (New York NY)
 https://tvpass.org/live/TelemundoEast/hd/S1BZRjFTU0NPbm14Sm8xVzlZeXBOU2NpZzdYVFh6R0xsZmdMaU9oWA==
-#EXTINF:0,WSCV-TV Telemundo 51 (Miami FL)
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:0,WXTV-TV Univision 41 (New York NY)
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 #EXTINF:0,WLTV-TV Univision 23 (Miami FL)
