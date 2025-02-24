@@ -92,10 +92,16 @@ https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/
 https://apollo.production-public.tubi.io/live/ac-wtae.m3u8
 #EXTINF:0,WPXI-TV NBC 11 (Pittsburg PA)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
+#EXTINF:0,WFOR-TV CBS 4 News (Miami FL)
+http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 #EXTINF:0,WFOR-TV CBS 4 24/7 News (Miami FL)
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:0,WTVJ-TV NBC 6 News (Miami FL)
+http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 #EXTINF:0,WTVJ-TV NBC 6 24/7 News (Miami FL)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889702/hls/playlist.m3u8?ads.xumo_channelId=88889702
+#EXTINF:0,WPLG-TV ABC 10 (Miami FL)
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:0,WTSP-TV CBS 10 (Tampa Bay FL)
 https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
 #EXTINF:0,WTSP-TV CBS 10 24/7 News (Tampa Bay FL)
@@ -1709,7 +1715,7 @@ https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:0,Hope Church Channel
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:0,TBN
-https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
+https://cda50b49b6cb4f3d86138b77989efa9a.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/Yal8cmyO_/7694f49c-860a-45e5-ac40-748456273224/0.m3u8
 #EXTINF:0,TBN Inspire
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
 #EXTINF:0,TBN Teaching & Worship
