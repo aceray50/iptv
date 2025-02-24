@@ -1484,10 +1484,12 @@ https://tvpass.org/live/FXEast/hd/S1BZRjFTU0NPbm14Sm8xVzlZeXBOU2NpZzdYVFh6R0xsZm
 https://tvpass.org/live/FXXEast/hd/S1BZRjFTU0NPbm14Sm8xVzlZeXBOU2NpZzdYVFh6R0xsZmdMaU9oWA==
 #EXTINF:0,FXM (FOX Movie Channel)
 https://tvpass.org/live/FXMovieChannel/hd/S1BZRjFTU0NPbm14Sm8xVzlZeXBOU2NpZzdYVFh6R0xsZmdMaU9oWA==
-#EXTINF:0,TNT (West)
-https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0,TNT (East)
+#EXTINF:0,TNT
 https://tvpass.org/live/TNTEast/hd/S1BZRjFTU0NPbm14Sm8xVzlZeXBOU2NpZzdYVFh6R0xsZmdMaU9oWA==
+#EXTINF:0,TNT+ (West)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tntwest.us.m3u8
+#EXTINF:0,TNT+ (East)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tnteast.us.m3u8
 #EXTINF:0,TBS
 https://tvpass.org/live/TBSEast/hd/S1BZRjFTU0NPbm14Sm8xVzlZeXBOU2NpZzdYVFh6R0xsZmdMaU9oWA==
 #EXTINF:0,TBS+ (West)
@@ -2680,10 +2682,6 @@ https://stream.revma.ihrhls.com/zc5144/hls.m3u8
 
 #EXTINF:0,Galavisión (SD)
 https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
-#EXTINF:0,Galavisión (West)
-http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8
-#EXTINF:0,Galavisión (East)
-http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONMIAMI&calidad=hd&.m3u8
 #EXTINF:0,Telemundo Internacional
 http://181.188.234.21:8000/play/a04n/index.m3u8
 #EXTINF:0,Telemundo Al Día
