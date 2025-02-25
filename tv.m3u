@@ -1218,7 +1218,7 @@ https://n2ctsota.akamaized.net/hls/live/2113130/Live_1/index.m3u8
 #EXTINF:0,News Nation
 http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:0,C-SPAN
-http://143.244.60.97/C-SPAN/index.m3u8
+https://tvpass.org/live/CSPAN/hd
 #EXTINF:0,C-SPAN 2
 https://tvpass.org/live/CSPAN2/hd
 #EXTINF:0,USA Today News
