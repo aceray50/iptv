@@ -1445,9 +1445,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1df8-7b2e-11ef-951a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=632fe7b8-42bc-4848-8710-b775ee7de975&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Comedy",Pluto TV Pranks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f86f539f03cd00070c503a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c208c-7b2e-11ef-9ac1-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=57f8ada0-9a60-40de-afcf-1a3a80463d81&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Comedy",Kevin Hart’s LOL! Network #1
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-628ea9fcffe4cec6361f5310.m3u8?X-Plex-Session-Identifier=3c2b64wwtl7xmnocrnpc8dch&X-Plex-Product=Plex%20Web&X-Plex-Version=4.141.0&X-Plex-Client-Identifier=90l05bmpx7otj524sr59s9dq&X-Plex-Platform=Microsoft%20Edge&X-Plex-Platform-Version=131.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Microsoft%20Edge&X-Plex-Device-Screen-Resolution=1366x688%2C1366x768&X-Plex-Token=VmceKrYsjHEH5AhQufak&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=18ffd0c0-6539-4c0b-81c0-b46f25d7de6c&X-Plex-Playback-Session-Id=50a713fc-527e-4dff-84ee-0eead634a240
-#EXTINF:-1 group-title="Comedy",Kevin Hart’s LOL! Network #2
+#EXTINF:-1 group-title="Comedy",Kevin Hart’s LOL! Network
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991123
 #EXTINF:-1 group-title="Comedy",Kevin Hart’s LOL! Standup
 https://dbrb49pjoymg4.cloudfront.net/10001/99951297/hls/master.m3u8?ads.xumo_channelId=99951297
@@ -1460,7 +1458,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951244/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 group-title="Comedy",Pluto TV Comedy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9ed92f1-1fa3-4a05-abd8-e6b077ed35c4
 #EXTINF:-1 group-title="Comedy",Hit Sitcoms by WB
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=5xsLbc1ksWSXMEeTdtzZ&_gl=1*1awhewi*_gcl_au*ODM2NzY4ODIuMTczNzg1NTIwOQ..*_ga*MjIwNTAxMTIwLjE3Mzc4NTUyMDk.*_ga_G6FQWNSENB*MTczODA5MzUzOC41LjEuMTczODA5MzcyMy41NC4wLjA.
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 group-title="Comedy",More TV Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=62d7dbcd-04ab-4ca8-ae91-0bf98c68d0d2
 #EXTINF:-1 group-title="Comedy",RiffTrax
@@ -1474,7 +1472,7 @@ https://amg01312-cw-amg01312c26-cw-us-4227.playouts.now.amagi.tv/playlist/amg013
 #EXTINF:-1 group-title="Comedy",AFV Family
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Comedy",Just for Laughs TV
-https://dbrb49pjoymg4.cloudfront.net/10001/99991176/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991176
+https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
 #EXTINF:-1 group-title="Comedy",Just for Laughs Gags
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
 #EXTINF:-1 group-title="Comedy",Funny or Die
@@ -1592,8 +1590,6 @@ https://amg09501-questar-amg09501c3-stirr-us-3096.playouts.now.amagi.tv/amg09501
 https://tvpass.org/live/LifetimeEast/hd
 #EXTINF:-1 group-title="Network Channels",LMN (LifeTime Movie Network)
 https://tvpass.org/live/LifetimeMoviesEast/hd
-#EXTINF:-1 group-title="Network Channels",Holiday Favorites by LifeTime
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63c1e47ef0f132afc3afbab2.m3u8?X-Plex-Session-Identifier=wfha2rg41olo362oqclxjd5g&X-Plex-Product=Plex%20Web&X-Plex-Version=4.141.0&X-Plex-Client-Identifier=90l05bmpx7otj524sr59s9dq&X-Plex-Platform=Microsoft%20Edge&X-Plex-Platform-Version=131.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Microsoft%20Edge&X-Plex-Device-Screen-Resolution=1366x688%2C1366x768&X-Plex-Token=VmceKrYsjHEH5AhQufak&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=18ffd0c0-6539-4c0b-81c0-b46f25d7de6c&X-Plex-Playback-Session-Id=9e03d9d5-fc4a-478a-8a40-471b39bbd933
 #EXTINF:-1 group-title="Network Channels",Movie Favorites By Lifetime (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=17d6d310-246c-4678-a980-a3043d16f2a3&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",MyTime Movie Network
@@ -1625,7 +1621,7 @@ https://tvpass.org/live/HGTVEast/hd
 #EXTINF:-1 group-title="Network Channels",Magnolia Network
 http://143.244.60.97/DIY/index.m3u8
 #EXTINF:-1 group-title="Network Channels",The Design Network
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
+https://dbrb49pjoymg4.cloudfront.net/10001/99991390/hls/playlist.m3u8?ads.xumo_channelId=99991390
 #EXTINF:-1 group-title="Network Channels",ONTV4U
 https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",FYI
@@ -1659,7 +1655,7 @@ https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 #EXTINF:-1 group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 group-title="Network Channels",80's Sitcom Flashback
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?X-Plex-Session-Identifier=fkig64bwzjkp4ewzkooqudo5&X-Plex-Product=Plex%20Web&X-Plex-Version=4.141.0&X-Plex-Client-Identifier=90l05bmpx7otj524sr59s9dq&X-Plex-Platform=Microsoft%20Edge&X-Plex-Platform-Version=131.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Microsoft%20Edge&X-Plex-Device-Screen-Resolution=1366x688%2C1366x768&X-Plex-Token=VmceKrYsjHEH5AhQufak&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=18ffd0c0-6539-4c0b-81c0-b46f25d7de6c&X-Plex-Playback-Session-Id=caa9a654-8756-496f-a041-7cbd208c2dd5
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 group-title="Network Channels",Non-Stop 90's
 https://amg00163-amg00163c8-cw-us-2414.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-nonstop90stv-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Dove Channel
@@ -1724,7 +1720,7 @@ https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Hope Church Channel
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TBN
-https://cda50b49b6cb4f3d86138b77989efa9a.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/Yal8cmyO_/7694f49c-860a-45e5-ac40-748456273224/0.m3u8
+https://d2irko5f9gt1c5.cloudfront.net/10008/99991708/hls/playlist.m3u8?ads.xumo_channelId=99991708
 #EXTINF:-1 group-title="Religious",TBN Inspire
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
 #EXTINF:-1 group-title="Religious",TBN Teaching & Worship
@@ -1814,7 +1810,7 @@ http://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",ACC Network ESPN
 https://tvpass.org/live/ACCNetwork/hd
 #EXTINF:-1 group-title="Sports",ACCDN
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=jD8djysgrt8FuHRSnUrx
+https://dbrb49pjoymg4.cloudfront.net/10001/99951364/hls/playlist.m3u8?ads.xumo_channelId=99951364
 #EXTINF:-1 group-title="Sports",SEC Network ESPN
 https://tvpass.org/live/SECN/hd
 #EXTINF:-1 group-title="Sports",CBS Sports Network
@@ -1914,11 +1910,13 @@ https://tvpass.org/live/TennisChannel/hd
 #EXTINF:-1 group-title="Sports",T2 Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 group-title="Sports",Tennis+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=XFS46cy4dysF9DttxYif
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 group-title="Sports",Court Sports Network
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=evK7iYKm-ixSYzFakeKo
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 group-title="Sports",PickleTV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=evK7iYKm-ixSYzFakeKo
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+#EXTINF:-1 group-title="Sports",PBTV Pickleball TV
+https://amg01444-tennischannel-amg01444c3-tennischannel-us-1912.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-tennischannelus/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NBC Golf Channel
 http://143.244.60.97/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Sports",NBC Golf Pass
@@ -2056,7 +2054,7 @@ https://tvpass.org/live/msg-plus/hd
 #EXTINF:-1 group-title="Sports",WWE Network
 http://143.244.60.97/WWE/index.m3u8
 #EXTINF:-1 group-title="Sports",TNA Wrestling Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=nCiHdKhmALbBrsxSq4m5
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 group-title="Sports",Impact Plus!
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="Sports",AXS-TV Fight Network
@@ -2237,6 +2235,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 group-title="Network Channels",Universal Crimes
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951245/hls/master.m3u8?ads.xumo_channelId=99951245
 #EXTINF:-1 group-title="Network Channels",Universal Monsters
+#EXTINF:-1 group-title="Premium Channels",FilmRise Untold Stories of the ER
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264
 #EXTINF:-1 group-title="Premium Channels",FilmRise Free Movies
 https://amg00512-amg00512c7-cw-us-2476.playouts.now.amagi.tv/playlist/amg00512-filmrisefast-freemoviesus-cwus/playlist.m3u8
@@ -2256,7 +2255,6 @@ https://live1009.delivery.roku.com/8ce67602-c071-4cae-8b5b-e555cf05145f/t2-origi
 https://live1009.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Fprensic Files
 https://live1009.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Premium Channels",FilmRise Untold Stories of the ER
 https://live1009.delivery.roku.com/ff1e4ec7-c99a-482b-b04b-5f1bf1732ec8/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Classic TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ea07049502c5778b828d3f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
@@ -2275,13 +2273,13 @@ https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #EXTINF:-1 group-title="Premium Channels",MovieSphere by Liongate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251
 #EXTINF:-1 group-title="Premium Channels",National Lampoon Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fcbcf414d94009d1206ee.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fcbcf414d94009d1206ee.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 group-title="Premium Channels",Miramax Movie Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 group-title="Premium Channels",At the Movies by WB
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 group-title="Premium Channels",IFC Film Picks
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 group-title="Premium Channels",70s Cinema (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c138a-7b2e-11ef-88c3-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9203004-be26-4bca-9a44-58b4d81c73f6&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Premium Channels",80s Rewind (Pluto TV)
