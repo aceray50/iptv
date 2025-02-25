@@ -1197,6 +1197,8 @@ http://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 https://d10d0llfaw1ovl.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/QuickTakeLive/live/origin-contribution-m1-bloomberg-quicktake-Haystack-TV.m3u8
 #EXTINF:0,Bloomberg TV Politics Live Event
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:0,Bloomberg Business News
+https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/bloombergbusinessnews.m3u8
 #EXTINF:0,Bloomberg (UK)
 https://www.bloomberg.com/media-manifest/videos/android/WiFi/c0fd1f87-6441-4321-a85c-d4594ab762b2.m3u8?idType=BMMP
 #EXTINF:0,Bloomberg (Austrailia)
