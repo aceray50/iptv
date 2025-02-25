@@ -2681,7 +2681,7 @@ https://stream.revma.ihrhls.com/zc9959/hls.m3u8
 #EXTINF:-1 group-title="Music",iHeart Trancid
 https://stream.revma.ihrhls.com/zc5144/hls.m3u8
 
-#EXTINF:-1 group-title="Latino (Spanish)",Galavisión (SD)
+#EXTINF:-1 group-title="Latino (Spanish)",Galavisión
 https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Internacional
 http://181.188.234.21:8000/play/a04n/index.m3u8
