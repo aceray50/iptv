@@ -2677,6 +2677,8 @@ https://stream.revma.ihrhls.com/zc9959/hls.m3u8
 #EXTINF:-1 group-title="Music",iHeart Trancid
 https://stream.revma.ihrhls.com/zc5144/hls.m3u8
 
+#EXTINF:-1 group-title="Music",Radio Tunes Easy Listening
+http://prem1.radiotunes.com/easylistening_hi?cde33649952951390c0ac1bb
 #EXTINF:-1 group-title="Music",Radio Tunes Soft Rock
 http://prem1.radiotunes.com/softrock_hi?cde33649952951390c0ac1bb
 #EXTINF:-1 group-title="Music",Radio Tunes Classic Rock
@@ -2733,7 +2735,7 @@ http://prem1.radiotunes.com/slowjamz_hi?cde33649952951390c0ac1bb
 http://prem1.radiotunes.com/classicmotown_hi?cde33649952951390c0ac1bb
 #EXTINF:-1 group-title="Music",Radio Tunes Smooth Jazz
 http://prem1.radiotunes.com/smoothjazz_hi?cde33649952951390c0ac1bb
-#EXTINF:-1 group-title="Music",Radio Tunes Smooth Jazz
+#EXTINF:-1 group-title="Music",Radio Tunes Smooth Jazz 24/7
 http://prem1.radiotunes.com/smoothjazz247_hi?cde33649952951390c0ac1bb
 #EXTINF:-1 group-title="Music",Radio Tunes Uptempo Smooth Jazz
 http://prem1.radiotunes.com/uptemposmoothjazz_hi?cde33649952951390c0ac1bb
