@@ -321,7 +321,7 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Retro TV #1
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Retro TV #2
-https://www.lightcast.com/embed/playlist_m3u8_live2.php?playlist=eyJzb3VyY2UiOiJnY29yZSIsImhsc191cmwiOiJodHRwczpcL1wvaGxzLWxpdmUtc3RyZWFtLWdjLmNkbjAxLm5ldCMjI1NUUkVBTSMjIyIsInVybCI6IlwvbXBlZ3RzXC8yMzIwNzZfMTI3ODk1MlwvYXhlajNDUUJtbGVMOFk4S0VKUkpFZ1wvMTc0MDE5MDQ3NlwvbWVkaWFfbXBlZ3RzXzAubTN1OCIsIm1lZGlhR3JvdXAiOlt7ImlkIjoiNTAxNzciLCJiaXRyYXRlIjoiMTg0MyIsIndpZHRoIjoiNzIwIiwidXJsIjoiXC9tcGVndHNcLzIzMjA3Nl8xMjc4OTUyXC9heGVqM0NRQm1sZUw4WThLRUpSSkVnXC8xNzQwMTkwNDc2XC9tZWRpYV9tcGVndHNfMC5tM3U4IiwiZ2NvcmVfc3RyZWFtX2lkIjoiMTI3ODk1MiIsImdjb3JlX2xvd19sYXRlbmN5IjoiMCIsImdjb3JlX2FkYXB0aXZlIjoiMCJ9XSwiaGxzX3BhcmFtZXRlcnMiOiI_Y2hhbm5lbF9pZD01MDE3NyZzb3VyY2U9b3RoZXJzaXRlcyZkZXZpY2VfaWQ9NzUzNjk5ODk3LWUyYTkxOTVhZmRkNGU5NzdkZjcxM2VlOTgwYWRjYTBjJmxjcD0yIiwiY2xpZW50X2lkIjoiJmNsaWVudF9pZD0yNTg2NjkyODk1Mzg4MDQ1NzUifQ==&play_id=1740104076782433
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/HN8oK3J2gHU_0YfRclIP4Q/1740619359/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Network Channels",Antenna TV
 http://195.181.163.243/Antenna/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Comet
@@ -342,9 +342,9 @@ http://72.46.118.193/Laff/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_channelId=99951232
 #EXTINF:-1 group-title="Network Channels",TBD
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:-1 group-title="Network Channels",Buzzr
-http://195.181.163.243/Buzzr/index.m3u8
-#EXTINF:-1 group-title="Network Channels",Buzzr HD
+#EXTINF:-1 group-title="Network Channels",Buzzr #1
+https://dbrb49pjoymg4.cloudfront.net/10001/99951124/hls/playlist.m3u8?ads.xumo_channelId=99951124
+#EXTINF:-1 group-title="Network Channels",Buzzr #2
 https://buzzrota-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Bounce TV
 http://195.181.163.243/BOUNCE_TV/index.m3u8
@@ -1088,12 +1088,16 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe
 http://143.244.60.97/OUTSIDE_TV/index.m3u8
 #EXTINF:-1 group-title="Documentary",Outside TV+
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8
-#EXTINF:-1 group-title="Documentary",Xplore
+#EXTINF:-1 group-title="Documentary",Xplore #1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",Xplore #2
+https://dtqutq7lmcchv.cloudfront.net/10001/99991765/hls/playlist.m3u8?ads.xumo_channelId=99991765
 #EXTINF:-1 group-title="Documentary",Wild Earth
-https://wildearth-plex.amagi.tv/master.m3u8
+https://dtqutq7lmcchv.cloudfront.net/10001/99991628/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991628
 #EXTINF:-1 group-title="Documentary",BBC Earth
 https://live-manifest.production-public.tubi.io/live/01404def-10a0-46f6-9e01-4919814910c0/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",EarthXtra
+https://dbrb49pjoymg4.cloudfront.net/10001/99951378/hls/master.m3u8?ads.xumo_channelId=99951378&
 #EXTINF:-1 group-title="Documentary",The Real Disaster Channel
 https://live1009.delivery.roku.com/0bde350c-785b-45d7-9e4c-5c23c5707624/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Documentary",Go USA
@@ -1128,6 +1132,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991384/hls/master.m3u8?includeAsset
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 group-title="Documentary",Court TV Legendary Trials
 https://content.uplynk.com/channel/6adc980a399d4d0e9b923213b50e34ea.m3u8
+#EXTINF:-1 group-title="Documentary",Law & Crime
+https://dtqutq7lmcchv.cloudfront.net/10001/99991320/hls/playlist.m3u8?ads.xumo_channelId=99991320
 #EXTINF:-1 group-title="Documentary",truTV
 https://tvpass.org/live/truTVEast/hd
 #EXTINF:-1 group-title="Documentary",truTV+ (West)
@@ -1288,7 +1294,7 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m
 #EXTINF:-1 group-title="News",CityNews Vancouver (Canada)
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 #EXTINF:-1 group-title="News",Sky News
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
 #EXTINF:-1 group-title="News",BBC World News
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
 #EXTINF:-1 group-title="News",GB News (UK)
@@ -1573,7 +1579,7 @@ https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245
 #EXTINF:-1 group-title="Network Channels",REELZ (East)
 https://tvpass.org/live/Reelz/hd
 #EXTINF:-1 group-title="Network Channels",REELZ Famous and Infamous
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
 #EXTINF:-1 group-title="Network Channels",Pop TV
 http://195.181.163.243/Pop_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Viceland
@@ -3206,8 +3212,10 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 https://dai.google.com/linear/hls/event/JgYgVMW8Szinkmm7dchlmQ/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ViX Lo Mejor de Liga MX
 https://live1009.delivery.roku.com/025088b2-d7e3-4803-9e66-a2a0eac3c39a/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports La Liga
+#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports La Liga #1
 http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports La Liga #2
+http://181.78.105.146:8800/play/a07h
 #EXTINF:-1 group-title="Latino (Spanish)",ITV Deportes #1
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ITV Deportes #2
