@@ -306,6 +306,12 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A
 
 #EXTINF:-1 group-title="Network Channels",NBC LX Home
 http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 group-title="Network Channels",REV'N
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/FIW_Y-DH2zHmItnkkMKClQ/1740651317/media_mpegts_0.m3u8
+#EXTINF:-1 group-title="Network Channels",AWE
+https://awe-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",AWE Encore
+https://aweencore-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",MeTV
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 #EXTINF:-1 group-title="Network Channels",ION
@@ -1239,6 +1245,8 @@ https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 https://live1009.delivery.roku.com/d252bb45-a8ff-4717-b590-7423af8811c6/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="News",Redseat The First
 https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
+#EXTINF:-1 group-title="News",Salem News Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00732-salemmediagroup-snc-ono/playlist.m3u8?did=a65b8785-624b-45be-ad63-52b7b67e8b76&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&video_id=612cebf8027e2a0001f6ef2f&coppa=0&dnt=0&gdpr=0&gdpr_consent=&ifa_type=&lmt=0&pod_max_dur=120&domain=salemnewschannel.com&us_privacy=1YN-&paln=[paln]&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&site_page=https%3A%2F%2Fsalemnewschannel.com%2F&site_url=salemnewschannel.com&player_width=790&player_height=0
 #EXTINF:-1 group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 group-title="News",Real America's Voice
@@ -1568,6 +1576,8 @@ https://tvpass.org/live/IFCEast/hd
 https://tvpass.org/live/SundanceTVEast/hd
 #EXTINF:-1 group-title="Network Channels",Shout! Factory TV
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",Outlaw (The Western Channel)
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Network Channels",Ovation
 http://195.181.163.243/Ovation/index.m3u8
 #EXTINF:-1 group-title="Network Channels",INSP
@@ -1672,9 +1682,13 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc
 https://amg00163-amg00163c8-cw-us-2414.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-nonstop90stv-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Dove Channel
 http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
+https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 
 #EXTINF:-1 group-title="Religious",Scientology Network
 https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 group-title="Religious",Positiv
+https://cdn.jwplayer.com/v2/sites/fGLyccP5/media/FoWynVnP/ssai.m3u8?ad_config_id=wrVOL0T1&content_id=FoWynVnP&content_title=Positiv+TV&app_domain=https%3A%2F%2Fwatch.positiv.tv&app_bundle=PostivTV.web&custom_10=web&user_id=&site_id=38571&app_name=PostivTV&min_ad_duration=6&max_ad_duration=60&format=vast&ssai_enabled=1&ssai_vendor=jwplayer&livestream=1&content_genre=Entertainment&content_channel=PostivTV&content_network=PostivTV&height=1080&width=1920&content_cat=IAB1&page_url=https%3A%2F%2Fwatch.positiv.tv%2Fp%2FYVBF54l8%3Fchannel%3DFoWynVnP%26play%3D1&device_type=2
 #EXTINF:-1 group-title="Religious",GLC (God's Learning Channel)
 https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",PTL Television Network
@@ -2075,6 +2089,8 @@ https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 http://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="Sports",AXS-TV Fight Network Swerve Combat
 http://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Right Now TV
+https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Lacrosse TV
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 group-title="Sports",Red Bull TV
@@ -2088,7 +2104,9 @@ http://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 group-title="Sports",eSports Network
 http://eyeonesports.com/720/ESR-002SCTE35.m3u8
 #EXTINF:-1 group-title="Sports",FTF Sports
-https://live1009.delivery.roku.com/3fed7052-a61b-4ef8-a0f6-4a221ace3091/t2-origin/out/v1/live.m3u8
+https://live1009.delivery.roku.com/c3f9833e-04cd-4bfd-b00d-8f0d6af73766/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Sports",FTF Next Live
+https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 group-title="Sports",The Cycling Channel
 http://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 #EXTINF:-1 group-title="Sports",30A Golf Kingdom
@@ -2889,8 +2907,16 @@ https://live1009.delivery.roku.com/18e9c75d-e64f-4397-886b-968a39efbba9/t2-origi
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Space en Español
 http://181.188.234.21:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Iglesia Universal
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ca8168bd-68ad-a85d-ebf1-1261603cf61c.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ETWN en Español
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Majestad Televisión
+https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Almavision Hispanic Network
+https://edge.streann.com/almavision1/almavision1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDA1NzczMDEsInJpZCI6IjU2ZmFjNmZhZTRiMDVkYjViM2I3Y2Q1YSIsImtleSI6ImtleTEiLCJjaWQiOiI1Y2JhMjk3YzJjZGNjZmRjNTJmZjhiYTMifQ.IKzdRUVy2QHy2QUOOzaRsIZ-d8nzx9FV1OLFFh7XJMw
+#EXTINF:-1 group-title="Latino (Spanish)",Visión Latina
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/8adc9953-2bbd-2432-1708-e47d4fa08b96.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Hallmark en Español
 https://amg00235-amg00235c3-estrellamedia-us-4154.playouts.now.amagi.tv/playlist/amg00235-crownmediafamilynetworksfast-hallmarkenespanolplex-estrellamediaworldwide/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Gusto TV en Español
@@ -3057,9 +3083,9 @@ https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 https://dai.google.com/linear/hls/event/P-z5VMsOQxmXTpZLaDC6Pg/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",CLIC
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Ecuador TV
+#EXTINF:-1 group-title="Latino (Spanish)",Ecuador TV #1
 http://181.188.234.21:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Ecuador TV
+#EXTINF:-1 group-title="Latino (Spanish)",Ecuador TV #2
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canal 26 VA+
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
@@ -3134,15 +3160,11 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Classic (México)
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Imagen TV (México)
-http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Imagen TV (México)
 http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOaj0WUwQj14LTSr/ts
 #EXTINF:-1 group-title="Latino (Spanish)",Canal 5 (México)
 http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ADN 40 (México)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",EWTN (México)
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Panamericana (Peru)
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.SnObcKtKq69K.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvU25PYmNLdEtxNjlLIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTc0MDIyMTEyOH0.3boV72JSP0zqWF1R7QODKGgfMAQbyPH63vbZQ8Ta_uKllM_lMb8rOLiHeqMdp75XXU6YzVcn6s_5NBZ0Du5cRTCGhC-9VXU3IlOj-Zkz3z5vaPI2ND-MskBv_X2zDIWa&player_version=1.19.0
 #EXTINF:-1 group-title="Latino (Spanish)",Canal 21
