@@ -460,8 +460,6 @@ https://nhk.lls.pbs.org/index_1080p.m3u8
 https://world.lls.pbs.org/index_1080p.m3u8
 #EXTINF:-1 group-title="Public Broadcast",FNX
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
-#EXTINF:-1 group-title="Public Broadcast",KCET-TV PBS 28
-https://kocedt.lls.pbs.org/out/v1/6c52b56053f6439bab4ccd9b59c15e75/dash-drm.mpd
 #EXTINF:-1 group-title="Public Broadcast",WVIZ-TV 25.2 The Ohio Channel (Cleveland OH)
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8?player_version=1.18.0
 #EXTINF:-1 group-title="Public Broadcast",WTVS-TV 56.6 Michigan Learning Channel
