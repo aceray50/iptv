@@ -42,6 +42,8 @@ https://tvpass.org/live/WNYWDT1/hd
 http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 24/7 News (New York NY)
 https://live-manifest.production-public.tubi.io/live/43fa471a-5820-4153-bab1-2f57e309731d/playlist.m3u8
+#EXTINF:-1 group-title="Local Channels",WPXN-TV ION 31 (New York NY)
+https://tvpass.org/live/IONTVEast/hd
 #EXTINF:-1 group-title="Local Channels",WBBM-TV CBS 2 24/7 News (Chicago IL)
 http://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WMAQ-TV NBC 5 24/7 News (Chicago IL)
@@ -302,10 +304,10 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 #EXTINF:-1 group-title="News",News 12+ ("Hudson Valley" West Nyack NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 
-#EXTINF:-1 group-title="Network Channels",MeTV
-http://143.244.60.97/ME_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",NBC LX Home
 http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 group-title="Network Channels",MeTV
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 #EXTINF:-1 group-title="Network Channels",ION
 https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
 #EXTINF:-1 group-title="Network Channels",ION Plus
@@ -2040,7 +2042,9 @@ https://212.102.60.10/DAZN_2/index.m3u8
 #EXTINF:-1 group-title="Sports",DAZN Ringside
 http://live-manifest.production-public.tubi.io/live/656fc320-a76f-4be3-9b0d-50bc42fa59dd/playlist.m3u8
 #EXTINF:-1 group-title="Sports",DAZN Women's Football
-https://live-manifest.production-public.tubi.io/live/02e44bfa-2698-42e1-bd10-0f737d939992/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiIzN2M2ZmIzZC1lNTkyLTRhYjktOWFiYS0zM2E5MGYwYWE1N2YiLCJleHAiOjE3NDAzMDMxODAsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6ZGF6bi13b21lbnMtZm9vdGJhbGwiLCJ1c2VyX2lkIjowfQ.ks-j1WchZsS8-SzMjHRVMF7k3J-_6_LKpUu_WFcNOd8tPlykVOBU930VLousJTlFXo4iYZQaDIDc_4LXC1X4IA&ap-fb=https%3A%2F%2Flive-manifest.production-public.tubi.io%2Flive%2F02e44bfa-2698-42e1-bd10-0f737d939992%2Fplaylist.m3u8%3Ftoken%3DeyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiIzN2M2ZmIzZC1lNTkyLTRhYjktOWFiYS0zM2E5MGYwYWE1N2YiLCJleHAiOjE3NDAzMDMxODAsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoieW86Njc0MjI2Mzc5IiwidXNlcl9pZCI6MH0.fMz355pNt96kIs84yZM7j1jsyr4Q-S2GTafQQHeFXhCvfQhn7SRq161rQ45MTaUxK5tcMB5S94anq5wW-VMWeQ%26yo-fb%3Dhttps%253A%252F%252Flive-manifest.production-public.tubi.io%252Flive%252F02e44bfa-2698-42e1-bd10-0f737d939992%252Fplaylist.m3u8%253Ftoken%253DeyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiIzN2M2ZmIzZC1lNTkyLTRhYjktOWFiYS0zM2E5MGYwYWE1N2YiLCJleHAiOjE3NDAzMDMxODAsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoicmMiLCJ1c2VyX2lkIjowfQ.6WFBj8UvnvD7LgofPDLVmMsoX1haVOO44pb7sj4GO66IpFSXzcBJ46qZAckMh0kxY1JCvQrDDDYbJyxgBjoL3g&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=400000084&content_type=mp4&device_id=37c6fb3d-e592-4ab9-9aba-33a90f0aa57f
+https://live-manifest.production-public.tubi.io/live/02e44bfa-2698-42e1-bd10-0f737d939992/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA4MTg0MTEsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6ZGF6bi13b21lbnMtZm9vdGJhbGwiLCJ1c2VyX2lkIjo3ODA1MjU0Mn0.-wUh2Z-ssKpkcMghIcgzHvuG1qAfP0IDeY6m7Kn9lQJqD8aD_QcAloTx-c9YOmbuxf3dv3BM1ebjuPX4OczKNw&ap-fb=https%3A%2F%2Flive-manifest.production-public.tubi.io%2Flive%2F02e44bfa-2698-42e1-bd10-0f737d939992%2Fplaylist.m3u8%3Ftoken%3DeyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA4MTg0MTEsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoieW86Njc0MjI2Mzc5IiwidXNlcl9pZCI6NzgwNTI1NDJ9.fb7hhZv8gtpkHpt4krlDXbWAYpoeRqFSe-BiIsb-1y0EZy58n8OuT6QqSPkYCK2U9TIVHdxnl-_5KPU7mHNfPg%26yo-fb%3Dhttps%253A%252F%252Flive-manifest.production-public.tubi.io%252Flive%252F02e44bfa-2698-42e1-bd10-0f737d939992%252Fplaylist.m3u8%253Ftoken%253DeyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA4MTg0MTEsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoicmMiLCJ1c2VyX2lkIjo3ODA1MjU0Mn0.Cz8Rbvp6njQFk3gow4mnEYuaVcM2arxR3_wmrH5uuYzwCxUFILmXLBh9geEuSTbgx_i7UaSgBvsz_Q5noNVGfQ&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=400000084&content_type=mp4&device_id=db131cb8-ea5a-4fdc-bbd7-43d3f14d50e5&language=en&now_pos=0&pub_id=c0d21f29265a6d9d8871cd1b06965507&user_id=78052542&vpaid_enabled=false&platform=WEB&ap.pt=2&ap.furl=0
+#EXTINF:-1 group-title="Sports",WSN (Women's Sports Network)
+https://live-manifest.production-public.tubi.io/live/eb4ef15b-b69e-4b49-988f-c1c66a8e64d0/playlist.m3u8
 #EXTINF:-1 group-title="Sports",UFC Channel
 http://fl1.moveonjoy.com/UFC/index.m3u8
 #EXTINF:-1 group-title="Sports",UFC TV
@@ -2221,19 +2225,20 @@ http://195.181.163.243/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 #EXTINF:-1 group-title="Premium Channels",Cineview
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+https://live-manifest.production-public.tubi.io/live/6386e065-6010-4fd3-b438-407dbb63eb23/playlist.m3u8
 #EXTINF:-1 group-title="Premium Channels",CineLife
 https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
 #EXTINF:-1 group-title="Premium Channels",The Film Detective
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Premium Channels",Encore+
 https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
+
+#EXTINF:-1 group-title="Premium Channels",CineVault
+https://live-manifest.production-public.tubi.io/live/6386e065-6010-4fd3-b438-407dbb63eb23/playlist.m3u8
 #EXTINF:-1 group-title="Premium Channels",CineVault Classics
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Classics.m3u8
-#EXTINF:-1 group-title="Premium Channels",CineVault 80's
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-80s.m3u8
+https://live-manifest.production-public.tubi.io/live/9693e4a7-371c-4741-a363-e39694d13408/playlist.m3u8
 #EXTINF:-1 group-title="Premium Channels",CineVault Westerns
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Westerns.m3u8
+https://live-manifest.production-public.tubi.io/live/a753ad71-b253-4962-8121-dccdd87b8470/playlist.m3u8
 #EXTINF:-1 group-title="Premium Channels",TVS Classic Movies
 https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",TVS Drive In Movie
@@ -3285,6 +3290,12 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Adults Only",Playboy TV (i/e)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="Adults Only",Miami TV Mexico (Spanish)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 group-title="Adults Only",Miami TV Jenny Live(Spanish)
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="Adults Only",Babestation24
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="Adults Only",Adult IPTV Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 group-title="Adults Only",Adult IPTV MILF
