@@ -2540,11 +2540,11 @@ https://stream.revma.ihrhls.com/zc6843/hls.m3u8
 #EXTINF:-1 group-title="Music",iHeart 80's
 https://stream.revma.ihrhls.com/zc5060/hls.m3u8
 #EXTINF:-1 group-title="Music",iHeart 90's
-https://stream.revma.ihrhls.com/zc6850/hls.m3u8
-#EXTINF:-1 group-title="Music",iHeart 2000's Y2K
-https://stream.revma.ihrhls.com/zc8478/hls.m3u8
-#EXTINF:-1 group-title="Music",iHeart 2010's
 https://stream.revma.ihrhls.com/zc6834/hls.m3u8
+#EXTINF:-1 group-title="Music",iHeart 2000's Y2K
+https://stream.revma.ihrhls.com/zc6850/hls.m3u8
+#EXTINF:-1 group-title="Music",iHeart 2010's
+https://stream.revma.ihrhls.com/zc8478/hls.m3u8
 #EXTINF:-1 group-title="Music",iHeart Doo-Wop
 https://stream.revma.ihrhls.com/zc10058/hls.m3u8
 #EXTINF:-1 group-title="Music",iHeart Real Oldies (60's & 70's)
@@ -2776,6 +2776,66 @@ http://prem1.radiotunes.com/vocalsmoothjazz_hi?cde33649952951390c0ac1bb
 http://prem1.radiotunes.com/christmas_hi?cde33649952951390c0ac1bb
 #EXTINF:-1 group-title="Music",Radio Tunes Pop Christmas
 http://prem1.radiotunes.com/popchristmas_hi?cde33649952951390c0ac1bb
+
+#EXTINF:-1 group-title="Music",ROCKRADIO.com 60's Rock
+http://prem1.rockradio.com:80/60srock?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",ROCKRADIO.com 70's Rock
+http://prem1.rockradio.com:80/70srock?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",ROCKRADIO.com 80's Rock
+http://prem1.rockradio.com:80/80srock?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",ROCKRADIO.com 80's Alternative
+http://prem1.rockradio.com:80/alternative80s?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",ROCKRADIO.com Classic Rock
+http://prem1.rockradio.com:80/classicrock?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",ROCKRADIO.com Classic Folk-Rock
+http://prem1.rockradio.com:80/classicfolkrock?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",ROCKRADIO.com Classic Hard-Rock
+http://prem1.rockradio.com:80/classichardrock?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",ROCKRADIO.com Modern Rock
+http://prem1.rockradio.com:80/modernrock?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",ROCKRADIO.com Progressive Rock
+http://prem1.rockradio.com:80/progressiverock?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",ROCKRADIO.com Rock Ballads
+http://prem1.rockradio.com:80/rockballads?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",ROCKRADIO.com Soft Rock
+http://prem1.rockradio.com:80/softrock?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",ROCKRADIO.com Yacht Radio
+http://prem1.rockradio.com:80/yachtrock?cde33649952951390c0ac1bb
+
+#EXTINF:-1 group-title="Music",TuneIn 60's Hits
+http://rfcm.streamguys1.com/60hitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn 70's Hits
+http://rfcm.streamguys1.com/70hitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn 80's Hits
+http://rfcm.streamguys1.com/80hitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn 90's Hits
+http://rfcm.streamguys1.com/90hitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn 2000's Hits
+http://rfcm.streamguys1.com/00hitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Pop Hits
+http://rfcm.streamguys1.com/newpophitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn R&B Hits
+http://rfcm.streamguys1.com/rbhitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Soul Groove
+http://rfcm.streamguys1.com/soulgroovepremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Classic Hip-Hop
+http://rfcm.streamguys1.com/classichiphoppremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Hot Hip-Hop and R&B
+http://rfcm.streamguys1.com/hothiphoppremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Adult Hits
+http://rfcm.streamguys1.com/adulthitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Classic Hits
+http://rfcm.streamguys1.com/classichitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Classic Rock
+http://rfcm.streamguys1.com/classicrockpremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Soft Rock Hits
+http://rfcm.streamguys1.com/softrockhitpremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Mix Lite
+http://rfcm.streamguys1.com/mixlitpremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Sailing
+http://rfcm.streamguys1.com/sailingpremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Smooth Jazz
+http://rfcm.streamguys1.com/smoothjazzpremium-mp3
 
 #EXTINF:-1 group-title="Latino (Spanish)",Galavisión
 https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
@@ -3312,10 +3372,10 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Adults Only",Playboy TV (i/e)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="Adults Only",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="Adults Only",Miami TV Mexico (Spanish)
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 group-title="Adults Only",Miami TV Jenny Live(Spanish)
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="Adults Only",Babestation24
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="Adults Only",Adult IPTV Live Cams
