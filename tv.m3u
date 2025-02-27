@@ -1082,7 +1082,7 @@ https://tvpass.org/live/DiscoveryLife/hd
 https://tvpass.org/live/Science/hd
 #EXTINF:-1 group-title="Documentary",Pluto TV History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cbb5a-7b2e-11ef-bb34-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=490827a6-31b6-461a-964f-bf7a48ab583d&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Documentary",History Channel
+=#EXTINF:-1 group-title="Documentary",History Channel
 https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1 group-title="Documentary",Military History
 http://195.181.163.243/Military_History/index.m3u8
@@ -1350,7 +1350,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 group-title="Children Channels",Nick Jr.
 https://tvpass.org/live/NickJrEast/hd
 #EXTINF:-1 group-title="Children Channels",Nick Jr. (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d5e2a-7b2e-11ef-9cb3-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Children Channels",Nicktoons
 https://tvpass.org/live/NicktoonsEast/hd
 #EXTINF:-1 group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
@@ -2244,6 +2244,7 @@ http://143.244.60.97/EPIX_DRIVE_IN/index.m3u8
 http://143.244.60.97/EPIX_HITS/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Sony Movie Channel
 http://195.181.163.243/Sony_Movie_Channel/index.m3u8
+
 #EXTINF:-1 group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 #EXTINF:-1 group-title="Premium Channels",Cineview
@@ -2254,7 +2255,6 @@ https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Premium Channels",Encore+
 https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
-
 #EXTINF:-1 group-title="Premium Channels",CineVault
 https://live-manifest.production-public.tubi.io/live/6386e065-6010-4fd3-b438-407dbb63eb23/playlist.m3u8
 #EXTINF:-1 group-title="Premium Channels",CineVault Classics
@@ -2272,6 +2272,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 group-title="Network Channels",Universal Crimes
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951245/hls/master.m3u8?ads.xumo_channelId=99951245
 #EXTINF:-1 group-title="Network Channels",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264
 #EXTINF:-1 group-title="Premium Channels",FilmRise Untold Stories of the ER
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264
 #EXTINF:-1 group-title="Premium Channels",FilmRise Free Movies
@@ -2292,11 +2293,18 @@ https://live1009.delivery.roku.com/8ce67602-c071-4cae-8b5b-e555cf05145f/t2-origi
 https://live1009.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Fprensic Files
 https://live1009.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Premium Channels",Untold Stories of the ER
 https://live1009.delivery.roku.com/ff1e4ec7-c99a-482b-b04b-5f1bf1732ec8/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Classic TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ea07049502c5778b828d3f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
 #EXTINF:-1 group-title="Premium Channels",BritBox Mysteries
 https://live1009.delivery.roku.com/aee9ffde-42ef-4dc7-94e0-eef37e7f9449/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Premium Channels",Pluto Icon
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b585f84ea480000838e446/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8e84ba84-b45c-4343-8abe-02646588530f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5895e1f0-f4df-11ef-9067-4e61923e3a1b&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Premium Channels",Pluto Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8e84ba84-b45c-4343-8abe-02646588530f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e84ba84-b45c-4343-8abe-02646588530f&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Premium Channels",Pluto Reaction
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2b1457-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32aea123-3ab5-4713-944a-87ebeb334781&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Premium Channels",Pluto Trending Now
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673247127d5da5000817b4d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Premium Channels",Scream Factory TV
@@ -2370,7 +2378,7 @@ https://amg00056-amg00056c23-slingtv-worldwide-2522.playouts.now.amagi.tv/playli
 https://amg00056-amg00056c2-slingtv-worldwide-3017.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevoretrorock-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=heavy+metal%2Cmusic&us_privacy=REPLACE_ME&did=4cb370313ef7201f33a039300ae69bb40ec3b04d&dnt=REPLACE_ME&lmt=1
 #EXTINF:-1 group-title="Music",Vevo Pop
 https://amg00056-vevotv-amg00056c19-slingtv-worldwide-1196.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopop-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=91bc0f16d53bf6bbb7446e3023a6d1485ab2867c&dnt=REPLACE_ME&lmt=1
-#EXTINF:-1 group-title="Music",Vevo Holiday
+#EXTINF:-1 group-title="Music",Vevo Features
 https://amg00056-vevotv-amg00056c21-slingtv-worldwide-1200.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevofeatures-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=91bc0f16d53bf6bbb7446e3023a6d1485ab2867c&dnt=REPLACE_ME&lmt=1
 #EXTINF:-1 group-title="Music",Def Jam
 https://live-manifest.production-public.tubi.io/live/443900e8-7f66-47bd-880b-b3e2069922e4/playlist.m3u8
@@ -2382,6 +2390,8 @@ https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:-1 group-title="Music",LiveXLive
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 group-title="Music",Canela.TV Music Hits
+https://amg00658-amg00658c41-canelatv-international-5234.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichitsta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Music",La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1 group-title="Music",CMC (California Music Channel)
@@ -3106,6 +3116,12 @@ https://live1009.delivery.roku.com/c811b72a-67be-483a-a5ef-a8de42d496ec/t2-origi
 https://live1009.delivery.roku.com/c5a915fe-0e55-4b69-8b20-7206c1098508/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ViX Villanos de Novela
 https://live1009.delivery.roku.com/b82201c1-5d0a-486f-bbfe-2e0dd0fc061e/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Telenovelas
+https://amg00658-amg00658c30-canelatv-international-5107.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-telenovelasapp-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Novelas Turcas
+https://amg00658-amg00658c22-canelatv-international-5047.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelanovelasturcas-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Todo Novelas Más Pasiones
+https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ViX Grandes Parejas
 https://live1009.delivery.roku.com/fb245b6d-09b4-420b-9732-dfcd80c377b2/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ViX JaJaJa
@@ -3142,6 +3158,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playli
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ViX Cine Club
 https://live1009.delivery.roku.com/0f232fec-f2cc-45e0-8876-af34537103d4/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canela.TV
+https://amg00658-amg00658c29-canelatv-international-5110.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvusappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Cinema
+https://amg00658-amg00658c25-canelatv-international-5055.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemausapp-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Hollywood y Más
 https://live1009.delivery.roku.com/d82082f4-8a2b-44a3-91dd-4b3d718fe425/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Clasicos
@@ -3334,6 +3354,8 @@ https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 https://univtec.g-mana.live/media/6e7277cd-6602-4105-90d4-681b45a9c026/mainManifest.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TD Teledario
 https://live1009.delivery.roku.com/83e3226a-8835-4fe4-b3a1-cd7f0e5a3a22/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Deportes
+https://amg00658-amg00658c27-canelatv-international-5108.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesusta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",GOL TV
 http://181.188.234.21:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Teledeporte
