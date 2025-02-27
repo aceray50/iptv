@@ -307,7 +307,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A
 #EXTINF:-1 group-title="Network Channels",NBC LX Home
 http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="Network Channels",REV'N
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/FIW_Y-DH2zHmItnkkMKClQ/1740651317/media_mpegts_0.m3u8
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/jw3ekQu0RK1BKmyo3O-8Ww/1740746681/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Network Channels",AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",AWE Encore
@@ -3202,6 +3202,8 @@ http://181.188.234.21:8000/play/a04h/index.m3u8
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Delicioso TV
 https://dai.google.com/linear/hls/event/P-z5VMsOQxmXTpZLaDC6Pg/master.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Revry LatinX
+https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",CLIC
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Ecuador TV #1
