@@ -2804,6 +2804,17 @@ http://prem1.rockradio.com:80/softrock?cde33649952951390c0ac1bb
 #EXTINF:-1 group-title="Music",ROCKRADIO.com Yacht Radio
 http://prem1.rockradio.com:80/yachtrock?cde33649952951390c0ac1bb
 
+#EXTINF:-1 group-title="Music",JAZZRADIO.com Smooth Jazz
+http://prem1.jazzradio.com/smoothjazz?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",JAZZRADIO.com Smooth Jazz 24/7
+http://prem1.jazzradio.com/smoothjazz247?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",JAZZRADIO.com Mellow Smooth Jazz
+http://prem1.jazzradio.com/mellowsmoothjazz?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",JAZZRADIO.com Love Smooth Jazz
+http://prem1.jazzradio.com/lovesmoothjazz?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",JAZZRADIO.com Smooth Uptempo
+http://prem1.jazzradio.com/smoothuptempo?cde33649952951390c0ac1bb
+
 #EXTINF:-1 group-title="Music",TuneIn 60's Hits
 http://rfcm.streamguys1.com/60hitspremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn 70's Hits
@@ -2820,6 +2831,8 @@ http://rfcm.streamguys1.com/todayhitspremium-mp3
 http://rfcm.streamguys1.com/pophitspremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn R&B Hits
 http://rfcm.streamguys1.com/rbhitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Today's R&B
+http://rfcm.streamguys1.com/todaysrbpremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Soul Groove
 http://rfcm.streamguys1.com/soulgroovepremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Classic Hip-Hop
@@ -2832,6 +2845,28 @@ http://rfcm.streamguys1.com/adulthitspremium-mp3
 http://rfcm.streamguys1.com/classichitspremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Classic Rock
 http://rfcm.streamguys1.com/classicrockpremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn 90's Classic Rock
+http://rfcm.streamguys1.com/90classicrockpremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Rock On
+http://rfcm.streamguys1.com/rockonpremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Adult Alternative
+http://rfcm.streamguys1.com/adultalternativepremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Alternative Hits
+http://rfcm.streamguys1.com/alternativehitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Classic Alternative
+http://rfcm.streamguys1.com/classicalternativehitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Éxitos Mexicanos
+http://rfcm.streamguys1.com/exitosmexicanospremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Latin Hits
+http://rfcm.streamguys1.com/latinhitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Country Hits
+http://rfcm.streamguys1.com/countryhitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Vintage Country
+http://rfcm.streamguys1.com/vintagecountrypremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn 90's Country
+http://rfcm.streamguys1.com/90countrypremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Country Roads
+http://rfcm.streamguys1.com/countryroadspremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Soft Rock Hits
 http://rfcm.streamguys1.com/softrockhitpremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Mix Lite
