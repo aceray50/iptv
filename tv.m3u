@@ -309,9 +309,9 @@ http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="Network Channels",REV'N
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/FIW_Y-DH2zHmItnkkMKClQ/1740651317/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Network Channels",AWE
-https://awe-lg.amagi.tv/playlist.m3u8
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",AWE Encore
-https://aweencore-tcl.amagi.tv/playlist.m3u8
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",MeTV
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 #EXTINF:-1 group-title="Network Channels",ION
@@ -2109,6 +2109,8 @@ https://live1009.delivery.roku.com/c3f9833e-04cd-4bfd-b00d-8f0d6af73766/t2-origi
 https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 group-title="Sports",The Cycling Channel
 http://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
+#EXTINF:-1 group-title="Sports",People are Awesome
+https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 group-title="Sports",Adventure Sports TV
@@ -2812,8 +2814,10 @@ http://rfcm.streamguys1.com/80hitspremium-mp3
 http://rfcm.streamguys1.com/90hitspremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn 2000's Hits
 http://rfcm.streamguys1.com/00hitspremium-mp3
+#EXTINF:-1 group-title="Music",TuneIn Today's Hits
+http://rfcm.streamguys1.com/todayhitspremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Pop Hits
-http://rfcm.streamguys1.com/newpophitspremium-mp3
+http://rfcm.streamguys1.com/pophitspremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn R&B Hits
 http://rfcm.streamguys1.com/rbhitspremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Soul Groove
