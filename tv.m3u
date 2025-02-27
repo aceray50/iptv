@@ -339,7 +339,7 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 group-title="Network Channels",COZI TV
 http://195.181.163.243/COZI_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Get TV
-http://143.244.60.97/GET_TV/index.m3u8
+http://72.46.118.193:80/GetTV/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Grit TV
 http://143.244.60.97/GRIT_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Grit Xtra
