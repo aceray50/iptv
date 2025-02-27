@@ -1247,6 +1247,8 @@ https://live1009.delivery.roku.com/d252bb45-a8ff-4717-b590-7423af8811c6/t2-origi
 https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
 #EXTINF:-1 group-title="News",Salem News Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00732-salemmediagroup-snc-ono/playlist.m3u8?did=a65b8785-624b-45be-ad63-52b7b67e8b76&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&video_id=612cebf8027e2a0001f6ef2f&coppa=0&dnt=0&gdpr=0&gdpr_consent=&ifa_type=&lmt=0&pod_max_dur=120&domain=salemnewschannel.com&us_privacy=1YN-&paln=[paln]&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&site_page=https%3A%2F%2Fsalemnewschannel.com%2F&site_url=salemnewschannel.com&player_width=790&player_height=0
+#EXTINF:-1 group-title="News",The National News Desk
+https://dai.google.com/linear/hls/event/VnZY5jBuRymXMn2_604j8Q/master.m3u8
 #EXTINF:-1 group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 group-title="News",Real America's Voice
