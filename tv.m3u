@@ -28,6 +28,12 @@ https://tvpass.org/live/WNBCDT1/hd
 http://143.244.60.30/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 24/7 News (New York NY)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889709/hls/playlist.m3u8?ads.xumo_channelId=88889709
+#EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
+https://tvpass.org/live/WNYWDT1/hd
+#EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 HD (New York NY)
+http://143.244.60.30/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 24/7 News (New York NY)
+https://live-manifest.production-public.tubi.io/live/43fa471a-5820-4153-bab1-2f57e309731d/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 (New York NY)
 https://tvpass.org/live/WABCDT1/hd
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 HD (New York NY)
@@ -36,12 +42,6 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
 #EXTINF:-1 group-title="Local Channels",WPIX-TV CW 11 PIX+ (New York NY)
 https://tvpass.org/live/WPIX/hd
-#EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
-https://tvpass.org/live/WNYWDT1/hd
-#EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 HD (New York NY)
-http://143.244.60.30/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 24/7 News (New York NY)
-https://live-manifest.production-public.tubi.io/live/43fa471a-5820-4153-bab1-2f57e309731d/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WPXN-TV ION 31 (New York NY)
 https://tvpass.org/live/IONTVEast/hd
 #EXTINF:-1 group-title="Local Channels",WBBM-TV CBS 2 24/7 News (Chicago IL)
@@ -83,7 +83,7 @@ https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WBZ-TV CBS 4 24/7 News (Boston MA)
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WCVB-TV ABC 5 24/7 News (Boston MA)
-https://dai.google.com/linear/hls/pa/event/Yo0UqqfJQp2EXhFEfrdDGQ/stream/35874b69-3808-4d12-b6d3-8e73675a45fc:TUL/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/Yo0UqqfJQp2EXhFEfrdDGQ/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WBTS-CD TV NBC 10 24/7 News (Boston MA)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/playlist.m3u8?ads.xumo_channelId=99951168
 #EXTINF:-1 group-title="Local Channels",WFXT-CD TV FOX 25 24/7 News (Boston MA)
@@ -104,6 +104,8 @@ http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889702/hls/playlist.m3u8?ads.xumo_channelId=88889702
 #EXTINF:-1 group-title="Local Channels",WPLG-TV ABC 10 (Miami FL)
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+#EXTINF:-1 group-title="Local Channels",WPLG-TV ABC 10 24/7 News (Miami FL)
+https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WTSP-TV CBS 10 (Tampa Bay FL)
 https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
 #EXTINF:-1 group-title="Local Channels",WTSP-TV CBS 10 24/7 News (Tampa Bay FL)
@@ -329,7 +331,7 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Retro TV #1
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Retro TV #2
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/HN8oK3J2gHU_0YfRclIP4Q/1740619359/media_mpegts_0.m3u8
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/4SlbcOkV2Gx79x3BxOby6g/1740764666/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Network Channels",Antenna TV
 http://195.181.163.243/Antenna/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Comet
@@ -1732,7 +1734,7 @@ https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Religious",GOD TV
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278979/NVFCAWNok44NRCDK4RZQnA/1740370376/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Religious",GOD TV (UK)
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278982/oJRPuYrsp4Le8luW3tkJYQ/1740370450/media_mpegts_0.m3u8?
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278982/oJRPuYrsp4Le8luW3tkJYQ/1740370450/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Religious",GOD TV (Austrailia)
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278991/1PxufJTpGYeZ3mXxp4-E4A/1740370234/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Religious",CTV (Catholic Television)
@@ -1842,11 +1844,11 @@ https://tvpass.org/live/SECN/hd
 #EXTINF:-1 group-title="Sports",CBS Sports Network
 https://tvpass.org/live/CBSSportsNetworkUSA/hd
 #EXTINF:-1 group-title="Sports",CBS Sports HQ
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/6230ccfd-ec1f-4d23-9b94-91b06dc5f891:CHS/master.m3u8
+http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 group-title="Sports",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/8f0b30ff-6f93-4de4-87d7-2a0f00f4943d:CHS/master.m3u8
+http://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1 group-title="Sports",CBS Sports UEFA Champions League
-https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/da48a9dc-85eb-436c-ba28-2cef455e490d:CHS/master.m3u8
+http://dai.google.com/linear/hls/event/ydKcHHYQSt27vbSP38xMVw/master.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports NOW #1
 http://143.244.60.97/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports NOW #2
