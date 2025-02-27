@@ -441,8 +441,6 @@ http://92.114.85.81:8000/play/a011/index.m3u8
 http://92.114.85.81:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="Network Channels",BBC 4 (UK)
 http://92.114.85.81:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="Network Channels",BBC News (UK)
-http://92.114.85.81:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="Network Channels",CBS True Crime (UK)
 http://92.114.85.81:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Network Channels",True Crime +1
@@ -1842,17 +1840,21 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951364/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="Sports",SEC Network ESPN
 https://tvpass.org/live/SECN/hd
 #EXTINF:-1 group-title="Sports",CBS Sports Network
-http://143.244.60.97/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Sports",CBS Sports HQ
 https://tvpass.org/live/CBSSportsNetworkUSA/hd
+#EXTINF:-1 group-title="Sports",CBS Sports HQ
+https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/6230ccfd-ec1f-4d23-9b94-91b06dc5f891:CHS/master.m3u8
 #EXTINF:-1 group-title="Sports",CBS Sports Golazo Network
-http://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 group-title="Sports",NBC Sports Network
+https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/8f0b30ff-6f93-4de4-87d7-2a0f00f4943d:CHS/master.m3u8
+#EXTINF:-1 group-title="Sports",CBS Sports UEFA Champions League
+https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/da48a9dc-85eb-436c-ba28-2cef455e490d:CHS/master.m3u8
+#EXTINF:-1 group-title="Sports",NBC Sports NOW #1
 http://143.244.60.97/NBC_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Sports",NBC Sports NOW
+#EXTINF:-1 group-title="Sports",NBC Sports NOW #2
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253
 #EXTINF:-1 group-title="Sports",NBC Sports (Boston)
 https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 group-title="Sports",NBC Sports (Bay Area)
+https://tvpass.org/live/nbc-sports-bay-area/hd
 #EXTINF:-1 group-title="Sports",NBC Sports (California)
 https://tvpass.org/live/nbc-sports-california/hd
 #EXTINF:-1 group-title="Sports",NBC Sports (Philadelphia)
@@ -1946,7 +1948,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866
 #EXTINF:-1 group-title="Sports",PBTV Pickleball TV
 https://amg01444-tennischannel-amg01444c3-tennischannel-us-1912.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-tennischannelus/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NBC Golf Channel
-http://143.244.60.97/GOLF_CHANNEL/index.m3u8
+https://tvpass.org/live/GolfChannel/hd
 #EXTINF:-1 group-title="Sports",NBC Golf Pass
 https://d4whmvwm0rdvi.cloudfront.net/10001/99991660/hls/master.m3u8?ads.xumo_channelId=99991660
 #EXTINF:-1 group-title="Sports",PGA Tour
@@ -3162,8 +3164,6 @@ https://live1009.delivery.roku.com/0f232fec-f2cc-45e0-8876-af34537103d4/t2-origi
 https://amg00658-amg00658c29-canelatv-international-5110.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvusappta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Cinema
 https://amg00658-amg00658c25-canelatv-international-5055.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemausapp-canelatvinternational/playlist.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Hollywood y Más
-https://live1009.delivery.roku.com/d82082f4-8a2b-44a3-91dd-4b3d718fe425/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Clasicos
 https://live1009.delivery.roku.com/a1d79c89-6586-4a31-94eb-7ac7fd56577f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Narco-Drama
@@ -3172,10 +3172,6 @@ https://live1009.delivery.roku.com/6db7c87c-7e4b-4de4-bb6e-70efaac30d60/t2-origi
 https://live1009.delivery.roku.com/15a389c6-1b0d-4f8b-93d9-7a6ea0254e7f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",STAR Channel (i/e)
 http://170.254.18.106/STAR/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",STAR Channel en Español
-http://181.188.234.21:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Cine Mexicano TV
-http://181.78.105.146:2000/play/a092/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Filmex Peliculas
 https://live1009.delivery.roku.com/945088aa-1621-45a8-a1bd-3d40f3701e0c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Filmex Clasico Peliculas
@@ -3384,7 +3380,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Sports en Español
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",ESPN Deportes
+#EXTINF:-1 group-title="Latino (Spanish)",ESPN Deportes #1
+https://tvpass.org/live/espn-deportes/hd
+#EXTINF:-1 group-title="Latino (Spanish)",ESPN Deportes #2
 http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN en Vivo
 http://200.60.124.19:29000/play/a016/index.m3u8
@@ -3445,6 +3443,8 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1 group-title="Adults Only",Babestation24
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 group-title="Adults Only",Kaloopy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 #EXTINF:-1 group-title="Adults Only",Adult IPTV Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 group-title="Adults Only",Adult IPTV MILF
