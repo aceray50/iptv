@@ -2553,6 +2553,8 @@ https://stream.revma.ihrhls.com/zc10058/hls.m3u8
 https://stream.revma.ihrhls.com/zc4717/hls.m3u8
 #EXTINF:-1 group-title="Music",iHeart Cool Oldies (70's & 80's)
 https://stream.revma.ihrhls.com/zc4439/hls.m3u8
+#EXTINF:-1 group-title="Music",Scott Shannon's True Oldies Channel
+http://ais-sa5.cdnstream1.com/2133_128.mp3
 #EXTINF:-1 group-title="Music",iHeart Big Classic Hits (70's 80's & 90's)
 https://stream.revma.ihrhls.com/zc4455/hls.m3u8
 #EXTINF:-1 group-title="Music",iHeart Casey Kasem's Classic American Top 40 (70's & 80's)
@@ -2814,6 +2816,8 @@ http://prem1.jazzradio.com/mellowsmoothjazz?cde33649952951390c0ac1bb
 http://prem1.jazzradio.com/lovesmoothjazz?cde33649952951390c0ac1bb
 #EXTINF:-1 group-title="Music",JAZZRADIO.com Smooth Uptempo
 http://prem1.jazzradio.com/smoothuptempo?cde33649952951390c0ac1bb
+#EXTINF:-1 group-title="Music",JAZZRADIO.com Smooth Vocals
+http://prem1.jazzradio.com/smoothvocals?cde33649952951390c0ac1bb
 
 #EXTINF:-1 group-title="Music",TuneIn 60's Hits
 http://rfcm.streamguys1.com/60hitspremium-mp3
@@ -2868,7 +2872,7 @@ http://rfcm.streamguys1.com/90countrypremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Country Roads
 http://rfcm.streamguys1.com/countryroadspremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Soft Rock Hits
-http://rfcm.streamguys1.com/softrockhitpremium-mp3
+http://rfcm.streamguys1.com/softrockhitspremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Mix Lite
 http://rfcm.streamguys1.com/mixlitpremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Sailing
