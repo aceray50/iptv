@@ -1068,11 +1068,77 @@ http://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",LATV
 https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",XHMNL-TDT TV Nuevo León Canal 28
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",XHGV-TDT TVMás
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TVMás
+https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TV Cuatro 4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TV Cuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TV Cuatro 4.3
+https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TV Daja Canal 48
+https://rdn.essastream.com:3388/live/dajatvlive.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 2 de Ushuaia
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TV XCPBC-TDT TV Mar La Paz
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TV Mar Puerto Vallarta
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",XHMNL-TDT TV Nuevo León Canal 28
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",SET Televisión Canal 26.1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",SET Televisión Canal 26.2
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 2
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 2 CR
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 2 (San Antonio)
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 2 Alpavisión Neiva
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",SIPSE TV 8.1
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",SIPSE TVCUN 8.1
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 1
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 1 Mar Menor-Torre Pacheco
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 2 Misiones
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 8 TV+
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TV BUAP
+https://tvenvivo.buap.mx/livestream/stream.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Tlaxcala Televisión
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 26 Aguascalientes
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 28
+https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal 33 Tijuana
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal del Congreso 45.1
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal del Congreso 45.2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal del Congreso 45.3
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal Ocho TV
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary",Discovery Channel
 https://tvpass.org/live/DiscoveryChannelEast/hd
 #EXTINF:-1 group-title="Documentary",Animal Planet
 https://tvpass.org/live/AnimalPlanetEast/hd
+#EXTINF:-1 group-title="Documentary",Rovr Pets
+https://amg00111-amg00111c3-cw-us-3035.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-rovrpets-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Travel Channel
 https://tvpass.org/live/TravelChannelEast/hd
 #EXTINF:-1 group-title="Documentary",ID (Investigation Discovery)
@@ -1103,6 +1169,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-
 https://dtqutq7lmcchv.cloudfront.net/10001/99991765/hls/playlist.m3u8?ads.xumo_channelId=99991765
 #EXTINF:-1 group-title="Documentary",PBS Nature
 https://dtqutq7lmcchv.cloudfront.net/10001/99991628/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991628
+#EXTINF:-1 group-title="Documentary",Love & Nature
+https://amg01515-amg01515c19-cw-us-2584.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-loovenatureus-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Wild Earth
 https://dtqutq7lmcchv.cloudfront.net/10001/99991628/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991628
 #EXTINF:-1 group-title="Documentary",BBC Earth
@@ -1125,8 +1193,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://dbrb49pjoymg4.cloudfront.net/10001/99991638/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991638
 #EXTINF:-1 group-title="Documentary",True History
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",Haunt TV
+https://amg01515-blueskyeus-amg01515c7-cw-us-4892.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-haunttvus-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Curiosity Stream
 http://195.181.163.243/Curiosity_Stream/index.m3u8
+#EXTINF:-1 group-title="Documentary",REELZ (West)
+https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",REELZ (East)
+https://tvpass.org/live/Reelz/hd
+#EXTINF:-1 group-title="Documentary",REELZ Famous and Infamous
+https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
 #EXTINF:-1 group-title="Documentary",Oxygen True Crime
 https://tvpass.org/live/OxygenEast/hd
 #EXTINF:-1 group-title="Documentary",True Crime Network+
@@ -1137,6 +1213,8 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951246/hls/master.m3u8?ads.xumo_cha
 https://dtqutq7lmcchv.cloudfront.net/10001/99991320/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991320
 #EXTINF:-1 group-title="Documentary",Xumo Crime
 https://dbrb49pjoymg4.cloudfront.net/10001/99991384/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991384
+#EXTINF:-1 group-title="Documentary",Total Crime
+https://amg00090-amg00090c5-cw-us-2580.playouts.now.amagi.tv/playlist/amg00090-blueantfast-totalcrime-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 group-title="Documentary",Court TV Legendary Trials
@@ -1157,6 +1235,8 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99991320/hls/playlist.m3u8?ads.xumo_c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c5cb4-7b2e-11ef-9ab0-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab7aba17-8dc1-4b46-9832-9b46540d2aff&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Documentary",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",MST3K (Mystery Science Theater 3000)
+https://amg00163-shoutfactoryfast-amg00163c4-cw-us-2266.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-mst3k-cwus/playlist.m3u8
 
 #EXTINF:-1 group-title="News",Today All Day
 https://live-manifest.production-public.tubi.io/live/c1fa60a0-4ca6-486f-b62c-db219113e6af/playlist.m3u8
@@ -1258,6 +1338,8 @@ https://api.p1.media/api/projects/5ac62a8225e1b/livefeed/main-stream.m3u8?device
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 group-title="News",SC Currents
 https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 group-title="News",BEK TV News
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",HollyWire
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 group-title="News",InfoWars
@@ -1457,6 +1539,8 @@ http://143.244.60.97/REVOLT/index.m3u8
 http://195.181.163.243/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Shades of Black
 https://fuse-beats-oando.amagi.tv/hls/amagi_hls_data_fuseAAAAA-fusebeats-oando/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",The BLK Effect
+https://amg01312-cw-amg01312c39-cw-us-6681.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-theblkeffect-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Backstage
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusexl/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",E! (Entertainment Television)
@@ -1579,8 +1663,10 @@ https://tvpass.org/live/BravoEast/hd
 https://tvpass.org/live/IFCEast/hd
 #EXTINF:-1 group-title="Network Channels",Sundance
 https://tvpass.org/live/SundanceTVEast/hd
-#EXTINF:-1 group-title="Network Channels",Shout! Factory TV
+#EXTINF:-1 group-title="Network Channels",Shout! Factory TV #1
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",Shout! Factory TV #2
+https://amg00163-amg00163c10-cw-us-2416.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutscreamfactorytv-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Outlaw (The Western Channel)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Network Channels",Ovation
@@ -1593,12 +1679,10 @@ http://143.244.60.97/SMITHSONIAN_CHANNEL/index.m3u8
 http://195.181.163.243/Aspire/index.m3u8
 #EXTINF:-1 group-title="Network Channels",BBC America
 https://tvpass.org/live/BBCAmericaEast/hd
-#EXTINF:-1 group-title="Network Channels",REELZ (West)
-https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
-#EXTINF:-1 group-title="Network Channels",REELZ (East)
-https://tvpass.org/live/Reelz/hd
-#EXTINF:-1 group-title="Network Channels",REELZ Famous and Infamous
-https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
+#EXTINF:-1 group-title="Network Channels",Electric Now
+https://amg01705-electric-amg01705c1-cw-us-2376.playouts.now.amagi.tv/playlist/amg01705-electricentertainmentfast-electricnow-cwus/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",OuterSphere by Lionsgate
+https://amg00353-amg00353c17-cw-us-2730.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Pop TV
 http://195.181.163.243/Pop_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Viceland
@@ -1629,6 +1713,8 @@ https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://tvpass.org/live/WeTVEast/hd
 #EXTINF:-1 group-title="Network Channels",WE Absolute Reality
 http://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",HerSphere by Lionsgate
+https://amg00353-amg00353c3-cw-us-2722.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",So... Real
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Vogue
@@ -1659,7 +1745,7 @@ https://tvpass.org/live/game-show-network-east/hd
 https://dbrb49pjoymg4.cloudfront.net/10001/99991750/hls/playlist.m3u8?ads.xumo_channelId=99991750
 #EXTINF:-1 group-title="Network Channels",OWN (Oprah Winfrey Network)
 https://tvpass.org/live/OWNEast/hd
-#EXTINF:-1 group-title="Network Channels",Ebony TV by Liongate
+#EXTINF:-1 group-title="Network Channels",Ebony TV by Lionsgate
 https://amg00353-amg00353c10-cw-us-2723.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytvtubi-cwus/playlist.m3u8?did=1229467091790347383&dnt=0&lmt=0&device_name=computer&us_privacy=1YNN&osver=&uoo=0
 #EXTINF:-1 group-title="Network Channels",AMC (American Movie Classics)
 https://tvpass.org/live/AMCEast/hd
@@ -2136,6 +2222,8 @@ https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
 #EXTINF:-1 group-title="Sports",Women's Sports Network
 http://live-manifest.production-public.tubi.io/live/eb4ef15b-b69e-4b49-988f-c1c66a8e64d0/playlist.m3u8
+#EXTINF:-1 group-title="Sports",BEK TV Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports",TVS Sports
 https://bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 group-title="Sports",TVS Sports Bureau
@@ -2324,7 +2412,7 @@ https://amg01312-cw-amg01312c19-cw-us-3284.playouts.now.amagi.tv/playlist/amg013
 https://amg01705-electric-amg01705c1-cw-us-2376.playouts.now.amagi.tv/playlist/amg01705-electricentertainmentfast-electricnow-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Premium Channels",CrimeFlix
 https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
-#EXTINF:-1 group-title="Premium Channels",MovieSphere by Liongate
+#EXTINF:-1 group-title="Premium Channels",MovieSphere by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251
 #EXTINF:-1 group-title="Premium Channels",National Lampoon Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fcbcf414d94009d1206ee.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
@@ -2927,6 +3015,18 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TVP Culiacán
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TVP Mazatlán
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TVP Obregón
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Visión Televisión
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TVE Internacional America
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Curiosity Explora
 https://amg00567-amg00567c7-estrellamedia-us-5161.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-curiosityespanol-estrellamediaus/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Curiosity Animales
@@ -3043,6 +3143,8 @@ https://edge.streann.com/almavision1/almavision1/chunks.m3u8?auth=eyJ0eXAiOiJKV1
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/8adc9953-2bbd-2432-1708-e47d4fa08b96.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Hallmark en Español
 https://amg00235-amg00235c3-estrellamedia-us-4154.playouts.now.amagi.tv/playlist/amg00235-crownmediafamilynetworksfast-hallmarkenespanolplex-estrellamediaworldwide/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",MyTime Movie Network en Español (México)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Gusto TV en Español
 https://amg01077-gustofast-amg01077c8-freetv-us-2222.playouts.now.amagi.tv/playlist/amg01077-gusto-gustoesp-freetvus/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Bravo (i/e)
@@ -3097,6 +3199,8 @@ http://181.188.234.21:8000/play/a04s/index.m3u8
 http://181.188.234.21:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Unicable
 http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Lobo TV
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Tele Hit
 https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=MdL5aa90z36jz4E0sr8Wbg:pF5otOzOm9Z-KaNRoVTA5dYMZuDpHpP0_thNoDOQHOZBdYhmodQzzkcJlMHxU6uPchgIUga76WqLLGh7IQ9nuRPvq253f5OA3R_ZAX6W8fflrUbOOEIRQtit1yRKzc-XpXD82CGQbHJ0hxVwG_slpX5DHgJ_BaF-rPDbWzG12bEQij4ydXEbwbzSi1BW4f_N_nA9oRV1_pjDvJlWXNQOcvzNtG8Rucu3dAs14esEd9gbEzFVuWpxbmSmIF8NnO3kP_WU0sqA25dSDiTaEXFFprWFSCmx_tRE3SNJsR55qASqEKrhBAdHDml3w__V0cwnCTBAOrumr9wH6aV_CnlrADS7yDK8yuNH-gVVY3Edh-dfpgTICGWt_mS73tZUIlppyuCNhFOGzdA34cwf1lQJc2xJkk32eTtzPIZvq1ac1N9roj9US18EE21tFA5tmw_lrw6IbKpLJLbNRmbtFN1Cc08tqWXfA_ILuyLSY3AKrxsSiDXXDzRA4_CPzKq9JU0jsEFaYYijEdJ-oPyPd3LWx1KmwnSkK5GPEDad_hN5LYM5xzK6TTHER1rKtD8gBmdMgSwfyZjCL7fVbWClMPlB8GKQsu0FT8Jo_7fVVUHHifVSXKmAGWzDtWrmlnhWP6z2T8GogKmbHcgh2vilkQF9ZbHJxVP2Ec_sQhf7empUp9NsS_IYknpD1iEqrwPNBY-B6XbFau8yrO_jsGoX0I0nvbGKNbuErthIY6LrVEM9rfrX3_PrsTR3bRGaK3VahVTrrza7GciBf2O9LtneD0qJRyFz8NEcPsVOll8wbximoPRkYcd4Nl9mxYzFayyFusUiuvO0lfFywisayz5-ebLGifUY-2GBbqb4hOJbO6pqxL3F19K7m2QUHavus15iqQcNEGf4U8qYODiEK0vlpTTAyh0w6GpIybjAj5aus7IzqfUX8ULbS_ZfHcRxVyb3zpa5UWUyjGz7JMsrOo8ccbODET2UhhWKQSLAMj9OJj1U7lRrbINAy_AisPvBR_fXAWuTOThtKITqnpRTnF4WRf4hG1NymB5mSGWin_K470DOMwsU746pOYrt_TW5YFxA3JbH4cp9pbsbehHgcEluTVfp0yqZg_QKQep2VLPYlNZelNtEAWfFM1QHfHS2v7vOoY_WBcEjyqAkqcBVL5hauScFSw&anvtrid=139d721696a6cca362865486bf0ee31a&anvauth=tb=0~te=1740108239~sgn=5bf87e0190aeba92d611ba02c80d88e5d5d5abf7a624f99c2f253885a34fe1eb&t=1740108149
 #EXTINF:-1 group-title="Latino (Spanish)",Somos Novelas
@@ -3319,6 +3423,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Despierta América 24/7
 https://dai.google.com/linear/hls/event/oLZnojGrQ02TM-L5EeTuwA/master.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Cubavisión Internacional
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",N+ FORO
