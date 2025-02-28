@@ -1254,6 +1254,8 @@ https://dai.google.com/linear/hls/event/VnZY5jBuRymXMn2_604j8Q/master.m3u8
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 group-title="News",Real America's Voice
 https://api.p1.media/api/projects/5ac62a8225e1b/livefeed/main-stream.m3u8?device_type_slug=web&token=Hz7J5kojBTUsrSVjLo1Y
+#EXTINF:-1 group-title="News",Free Speech
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 group-title="News",SC Currents
 https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 group-title="News",HollyWire
@@ -1669,6 +1671,8 @@ https://tvpass.org/live/TCMEast/hd
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 #EXTINF:-1 group-title="Network Channels",TCM+ (Turner Classic Movies) (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmeast.us.m3u8
+#EXTINF:-1 group-title="Network Channels",NOST (The Nostalgia Network)
+https://43d8730367094c359169326b2541f48d.mediatailor.us-east-1.amazonaws.com/v1/manifest/cfccecf99f5f9bc53e6a1cf70495cfad66d82f53/dai/944b75b2-5825-499f-8dda-62dd43ba1787/0.m3u8
 #EXTINF:-1 group-title="Network Channels",Hallmark Channel
 https://tvpass.org/live/HallmarkChannelEast/hd
 #EXTINF:-1 group-title="Network Channels",Hallmark Family
@@ -1682,7 +1686,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc
 #EXTINF:-1 group-title="Network Channels",Non-Stop 90's
 https://amg00163-amg00163c8-cw-us-2414.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-nonstop90stv-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Dove Channel
-http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
 #EXTINF:-1 group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 
