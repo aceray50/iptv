@@ -1,5 +1,5 @@
 #EXTINF:-1 group-title="Network Channels",The Preview Channel
-https://amg00364-amg00364c2-thepreviewchannel-us-3407.playouts.now.amagi.tv/1080p/index.m3u8
+https://amg00364-amg00364c2-thepreviewchannel-us-3407.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
@@ -1149,7 +1149,7 @@ https://tvpass.org/live/DiscoveryLife/hd
 https://tvpass.org/live/Science/hd
 #EXTINF:-1 group-title="Documentary",Pluto TV History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cbb5a-7b2e-11ef-bb34-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=490827a6-31b6-461a-964f-bf7a48ab583d&userId=&serverSideAds=true
-=#EXTINF:-1 group-title="Documentary",History Channel
+#EXTINF:-1 group-title="Documentary",History Channel
 https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1 group-title="Documentary",Military History
 http://195.181.163.243/Military_History/index.m3u8
