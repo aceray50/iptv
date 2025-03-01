@@ -1,5 +1,5 @@
 #EXTINF:-1 group-title="Network Channels",The Preview Channel
-https://amg00364-amg00364c2-thepreviewchannel-us-3407.playouts.now.amagi.tv/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608083444363b700366942df.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
@@ -307,6 +307,8 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 #EXTINF:-1 group-title="News",News 12+ ("Hudson Valley" West Nyack NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 
+#EXTINF:-1 group-title="Network Channels",FreeCast Sneak Preview
+https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
 #EXTINF:-1 group-title="Network Channels",NBC LX Home
 http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="Network Channels",REV'N
@@ -1203,6 +1205,8 @@ https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245
 https://tvpass.org/live/Reelz/hd
 #EXTINF:-1 group-title="Documentary",REELZ Famous and Infamous
 https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
+#EXTINF:-1 group-title="Documentary",Infamous TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Documentary",Oxygen True Crime
 https://tvpass.org/live/OxygenEast/hd
 #EXTINF:-1 group-title="Documentary",True Crime Network+
@@ -1278,6 +1282,10 @@ https://tvpass.org/live/CNN/hd
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/cnn.us.m3u8
 #EXTINF:-1 group-title="News",CNN International
 http://143.244.60.97/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 group-title="News",CNN Originals
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+#EXTINF:-1 group-title="News",CNN Headlines
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="News",HLN (CNN Headline News)
 https://tvpass.org/live/HLN/hd
 #EXTINF:-1 group-title="News",HLN+ (CNN Headline News)
@@ -1488,6 +1496,12 @@ https://tvpass.org/live/DiscoveryFamily/hd
 https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 group-title="Children Channels",Universal Kids
 https://tvpass.org/live/UniversalKidsEast/hd
+EXTINF:-1 group-title="Children Channels",FilmRise Kids
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+#EXTINF:-1 group-title="Children Channels",FilmRise Anime
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+#EXTINF:-1 group-title="Children Channels",RetroCrush
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 
 #EXTINF:-1 group-title="Network Channels",TV Land
 https://tvpass.org/live/tv-land-eastern/hd
@@ -1539,12 +1553,18 @@ http://143.244.60.97/REVOLT/index.m3u8
 http://195.181.163.243/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Shades of Black
 https://fuse-beats-oando.amagi.tv/hls/amagi_hls_data_fuseAAAAA-fusebeats-oando/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",BlackPix
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+#EXTINF:-1 group-title="Network Channels",365BLK
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6745dca72832b870acf53220.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Network Channels",The BLK Effect
 https://amg01312-cw-amg01312c39-cw-us-6681.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-theblkeffect-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Backstage
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusexl/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",E! (Entertainment Television)
 https://tvpass.org/live/EEast/hd
+#EXTINF:-1 group-title="Network Channels",AXS-TV Now
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 
 #EXTINF:-1 group-title="Comedy",Comedy Central
 https://tvpass.org/live/ComedyCentralEast/hd
@@ -1552,6 +1572,10 @@ https://tvpass.org/live/ComedyCentralEast/hd
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Comedy",Comedy Central Animation (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1df8-7b2e-11ef-951a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=632fe7b8-42bc-4848-8710-b775ee7de975&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Comedy",Animation+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-674f6a6cf44561420465f9f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+#EXTINF:-1 group-title="Comedy",BBC Comedy
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Comedy",Pluto TV Pranks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f86f539f03cd00070c503a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c208c-7b2e-11ef-9ac1-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=57f8ada0-9a60-40de-afcf-1a3a80463d81&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Comedy",Kevin Hart’s LOL! Network
@@ -1584,9 +1608,9 @@ https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
 #EXTINF:-1 group-title="Comedy",Just for Laughs Gags
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
-#EXTINF:-1 group-title="Comedy",Funny or Die
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991187
-#EXTINF:-1 group-title="Comedy",Camera Smile TV
+#EXTINF:-1 group-title="Comedy",Funny Or Die, Inc.
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+&#EXTINF:-1 group-title="Comedy",Camera Smile TV
 https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:-1 group-title="Comedy",FailArmy
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
@@ -1637,6 +1661,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",SYFY
 https://tvpass.org/live/SyfyEast/hd
+#EXTINF:-1 group-title="Network Channels",BBC Sci-Fi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Network Channels",FreeTV Fantasy
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engmystify-freetv/playlist.m3u8
 
@@ -1679,16 +1705,16 @@ http://143.244.60.97/SMITHSONIAN_CHANNEL/index.m3u8
 http://195.181.163.243/Aspire/index.m3u8
 #EXTINF:-1 group-title="Network Channels",BBC America
 https://tvpass.org/live/BBCAmericaEast/hd
-#EXTINF:-1 group-title="Network Channels",Electric Now
-https://amg01705-electric-amg01705c1-cw-us-2376.playouts.now.amagi.tv/playlist/amg01705-electricentertainmentfast-electricnow-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",OuterSphere by Lionsgate
 https://amg00353-amg00353c17-cw-us-2730.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Pop TV
 http://195.181.163.243/Pop_TV/index.m3u8
-#EXTINF:-1 group-title="Network Channels",Viceland
-http://143.244.60.97/VICELAND/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Vice
 https://tvpass.org/live/VICETV/hd
+#EXTINF:-1 group-title="Network Channels",Viceland
+http://143.244.60.97/VICELAND/index.m3u8
+#EXTINF:-1 group-title="Network Channels",Vice News
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635ff8bb66f96b46951ab7f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Network Channels",YouToo America
 https://thegateway.app/YouToocdn/YTamerica/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",WPS TV
@@ -1743,6 +1769,8 @@ https://tvpass.org/live/FuseEast/hd
 https://tvpass.org/live/game-show-network-east/hd
 #EXTINF:-1 group-title="Network Channels",Game Show Central
 https://dbrb49pjoymg4.cloudfront.net/10001/99991750/hls/playlist.m3u8?ads.xumo_channelId=99991750
+#EXTINF:-1 group-title="Network Channels",BBC Game Shows
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Network Channels",OWN (Oprah Winfrey Network)
 https://tvpass.org/live/OWNEast/hd
 #EXTINF:-1 group-title="Network Channels",Ebony TV by Lionsgate
@@ -1775,6 +1803,8 @@ https://amg00163-amg00163c8-cw-us-2414.playouts.now.amagi.tv/playlist/amg00163-s
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
 #EXTINF:-1 group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",Christmas Plus
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-634700569d64afa6830d1521.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 
 #EXTINF:-1 group-title="Religious",Scientology Network
 https://stream6.scientology.org/master.m3u8
@@ -1987,7 +2017,7 @@ https://lockedonsports-nba-live.sports.tv/v1/master/758627660e995d43cdf594915ca6
 #EXTINF:-1 group-title="Sports",NFL Network
 https://tvpass.org/live/NFLNetwork/hd
 #EXTINF:-1 group-title="Sports",NFL Channel
-http://live-manifest.production-public.tubi.io/live/4f7540f3-a9d1-4956-936f-b31592ab654e/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Sports",NFL Red Zone
 https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 group-title="Sports",Locked on NFL
@@ -1995,6 +2025,8 @@ https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca6
 #EXTINF:-1 group-title="Sports",MLB Network
 https://tvpass.org/live/MLBNetwork/hd
 #EXTINF:-1 group-title="Sports",MLB Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+#EXTINF:-1 group-title="Sports",MLB Channel on Tubi
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NHL Network
 https://tvpass.org/live/NHLNetwork/hd
@@ -2346,6 +2378,10 @@ http://195.181.163.243/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
+#EXTINF:-1 group-title="Premium Channels",Free Movies+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+#EXTINF:-1 group-title="Premium Channels",Samuel Goldwyn Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Premium Channels",Cineview
 https://live-manifest.production-public.tubi.io/live/6386e065-6010-4fd3-b438-407dbb63eb23/playlist.m3u8
 #EXTINF:-1 group-title="Premium Channels",CineLife
@@ -2392,7 +2428,7 @@ https://live1009.delivery.roku.com/8ce67602-c071-4cae-8b5b-e555cf05145f/t2-origi
 https://live1009.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Fprensic Files
 https://live1009.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Premium Channels",Untold Stories of the ER
+#EXTINF:-1 group-title="Premium Channels",FilmRise Untold Stories of the ER
 https://live1009.delivery.roku.com/ff1e4ec7-c99a-482b-b04b-5f1bf1732ec8/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Classic TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ea07049502c5778b828d3f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
@@ -3249,8 +3285,12 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Cine en Español
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Latino (Spanish)",Todo Cine
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
+#EXTINF:-1 group-title="Latino (Spanish)",FLOU Detonación
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-673675909564224797d5b598.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Latino (Spanish)",FreeTV Live
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FreeTV Hits
@@ -3271,6 +3311,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FreeTV Banda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Electric Now en Español
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Latino (Spanish)",ViX Cine Club
 https://live1009.delivery.roku.com/0f232fec-f2cc-45e0-8876-af34537103d4/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canela.TV
