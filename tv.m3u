@@ -2137,12 +2137,12 @@ https://tvpass.org/live/fanduel-sports-tennessee-east/hd
 https://live-manifest.production-public.tubi.io/live/3404f25c-24bd-4ced-9d72-f2b4d5f63c57/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MotorTrend
 https://tvpass.org/live/Motortrend/hd
+#EXTINF:-1 group-title="Sports",Monster Jams
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 group-title="Sports",MAV TV
 http://143.244.60.97/MAV_TV/index.m3u8
 #EXTINF:-1 group-title="Sports",MAV TV Select
 https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
-#EXTINF:-1 group-title="Sports",MAV TV Select (Canada)
-https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NHRA TV
 http://live-manifest.production-public.tubi.io/live/2b55583d-cfa8-440b-8f38-a0aef9950f75/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Speed Vision
@@ -2211,6 +2211,8 @@ https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 https://tvpass.org/live/msg-madison-square-gardens/hd
 #EXTINF:-1 group-title="Sports",MSG+
 https://tvpass.org/live/msg-plus/hd
+#EXTINF:-1 group-title="Sports",MSG SportsZone
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 group-title="Sports",WWE Network
 http://143.244.60.97/WWE/index.m3u8
 #EXTINF:-1 group-title="Sports",TNA Wrestling Channel
@@ -3056,6 +3058,8 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Nosey Escándalos
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 group-title="Latino (Spanish)",TVP Culiacán
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TVP Los Mochis
@@ -3276,6 +3280,8 @@ https://amg00658-amg00658c30-canelatv-international-5107.playouts.now.amagi.tv/p
 https://amg00658-amg00658c22-canelatv-international-5047.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelanovelasturcas-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Todo Novelas Más Pasiones
 https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Pasión Latina
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 group-title="Latino (Spanish)",ViX Grandes Parejas
 https://live1009.delivery.roku.com/fb245b6d-09b4-420b-9732-dfcd80c377b2/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ViX JaJaJa
@@ -3288,6 +3294,8 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Cine EstrellaTV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 group-title="Latino (Spanish)",Cine en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Latino (Spanish)",Todo Cine
