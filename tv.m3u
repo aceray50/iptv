@@ -3576,7 +3576,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #EXTINF:-1 group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",N+ FORO
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3748
 #EXTINF:-1 group-title="Latino (Spanish)",N+ Noticias
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index_5.m3u8&redirect=true
 #EXTINF:-1 group-title="Latino (Spanish)",ADN 40
