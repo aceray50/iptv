@@ -20,7 +20,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjfpK_6V8X3lh14KWuIJ8jo
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
 https://live-manifest.production-public.tubi.io/live/346a3973-426a-45dc-85fd-a598cc9d1487/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYqKMJcjOgRiaArwuIfDM5Ow
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYu8E9AY415HaDQiyiFOW-M8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 24/7 News (New York NY)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
@@ -1660,9 +1660,9 @@ https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 #EXTINF:-1 group-title="Network Channels",FX
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYu_eLN0r2K4CFnvfbATcZgs
 #EXTINF:-1 group-title="Network Channels",FXX
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmCyo_O0v6jTo2Xwsp9avKA
-#EXTINF:-1 group-title="Network Channels",FXM (FOX Movie Channel)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYnOGpZ9fvxcDZyJDGe7gvYc
+#EXTINF:-1 group-title="Network Channels",FXM (FOX Movie Channel)
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmCyo_O0v6jTo2Xwsp9avKA
 #EXTINF:-1 group-title="Network Channels",TNT
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuUESTUOMv-MWJIc_JEsz-w
 #EXTINF:-1 group-title="Network Channels",TNT+ (West)
@@ -1800,9 +1800,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991390/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="Network Channels",ONTV4U
 https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",FYI
-https://tvpass.org/live/FYIEast/hd
-#EXTINF:-1 group-title="Network Channels",Fuse
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuQVfZDR1O9ZY4IEWHSjyD0
+#EXTINF:-1 group-title="Network Channels",Fuse
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuyoFkhACK4yYRRiKNuvdO0
 #EXTINF:-1 group-title="Network Channels",GSN (Game Show Network)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYggbfmP_VY5ueB3dMwiJhRQ
 #EXTINF:-1 group-title="Network Channels",Game Show Central
