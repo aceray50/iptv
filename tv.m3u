@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="Network Channels",The Preview Channel
+#EXTINF:-1 group-title="Network Channels",Preview Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608083444363b700366942df.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
