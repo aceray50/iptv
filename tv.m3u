@@ -61,6 +61,8 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjOakpNT9KO2sAm3RawdnhY
 https://apollo.production-public.tubi.io/live/ac-wfld.m3u8
 #EXTINF:-1 group-title="Local Channels",WJBK-TV FOX 5 24/7 News (Detroit MI)
 https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
+#EXTINF:-1 group-title="Local Channels",WXYZ-TV ABC 7(Detroit MI)
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiiOcGqqvWry1343ptuTx7U
 #EXTINF:-1 group-title="Local Channels",WXYZ-TV ABC 7 24/7 News (Detroit MI)
 https://content.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8
 #EXTINF:-1 group-title="Local Channels",WWJ-TV CBS 62 24/7 News (Detroit MI)
@@ -77,8 +79,6 @@ https://video.tegnaone.com/kare/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WPVI-TV ABC 6 24/7 News (Philadelphia PA)
 https://content-ausw1.uplynk.com/channel/c03e1d48809d476eb0dfa839b6fb0ca4.m3u8
-#EXTINF:-1 group-title="Local Channels",WCAU-TV NBC 10 (Philadelphia PA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoh9kldK8MQY2hfH-GzTLpk
 #EXTINF:-1 group-title="Local Channels",WCAU-TV NBC 10 (Philadelphia PA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhEWgnNHaEL4TBzco5_jaXU
 #EXTINF:-1 group-title="Local Channels",WCAU-TV NBC 10 24/7 News (Philadelphia PA)
@@ -271,7 +271,7 @@ https://content-ause1.uplynk.com/channel/7c0eae0d267941d283a3ab14dd6fd399.m3u8
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoSdQBxNqxe_0X5No71_Lrk
 #EXTINF:-1 group-title="Local Channels",KNTV-TV NBC 10 24/7 News (San Francisco CA)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/playlist.m3u8?ads.xumo_channelId=99951162
-#EXTINF:-1 group-title="Local Channels",KBCW-TV & KRON-TV CW 4 (San Francisco CA)
+#EXTINF:-1 group-title="Local Channels",KBCW-TV 44 & KRON-TV CW 4 (San Francisco CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuvsasPqDXRjp4ymqnIE59o
 #EXTINF:-1 group-title="Local Channels",KESQ-TV 3 ABC 24/7 News (Palm Springs CA)
 https://dai2-playlistserver.aws.syncbak.com/cpl/22046797/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIyMjA0Njc5NyIsImNpZCI6MjIyODAsInNpZCI6MTE5OSwibWQ1IjoiYjkzMDQ4ZTBhMDAyZTliNTkxMWI5ZWVkNTgwYzBmODEiLCJpYXQiOjE2ODE3Njg4NjUsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.Dz7v9duOQcxtwGtOh7ZTWHQ47ehbC7_WsmC2NsMWl6k
@@ -399,6 +399,8 @@ https://buzzrota-ono.amagi.tv/playlist.m3u8
 http://195.181.163.243/BOUNCE_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/10001/9999613/hls/playlist.m3u8?ads.xumo_channelId=9999613
+#EXTINF:-1 group-title="Network Channels",CityTV
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiHwxZwXYul15kQjeeE1DeU
 #EXTINF:-1 group-title="Network Channels",Nosey
 https://dbrb49pjoymg4.cloudfront.net/10001/99991366/hls/playlist.m3u8?ads.xumo_channelId=99991366
 #EXTINF:-1 group-title="Network Channels",Confess by Nosey
@@ -1185,6 +1187,10 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYt02unYjECn1KDzeh32FThQ
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlsxaxh04yloN6E_i7_YCI8
 #EXTINF:-1 group-title="Documentary",Discovery Science
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYohGGaaIFvtbCsIpyV7jiVM
+#EXTINF:-1 group-title="Documentary",Velocity
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhBs9TW4DckrfvTHwT52lQ8
+#EXTINF:-1 group-title="Documentary",Destination America
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYgymGInfVkED5oXcmfJdilw
 #EXTINF:-1 group-title="Documentary",Pluto TV History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cbb5a-7b2e-11ef-bb34-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=490827a6-31b6-461a-964f-bf7a48ab583d&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Documentary",History Channel
@@ -1301,7 +1307,7 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",FOX News Channel
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYgAYuR_eFzrB59VyOXRPt9c
 #EXTINF:-1 group-title="News",FOX Business
-https://tvpass.org/live/FoxBusiness/hd
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpjGJDbmfmOqKi_eJBiMU28
 #EXTINF:-1 group-title="News",NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="News",NBC Dateline 24/7
@@ -1540,7 +1546,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 
 #EXTINF:-1 group-title="Network Channels",TV Land
-https://tvpass.org/live/tv-land-eastern/hd
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYshL2L4SKbPLCCyfrgTTQeU
 #EXTINF:-1 group-title="Network Channels",MTV
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlZ3PhNcslvPcLZRV_iMW_s
 #EXTINF:-1 group-title="Network Channels",MTV (Pluto TV)
@@ -1731,6 +1737,8 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYi-iJryKyMVYo8ctVAJdfrY
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Shout! Factory TV #2
 https://amg00163-amg00163c10-cw-us-2416.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutscreamfactorytv-cwus/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",The Cowboy Channel
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYl2RT3gFgwGRZCUHqk8C1Gs
 #EXTINF:-1 group-title="Network Channels",Outlaw (The Western Channel)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Network Channels",Ovation
@@ -2079,7 +2087,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhCAkNVt4OjJq6pKvqRK1Xo
 #EXTINF:-1 group-title="Sports",Chicago Sports Network
 https://tvpass.org/live/chicago-sports-network/hd
 #EXTINF:-1 group-title="Sports",SNY Sportsnet New York Comcast
-https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmej4F91y_Z7J8m2LdNLBWo
 #EXTINF:-1 group-title="Sports",Space City Home Network
 https://tvpass.org/live/space-city-home-network/hd
 #EXTINF:-1 group-title="Sports",Spectrum SportsNet LA
@@ -2344,6 +2352,11 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 #EXTINF:-1 group-title="Sports",Game+ (Canada)
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sky Sports (UK)
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoQwBnkhmTzP8ZjKWbah9tA
+#EXTINF:-1 group-title="Sports",Sky Sports Premier League (UK)
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYkJWQzhynxJS5GKzkVCtmNs
+#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports
 #EXTINF:-1 group-title="Sports",MUTV (UK)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Tennis Channel (UK)
@@ -3127,6 +3140,8 @@ http://rfcm.streamguys1.com/smoothjazzpremium-mp3
 
 #EXTINF:-1 group-title="Latino (Spanish)",Galavisión
 https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",NBC Universo
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiXPcDAfcvQZNVjLiUrEfk0
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Internacional
 http://181.188.234.21:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Al Día
@@ -3629,6 +3644,8 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 https://dai.google.com/linear/hls/event/JgYgVMW8Szinkmm7dchlmQ/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ViX Lo Mejor de Liga MX
 https://live1009.delivery.roku.com/025088b2-d7e3-4803-9e66-a2a0eac3c39a/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports en Español
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoQwBnkhmTzP8ZjKWbah9tA
 #EXTINF:-1 group-title="Latino (Spanish)",SKY Sports La Liga #1
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",SKY Sports La Liga #2
