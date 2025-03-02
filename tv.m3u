@@ -14,9 +14,9 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrFTZ_OHR0jtt67WpdacF8M
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 #EXTINF:-1 group-title="Local Channels",KCAL-TV 9 Ind. (Los Angeles CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYk1lImXej0NGYgZLHbZ3cmU
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmPXlbgqvP60DQH8eN6401A
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjfpK_6V8X3lh14KWuIJ8jo
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYh0irdDNiQLJDUmU3riyZ0U
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
 https://live-manifest.production-public.tubi.io/live/346a3973-426a-45dc-85fd-a598cc9d1487/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
@@ -24,7 +24,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYu8E9AY415HaDQiyiFOW-M8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 24/7 News (New York NY)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYv3FvclfMLjSADTmG3Kz7d8
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsxfruXiKUVP0tazEjPBCYM
 #EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 24/7 News (New York NY)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889709/hls/playlist.m3u8?ads.xumo_channelId=88889709
 #EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
@@ -434,7 +434,7 @@ http://195.181.163.243/COZI_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Get TV
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Grit TV
-http://143.244.60.97/GRIT_TV/index.m3u8
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtsbV56vnp-xmON_h2rtPlY
 #EXTINF:-1 group-title="Network Channels",Grit Xtra
 https://amg01438-ewscripps-amg01438c46-cw-us-2390.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsgritxtra-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Laff
@@ -1592,6 +1592,8 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiYDCBeAJCZuRfMGDC0DJtA
 https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 group-title="Children Channels",Universal Kids
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYglR3mOP_uKSXe8Bs-CQdi8
+#EXTINF:-1 group-title="Children Channels",Zoo Moo (Australia)
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYt591cd7OqseFyOnxc_1Bt8
 #EXTINF:-1 group-title="Children Channels",FilmRise Kids
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Children Channels",FilmRise Anime
@@ -1784,7 +1786,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYk6HCJj4XhNUh5w32RszUF0
 #EXTINF:-1 group-title="Network Channels",Bravo
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYno7bQLKlrRCNIxgrtE8wXQ
 #EXTINF:-1 group-title="Network Channels",IFC (Independent Film Channel)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYqJ-IZndjVyC6w5eNaVfL64
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmIbhv3dgvQ2NAtUskDpi50
 #EXTINF:-1 group-title="Network Channels",Sundance
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYi-iJryKyMVYo8ctVAJdfrY
 #EXTINF:-1 group-title="Network Channels",Shout! Factory TV #1
@@ -1901,6 +1903,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc
 https://amg00163-amg00163c8-cw-us-2414.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-nonstop90stv-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Dove Channel
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
+#EXTINF:-1 group-title="Network Channels",Great American Country
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtpwKM8YnWpJubGXOkJT1iM
 #EXTINF:-1 group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Christmas Plus
@@ -2190,6 +2194,8 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYm4vwPzOmGdl7uLfL1YUi8M
 https://d4whmvwm0rdvi.cloudfront.net/10001/99991660/hls/master.m3u8?ads.xumo_channelId=99991660
 #EXTINF:-1 group-title="Sports",PGA Tour
 https://dbrb49pjoymg4.cloudfront.net/10001/99991281/hls/playlist.m3u8?ads.xumo_channelId=99991281
+#EXTINF:-1 group-title="Sports",Root Sports
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtRSjr18WfjN4e1GEK7nb6g
 #EXTINF:-1 group-title="Sports",PBR RidePass
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79
 #EXTINF:-1 group-title="Sports",FanDuel TV (Formerly TVG)
@@ -2254,6 +2260,8 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYs3hJlWwgBitpkByD0oTBK8
 https://live-manifest.production-public.tubi.io/live/3404f25c-24bd-4ced-9d72-f2b4d5f63c57/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MotorTrend
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYq4-q2tLQ6UfikSA6bDIQV8
+#EXTINF:-1 group-title="Sports",Sportman Channel
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYnU4Qf-TkvgeeSMK90DlXYM
 #EXTINF:-1 group-title="Sports",Monster Jams
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 group-title="Sports",MAV TV
@@ -2298,6 +2306,8 @@ http://sportsgrid-tribal.amagi.tv/playlist.m3u8
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Marquee Sports Network
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrKP0mRvhI48ss6TGX4OJjg
+#EXTINF:-1 group-title="Sports",Swerve Sports
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYi7EppPWYlrHoIQomuzPJmw
 #EXTINF:-1 group-title="Sports",DAZN 1
 https://212.102.60.10/DAZN_1/index.m3u8
 #EXTINF:-1 group-title="Sports",DAZN 2
@@ -2352,6 +2362,10 @@ https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/playlist.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 group-title="Sports",Red Bull TV
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/us/en/playlist.m3u8
+#EXTINF:-1 group-title="Sports",MASN
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpyphpkjJj93hfCZh5F2BAw
+#EXTINF:-1 group-title="Sports",NESN
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuOJ2nAGosW28QWL4HcMaXA
 #EXTINF:-1 group-title="Sports",Extreme+
 https://d3p1dbb9xrkmd5.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NuestraTV-MuxIP-ExtremePlus/276.m3u8
 #EXTINF:-1 group-title="Sports",Marquee Sports Network
@@ -2366,6 +2380,8 @@ https://live1009.delivery.roku.com/c3f9833e-04cd-4bfd-b00d-8f0d6af73766/t2-origi
 https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 group-title="Sports",The Cycling Channel
 http://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
+#EXTINF:-1 group-title="Sports",World Fishing Network
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjVBLkLAfcl6fuZuOVB8SaI
 #EXTINF:-1 group-title="Sports",People are Awesome
 https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",30A Golf Kingdom
@@ -2423,8 +2439,14 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Racing.com (Austrailia)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 group-title="Sports",Willow Cricket
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYkqX10IJphykmerZdfhE1IQ
+#EXTINF:-1 group-title="Sports",Willow Cricket Xtra
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlUG3FZBNR7t1B-G7kszzUw
 #EXTINF:-1 group-title="Sports",Willow Sports (Austrailia)
 https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
+#EXTINF:-1 group-title="Sports",GOL TV
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsyO-AGPgeaKv4aCOHb6IgU
 #EXTINF:-1 group-title="Sports",EuroSports 1
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsAglIpOeU_G1M2HA5T6_FA
 #EXTINF:-1 group-title="Sports",EuroSports 2
@@ -3696,7 +3718,7 @@ https://univtec.g-mana.live/media/6e7277cd-6602-4105-90d4-681b45a9c026/mainManif
 https://live1009.delivery.roku.com/83e3226a-8835-4fe4-b3a1-cd7f0e5a3a22/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Deportes
 https://amg00658-amg00658c27-canelatv-international-5108.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesusta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",GOL TV
+#EXTINF:-1 group-title="Latino (Spanish)",GOL TV en Español
 http://181.188.234.21:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
@@ -3722,6 +3744,8 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 group-title="Latino (Spanish)",beIN Sports Xtra en Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",FOX Deportes
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjwf48_RjPouJvGWb5aETKg
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Sports en Español (México)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Sports en Español
