@@ -110,9 +110,11 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjPlc5-I0hmhSl2wo2arkOs
 #EXTINF:-1 group-title="Local Channels",WFOR-TV CBS 4 24/7 News (Miami FL)
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WTVJ-TV NBC 6 (Miami FL)
-http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhHOl1P1CJBcUvNntpBEK40
 #EXTINF:-1 group-title="Local Channels",WTVJ-TV NBC 6 24/7 News (Miami FL)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889702/hls/playlist.m3u8?ads.xumo_channelId=88889702
+#EXTINF:-1 group-title="Local Channels",WSVN-TV FOX 7 (Miami FL)
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhSfMzvvqhq_AWjUI-XDYPY
 #EXTINF:-1 group-title="Local Channels",WPLG-TV ABC 10 (Miami FL)
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WPLG-TV ABC 10 24/7 News (Miami FL)
@@ -1307,6 +1309,8 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtjgY7NCnRMXfHLckRbFWNE
 https://amg00979-amg00979c1-truecrimenetwork-us-3194.playouts.now.amagi.tv/playlist/amg00979-truecrimenetworkfast-truecrimenetworkfast-truecrimenetworkus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",NBC American Crimes
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951246/hls/master.m3u8?ads.xumo_channelId=99951246
+#EXTINF:-1 group-title="Documentary",Law & Crime
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYt_KqjatJZ4odesJYUBp6vw
 #EXTINF:-1 group-title="Documentary",Law & Crimes
 https://dtqutq7lmcchv.cloudfront.net/10001/99991320/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991320
 #EXTINF:-1 group-title="Documentary",Xumo Crime
@@ -1810,7 +1814,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlhHhBP9oUhvWHHUZJtkfjM
 #EXTINF:-1 group-title="Network Channels",OuterSphere by Lionsgate
 https://amg00353-amg00353c17-cw-us-2730.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Pop TV
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYh11hvLs868FJKqh2Z95hyU
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYi6sVRGRYUr0a_EQ83l42Zw
 #EXTINF:-1 group-title="Network Channels",Vice
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYm_MEce_NDKDR8zQaLfgYgw
 #EXTINF:-1 group-title="Network Channels",Viceland
