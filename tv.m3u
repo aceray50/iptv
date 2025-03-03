@@ -87,8 +87,12 @@ https://d2kowtvrzzi7ps.cloudfront.net/11602/88889705/hls/playlist.m3u8?ads.xumo_
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYt6Z3b8Lzajc8TbV96zrmNA
 #EXTINF:-1 group-title="Local Channels",WTXF-TV FOX 29 24/7 News (Philadelphia PA)
 https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8
+#EXTINF:-1 group-title="Local Channels",WPSG-TV Ind. Philly 57 (Philadelphia PA)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131039
 #EXTINF:-1 group-title="Local Channels",WFMZ-TV Ind. 69 (Philadelphia PA)
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
+#EXTINF:-1 group-title="Local Channels",WBZ-TV CBS 4 (Boston MA)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131005
 #EXTINF:-1 group-title="Local Channels",WBZ-TV CBS 4 24/7 News (Boston MA)
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WCVB-TV ABC 5 24/7 News (Boston MA)
@@ -129,6 +133,8 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiSHJrzJJS28L8zhE1rl-IA
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmx40V2G5_Xe_C6AfmZCyVk
 #EXTINF:-1 group-title="Local Channels",WFTS-TV ABC 28 24/7 News (Tampa Bay FL)
 https://content.uplynk.com/channel/5bfc0bb9d2be47448fb2c1aaaa2dfd0a.m3u8
+#EXTINF:-1 group-title="Local Channels",WTOG-TV Ind. 44 (Tampa Bay FL)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131041
 #EXTINF:-1 group-title="Local Channels",WESH-TV NBC 2 24/7 News (Orlando FL)
 https://content.uplynk.com/channel/21cc54a6fc484e6ba580befaadf83502.m3u8
 #EXTINF:-1 group-title="Local Channels",WKMG-TV CBS 6 (Orlando FL)
@@ -295,12 +301,12 @@ https://content-ause1.uplynk.com/channel/7c0eae0d267941d283a3ab14dd6fd399.m3u8
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoSdQBxNqxe_0X5No71_Lrk
 #EXTINF:-1 group-title="Local Channels",KNTV-TV NBC 10 24/7 News (San Francisco CA)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/playlist.m3u8?ads.xumo_channelId=99951162
-#EXTINF:-1 group-title="Local Channels",KBCW-TV 44 & KRON-TV CW 4 (San Francisco CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuvsasPqDXRjp4ymqnIE59o
 #EXTINF:-1 group-title="Local Channels",KCRA-TV-TV NBC 3 (Sacramento CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYivcoRiLeKF6p7FKjA5OBTo
 #EXTINF:-1 group-title="Local Channels",KOVR-TV CBS 13 (Sacramento CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuxVgnE2SZ9IpXjRl3c6eYI
+#EXTINF:-1 group-title="Local Channels",KMAX-TV Ind. 31 (San Francisco CA)
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuvsasPqDXRjp4ymqnIE59o
 #EXTINF:-1 group-title="Local Channels",KTXL-TV FOX 40 (Sacramento CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYo4L23DKt3ornweG0-ZdsxE
 #EXTINF:-1 group-title="Local Channels",KESQ-TV 3 ABC 24/7 News (Palm Springs CA)
@@ -311,6 +317,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews
 https://video.tegnaone.com/wxia/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA-Production/live/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WANF-TV CBS 46 24/7 News (Atlanta GA)
 https://zeam-playlist.aws.syncbak.com/cpl/20010010/dai2v6/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjcxMSwiY2lkIjoyMDQ3MSwibWlkIjoyMDAxMDAxMCwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI3NS45OC4yMjAuMjYiLCJ1aXAiOiI3NS45OC4yMjAuMjYiLCJkbWEiOjY3OCwic3NpZCI6IjBjZDZmNjcyMGE1NzQ5OTdhNWU0ZTc3OTU2ZDU5ODFmIiwic24iOiJXZWIgNTE3ZDVlNTM4OSAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6ImVkNjJiNDhhYTI3NWVmMzFmZDNmMWYzM2UyMzI4NmE2IiwiaWF0IjoxNzM4NTQxNzA1LCJleHAiOjE3Mzg1NDIwMDUsImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6IkF6LWxrdkZnRkhxRC1WWFhaM3ZGbFpoMDdTTHNwdXY1NmNURkJMMU1IU1ZHbEcwaTFEIn0.ETVhj3hzHIigXWEcIps2MW52MIXxb-7B_TT6OJDN9b4
+#EXTINF:-1 group-title="Local Channels",WUPA-TV CW 69 (Atlanta GA)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131128
 #EXTINF:-1 group-title="Local Channels",WBTV-TV CBS 3 24/7 News (Charlotte NC)
 https://dai2-playlistserver.aws.syncbak.com/cpl/18497259/dai2v5/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjc1MCwiY2lkIjoxNzA1MCwibWlkIjoxODQ5NzI1OSwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI3NS45OC4yMjAuMjYiLCJ1aXAiOiI3NS45OC4yMjAuMjYiLCJkbWEiOjY3OCwic3NpZCI6ImMxNTVhYjUyZDc1NzQwNzA4NzI4ODMwNDY2Yjk0ZGExIiwic24iOiJXZWIgN2FmMzk0Zjc0NCAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6ImZiNDUzZmYxYWMyMjAxZTE1NGIzZTVlOGJjMzQ5MDE4IiwiaWF0IjoxNzM4NTQyMjU2LCJleHAiOjE3Mzg1NDI1NTYsImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6IlI0MkdIYjBURlM1VzlUc2phc3RiLS1Xd1JxVmtKWnpFMVhOYnlCMTN1cmEwN0Z0dV9QIn0.KBiJySjGMYOtfYhqkpD7Ke5KN9je4aTg3cbVQcSknvo
 #EXTINF:-1 group-title="Local Channels",WSOC-TV ABC 9 24/7 News (Charlotte NC)
@@ -1517,9 +1525,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 group-title="Network Channels",MTV 2
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhC90j15ozR2IXuvqaoO8ZA
 #EXTINF:-1 group-title="Network Channels",MTV Classic
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrESXwYVH0uma6D5g9TY0Os
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19148/index.m3u8
 #EXTINF:-1 group-title="Network Channels",MTV Live
-http://143.244.60.97/MTV_LIVE/index.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131317
 #EXTINF:-1 group-title="Network Channels",MTV U
 http://143.244.60.97/MTV_U/index.m3u8
 #EXTINF:-1 group-title="LGBT",Logo
@@ -1565,7 +1573,7 @@ https://amg01312-cw-amg01312c39-cw-us-6681.playouts.now.amagi.tv/playlist/amg013
 #EXTINF:-1 group-title="Network Channels",Backstage
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusexl/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",E! (Entertainment Television)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpYHlOJ2ztV1qzT4Woxyao0
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYh5RHG8fhsX-4RRewcXrfRo
 #EXTINF:-1 group-title="Network Channels",AXS-TV Now
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 
@@ -4046,8 +4054,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53718
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53719
 #EXTINF:-1 group-title="UK Channels",Pop (UK)
 http://92.114.85.81:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="UK Channels",MTV Live (UK)
-http://190.102.246.93:9005/play/a01p
 #EXTINF:-1 group-title="UK Channels",CBBC (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53720
 #EXTINF:-1 group-title="UK Channels",Drama (UK)
@@ -4064,8 +4070,12 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53671
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53665
 #EXTINF:-1 group-title="UK Channels",More4 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53673
-#EXTINF:-1 group-title="UK Channels",UMTV (UK)
+#EXTINF:-1 group-title="UK Channels",MTV (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53737
+#EXTINF:-1 group-title="UK Channels",MTV Live (UK)
+http://190.102.246.93:9005/play/a01p
+#EXTINF:-1 group-title="UK Channels",MTV I want my 80's (UK)
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
 #EXTINF:-1 group-title="UK Channels",MUTV (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53717
 #EXTINF:-1 group-title="UK Channels",ITV 1 (UK)
