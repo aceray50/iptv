@@ -1324,8 +1324,6 @@ https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 https://live-manifest.production-public.tubi.io/live/37e25cb0-d392-4ddb-bb7c-d1629a30d25e/playlist.m3u8
 #EXTINF:-1 group-title="News",CNBC
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYvVzrRoC8oQDl26HPl76EXk
-#EXTINF:-1 group-title="News",CNBC (UK)
-http://92.114.85.77:8000/play/a0b6
 #EXTINF:-1 group-title="News",CNBC World
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYu918he0oiSo8OuzDUfm9uI
 #EXTINF:-1 group-title="News",MSNBC
@@ -4024,11 +4022,13 @@ http://195.181.163.243/CRAVE_3/index.m3u8
 #EXTINF:-1 group-title="Canadian Channels",Crave 4 (Canada)
 http://143.244.60.97/CRAVE_4/index.m3u8
 
+#EXTINF:-1 group-title="UK Channels",CNBC (UK)
+http://92.114.85.77:8000/play/a0b6
 #EXTINF:-1 group-title="UK Channels",BBC World News
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYgE9P9cnXO2oOX1nKbL594I
-#EXTINF:-1 group-title="UK Channels",Sky News (UK)
+#EXTINF:-1 group-title="UK Channels",Sky News #1 (UK)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
-#EXTINF:-1 group-title="UK Channels",Sky News (UK)
+#EXTINF:-1 group-title="UK Channels",Sky News #2 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77166
 #EXTINF:-1 group-title="UK Channels",GB News (UK)
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
@@ -4072,7 +4072,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53673
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53737
 #EXTINF:-1 group-title="UK Channels",MTV Live (UK)
 http://190.102.246.93:9005/play/a01p
-#EXTINF:-1 group-title="UK Channels",MTV I want my 80's (UK)
+#EXTINF:-1 group-title="UK Channels",MTV I Want My 80's (UK)
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
 #EXTINF:-1 group-title="UK Channels",MUTV (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53717
