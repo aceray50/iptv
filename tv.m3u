@@ -18,7 +18,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmPXlbgqvP60DQH8eN6401A
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYh0irdDNiQLJDUmU3riyZ0U
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
-https://live-manifest.production-public.tubi.io/live/346a3973-426a-45dc-85fd-a598cc9d1487/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYu8E9AY415HaDQiyiFOW-M8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 24/7 News (New York NY)
@@ -30,7 +30,7 @@ https://d2kowtvrzzi7ps.cloudfront.net/11602/88889709/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYqkpndo3gURroeB91ZSjn_E
 #EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 24/7 News (New York NY)
-https://live-manifest.production-public.tubi.io/live/43fa471a-5820-4153-bab1-2f57e309731d/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 (New York NY)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuVY68ORnna5RXVq4AQkxe4
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 24/7 News (New York NY)
@@ -288,7 +288,7 @@ https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 group-title="Local Channels",KTVU-TV FOX 2 (San Francisco CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYgntqpDv4UsetjEAKwtpb7E
 #EXTINF:-1 group-title="Local Channels",KTVU-TV FOX 2 24/7 News (San Francisco CA)
-https://live-manifest.production-public.tubi.io/live/868956a4-517e-4bba-a9a2-e836183ff010/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-ktvu.m3u8
 #EXTINF:-1 group-title="Local Channels",KPIX-TV CBS 4 (San Francisco CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYr97R-i82IczVlPCkKHuwyk
 #EXTINF:-1 group-title="Local Channels",KPIX-TV CBS 4 24/7 News (San Francisco CA)
@@ -342,7 +342,9 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="Local Channels",WTTG-TV FOX 5 (Washington DC)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtIPUS6-gITRzId5IlxjAzE
 #EXTINF:-1 group-title="Local Channels",WTTG-TV FOX 5 24/7 News (Washington DC)
-https://live-manifest.production-public.tubi.io/live/bb7ef0b2-d455-480f-aa0b-2f2b6f77fa77/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
+#EXTINF:-1 group-title="Local Channels",WJLA-TV ABC 7 (Washington DC)
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsisQgHJggT6xKmmoppMqNo
 #EXTINF:-1 group-title="Local Channels",WJLA-TV ABC 7 24/7 News (Washington DC)
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1740793891&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6788546eafc349fbe405c619
 #EXTINF:-1 group-title="Local Channels",WUSA-TV CBS 9 (Washington DC)
@@ -1226,7 +1228,7 @@ https://amg01515-amg01515c19-cw-us-2584.playouts.now.amagi.tv/playlist/amg01515-
 #EXTINF:-1 group-title="Documentary",Wild Earth
 https://dtqutq7lmcchv.cloudfront.net/10001/99991628/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991628
 #EXTINF:-1 group-title="Documentary",BBC Earth
-https://live-manifest.production-public.tubi.io/live/01404def-10a0-46f6-9e01-4919814910c0/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 group-title="Documentary",EarthXtra
 https://dbrb49pjoymg4.cloudfront.net/10001/99951378/hls/master.m3u8?ads.xumo_channelId=99951378&
 #EXTINF:-1 group-title="Documentary",The Real Disaster Channel
@@ -1295,11 +1297,11 @@ https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 https://amg00163-shoutfactoryfast-amg00163c4-cw-us-2266.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-mst3k-cwus/playlist.m3u8
 
 #EXTINF:-1 group-title="News",Today All Day
-https://live-manifest.production-public.tubi.io/live/c1fa60a0-4ca6-486f-b62c-db219113e6af/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-today.m3u8
 #EXTINF:-1 group-title="News",Spectrum News+
 https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.xumo_channelId=99951337
 #EXTINF:-1 group-title="News",ABC Localish
-http://live-manifest.production-public.tubi.io/live/1a4790e2-ebe2-47c9-94da-53c762567c64/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-localish.m3u8
 #EXTINF:-1 group-title="News",ABC News
 http://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="News",CBS News
@@ -1321,7 +1323,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpjGJDbmfmOqKi_eJBiMU28
 #EXTINF:-1 group-title="News",NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="News",NBC Dateline 24/7
-https://live-manifest.production-public.tubi.io/live/37e25cb0-d392-4ddb-bb7c-d1629a30d25e/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-dateline.m3u8
 #EXTINF:-1 group-title="News",CNBC
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYvVzrRoC8oQDl26HPl76EXk
 #EXTINF:-1 group-title="News",CNBC World
@@ -1606,7 +1608,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 #EXTINF:-1 group-title="Comedy",30A Ridiculous TV
 https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 group-title="Comedy",Always Funny
-http://live-manifest.production-public.tubi.io/live/2a9a5e3a-cd9d-4042-a122-05e39cc32016/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-afv.m3u8
 #EXTINF:-1 group-title="Comedy",Always Funny Pranks and Fail
 https://amg01312-cw-amg01312c26-cw-us-4227.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-alwaysfunnypranksandfails-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Comedy",AFV Family
@@ -1980,7 +1982,7 @@ https://tvpass.org/live/new-england-sports-network/hd
 #EXTINF:-1 group-title="Sports",beIN Sports
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsOVKKOGM7Aq89MNJmkca4k
 #EXTINF:-1 group-title="Sports",beIN Sports XL
-https://live-manifest.production-public.tubi.io/live/a1c4d8d4-733b-4256-9188-ea13c6b52b15/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-bein.m3u8
 #EXTINF:-1 group-title="Sports",Fubo Sports Network
 http://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/fsn/master.m3u8?ads.partner=fsn&ads.station_id=120123
 #EXTINF:-1 group-title="Sports",Locked on College Sports
@@ -1992,7 +1994,7 @@ https://lockedonsports-losangeles-live.sports.tv/v1/master/758627660e995d43cdf59
 #EXTINF:-1 group-title="Sports",FOX Sports
 https://live858.delivery.roku.com/4ee14500-1717-41fe-9283-57cb2c2193bd/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Sports",FOX Sports on Tubi
-https://live-manifest.production-public.tubi.io/live/a0b0c513-8a07-465d-93a5-a938dde17196/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA1MjQzMTcsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6Zm94LXNwb3J0cyIsInVzZXJfaWQiOjc4MDUyNTQyfQ.SVzSEdj9eTycgOMpXhB3jZM71xX5IxDmjhmZfE_qo1dZDrHXETy7qJ_sogEZY_NYwJbQI2i-2Ul5wonLcNNQAw&ap-fb=https%3A%2F%2Flive-manifest.production-public.tubi.io%2Flive%2Fa0b0c513-8a07-465d-93a5-a938dde17196%2Fplaylist.m3u8
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 #EXTINF:-1 group-title="Sports",FSN 1
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYnMiT-wxLUZtSqJqnj6sX7M
 #EXTINF:-1 group-title="Sports",FSN 2
@@ -2000,7 +2002,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhPzAeFIkXIyxM_ceBxS8FI
 #EXTINF:-1 group-title="Sports",NBA TV
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrJgQUv10FvDjScuQdESjH0
 #EXTINF:-1 group-title="Sports",NBA Channel
-https://live-manifest.production-public.tubi.io/live/9309d123-2269-421c-b789-9512f1387a73/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA5OTI4ODYsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6bmJhLXh2ZWFRNCIsInVzZXJfaWQiOjc4MDUyNTQyfQ.pQaVq5PsdEdl876nobznN2aCNyMcRglNVUSxGlcRXE3hQPvvWxW-EPrUjX_DnCYhtnP8LmwRFZiYgNbEN6cl0g&ap-fb=https%3A%2F%2Flive-manifest.production-public.tubi.io%2Flive%2F9309d123-2269-421c-b789-9512f1387a73%2Fplaylist.m3u8
+https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NBA Fast Channel
 https://live-manifest.production-public.tubi.io/live/6b792a90-6adb-45aa-b4b4-aa6ea4f31d9a/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA5OTI3NDUsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6bmJhLWctbGVhZ3VlIiwidXNlcl9pZCI6NzgwNTI1NDJ9.aj1HCwRM0ZAAlxyD8DGrzQcmpfTi5XMBygP47BIy2XtlNvKlZ_pdm7XvQg8QJ8Ml7C5nY1zze4XdVFOSRmMntw&ap-fb=https%3A%2F%2Flive-manifest.production-public.tubi.io%2Flive%2F6b792a90-6adb-45aa-b4b4-aa6ea4f31d9a%2Fplaylist.m3u8
 #EXTINF:-1 group-title="Sports",Locked on NBA
@@ -2018,11 +2020,11 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhnIhEjK1lSi0Im1g6_3Ugc
 #EXTINF:-1 group-title="Sports",MLB Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Sports",MLB Channel on Tubi
-https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
+https://livetv-fa.tubi.video/mlb3/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NHL Network
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhd1lp7hOdccj1MhIzVxSAs
 #EXTINF:-1 group-title="Sports",NHL Channel
-http://live-manifest.production-public.tubi.io/live/20003e55-c06b-4465-930a-8885dbb8f8bd/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 group-title="Sports",Altitude Sports Denver
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhCAkNVt4OjJq6pKvqRK1Xo
 #EXTINF:-1 group-title="Sports",Chicago Sports Network
@@ -2140,7 +2142,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYkqSlXlGtRYUlKloBPptbJQ
 #EXTINF:-1 group-title="Sports",Fanduel Sports (Mid-West)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYs3hJlWwgBitpkByD0oTBK8
 #EXTINF:-1 group-title="Sports",NASCAR
-https://live-manifest.production-public.tubi.io/live/3404f25c-24bd-4ced-9d72-f2b4d5f63c57/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MotorTrend
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYq4-q2tLQ6UfikSA6bDIQV8
 #EXTINF:-1 group-title="Sports",Sportman Channel
@@ -2152,7 +2154,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYkbAjaTrzBXDiqhtmjEoh_8
 #EXTINF:-1 group-title="Sports",MAV TV Select
 https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NHRA TV
-http://live-manifest.production-public.tubi.io/live/2b55583d-cfa8-440b-8f38-a0aef9950f75/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
 #EXTINF:-1 group-title="Sports",Speed Vision
 https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="Sports",The Outdoor Channel
@@ -2196,9 +2198,9 @@ https://212.102.60.10/DAZN_1/index.m3u8
 #EXTINF:-1 group-title="Sports",DAZN 2
 https://212.102.60.10/DAZN_2/index.m3u8
 #EXTINF:-1 group-title="Sports",DAZN Ringside
-http://live-manifest.production-public.tubi.io/live/656fc320-a76f-4be3-9b0d-50bc42fa59dd/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/playlist.m3u8
 #EXTINF:-1 group-title="Sports",DAZN Women's Football
-https://live-manifest.production-public.tubi.io/live/02e44bfa-2698-42e1-bd10-0f737d939992/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA4MTg0MTEsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6ZGF6bi13b21lbnMtZm9vdGJhbGwiLCJ1c2VyX2lkIjo3ODA1MjU0Mn0.-wUh2Z-ssKpkcMghIcgzHvuG1qAfP0IDeY6m7Kn9lQJqD8aD_QcAloTx-c9YOmbuxf3dv3BM1ebjuPX4OczKNw&ap-fb=https%3A%2F%2Flive-manifest.production-public.tubi.io%2Flive%2F02e44bfa-2698-42e1-bd10-0f737d939992%2Fplaylist.m3u8%3Ftoken%3DeyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA4MTg0MTEsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoieW86Njc0MjI2Mzc5IiwidXNlcl9pZCI6NzgwNTI1NDJ9.fb7hhZv8gtpkHpt4krlDXbWAYpoeRqFSe-BiIsb-1y0EZy58n8OuT6QqSPkYCK2U9TIVHdxnl-_5KPU7mHNfPg%26yo-fb%3Dhttps%253A%252F%252Flive-manifest.production-public.tubi.io%252Flive%252F02e44bfa-2698-42e1-bd10-0f737d939992%252Fplaylist.m3u8%253Ftoken%253DeyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA4MTg0MTEsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoicmMiLCJ1c2VyX2lkIjo3ODA1MjU0Mn0.Cz8Rbvp6njQFk3gow4mnEYuaVcM2arxR3_wmrH5uuYzwCxUFILmXLBh9geEuSTbgx_i7UaSgBvsz_Q5noNVGfQ&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=400000084&content_type=mp4&device_id=db131cb8-ea5a-4fdc-bbd7-43d3f14d50e5&language=en&now_pos=0&pub_id=c0d21f29265a6d9d8871cd1b06965507&user_id=78052542&vpaid_enabled=false&platform=WEB&ap.pt=2&ap.furl=0
+https://apollo.production-public.tubi.io/live/dazn-womens-football.m3u8
 #EXTINF:-1 group-title="Sports",WSN (Women's Sports Network)
 https://live-manifest.production-public.tubi.io/live/eb4ef15b-b69e-4b49-988f-c1c66a8e64d0/playlist.m3u8
 #EXTINF:-1 group-title="Sports",UFC Channel
@@ -2206,8 +2208,8 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtJdlPRQ22MKyYJKFVyApJU
 #EXTINF:-1 group-title="Sports",UFC TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 #EXTINF:-1 group-title="Sports",HBO Boxing by WB
-https://live-manifest.production-public.tubi.io/live/8bf58bf5-36ea-4ac8-ba4e-194ebc9af7e7/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA5OTI4ODYsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6d2JkLWhiby1ib3hpbmciLCJ1c2VyX2lkIjo3ODA1MjU0Mn0.COapQarWV8CCF-L4LHI3ANtiawPOO8aUfJBU0a94vcHaSYYumt45ntqOj14OrYO0bhCEKcdDzrNJSQC1XkUicQ&ap-fb=https%3A%2F%2Flive-manifest.production-public.tubi.io%2Flive%2F8bf58bf5-36ea-4ac8-ba4e-194ebc9af7e7%2Fplaylist.m3u8%3Ftoken%3DeyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA5OTI4ODYsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoieW86Njc0MDQ5MjEzIiwidXNlcl9pZCI6NzgwNTI1NDJ9.XHs_fZH0tpUS5-l62MQgRAe5myif5nQwyYYWagIyPrzWwExvcqPGiGj5IMvUg5ByxPSwwgHY5DhyZ1nDkbv5Qg%26yo-fb%3Dhttps%253A%252F%252Flive-manifest.production-public.tubi.io%252Flive%252F8bf58bf5-36ea-4ac8-ba4e-194ebc9af7e7%252Fplaylist.m3u8
-#EXTINF:-1 group-title="Sports",Fite 24/7
+https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8
+]#EXTINF:-1 group-title="Sports",Fite 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
 #EXTINF:-1 group-title="Sports",Fite by Triller 24/7
 https://live1009.delivery.roku.com/f28599a3-2f77-4182-a7a2-8bc782c2cc73/t2-origin/out/v1/live.m3u8
@@ -2280,7 +2282,7 @@ https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",CampusLore #2
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
 #EXTINF:-1 group-title="Sports",Women's Sports Network
-http://live-manifest.production-public.tubi.io/live/eb4ef15b-b69e-4b49-988f-c1c66a8e64d0/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
 #EXTINF:-1 group-title="Sports",BEK TV Sports
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports",TVS Sports
@@ -2436,7 +2438,7 @@ https://live1009.delivery.roku.com/7373a18f-b3e9-489b-af6c-abf6f226e159/t2-origi
 #EXTINF:-1 group-title="Premium Channels",FilmRise Action
 https://live1009.delivery.roku.com/6872f94b-9d18-49bf-83cb-832dd25a5cb4/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Horror
-http://live-manifest.production-public.tubi.io/live/cd2b34fc-ed87-4467-a85f-607febe5edab/playlist.m3u8
+https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Sci-Fi
 https://live1009.delivery.roku.com/3f4654d4-df13-4453-b224-3e5f73dcdc7b/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Z Nation
@@ -2477,6 +2479,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fcbcf414d
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 group-title="Premium Channels",At the Movies by WB
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+#EXTINF:-1 group-title="Premium Channels",Classic Cinema by WB
+https://apollo.production-public.tubi.io/live/wbd-classic-cinema.m3u8
 #EXTINF:-1 group-title="Premium Channels",IFC Film Picks
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 group-title="Premium Channels",70s Cinema (Pluto TV)
@@ -2527,7 +2531,7 @@ https://amg00056-vevotv-amg00056c19-slingtv-worldwide-1196.playouts.now.amagi.tv
 #EXTINF:-1 group-title="Music",Vevo Features
 https://amg00056-vevotv-amg00056c21-slingtv-worldwide-1200.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevofeatures-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=91bc0f16d53bf6bbb7446e3023a6d1485ab2867c&dnt=REPLACE_ME&lmt=1
 #EXTINF:-1 group-title="Music",Def Jam
-https://live-manifest.production-public.tubi.io/live/443900e8-7f66-47bd-880b-b3e2069922e4/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/playlist.m3u8
 #EXTINF:-1 group-title="Music",Nago TV
 https://lakay.online/public/nagotv/index.fmp4.m3u8
 #EXTINF:-1 group-title="Music",TVS Music Network
@@ -3613,7 +3617,7 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ITV Deportes #2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 group-title="Latino (Spanish)",beIN Sports Xtra en Español
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Deportes
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjwf48_RjPouJvGWb5aETKg
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Sports en Español (México)
