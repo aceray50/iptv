@@ -61,7 +61,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjOakpNT9KO2sAm3RawdnhY
 https://apollo.production-public.tubi.io/live/ac-wfld.m3u8
 #EXTINF:-1 group-title="Local Channels",WJBK-TV FOX 5 24/7 News (Detroit MI)
 https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
-#EXTINF:-1 group-title="Local Channels",WXYZ-TV ABC 7(Detroit MI)
+#EXTINF:-1 group-title="Local Channels",WXYZ-TV ABC 7 (Detroit MI)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiiOcGqqvWry1343ptuTx7U
 #EXTINF:-1 group-title="Local Channels",WXYZ-TV ABC 7 24/7 News (Detroit MI)
 https://content.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8
@@ -1065,24 +1065,43 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 http://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:-1 group-title="Latino (Spanish)",WLII-DT TeleOnce Univision 11 (San Juan PR)
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/126162
-#EXTINF:-1 group-title="Latino (Spanish)",WNJU-TV Telemundo 47 (New York NY)
-https://tvpass.org/live/TelemundoEast/hd
-#EXTINF:-1 group-title="Latino (Spanish)",WSCV-TV Telemundo 51 (Miami FL)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/56410
+#EXTINF:-1 group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131151
 #EXTINF:-1 group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
-http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/46692
+#EXTINF:-1 group-title="Latino (Spanish)",WNJU-TV Telemundo 47 (New York NY)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131152
 #EXTINF:-1 group-title="Latino (Spanish)",WFTY-DT UniMás 67 (New York NY)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148794
 #EXTINF:-1 group-title="Latino (Spanish)",WLTV-TV Univision 23 (Miami FL)
-http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",WAMI-DT UniMás 69 (Miami FL)
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/213854
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108248
+#EXTINF:-1 group-title="Latino (Spanish)",WSCV-TV Telemundo 51 (Miami FL)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/144836
+#EXTINF:-1 group-title="Latino (Spanish)",WSNS-TV Telemundo 44 (Chicago IL)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131344
+#EXTINF:-1 group-title="Latino (Spanish)",WGBO-DT Univision 66 (Chicago IL)
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/440967
+#EXTINF:-1 group-title="Latino (Spanish)",WNEU-TV Telemundo 60 (Boston MA)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131146
+#EXTINF:-1 group-title="Latino (Spanish)",KBLR-TV Telemundo 39 (Las Vegas NV)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131150
+#EXTINF:-1 group-title="Latino (Spanish)",KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131149
+#EXTINF:-1 group-title="Latino (Spanish)",KTAZ-TV Telemundo 39 (Phoenix AZ)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131153
+#EXTINF:-1 group-title="Latino (Spanish)",KSTS-TV Telemundo 48 (San Francisco CA)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131154
+#EXTINF:-1 group-title="Latino (Spanish)",WZDC-CD Telemundo 44 (Washington DC)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131155
+#EXTINF:-1 group-title="Latino (Spanish)",KNSO-TV Telemundo 51 (Clovis/Fresno CA)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131347
+#EXTINF:-1 group-title="Latino (Spanish)",WTMO-TV Telemundo 31 (Orlando FL)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131145
 #EXTINF:-1 group-title="Latino (Spanish)",UniMás
 https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Univision #1
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108248
-#EXTINF:-1 group-title="Latino (Spanish)",Univision #2
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/56997
+#EXTINF:-1 group-title="Latino (Spanish)",Univision
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131143
+
 #EXTINF:-1 group-title="Latino (Spanish)",Latin Hola TV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/139757
 #EXTINF:-1 group-title="Latino (Spanish)",WSBS-TV Mega TV 22 (Key West FL)
