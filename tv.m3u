@@ -293,8 +293,6 @@ https://live-manifest.production-public.tubi.io/live/868956a4-517e-4bba-a9a2-e83
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYr97R-i82IczVlPCkKHuwyk
 #EXTINF:-1 group-title="Local Channels",KPIX-TV CBS 4 24/7 News (San Francisco CA)
 http://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
-#EXTINF:-1 group-title="Local Channels",KGO-TV ABC 7 (San Francisco CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYl5E56FnLbTQl5saWjw0sYY
 #EXTINF:-1 group-title="Local Channels",KGO-TV ABC 7 24/7 News (San Francisco CA)
 https://content-ause1.uplynk.com/channel/7c0eae0d267941d283a3ab14dd6fd399.m3u8
 #EXTINF:-1 group-title="Local Channels",KNTV-TV NBC 10 (San Francisco CA)
@@ -305,7 +303,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/playlist.m3u8?ads.xumo_c
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYivcoRiLeKF6p7FKjA5OBTo
 #EXTINF:-1 group-title="Local Channels",KOVR-TV CBS 13 (Sacramento CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuxVgnE2SZ9IpXjRl3c6eYI
-#EXTINF:-1 group-title="Local Channels",KMAX-TV Ind. 31 (San Francisco CA)
+#EXTINF:-1 group-title="Local Channels",KMAX-TV Ind. 31 (Sacramento CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuvsasPqDXRjp4ymqnIE59o
 #EXTINF:-1 group-title="Local Channels",KTXL-TV FOX 40 (Sacramento CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYo4L23DKt3ornweG0-ZdsxE
