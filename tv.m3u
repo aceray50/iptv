@@ -1356,10 +1356,6 @@ http://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 https://d10d0llfaw1ovl.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/QuickTakeLive/live/origin-contribution-m1-bloomberg-quicktake-Haystack-TV.m3u8
 #EXTINF:-1 group-title="News",Bloomberg TV Politics Live Event
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 group-title="News",Bloomberg (UK)
-https://www.bloomberg.com/media-manifest/videos/android/WiFi/c0fd1f87-6441-4321-a85c-d4594ab762b2.m3u8?idType=BMMP
-#EXTINF:-1 group-title="News",Bloomberg (Austrailia)
-https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 group-title="News",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:-1 group-title="News",Yahoo! Finance
@@ -4028,6 +4024,10 @@ http://143.244.60.97/CRAVE_4/index.m3u8
 
 #EXTINF:-1 group-title="UK Channels",CNBC (UK)
 http://92.114.85.77:8000/play/a0b6
+#EXTINF:-1 group-title="UK Channels",Bloomberg (UK)
+https://www.bloomberg.com/media-manifest/videos/android/WiFi/c0fd1f87-6441-4321-a85c-d4594ab762b2.m3u8?idType=BMMP
+#EXTINF:-1 group-title="UK Channels",Bloomberg (Austrailia)
+https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 group-title="UK Channels",BBC World News
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYgE9P9cnXO2oOX1nKbL594I
 #EXTINF:-1 group-title="UK Channels",Sky News #1 (UK)
