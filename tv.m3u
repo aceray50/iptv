@@ -421,10 +421,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-non
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 group-title="Network Channels",Retro TV #1
+#EXTINF:-1 group-title="Network Channels",Retro TV
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
-#EXTINF:-1 group-title="Network Channels",Retro TV #2
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/4SlbcOkV2Gx79x3BxOby6g/1740764666/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Network Channels",Antenna TV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20180
 #EXTINF:-1 group-title="Network Channels",Comet
@@ -1073,14 +1071,18 @@ https://tvpass.org/live/TelemundoEast/hd
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/56410
 #EXTINF:-1 group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",WFTY-DT UniMás 67 (New York NY)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148794
 #EXTINF:-1 group-title="Latino (Spanish)",WLTV-TV Univision 23 (Miami FL)
 http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",WAMI-DT UniMás 69 (Miami FL)
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/213854
 #EXTINF:-1 group-title="Latino (Spanish)",UniMás
 https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Univision
+#EXTINF:-1 group-title="Latino (Spanish)",Univision #1
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108248
+#EXTINF:-1 group-title="Latino (Spanish)",Univision #2
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/56997
 #EXTINF:-1 group-title="Latino (Spanish)",Latin Hola TV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/139757
 #EXTINF:-1 group-title="Latino (Spanish)",WSBS-TV Mega TV 22 (Key West FL)
@@ -2285,20 +2287,6 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiisHR5FiVi3eucqGpNAUgY
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiK0IQQBH9Byc8r4Gcye0jw
 #EXTINF:-1 group-title="Premium Channels",HBO Family
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhbUyxS99FqyVOFP45wuGU0
-#EXTINF:-1 group-title="Premium Channels",HBO 2 (i/e)
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 group-title="Premium Channels",HBO Plus (i/e)
-http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 group-title="Premium Channels",HBO Mundi (i/e)
-http://170.254.18.106/HBO_MUNDI/index.m3u8
-#EXTINF:-1 group-title="Premium Channels",HBO Signature (i/e)
-http://170.254.18.106/HBO_SIG/index.m3u8
-#EXTINF:-1 group-title="Premium Channels",HBO Family (i/e)
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Premium Channels",HBO Xtreme (i/e)
-http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 group-title="Premium Channels",HBO en Español
-http://181.188.234.21:8000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Cinemax (West)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYgb3DjhwSlRmCN3ohSSZJFA
 #EXTINF:-1 group-title="Premium Channels",Cinemax (East)
@@ -2310,15 +2298,11 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13381
 #EXTINF:-1 group-title="Premium Channels",Movie Max
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYq60svfjsyxfl_MD4JDpWpA
 #EXTINF:-1 group-title="Premium Channels",Outer Max
-http://143.244.60.97/OUTER_MAX/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21012
 #EXTINF:-1 group-title="Premium Channels",Thriller Max
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjGAfre8e_VRb23lo1C5qE8
 #EXTINF:-1 group-title="Premium Channels",Action Max
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21013
-#EXTINF:-1 group-title="Premium Channels",Cinemax (i/e)
-http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="Premium Channels",Cinemax en Español
-http://181.188.234.21:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Showtime (West)
 http://143.244.60.97/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Showtime (East)
@@ -2364,15 +2348,15 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtDt5cYc7pmnCZljNU59Nk4
 #EXTINF:-1 group-title="Premium Channels",Starz Encore Family
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYj1IWnJAcFVAoC7GzjPonPI
 #EXTINF:-1 group-title="Premium Channels",MGM+ (Formally EPIX)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlnk3i9LmrNXEVMewZiKWlE
-#EXTINF:-1 group-title="Premium Channels",MGM+ 2
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmxo1Bw2uXriUqqn5gWCH40
+#EXTINF:-1 group-title="Premium Channels",MGM+ 2
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/12730
 #EXTINF:-1 group-title="Premium Channels",MGM+ Hits
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsuUw566IkYVqqGVplnHbJQ
 #EXTINF:-1 group-title="Premium Channels",MGM+ Drive-In
-http://143.244.60.97/EPIX_DRIVE_IN/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/14193
 #EXTINF:-1 group-title="Premium Channels",MGM+ Marquee
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsuUw566IkYVqqGVplnHbJQ
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlnk3i9LmrNXEVMewZiKWlE
 #EXTINF:-1 group-title="Premium Channels",MoviePlex
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYvBU32Srzmmoge5dmbjQb74
 #EXTINF:-1 group-title="Premium Channels",IndiePlex
@@ -3038,7 +3022,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58770
 #EXTINF:-1 group-title="Latino (Spanish)",NBC Universo
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiXPcDAfcvQZNVjLiUrEfk0
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Internacional
-http://181.188.234.21:8000/play/a04n/index.m3u8
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123480
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Al Día
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Acción
@@ -3091,22 +3075,20 @@ http://181.188.234.21:8000/play/a044/index.m3u8
 https://live1009.delivery.roku.com/26bc7b84-43bc-49f9-b180-e7427525cbaa/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",CBS en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Latino (Spanish)",AMC en Español
+#EXTINF:-1 group-title="Latino (Spanish)",AMC en Español (Pluto)
 https://4972c88f2f4c48bf9a9a5f4fd3623cbd.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_AMCenEspanol/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",AMC (i/e)
-http://170.254.18.106/AMC/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3019
 #EXTINF:-1 group-title="Latino (Spanish)",WB TV en Español
-http://181.188.234.21:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Universal en Español
-http://181.188.234.21:8000/play/a03a/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3013
+#EXTINF:-1 group-title="Latino (Spanish)",Universal Channel en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3012
 #EXTINF:-1 group-title="Latino (Spanish)",Studio Universal
 http://181.188.234.21:8000/play/a05s/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",E! Entertainment en Español
-http://181.188.234.21:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",TNT (i/e)
-http://170.254.18.106/TNT/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155962
 #EXTINF:-1 group-title="Latino (Spanish)",TNT en Español
-http://181.188.234.21:8000/play/a03f/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2797
 #EXTINF:-1 group-title="Latino (Spanish)",USA en Español
 http://181.188.234.21:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",USA (i/e)
@@ -3118,55 +3100,95 @@ http://170.254.18.106/PARAMOUNT/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",MTV (i/e)
 http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",MTV en Español
-http://181.188.234.21:8000/play/a03b/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3031
 #EXTINF:-1 group-title="Latino (Spanish)",MTV en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Latino (Spanish)",VH1 (i/e)
-http://170.254.18.106/VH1/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",VH1 en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3035
 #EXTINF:-1 group-title="Latino (Spanish)",BET (i/e)
 http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Nickelodeon en Español #1
-http://185.189.225.150:85/nickelodeon/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149681
 #EXTINF:-1 group-title="Latino (Spanish)",Nickelodeon en Español #2
-http://181.188.234.21:8000/play/a038/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/161034
 #EXTINF:-1 group-title="Latino (Spanish)",Nick en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd6bc-7b2e-11ef-a935-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1602d877-b320-408c-baba-bd38374c2743&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Latino (Spanish)",Nick Jr. en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149683
+#EXTINF:-1 group-title="Latino (Spanish)",TeenNick en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3022
 #EXTINF:-1 group-title="Latino (Spanish)",Disney Channel en Español
-http://181.188.234.21:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Disney Channel HD en Español
-http://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149676
 #EXTINF:-1 group-title="Latino (Spanish)",Disney Jr. en Español
-http://181.188.234.21:8000/play/a05q/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3849
 #EXTINF:-1 group-title="Latino (Spanish)",Cartoon Network en Español
 http://181.188.234.21:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Cartoonito en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149686
+#EXTINF:-1 group-title="Latino (Spanish)",Adult Swim en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155963
+#EXTINF:-1 group-title="Latino (Spanish)",Toon Cast
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149692
 #EXTINF:-1 group-title="Latino (Spanish)",Comedy Central en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2805
+#EXTINF:-1 group-title="Latino (Spanish)",Comedy Central en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Latino (Spanish)",Discovery Kids en Español
-http://181.188.234.21:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Discovery En Español
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57645
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149690
+#EXTINF:-1 group-title="Latino (Spanish)",Discovery en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2020
 #EXTINF:-1 group-title="Latino (Spanish)",Discovery Turbo en Español
 http://181.188.234.21:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Discovery Home and Health en Español
-http://181.188.234.21:8000/play/a05i/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2026
+#EXTINF:-1 group-title="Latino (Spanish)",Discovery Familia
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2029
+#EXTINF:-1 group-title="Latino (Spanish)",Discovery Theater en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2032
+#EXTINF:-1 group-title="Latino (Spanish)",Discovery World
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3606
+#EXTINF:-1 group-title="Latino (Spanish)",Investigation Discovery en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3605
+#EXTINF:-1 group-title="Latino (Spanish)",Discovery Turbo en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3702
+#EXTINF:-1 group-title="Latino (Spanish)",Discovery Science en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3713
 #EXTINF:-1 group-title="Latino (Spanish)",Animal Planet en Español
-http://181.188.234.21:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",History Channel (i/e)
-http://170.254.18.106/HISTORY/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",History Channel en Español
-http://181.188.234.21:8000/play/a039/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/153674
+#EXTINF:-1 group-title="Latino (Spanish)",History Channel en Español 
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3764
+#EXTINF:-1 group-title="Latino (Spanish)",H2 (History Channel 2) en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3778
 #EXTINF:-1 group-title="Latino (Spanish)",Nat Geo en Español
-http://181.188.234.21:8000/play/a021/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2015
+#EXTINF:-1 group-title="Latino (Spanish)",Nat Geo Wild en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2012
 #EXTINF:-1 group-title="Latino (Spanish)",Love Nautre en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-lovenatureusspa-freetv/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TLC en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3741
+#EXTINF:-1 group-title="Latino (Spanish)",Sundance en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3033
+#EXTINF:-1 group-title="Latino (Spanish)",Garage TV en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/136487
 #EXTINF:-1 group-title="Latino (Spanish)",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",A&E Mundo
-http://181.188.234.21:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",HGTV en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149648
+#EXTINF:-1 group-title="Latino (Spanish)",A&E
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3020
+#EXTINF:-1 group-title="Latino (Spanish)",Paramount Network en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2826
 #EXTINF:-1 group-title="Latino (Spanish)",FX en Español
-http://181.188.234.21:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",FX (i/e)
-http://170.254.18.106/FX/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2824
+#EXTINF:-1 group-title="Latino (Spanish)",Bravo (i/e)
+http://170.254.18.106/BRAVO/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",LifeTime (i/e)
+http://170.254.18.106/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Comedy Central (i/e)
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",AXN (i/e)
+http://170.254.18.106/AXN/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Always Funny en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=XFS46cy4dysF9DttxYif&_gl=1*uxq749*_gcl_au*ODM2NzY4ODIuMTczNzg1NTIwOQ..*_ga*MjIwNTAxMTIwLjE3Mzc4NTUyMDk.*_ga_G6FQWNSENB*MTczODA5MzUzOC41LjAuMTczODA5MzUzOC42MC4wLjA
 #EXTINF:-1 group-title="Latino (Spanish)",Más Risas
@@ -3197,20 +3219,10 @@ https://amg00235-amg00235c3-estrellamedia-us-4154.playouts.now.amagi.tv/playlist
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Gusto TV en Español
 https://amg01077-gustofast-amg01077c8-freetv-us-2222.playouts.now.amagi.tv/playlist/amg01077-gusto-gustoesp-freetvus/playlist.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Bravo (i/e)
-http://170.254.18.106/BRAVO/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",LifeTime (i/e)
-http://170.254.18.106/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Comedy Central (i/e)
-http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",AXN (i/e)
-http://170.254.18.106/AXN/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Toon Cast
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149692
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Mexicali
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740242902/ei/dqu5Z_PfIsussfIPlpXbwAo/ip/47.159.183.133/id/lV7s2f5nNcU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393160/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/maudio/1/bui/AUWDL3ymkMOEIkcsOaOr-j0RoNXAyvloHbLjyJz7oWzKBHFszURbk7aQtLZauDhlcfc5ej1gHWAjrZA3/spc/RjZbSQB-k1ANbTP3jGXWIbXju3wwGN0VFpb70jCA0UzO8zEIUoIvSLR1p9Y5b8EfAoH2W_U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ30J17P_7jxV3sPgKisCw7CSWOrJRLQi_pfzPaIMV91AiB3HQe8SOAvo16_JjIJCa5p2CWvTjJQ1FOA4pqxoAIs2Q%3D%3D/file/index.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149214
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Tijuana
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243041/ei/Aay5Z-C9C_i9sfIPneSK2AM/ip/47.159.183.133/id/0Tu0ug3CAlg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393160/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3wDGzNJD7EVow0YYrpx6rJi7ga5n8rxQsSOrAVSa3O-TVoEyQVaWw9tzEDUNraVZ_gRPNRVipFQ/spc/RjZbSawlk1OIk5jAt-Y-8eThWajx1CxbYX2ssje_3s7pwqCL8I_722l5SLafVo0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPtMeaC0MS4lgqcuWp4ijoC0NbTLy9TeYgHrIcftykAoAiAYCwWHHEaGsTlXFIK7lavC4_-s3d9AvKz9veMoG_8JGQ%3D%3D/file/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150362
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Aguascalientes
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243101/ei/Pay5Z859nryx8g-b76igDg/ip/47.159.183.133/id/U-a3gE_u1ng.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393160/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3wqXStyYs5FQQE8y1ALGg5ppzMp-_Z6Feq529VhbRE6Za3zPJ81RW9AX7ixPHjIXFo_ch0h2JhV/spc/RjZbSd9H2z8_7GxXZFBTYxvL1L2sMvTwLDZl48WazgAYVT_BC3S_7WYucRe4dw0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYlB3ExQvZczfF0-tkfBZBKOx9P3XaWI063sHCceahZkCIQDQkE7K_y7CJXnBebBvJrVzYocWMJKziSbWY7GGuKFbTw%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Guadalajara
@@ -3228,7 +3240,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243505/ei/0
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Sonora
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243569/ei/Ea65Z_frLs6UsfIPn8vAeA/ip/47.159.183.133/id/ly8skBLUU4E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393160/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3zIMax4CF_0-N2tiriyeYRmphzMUqdYLsd1MBoJSWdnQfTNiQCofBEXH-laOFrC6L8iiUuR53tF/spc/RjZbSSjd7L9bUKGpzD6Ny5kdZHyl8Wb0ELefjKSKML3cEaquJmKZAZ0PFJjAGe4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALgAvayg3heiB9-xeAJUZMXoP7yoPV174K3Vb6hYv5krAiAwpvRZDp68jgoOYOZRm80_5s1UKLL71DacLQR4jbMZxw%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Puebla
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243622/ei/Rq65Z5vfE9epsfIPuPHXsQo/ip/47.159.183.133/id/0psOGZ6ypa0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393160/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3yRzgmvrlMxtWZmboSIn-7fen9eZ_J7RIcsUSoqV3kgb40L2pV0TieXZoFLgzORuk7Cy4sTYdR8/spc/RjZbSUZKKpd3pr-DsS9TfWS_g-A9mGKPBZ4ybeYI7s91XFRss37JBWV_4bsFji0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcdHRNecaUXBHJL0OwVLaPrNAhOtXdqKl8kzfkhgsnh8CICV02hO4Qu5vAE9dvSII6pgnm6xSruuTND7PN57uK9Sb/file/index.m3u8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/129043
 #EXTINF:-1 group-title="Latino (Spanish)",América TeVé
 https://live1009.delivery.roku.com/34a28884-2772-480e-9b98-7c324767a795/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Latino Vibes
@@ -3261,8 +3273,10 @@ https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg0037
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Univision TL Novelas
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126910
-#EXTINF:-1 group-title="Latino (Spanish)",TL Novelas (México)
+#EXTINF:-1 group-title="Latino (Spanish)",TL Novelas #1 (México)
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/110862
+#EXTINF:-1 group-title="Latino (Spanish)",TL Novelas #2 (México)
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10572
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d5d9e-7b2e-11ef-9e52-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3879f173-1091-4b31-a197-b44138458061&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Latino (Spanish)",Novelas Channel
@@ -3347,7 +3361,27 @@ https://live1009.delivery.roku.com/a1d79c89-6586-4a31-94eb-7ac7fd56577f/t2-origi
 https://live1009.delivery.roku.com/6db7c87c-7e4b-4de4-bb6e-70efaac30d60/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Pasión Latina
 https://live1009.delivery.roku.com/15a389c6-1b0d-4f8b-93d9-7a6ea0254e7f/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",STAR Channel (i/e)
+#EXTINF:-1 group-title="Latino (Spanish)",HBO
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10885
+#EXTINF:-1 group-title="Latino (Spanish)",HBO 2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2806
+#EXTINF:-1 group-title="Latino (Spanish)",HBO Plus
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10879
+#EXTINF:-1 group-title="Latino (Spanish)",HBO Mundi
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10863
+#EXTINF:-1 group-title="Latino (Spanish)",HBO Signature
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10882
+#EXTINF:-1 group-title="Latino (Spanish)",HBO Family
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10878
+#EXTINF:-1 group-title="Latino (Spanish)",HBO Pop
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/41420
+#EXTINF:-1 group-title="Latino (Spanish)",HBO Xtreme
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135858
+#EXTINF:-1 group-title="Latino (Spanish)",HBO en Español
+http://181.188.234.21:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Cinemax en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/133790
+#EXTINF:-1 group-title="Latino (Spanish)",STAR Channel
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Filmex Peliculas
 https://live1009.delivery.roku.com/945088aa-1621-45a8-a1bd-3d40f3701e0c/t2-origin/out/v1/live.m3u8
@@ -3494,8 +3528,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #EXTINF:-1 group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",N+ FORO
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3748
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3748
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150241
 #EXTINF:-1 group-title="Latino (Spanish)",N+ Noticias
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index_5.m3u8&redirect=true
 #EXTINF:-1 group-title="Latino (Spanish)",ADN 40
