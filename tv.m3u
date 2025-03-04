@@ -141,8 +141,14 @@ https://content.uplynk.com/channel/21cc54a6fc484e6ba580befaadf83502.m3u8
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmWIyVmuPS2CPv0XquAfpbY
 #EXTINF:-1 group-title="Local Channels",WFTV-TV ABC 9 (Orlando FL)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhxmyGf3s3MOHGEo3tbBaDI
+#EXTINF:-1 group-title="Local Channels",WFTV-TV ABC 9 Now (Orlando FL)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvnow-ono/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WFTV-TV ABC 9 24/7 News (Orlando FL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvnow-ono/playlist.m3u8
+#EXTINF:-1 group-title="Local Channels",WFTV-TV ABC 9 Breaking News 24/7 (Orlando FL)
+https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
+#EXTINF:-1 group-title="Local Channels",WFTV-TV ABC 9 Weather 24/7 (Orlando FL)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvweather-ono/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WFOL-TV FOX 35 (Orlando FL)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYk9KYJg7sUzViABTug9LTEU
 #EXTINF:-1 group-title="Local Channels",WACX-TV 55.1 SuperChannel Orlando (Orlando FL)
@@ -1109,7 +1115,6 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131145
 https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Univision
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131143
-
 #EXTINF:-1 group-title="Latino (Spanish)",Latin Hola TV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/139757
 #EXTINF:-1 group-title="Latino (Spanish)",WSBS-TV Mega TV 22 (Key West FL)
@@ -2390,7 +2395,8 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYswHRSSwQUYOycE8DxwzE6c
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYijm5sbEBixB7XWVjXUwf84
 #EXTINF:-1 group-title="Premium Channels",PixL
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmM--ZmT8HX_Vzp3GWI1Phw
-
+#EXTINF:-1 group-title=",AXN
+http://170.254.18.106/AXN/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 #EXTINF:-1 group-title="Premium Channels",Free Movies+
@@ -3064,6 +3070,8 @@ http://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TV Azteca GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Cinema Azteca (Mexico)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3706
 #EXTINF:-1 group-title="Latino (Spanish)",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Nosey Escándalos
@@ -3098,7 +3106,7 @@ https://live1009.delivery.roku.com/26bc7b84-43bc-49f9-b180-e7427525cbaa/t2-origi
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Latino (Spanish)",AMC en Español (Pluto)
 https://4972c88f2f4c48bf9a9a5f4fd3623cbd.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_AMCenEspanol/playlist.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",AMC (i/e)
+#EXTINF:-1 group-title="Latino (Spanish)",AMC en Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3019
 #EXTINF:-1 group-title="Latino (Spanish)",WB TV en Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3013
@@ -3116,10 +3124,10 @@ http://181.188.234.21:8000/play/a03i/index.m3u8
 http://170.254.18.106/USA/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TBS (i/e)
 http://170.254.18.106/TBS/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Paramount Network (i/e)
-http://170.254.18.106/PARAMOUNT/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",MTV (i/e)
-http://170.254.18.106/MTV/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Paramount Network en Español
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150111
+#EXTINF:-1 group-title="Latino (Spanish)",MTV
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3031
 #EXTINF:-1 group-title="Latino (Spanish)",MTV en Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3031
 #EXTINF:-1 group-title="Latino (Spanish)",MTV en Español (Pluto TV)
@@ -3150,6 +3158,10 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149686
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155963
 #EXTINF:-1 group-title="Latino (Spanish)",Toon Cast
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149692
+#EXTINF:-1 group-title="Latino (Spanish)",Baby First en Español
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149688
+#EXTINF:-1 group-title="Latino (Spanish)",Baby TV
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149689
 #EXTINF:-1 group-title="Latino (Spanish)",Comedy Central en Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2805
 #EXTINF:-1 group-title="Latino (Spanish)",Comedy Central en Español (Pluto TV)
@@ -3196,20 +3208,22 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/136487
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",HGTV en Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149648
-#EXTINF:-1 group-title="Latino (Spanish)",A&E
+#EXTINF:-1 group-title="Latino (Spanish)",A&E en Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3020
+#EXTINF:-1 group-title="Latino (Spanish)",Universal Crime
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3758
 #EXTINF:-1 group-title="Latino (Spanish)",Paramount Network en Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2826
 #EXTINF:-1 group-title="Latino (Spanish)",FX en Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2824
 #EXTINF:-1 group-title="Latino (Spanish)",Bravo (i/e)
 http://170.254.18.106/BRAVO/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",LifeTime (i/e)
-http://170.254.18.106/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Comedy Central (i/e)
-http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",AXN (i/e)
-http://170.254.18.106/AXN/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",LifeTime
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/155401
+#EXTINF:-1 group-title="Latino (Spanish)",Comedy Central en Español
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/2805
+#EXTINF:-1 group-title="Latino (Spanish)",Universal Reality
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3750
 #EXTINF:-1 group-title="Latino (Spanish)",Always Funny en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=XFS46cy4dysF9DttxYif&_gl=1*uxq749*_gcl_au*ODM2NzY4ODIuMTczNzg1NTIwOQ..*_ga*MjIwNTAxMTIwLjE3Mzc4NTUyMDk.*_ga_G6FQWNSENB*MTczODA5MzUzOC41LjAuMTczODA5MzUzOC42MC4wLjA
 #EXTINF:-1 group-title="Latino (Spanish)",Más Risas
@@ -3346,6 +3360,12 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a9
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/155849
 #EXTINF:-1 group-title="Latino (Spanish)",Todo Cine
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
+#EXTINF:-1 group-title="Latino (Spanish)",AXN en Español
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3704
+#EXTINF:-1 group-title="Latino (Spanish)",Cine AXN (Mexico)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3704
+#EXTINF:-1 group-title="Latino (Spanish)",Universal Premier
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3754
 #EXTINF:-1 group-title="Latino (Spanish)",FLOU Detonación
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-673675909564224797d5b598.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Latino (Spanish)",FreeTV Live
@@ -3423,13 +3443,11 @@ http://181.188.234.21:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Cine Romantico
 https://live1009.delivery.roku.com/7ee12862-2d8d-447d-9124-553bfec17e48/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TCM (i/e)
-http://181.188.234.21:8000/play/a03d/index.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3795
 #EXTINF:-1 group-title="Latino (Spanish)",TC Television en Español
 http://181.188.234.21:8000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TVOAI Channel
 https://live1009.delivery.roku.com/7116f600-81d1-4d49-a48f-1931332d0180/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",AXN en Español
-http://181.188.234.21:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",AFV Espanol
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Delicioso TV
@@ -3815,24 +3833,36 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 #EXTINF:-1 group-title="Canadian Channels",Weather Network Toronto (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57470
-#EXTINF:-1 group-title="Canadian Channels",Cartoon Network (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57356
-#EXTINF:-1 group-title="Canadian Channels",Boomerang (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57380
-#EXTINF:-1 group-title="Canadian Channels",Disney Channel (Canada)
-http://143.244.60.97/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Canadian Channels",Disney Junior (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57349
-#EXTINF:-1 group-title="Canadian Channels",Disney XD (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57420
+#EXTINF:-1 group-title="Canadian Channels",Court TV (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/229643
+#EXTINF:-1 group-title="Canadian Channels",PBS Kids (Canada) 
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/445456
+#EXTINF:-1 group-title="Canadian Channels",Family (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238360
 #EXTINF:-1 group-title="Canadian Channels",Family Jr. (Canada) 
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57346
 #EXTINF:-1 group-title="Canadian Channels",Nickelodeon (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47349
+#EXTINF:-1 group-title="Canadian Channels",Nicktoons (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130455
 #EXTINF:-1 group-title="Canadian Channels",Treehouse (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57371
 #EXTINF:-1 group-title="Canadian Channels",YTV (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/63850
+#EXTINF:-1 group-title="Canadian Channels",Disney Channel (Canada)
+http://143.244.60.97/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Canadian Channels",Disney XD (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57420
+#EXTINF:-1 group-title="Canadian Channels",Disney Junior (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57349
+#EXTINF:-1 group-title="Canadian Channels",Cartoon Network (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57356
+#EXTINF:-1 group-title="Canadian Channels",Boomerang (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57380
+#EXTINF:-1 group-title="Canadian Channels",Télétoon French (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130470
+#EXTINF:-1 group-title="Canadian Channels",MTV 2 (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130451
 #EXTINF:-1 group-title="Canadian Channels",APTN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57320
 #EXTINF:-1 group-title="Canadian Channels",USA Network (Canada)
@@ -3909,6 +3939,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58023
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57478
 #EXTINF:-1 group-title="Canadian Channels",Bravo (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57366
+#EXTINF:-1 group-title="Canadian Channels",Prase 2 (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238365
 #EXTINF:-1 group-title="Canadian Channels",Lifetime (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57271
 #EXTINF:-1 group-title="Canadian Channels",Lifetime Movie Network (Canada)
@@ -3973,6 +4005,8 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN 5 (Canada)
 http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 group-title="Canadian Channels",beIN Sports (Canada)
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/445335
 #EXTINF:-1 group-title="Canadian Channels",NBA TV (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/22995
 #EXTINF:-1 group-title="Canadian Channels",World Fishing Network (Canada)
@@ -4118,6 +4152,12 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53682
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53661
 #EXTINF:-1 group-title="UK Channels",CBS Justice (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/134942
+#EXTINF:-1 group-title="UK Channels",CBS True Crime (UK)
+http://92.114.85.81:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="UK Channels",True Crime +1 (UK)
+http://92.114.85.81:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="UK Channels",True Crime Xtra (UK)
+http://92.114.85.81:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Legend (UK)
 http://92.114.85.81:8000/play/a01p/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Legend Xtra+ (UK)
@@ -4146,12 +4186,6 @@ http://92.114.85.81:8000/play/a01l/index.m3u8
 http://92.114.85.81:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="UK Channels",PBS America (UK)
 http://92.114.85.81:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="UK Channels",CBS True Crime (UK)
-http://92.114.85.81:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="UK Channels",True Crime +1
-http://92.114.85.81:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="UK Channels",True Crime Xtra (UK)
-http://92.114.85.81:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Horse & Country TV (UK)
 https://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="UK Channels",QVC (UK)
@@ -4178,9 +4212,9 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="UK Channels",Racing.com (Austrailia)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 group-title="UK Channels",Willow Cricket
+#EXTINF:-1 group-title="UK Channels",Willow Cricket (UK)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYkqX10IJphykmerZdfhE1IQ
-#EXTINF:-1 group-title="UK Channels",Willow Cricket Xtra
+#EXTINF:-1 group-title="UK Channels",Willow Cricket Xtra (UK)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlUG3FZBNR7t1B-G7kszzUw
 #EXTINF:-1 group-title="UK Channels",Willow Sports (Austrailia)
 https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
@@ -4198,7 +4232,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53705
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53704
 #EXTINF:-1 group-title="UK Channels",Sky Sports Racing (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53741
-#EXTINF:-1 group-title="UK Channels",EuroSports 1 #1(UK)
+#EXTINF:-1 group-title="UK Channels",EuroSports 1 #1 (UK)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsAglIpOeU_G1M2HA5T6_FA
 #EXTINF:-1 group-title="UK Channels",EuroSports 1 #2 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53713
