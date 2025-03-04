@@ -1506,8 +1506,6 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiYDCBeAJCZuRfMGDC0DJtA
 https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 group-title="Children Channels",Universal Kids
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYglR3mOP_uKSXe8Bs-CQdi8
-#EXTINF:-1 group-title="Children Channels",Zoo Moo (Australia)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYt591cd7OqseFyOnxc_1Bt8
 #EXTINF:-1 group-title="Children Channels",FilmRise Kids
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Children Channels",FilmRise Anime
@@ -1615,7 +1613,7 @@ https://amg01312-cw-amg01312c26-cw-us-4227.playouts.now.amagi.tv/playlist/amg013
 #EXTINF:-1 group-title="Comedy",AFV Family
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Comedy",Just for Laughs TV
-https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
+https://dbrb49pjoymg4.cloudfront.net/10001/99991176/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991176
 #EXTINF:-1 group-title="Comedy",Just for Laughs Gags
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
 #EXTINF:-1 group-title="Comedy",Funny Or Die, Inc.
@@ -3061,7 +3059,7 @@ http://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Internacional adn 40
 https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Uno
-http://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3801
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Noticias
 http://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca 7
@@ -3208,6 +3206,14 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/136487
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",HGTV en Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149648
+#EXTINF:-1 group-title="Latino (Spanish)",Hallmark en Español
+https://amg00235-amg00235c3-estrellamedia-us-4154.playouts.now.amagi.tv/playlist/amg00235-crownmediafamilynetworksfast-hallmarkenespanolplex-estrellamediaworldwide/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",MyTime Movie Network en Español (México)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Food Network en Español (México)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3746
+#EXTINF:-1 group-title="Latino (Spanish)",Gusto TV en Español
+https://amg01077-gustofast-amg01077c8-freetv-us-2222.playouts.now.amagi.tv/playlist/amg01077-gusto-gustoesp-freetvus/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",A&E en Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3020
 #EXTINF:-1 group-title="Latino (Spanish)",Universal Crime
@@ -3248,12 +3254,6 @@ https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 https://edge.streann.com/almavision1/almavision1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDA1NzczMDEsInJpZCI6IjU2ZmFjNmZhZTRiMDVkYjViM2I3Y2Q1YSIsImtleSI6ImtleTEiLCJjaWQiOiI1Y2JhMjk3YzJjZGNjZmRjNTJmZjhiYTMifQ.IKzdRUVy2QHy2QUOOzaRsIZ-d8nzx9FV1OLFFh7XJMw
 #EXTINF:-1 group-title="Latino (Spanish)",Visión Latina
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/8adc9953-2bbd-2432-1708-e47d4fa08b96.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Hallmark en Español
-https://amg00235-amg00235c3-estrellamedia-us-4154.playouts.now.amagi.tv/playlist/amg00235-crownmediafamilynetworksfast-hallmarkenespanolplex-estrellamediaworldwide/playlist.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",MyTime Movie Network en Español (México)
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Gusto TV en Español
-https://amg01077-gustofast-amg01077c8-freetv-us-2222.playouts.now.amagi.tv/playlist/amg01077-gusto-gustoesp-freetvus/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Mexicali
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149214
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Tijuana
@@ -3775,6 +3775,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57304
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47281
 #EXTINF:-1 group-title="Canadian Channels",CNN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47213
+#EXTINF:-1 group-title="Canadian Channels",CNN International (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130411
 #EXTINF:-1 group-title="Canadian Channels",HLN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57441
 #EXTINF:-1 group-title="Canadian Channels",MSNBC (Canada)
@@ -3916,7 +3918,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/107190
 #EXTINF:-1 group-title="Canadian Channels",Travel Escape (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108136
 #EXTINF:-1 group-title="Canadian Channels",Dejaview (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122001
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238357
 #EXTINF:-1 group-title="Canadian Channels",HPItv East (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/173131
 #EXTINF:-1 group-title="Canadian Channels",Much Music (Canada)
@@ -3965,8 +3967,10 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57393
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75653
 #EXTINF:-1 group-title="Canadian Channels",CMT (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57258
-#EXTINF:-1 group-title="Canadian Channels",Cottage Life (Canada)
+#EXTINF:-1 group-title="Canadian Channels",Cottage Life #1 (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47217
+#EXTINF:-1 group-title="Canadian Channels",Cottage Life #2 (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130435
 #EXTINF:-1 group-title="Canadian Channels",CP24 (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47218
 #EXTINF:-1 group-title="Canadian Channels",CPAC English (Canada)
@@ -3977,8 +3981,12 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57351
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57250
 #EXTINF:-1 group-title="Canadian Channels",E! (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57249
+#EXTINF:-1 group-title="Canadian Channels",Comedy Central (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130413
 #EXTINF:-1 group-title="Canadian Channels",Flavour Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57247
+#EXTINF:-1 group-title="Canadian Channels",Food Network (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130437
 #EXTINF:-1 group-title="Canadian Channels",The Cooking Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/107960
 #EXTINF:-1 group-title="Canadian Channels",FX (Canada)
@@ -4130,6 +4138,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53719
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53730
 #EXTINF:-1 group-title="UK Channels",CBBC (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53720
+#EXTINF:-1 group-title="UK Channels",Zoo Moo (Australia)
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYt591cd7OqseFyOnxc_1Bt8
 #EXTINF:-1 group-title="UK Channels",Drama (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53677
 #EXTINF:-1 group-title="UK Channels",E4 (UK)
