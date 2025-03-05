@@ -8,7 +8,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuL60lBSPz6LbfnXE21ah6g
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
 #EXTINF:-1 group-title="Local Channels",KTLA-TV CW 5 (Los Angeles CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYvrN8-EbWY3If8IPg6P2DWA
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYphdD9piEr7SgwmBKOMK1ZE
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrFTZ_OHR0jtt67WpdacF8M
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
@@ -22,7 +22,7 @@ https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 #EXTINF:-1 group-title="Local Channels",KCOP-TV MyNetworkTV 13 FOX 11+ (Los Angeles CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmG581hQ2J1EdpNmiZeG-ME
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYu8E9AY415HaDQiyiFOW-M8
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYqKMJcjOgRiaArwuIfDM5Ow
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 24/7 News (New York NY)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
@@ -513,6 +513,8 @@ http://195.181.163.243/COZI_TV/index.m3u8
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66087
 #EXTINF:-1 group-title="Network Channels",Start TV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/137680
+#EXTINF:-1 group-title="Network Channels",fetv (Family Entertainment Television)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/172481
 #EXTINF:-1 group-title="Network Channels",Get TV
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Grit TV
@@ -1328,6 +1330,8 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjmscAN51oTo9pQ4wqsRYIM
 https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
 #EXTINF:-1 group-title="Documentary",Infamous TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+#EXTINF:-1 group-title="Documentary",Fubo Crime Time
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYnOBZE_H0KU_cvdY53yhlAA
 #EXTINF:-1 group-title="Documentary",Oxygen True Crime
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtjgY7NCnRMXfHLckRbFWNE
 #EXTINF:-1 group-title="Documentary",True Crime Network+
@@ -1579,14 +1583,16 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9a
 
 #EXTINF:-1 group-title="Network Channels",TV Land
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYshL2L4SKbPLCCyfrgTTQeU
-#EXTINF:-1 group-title="Network Channels",MTV
+#EXTINF:-1 group-title="Network Channels",MTV (West)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlZ3PhNcslvPcLZRV_iMW_s
+#EXTINF:-1 group-title="Network Channels",MTV (East)
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmqxiUF9fkf_qmzA1rTuP2g
 #EXTINF:-1 group-title="Network Channels",MTV (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",MTV 2
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhC90j15ozR2IXuvqaoO8ZA
 #EXTINF:-1 group-title="Network Channels",MTV Classic
-http://143.244.60.97/MTV_CLASSIC/index.m3u8
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrESXwYVH0uma6D5g9TY0Os
 #EXTINF:-1 group-title="Network Channels",MTV Live
 http://143.244.60.97/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Network Channels",MTV U
@@ -1715,6 +1721,10 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbs
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhqLSGoFX-TOnsEGqxDJu9k
 #EXTINF:-1 group-title="Network Channels",USA Network (East)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYl3tdyfPLtqkP1J7WMWtgm8
+#EXTINF:-1 group-title="Network Channels",Fubo Terrified
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlJbrabn4WGzh_8Iftpwpwk
+#EXTINF:-1 group-title="Network Channels",Golden Edge
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYgnRag4bgOZy0Ntpg_g-4tU
 #EXTINF:-1 group-title="Network Channels",El Rey Rebel
 https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-elrey-ono/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",A&E (Arts & Entertainment)
@@ -3658,6 +3668,8 @@ https://dai.google.com/linear/hls/event/j-Z_2JOSSByv4z2OibrTfw/master.m3u8
 https://5f700d5b2c46f.streamlock.net/televidaabundante/televidaabundante/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Venevisión Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Mega TV (Spain)
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYkjk6MjuAFTiCCnM4YdL4gE
 #EXTINF:-1 group-title="Latino (Spanish)",+Show
 https://dai.google.com/linear/hls/event/-AWPFPgOSYmzk76BOlpsHA/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",mas Talk
@@ -4093,6 +4105,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/107960
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57268
 #EXTINF:-1 group-title="Canadian Channels",FXX (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57429
+#EXTINF:-1 group-title="Canadian Channels",TCM (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66242
 #EXTINF:-1 group-title="Canadian Channels",Game Show Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57430
 #EXTINF:-1 group-title="Religious",3ABN (Canada)
