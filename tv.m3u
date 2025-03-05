@@ -4238,10 +4238,10 @@ http://92.114.85.81:8000/play/a01y/index.m3u8
 http://92.114.85.81:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Horse & Country TV (UK)
 https://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Religious",TBN Pacific (Austrailia)
-https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
-#EXTINF:-1 group-title="Religious",TBN (UK)
+#EXTINF:-1 group-title="UK Channels",TBN (UK)
 https://livecdn.euw1-0005.jwplive.com/live/sites/Yal8cmyO/media/r08fY89I/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
+#EXTINF:-1 group-title="UK Channels",TBN Pacific (Austrailia)
+https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
 #EXTINF:-1 group-title="UK Channels",QVC (UK)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 group-title="UK Channels",QVC Beauty (UK)
