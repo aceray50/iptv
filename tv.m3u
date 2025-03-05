@@ -1882,10 +1882,6 @@ https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.is
 https://amg01700-tbn-amg01700c2-tbn-worldwide-966.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-tbnselect-tbnworldwide/playlist.m3u8?user_id=00uo63wifd34FGAJu697
 #EXTINF:-1 group-title="Religious",TBN Women of Faith
 https://amg01700-tbn-amg01700c1-tbn-worldwide-967.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-womenoffaithontbn-tbnworldwide/playlist.m3u8?user_id=00uo63wifd34FGAJu697
-#EXTINF:-1 group-title="Religious",TBN Pacific (Austrailia)
-https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
-#EXTINF:-1 group-title="Religious",TBN (UK)
-https://livecdn.euw1-0005.jwplive.com/live/sites/Yal8cmyO/media/r08fY89I/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
 #EXTINF:-1 group-title="Religious",TBN Africa
 https://livecdn.euw1-0005.jwplive.com/live/sites/Yal8cmyO/media/OSANTCwg/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
 #EXTINF:-1 group-title="Religious",Yippee.tv
@@ -2195,9 +2191,9 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrKP0mRvhI48ss6TGX4OJjg
 #EXTINF:-1 group-title="Sports",Swerve Sports
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYi7EppPWYlrHoIQomuzPJmw
 #EXTINF:-1 group-title="Sports",DAZN 1
-https://212.102.60.10/DAZN_1/index.m3u8
+http://fl4.moveonjoy.com/DAZN_1/index.m3u8
 #EXTINF:-1 group-title="Sports",DAZN 2
-https://212.102.60.10/DAZN_2/index.m3u8
+http://fl4.moveonjoy.com/DAZN_2/index.m3u8
 #EXTINF:-1 group-title="Sports",DAZN Ringside
 https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/playlist.m3u8
 #EXTINF:-1 group-title="Sports",DAZN Women's Football
@@ -3307,7 +3303,7 @@ https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg0037
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Univision TL Novelas
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126910
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131156
 #EXTINF:-1 group-title="Latino (Spanish)",TL Novelas #1 (México)
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/110862
 #EXTINF:-1 group-title="Latino (Spanish)",TL Novelas #2 (México)
@@ -3595,7 +3591,7 @@ https://dai.google.com/linear/hls/event/j-Z_2JOSSByv4z2OibrTfw/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TVA Tele Vida Abundante
 https://5f700d5b2c46f.streamlock.net/televidaabundante/televidaabundante/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Venevisión Internacional
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",+Show
 https://dai.google.com/linear/hls/event/-AWPFPgOSYmzk76BOlpsHA/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",mas Talk
@@ -3626,10 +3622,8 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoQwBnkhmTzP8ZjKWbah9tA
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",SKY Sports La Liga #2
 http://181.78.105.146:8800/play/a07h
-#EXTINF:-1 group-title="Latino (Spanish)",ITV Deportes #1
+#EXTINF:-1 group-title="Latino (Spanish)",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",ITV Deportes #2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 group-title="Latino (Spanish)",beIN Sports Xtra en Español
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Deportes
@@ -4244,6 +4238,10 @@ http://92.114.85.81:8000/play/a01y/index.m3u8
 http://92.114.85.81:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Horse & Country TV (UK)
 https://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="Religious",TBN Pacific (Austrailia)
+https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
+#EXTINF:-1 group-title="Religious",TBN (UK)
+https://livecdn.euw1-0005.jwplive.com/live/sites/Yal8cmyO/media/r08fY89I/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
 #EXTINF:-1 group-title="UK Channels",QVC (UK)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 group-title="UK Channels",QVC Beauty (UK)
