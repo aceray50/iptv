@@ -1622,7 +1622,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYqp4TFwLBQhjN9MhWVNquoM
 #EXTINF:-1 group-title="Network Channels",Revolt
 http://143.244.60.97/REVOLT/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Cleo TV
-http://195.181.163.243/Cleo_TV/index.m3u8
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjMZwbc1HA3jWSlJX38z9rM
 #EXTINF:-1 group-title="Network Channels",Shades of Black
 https://fuse-beats-oando.amagi.tv/hls/amagi_hls_data_fuseAAAAA-fusebeats-oando/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",BlackPix
@@ -2433,16 +2433,14 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrXg7gjc3kskE44iXeCggGI
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtDt5cYc7pmnCZljNU59Nk4
 #EXTINF:-1 group-title="Premium Channels",Starz Encore Family
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYj1IWnJAcFVAoC7GzjPonPI
-#EXTINF:-1 group-title="Premium Channels",MGM+ (Formally EPIX)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmxo1Bw2uXriUqqn5gWCH40
-#EXTINF:-1 group-title="Premium Channels",MGM+ 2
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/12730
+#EXTINF:-1 group-title="Premium Channels",MGM+
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131051
 #EXTINF:-1 group-title="Premium Channels",MGM+ Hits
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsuUw566IkYVqqGVplnHbJQ
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmxo1Bw2uXriUqqn5gWCH40
 #EXTINF:-1 group-title="Premium Channels",MGM+ Drive-In
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/14193
 #EXTINF:-1 group-title="Premium Channels",MGM+ Marquee
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlnk3i9LmrNXEVMewZiKWlE
+http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsuUw566IkYVqqGVplnHbJQ
 #EXTINF:-1 group-title="Premium Channels",MoviePlex
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYvBU32Srzmmoge5dmbjQb74
 #EXTINF:-1 group-title="Premium Channels",IndiePlex
@@ -3122,12 +3120,14 @@ http://mdstrm.com/live-stream-playlist/66a994b341503a3e9bc0d5a6.m3u8
 http://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Internacional adn 40
 https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Azteca Mundo
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145512
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Uno
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3801
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3801
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Noticias
 http://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca 7
-http://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092601
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca-TV UNO -1 HR
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TV Azteca GUATE
