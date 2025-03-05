@@ -363,6 +363,8 @@ https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlr2rFk5FM3zUueQhJqJHHE
 #EXTINF:-1 group-title="Local Channels",KFSN-TV ABC 30 (Fresno CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYqyho8zMfwp2y1rNxF-ehP4
+#EXTINF:-1 group-title="Local Channels",KION-TV CBS 5/46 (Monterey CA)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130396
 #EXTINF:-1 group-title="Local Channels",KETV-TV ABC 7 (Omaha NE)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYqxbex4AkwebYc2V20Aik0Y
 #EXTINF:-1 group-title="Local Channels",KTVX-TV ABC 4 (Salt Lake City UT)
@@ -3568,7 +3570,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",N+ FORO
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150241
-#EXTINF:-1 group-title="Latino (Spanish)",N+ Noticias
+#EXTINF:-1 group-title="Latino (Spanish)",N+ Noticieros
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index_5.m3u8&redirect=true
 #EXTINF:-1 group-title="Latino (Spanish)",ADN 40
 https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
@@ -3686,6 +3688,28 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9607
 #EXTINF:-1 group-title="Latino (Spanish)",Claro Sports
 http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Eventos TyC Play 1
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Eventos TyC Play 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Eventos TyC Play 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Eventos TyC Play 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Eventos TyC Play 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Eventos TyC Play 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Eventos TyC Play 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Eventos TyC Play 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Eventos TyC Play 9
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Eventos TyC Play 10
+https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Eventos TyC Play 11
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Euro Sport 1
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Euro Sport 2
@@ -3835,6 +3859,8 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 #EXTINF:-1 group-title="Canadian Channels",Weather Network Toronto (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57470
+#EXTINF:-1 group-title="Canadian Channels",GTN (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130388
 #EXTINF:-1 group-title="Canadian Channels",Court TV (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/229643
 #EXTINF:-1 group-title="Canadian Channels",PBS Kids (Canada) 
@@ -3861,6 +3887,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57356
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57380
 #EXTINF:-1 group-title="Canadian Channels",Télétoon French (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130470
+#EXTINF:-1 group-title="Canadian Channels",Much (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/215268
 #EXTINF:-1 group-title="Canadian Channels",MTV 2 (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130451
 #EXTINF:-1 group-title="Canadian Channels",APTN (Canada)
@@ -3871,10 +3899,14 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57252
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57476
 #EXTINF:-1 group-title="Canadian Channels",ABC Spark (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57375
+#EXTINF:-1 group-title="Canadian Channels",BBC America (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130385
 #EXTINF:-1 group-title="Canadian Channels",AMC (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57376
 #EXTINF:-1 group-title="Canadian Channels",Bravo (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57379
+#EXTINF:-1 group-title="Canadian Channels",Vision (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57468
 #EXTINF:-1 group-title="Canadian Channels",Home Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57273
 #EXTINF:-1 group-title="Canadian Channels",Magnolia Network (Canada)
@@ -3903,6 +3935,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/148610
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57442
 #EXTINF:-1 group-title="Canadian Channels",Crime & Investigation (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57256
+#EXTINF:-1 group-title="Canadian Channels",CSTAR French (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130438
 #EXTINF:-1 group-title="Canadian Channels",TV Ontario (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57369
 #EXTINF:-1 group-title="Canadian Channels",Vision (Canada)
@@ -3921,8 +3955,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108136
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238357
 #EXTINF:-1 group-title="Canadian Channels",HPItv East (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/173131
-#EXTINF:-1 group-title="Canadian Channels",Much Music (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/215268
 #EXTINF:-1 group-title="Canadian Channels",CTV (Canada)
 http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
 #EXTINF:-1 group-title="Canadian Channels",CTV Drama Channel (Canada)
@@ -3945,8 +3977,10 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238365
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57271
 #EXTINF:-1 group-title="Canadian Channels",Lifetime Movie Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57444
-#EXTINF:-1 group-title="Canadian Channels",OMNI1 (Canada)
+#EXTINF:-1 group-title="Canadian Channels",OMNI 1 (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57365
+#EXTINF:-1 group-title="Canadian Channels",OMNI 2 (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130460
 #EXTINF:-1 group-title="Canadian Channels",OWN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57277
 #EXTINF:-1 group-title="Canadian Channels",Peachtree TV (Canada)
@@ -3977,6 +4011,16 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47218
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57352
 #EXTINF:-1 group-title="Canadian Channels",CPAC (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57351
+#EXTINF:-1 group-title="Canadian Channels",ZESTE French (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130429
+#EXTINF:-1 group-title="Canadian Channels",Z-TELE French (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/229638
+#EXTINF:-1 group-title="Canadian Channels",Canal Vie French (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/229639
+#EXTINF:-1 group-title="Canadian Channels",Super Ecran 2 French (Canada)
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/445485
+#EXTINF:-1 group-title="Canadian Channels",PRISE 2 (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238365
 #EXTINF:-1 group-title="Canadian Channels",DTOUR (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57250
 #EXTINF:-1 group-title="Canadian Channels",E! (Canada)
@@ -4011,6 +4055,8 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN 5 (Canada)
 http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 group-title="Canadian Channels",RDS Info (Canada)
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/445466
 #EXTINF:-1 group-title="Canadian Channels",beIN Sports (Canada)
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/445335
 #EXTINF:-1 group-title="Canadian Channels",NBA TV (Canada)
@@ -4019,6 +4065,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/22995
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57471
 #EXTINF:-1 group-title="Canadian Channels",Sportsnet 360 (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57299
+#EXTINF:-1 group-title="Canadian Channels",Sportsnet West (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57300
 #EXTINF:-1 group-title="Canadian Channels",Sportsnet East (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57298
 #EXTINF:-1 group-title="Canadian Channels",Sportsnet One (Canada)
@@ -4027,8 +4075,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47379
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57463
 #EXTINF:-1 group-title="Canadian Channels",Sportsnet Pacific (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47387
-#EXTINF:-1 group-title="Canadian Channels",Sportsnet West (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57300
+#EXTINF:-1 group-title="Canadian Channels",Sportsnet World (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130468
 #EXTINF:-1 group-title="Canadian Channels",Fight Network (Canada)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="Canadian Channels",Hard Knocks (Canada)
@@ -4039,6 +4087,12 @@ https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57431
 #EXTINF:-1 group-title="Canadian Channels",NBC Golf Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57362
+#EXTINF:-1 group-title="Canadian Channels",FOX Sports Racing (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238361
+#EXTINF:-1 group-title="Canadian Channels",One Soccer (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162775
+#EXTINF:-1 group-title="Canadian Channels",TVO (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130477
 #EXTINF:-1 group-title="Canadian Channels",HBO (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57437
 #EXTINF:-1 group-title="Canadian Channels",HBO 2 (Canada)
@@ -4228,6 +4282,8 @@ https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg0
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsyO-AGPgeaKv4aCOHb6IgU
 #EXTINF:-1 group-title="UK Channels",Racing (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53741
+#EXTINF:-1 group-title="UK Channels",Motor Sports (UK)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/237596
 #EXTINF:-1 group-title="UK Channels",Sky Sports (UK)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoQwBnkhmTzP8ZjKWbah9tA
 #EXTINF:-1 group-title="UK Channels",Sky Sports Premier League (UK)
@@ -4238,6 +4294,10 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53705
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53704
 #EXTINF:-1 group-title="UK Channels",Sky Sports Racing (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53741
+#EXTINF:-1 group-title="UK Channels",SKY Sports Main Event (UK)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145810
+#EXTINF:-1 group-title="UK Channels",SKY Sports MIX (UK)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145813
 #EXTINF:-1 group-title="UK Channels",EuroSports 1 #1 (UK)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsAglIpOeU_G1M2HA5T6_FA
 #EXTINF:-1 group-title="UK Channels",EuroSports 1 #2 (UK)
