@@ -3126,10 +3126,8 @@ http://170.254.18.106/USA/index.m3u8
 http://170.254.18.106/TBS/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Paramount Network en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150111
-#EXTINF:-1 group-title="Latino (Spanish)",MTV
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3031
 #EXTINF:-1 group-title="Latino (Spanish)",MTV en Español
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3031
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3031
 #EXTINF:-1 group-title="Latino (Spanish)",MTV en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Latino (Spanish)",VH1 en Español
@@ -3939,8 +3937,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57256
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130438
 #EXTINF:-1 group-title="Canadian Channels",TV Ontario (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57369
-#EXTINF:-1 group-title="Canadian Channels",Vision (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57468
 #EXTINF:-1 group-title="Canadian Channels",W Network East (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57284
 #EXTINF:-1 group-title="Canadian Channels",YES TV (Canada)
