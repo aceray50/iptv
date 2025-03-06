@@ -58,7 +58,7 @@ http://143.244.60.30/WGN/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WCIU-TV 26.5 The Story (Chicago IL)
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 group-title="Local Channels",WFLD-TV FOX 32 (Chicago IL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjOakpNT9KO2sAm3RawdnhY
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131071
 #EXTINF:-1 group-title="Local Channels",WFLD-TV FOX 32 24/7 News (Chicago IL)
 https://apollo.production-public.tubi.io/live/ac-wfld.m3u8
 #EXTINF:-1 group-title="Local Channels",WDIV-TV NBC 4 (Detroit MI)
@@ -310,7 +310,7 @@ https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WYPL-TV 18 (Memphis TN)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 group-title="Local Channels",KTVU-TV FOX 2 (San Francisco CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYgntqpDv4UsetjEAKwtpb7E
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131077
 #EXTINF:-1 group-title="Local Channels",KTVU-TV FOX 2 24/7 News (San Francisco CA)
 https://apollo.production-public.tubi.io/live/ac-ktvu.m3u8
 #EXTINF:-1 group-title="Local Channels",KPIX-TV CBS 4 (San Francisco CA)
@@ -544,7 +544,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/172481
 #EXTINF:-1 group-title="Network Channels",Get TV
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Grit TV
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtsbV56vnp-xmON_h2rtPlY
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131292
 #EXTINF:-1 group-title="Network Channels",Grit Xtra
 https://amg01438-ewscripps-amg01438c46-cw-us-2390.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsgritxtra-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Laff
@@ -1152,7 +1152,7 @@ https://catram-packager-018.nextologies.com/33cf929f7996f7b4/588f14d9ef4317f1/pl
 https://catram-packager-018.nextologies.com/0bbcf6d6a85c81ca/45a975efb871cd32/playlist.m3u8
 
 #EXTINF:-1 group-title="Latino (Spanish)",Noticias Univision 24/7
-https://dai.google.com/linear/dash/pa/event/yNG4VtbYQpG-U4Wek7LEeg/stream/3c347c54-e502-4fba-927f-3340c20a5689:TUL/manifest.mpd
+https://live1009.delivery.roku.com/10d99635-efe0-4a99-ab00-54cbc2d95cf6/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Noticias Telemundo Ahora
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951321/hls/master.m3u8?ads.xumo_channelId=99951321
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Noticias California
@@ -1295,7 +1295,7 @@ https://tvpass.org/live/DiscoveryLife/hd
 #EXTINF:-1 group-title="Documentary",Discovery Science
 https://tvpass.org/live/Science/hd
 #EXTINF:-1 group-title="Documentary",Discovery Velocity
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhBs9TW4DckrfvTHwT52lQ8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131252
 #EXTINF:-1 group-title="Documentary",Destination America
 https://tvpass.org/live/DestinationAmerica/hd
 #EXTINF:-1 group-title="Documentary",Pluto TV History
@@ -1305,13 +1305,13 @@ https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1 group-title="Documentary",Military History
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/134832
 #EXTINF:-1 group-title="Documentary",National Geographic
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtK9sPqjaXgUH_31uAfCddU
+https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 group-title="Documentary",Nat Geo Wild
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtSXdGk93byyjz0iHzSUJvw
+https://tvpass.org/live/NationalGeographicWildEast/hd
 #EXTINF:-1 group-title="Documentary",History Hit
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=evK7iYKm-ixSYzFakeKo
 #EXTINF:-1 group-title="Documentary",Outside TV
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuFHgFfwSikr9zgeKY8ZzOk
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140779
 #EXTINF:-1 group-title="Documentary",Outside TV+
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Xplore #1
@@ -1364,8 +1364,6 @@ https://tvpass.org/live/OxygenEast/hd
 https://amg00979-amg00979c1-truecrimenetwork-us-3194.playouts.now.amagi.tv/playlist/amg00979-truecrimenetworkfast-truecrimenetworkfast-truecrimenetworkus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",NBC American Crimes
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951246/hls/master.m3u8?ads.xumo_channelId=99951246
-#EXTINF:-1 group-title="Documentary",Law & Crime
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYt_KqjatJZ4odesJYUBp6vw
 #EXTINF:-1 group-title="Documentary",Law & Crimes
 https://dtqutq7lmcchv.cloudfront.net/10001/99991320/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991320
 #EXTINF:-1 group-title="Documentary",Xumo Crime
@@ -1818,7 +1816,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20976
 #EXTINF:-1 group-title="Network Channels",Vice
 https://tvpass.org/live/VICETV/hd
 #EXTINF:-1 group-title="Network Channels",Viceland
-http://143.244.60.97/VICELAND/index.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131251
 #EXTINF:-1 group-title="Network Channels",Vice News
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635ff8bb66f96b46951ab7f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Network Channels",YouToo America
@@ -2359,7 +2357,7 @@ https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 group-title="Sports",The Cycling Channel
 http://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 #EXTINF:-1 group-title="Sports",World Fishing Network
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjVBLkLAfcl6fuZuOVB8SaI
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130995
 #EXTINF:-1 group-title="Sports",People are Awesome
 https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",30A Golf Kingdom
@@ -3684,8 +3682,6 @@ https://dai.google.com/linear/hls/event/j-Z_2JOSSByv4z2OibrTfw/master.m3u8
 https://5f700d5b2c46f.streamlock.net/televidaabundante/televidaabundante/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Venevisión Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Mega TV (Spain)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYkjk6MjuAFTiCCnM4YdL4gE
 #EXTINF:-1 group-title="Latino (Spanish)",+Show
 https://dai.google.com/linear/hls/event/-AWPFPgOSYmzk76BOlpsHA/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",mas Talk
@@ -3711,7 +3707,7 @@ https://dai.google.com/linear/hls/event/JgYgVMW8Szinkmm7dchlmQ/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ViX Lo Mejor de Liga MX
 https://live1009.delivery.roku.com/025088b2-d7e3-4803-9e66-a2a0eac3c39a/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",SKY Sports en Español
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoQwBnkhmTzP8ZjKWbah9tA
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/133854
 #EXTINF:-1 group-title="Latino (Spanish)",SKY Sports La Liga #1
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",SKY Sports La Liga #2
@@ -3721,7 +3717,7 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",beIN Sports Xtra en Español
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Deportes
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYjwf48_RjPouJvGWb5aETKg
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131136
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Sports en Español (México)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Sports en Español
