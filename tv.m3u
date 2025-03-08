@@ -187,30 +187,28 @@ http://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 http://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 group-title="Local Channels",KCTV-TV CBS 5 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
-#EXTINF:-1 group-title="Local Channels",KSHB-TV NBC 41 (Kansas City MO)
-http://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 #EXTINF:-1 group-title="Local Channels",KMBC-TV ABC 9 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 #EXTINF:-1 group-title="Local Channels",WDAF-TV FOX 4 (Kansas City MO)
 http://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 #EXTINF:-1 group-title="Local Channels",KCWE-TV CW 29 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTINF:-1 group-title="Local Channels",KSHB-TV NBC 41 (Kansas City MO)
+http://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 #EXTINF:-1 group-title="Local Channels",KMCI-TV Ind./NBC 38 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
-#EXTINF:-1 group-title="Local Channels",KPXE-TV ION 50 (Kansas City MO)
-http://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
 #EXTINF:-1 group-title="Local Channels",KSMO-TV MyNetworkTV 62 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:-1 group-title="Local Channels",KTVO-TV ABC 3.1 (Ottumwa IA)
+http://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+#EXTINF:-1 group-title="Local Channels",KTVO-TV CBS 3.2 (Ottumwa IA)
+http://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 #EXTINF:-1 group-title="Local Channels",KYOU-TV FOX 15.1 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
 #EXTINF:-1 group-title="Local Channels",KYOU-TV NBC 15.2 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 #EXTINF:-1 group-title="Local Channels",KYOU-TV CW+ 15.4 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-#EXTINF:-1 group-title="Local Channels",KTVO-TV ABC 3.1 (Ottumwa IA)
-http://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-#EXTINF:-1 group-title="Local Channels",KTVO-TV CBS 3.2 (Ottumwa IA)
-http://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 #EXTINF:-1 group-title="Local Channels",W14DK-D-TV 14.1 Delmarva (Dagsboro DE)
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",W14DK-D-TV 14.2 NEWSNET (Dagsboro DE)
