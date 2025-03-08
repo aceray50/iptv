@@ -7,14 +7,10 @@ http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
-#EXTINF:-1 group-title="Local Channels",KTLA-TV CW 5 (Los Angeles CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYphdD9piEr7SgwmBKOMK1ZE
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
-#EXTINF:-1 group-title="Local Channels",KCAL-TV 9 Ind. (Los Angeles CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmPXlbgqvP60DQH8eN6401A
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
@@ -41,16 +37,10 @@ https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
 https://tvpass.org/live/WPIX/hd
 #EXTINF:-1 group-title="Local Channels",WPXN-TV ION 31 (New York NY)
 https://tvpass.org/live/IONTVEast/hd
-#EXTINF:-1 group-title="Local Channels",WBBM-TV CBS 2 (Chicago IL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYg-txn1Hdb9e_lr441srIoo
 #EXTINF:-1 group-title="Local Channels",WBBM-TV CBS 2 24/7 News (Chicago IL)
 http://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8
-#EXTINF:-1 group-title="Local Channels",WMAQ-TV NBC 5 (Chicago IL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYow0-7wCqgQOrTL0KFwkRqs
 #EXTINF:-1 group-title="Local Channels",WMAQ-TV NBC 5 24/7 News (Chicago IL)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889704/hls/playlist.m3u8?ads.xumo_channelId=88889704
-#EXTINF:-1 group-title="Local Channels",WLS-TV ABC 7 (Chicago IL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYkiz6WW-E8egNSyguNX_m8Q
 #EXTINF:-1 group-title="Local Channels",WLS-TV ABC 7 24/7 News (Chicago IL)
 https://content-ause1.uplynk.com/channel/553fe1231b83487383a725f2da8433f5.m3u8
 #EXTINF:-1 group-title="Local Channels",WGN-TV CW 9 (Chicago IL)
@@ -65,14 +55,8 @@ https://apollo.production-public.tubi.io/live/ac-wfld.m3u8
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131183
 #EXTINF:-1 group-title="Local Channels",WJBK-TV FOX 5 24/7 News (Detroit MI)
 https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
-#EXTINF:-1 group-title="Local Channels",WXYZ-TV ABC 7 (Detroit MI)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiiOcGqqvWry1343ptuTx7U
 #EXTINF:-1 group-title="Local Channels",WXYZ-TV ABC 7 24/7 News (Detroit MI)
 https://content.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8
-#EXTINF:-1 group-title="Local Channels",WKBD-TV CW 50 (Detroit MI)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYnmkwVgX7eXHrt5sKRflqEc
-#EXTINF:-1 group-title="Local Channels",WWJ-TV CBS 62 (Detroit MI)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYvoy4nGWT5O6gjDEP-2QQD8
 #EXTINF:-1 group-title="Local Channels",WWJ-TV CBS 62 24/7 News (Detroit MI)
 https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WCCO-TV CBS 4 24/7 News (Minneapolis/St. Paul MN)
@@ -87,8 +71,6 @@ https://video.tegnaone.com/kare/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WPVI-TV ABC 6 24/7 News (Philadelphia PA)
 https://content-ausw1.uplynk.com/channel/c03e1d48809d476eb0dfa839b6fb0ca4.m3u8
-#EXTINF:-1 group-title="Local Channels",WCAU-TV NBC 10 (Philadelphia PA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoh9kldK8MQY2hfH-GzTLpk
 #EXTINF:-1 group-title="Local Channels",WCAU-TV NBC 10 24/7 News (Philadelphia PA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889705/hls/playlist.m3u8?ads.xumo_channelId=88889705
 #EXTINF:-1 group-title="Local Channels",WTXF-TV FOX 29 (Philadelphia PA)
@@ -99,16 +81,12 @@ https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131039
 #EXTINF:-1 group-title="Local Channels",WFMZ-TV Ind. 69 (Philadelphia PA)
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
-#EXTINF:-1 group-title="Local Channels",WBZ-TV CBS 4 (Boston MA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmnSfH0S1fo-tw6ObxKTaG0
 #EXTINF:-1 group-title="Local Channels",WBZ-TV CBS 4 24/7 News (Boston MA)
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WCVB-TV ABC 5 (Boston MA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/160604
 #EXTINF:-1 group-title="Local Channels",WCVB-TV ABC 5 24/7 News (Boston MA)
 https://pubads.g.doubleclick.net/ssai/event/Yo0UqqfJQp2EXhFEfrdDGQ/master.m3u8
-#EXTINF:-1 group-title="Local Channels",WBTS-CD TV NBC 10 (Boston MA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhEWgnNHaEL4TBzco5_jaXU
 #EXTINF:-1 group-title="Local Channels",WBTS-CD TV NBC 10 24/7 News (Boston MA)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/playlist.m3u8?ads.xumo_channelId=99951168
 #EXTINF:-1 group-title="Local Channels",WFXT-CD TV FOX 25 24/7 News (Boston MA)
@@ -129,24 +107,16 @@ https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/
 http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WTVJ-TV NBC 6 24/7 News (Miami FL)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889702/hls/playlist.m3u8?ads.xumo_channelId=88889702
-#EXTINF:-1 group-title="Local Channels",WSVN-TV FOX 7 (Miami FL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhSfMzvvqhq_AWjUI-XDYPY
 #EXTINF:-1 group-title="Local Channels",WPLG-TV ABC 10 (Miami FL)
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WPLG-TV ABC 10 24/7 News (Miami FL)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
-#EXTINF:-1 group-title="Local Channels",WTSP-TV CBS 10 (Tampa Bay FL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmoxKLALiY0n5V3AWmjYB6M
 #EXTINF:-1 group-title="Local Channels",WTSP-TV CBS 10 24/7 News (Tampa Bay FL)
 https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WTVT-TV FOX 13 (Tampa Bay FL)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/160602
-#EXTINF:-1 group-title="Local Channels",WFTS-TV ABC 28 (Tampa Bay FL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmx40V2G5_Xe_C6AfmZCyVk
 #EXTINF:-1 group-title="Local Channels",WFTS-TV ABC 28 24/7 News (Tampa Bay FL)
 https://content.uplynk.com/channel/5bfc0bb9d2be47448fb2c1aaaa2dfd0a.m3u8
-#EXTINF:-1 group-title="Local Channels",WTTA-TV CW 38 24/7 News (Tampa Bay FL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhSA0ydK3rJ5Gt1cAhRGdz0
 #EXTINF:-1 group-title="Local Channels",WTOG-TV Ind. 44 (Tampa Bay FL)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131041
 #EXTINF:-1 group-title="Local Channels",WESH-TV NBC 2 (Orlando FL)
@@ -155,8 +125,6 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131201
 https://content.uplynk.com/channel/21cc54a6fc484e6ba580befaadf83502.m3u8
 #EXTINF:-1 group-title="Local Channels",WKMG-TV CBS 6 (Orlando FL)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131022
-#EXTINF:-1 group-title="Local Channels",WFTV-TV ABC 9 (Orlando FL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhxmyGf3s3MOHGEo3tbBaDI
 #EXTINF:-1 group-title="Local Channels",WFTV-TV ABC 9 Now (Orlando FL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvnow-ono/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WFTV-TV ABC 9 24/7 News (Orlando FL)
@@ -165,20 +133,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvnow-ono/pla
 https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WFTV-TV ABC 9 Weather 24/7 (Orlando FL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvweather-ono/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels",WFOL-TV FOX 35 (Orlando FL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYk9KYJg7sUzViABTug9LTEU
 #EXTINF:-1 group-title="Local Channels",WACX-TV 55.1 SuperChannel Orlando (Orlando FL)
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels",KHOU-TV CBS 11 (Houston TX)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYptm6kdLh6gmG_-vJtp0XV0
-#EXTINF:-1 group-title="Local Channels",KTRK-TV ABC 13 (Houston TX)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYnq_7w6OKpmkFcNKhnUILT0
-#EXTINF:-1 group-title="Local Channels",KTXH-TV MyNetworkTV 20 Vision (Houston HI)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYj4Zco3VpjsmV27fOqmGrmk
-#EXTINF:-1 group-title="Local Channels",KRIV-TV FOX 26 (Houston TX)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYnOjBOvYcjUFmut-RvT3bqE
-#EXTINF:-1 group-title="Local Channels",KIAH-TV CW 39 (Houston TX)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpUPMyMw7EPCSPogr2pXAs0
 #EXTINF:-1 group-title="Local Channels",KCWX-TV MyNetworkTV 2 (San Antonio TX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",KENS-TV CBS 5 24/7 News (San Antonio TX)
@@ -187,32 +143,16 @@ https://video.tegnaone.com/kens/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYj-urWMVdwrtC5Zu3eX1js4
 #EXTINF:-1 group-title="Local Channels",KTVK-TV/KPHO-TV 3TV & CBS 5 24/7 News (Phoenix AZ)
 https://zeam-playlist.aws.syncbak.com/cpl/20128185/dai2v6/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjcyMywiY2lkIjoyMDY5NywibWlkIjoyMDEyODE4NSwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI3NS45OC4yMjAuMjYiLCJ1aXAiOiI3NS45OC4yMjAuMjYiLCJkbWEiOjY3OCwic3NpZCI6IjYyZmJhNzhmNGYxMDQ0YTBiNWM5ZjAyMjk4Njk0NmMzIiwic24iOiJXZWIgMTZlNGJlZjc2ZCAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6IjgwMzdkMjlmYjlkZDRlYjBmODEzZDkxNDkyM2NiMTE3IiwiaWF0IjoxNzM4NTQ1MDQyLCJleHAiOjE3Mzg1NDUzNDIsImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6ImZPeGJ1TkdPWDRzZUt2VTA5Y21iYktoMFp3Y2xHLVdGNlVLbVpkWC1IdG5UbkpENG1pIn0.lgxEq7Nf3W-a6LemX7rUgYdbDVo4hsOfM4X3pfqcUms
-#EXTINF:-1 group-title="Local Channels",KSAZ-TV FOX 10 (Phoenix AZ)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuRYhAdOkuyTyUVRvNZ7TZg
-#EXTINF:-1 group-title="Local Channels",KPNX-TV NBC 12 (Phoenix AZ)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtdL32-gLmZYgMyI-o63BPI
 #EXTINF:-1 group-title="Local Channels",KPNX-TV NBC 12 24/7 News (Phoenix AZ)
 https://video.tegnaone.com/kpnx/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KPNX-Production/live/index.m3u8
-#EXTINF:-1 group-title="Local Channels",KNXV-TV ABC 15 (Phoenix AZ)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrk5z9I3rez5JmPSZlpjQKw
 #EXTINF:-1 group-title="Local Channels",KNXV-TV ABC 15 24/7 News (Phoenix AZ)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 group-title="Local Channels",KSNV-TV NBC 3 (Las Vegas NV)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtMfzaBW35eiqPvbAe1-Cp4
 #EXTINF:-1 group-title="Local Channels",KSNV-TV NBC 3 24/7 News (Las Vegas NV)
 https://dai.google.com/linear/hls/event/YcE09LgRSh2G7pJgYFIiag/master.m3u8
-#EXTINF:-1 group-title="Local Channels",KLAS-TV CBS 8 (Las Vegas NV)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmYpNPd-lWD9cmOKbPvnXsU
 #EXTINF:-1 group-title="Local Channels",KLAS-TV CBS 8 24/7 News (Las Vegas NV)
 https://dcs-live-ue1.mp.lura.live/server/play/5AwdN6JC4mdxcDQj/rendition.m3u8?track=video-1&anvsid=m177618727-n2885e068b9fbe4f5477249e4c5f939d0&ts=1739598499&anvtrid=f511213a51e66e94c100760ea59a495c
-#EXTINF:-1 group-title="Local Channels",KTNV-TV ABC 13 (Las Vegas NV)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYg-SZZTsHSmLtsdFD4E_DNI
 #EXTINF:-1 group-title="Local Channels",KTNV-TV ABC 13 24/7 News (Las Vegas NV)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 group-title="Local Channels",KSWB-TV FOX 5 (San Diego CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsjSS6EcGwvdmS_Mlc7GulA
-#EXTINF:-1 group-title="Local Channels",KNSD-TV NBC 7/39 (San Diego CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmXQ7bRVRg1bOQNZ4Z97icc
 #EXTINF:-1 group-title="Local Channels",KNSD-TV NBC 7/39 24/7 News (San Diego CA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889712/hls/playlist.m3u8?ads.xumo_channelId=88889712
 #EXTINF:-1 group-title="Local Channels",KFMB-TV CBS 8.1 (San Diego CA)
@@ -221,8 +161,6 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYioXVKS89AByoButEmAeQU8
 https://video.tegnaone.com/kfmb/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB-Production/live/index.m3u8
 #EXTINF:-1 group-title="Local Channels",KFMB-TV CW 8.2 (San Diego CA)
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
-#EXTINF:-1 group-title="Local Channels",KGTV-TV ABC 10 (San Diego CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYnDi3hV_ogNfkp0qinvH5Vk
 #EXTINF:-1 group-title="Local Channels",KGTV-TV ABC 10 24/7 News (San Diego CA)
 https://content.uplynk.com/channel/6b5dd91d4efc46aa93549daf0c208501.m3u8
 #EXTINF:-1 group-title="Local Channels",W14DK-TV 14.4 WX Channel
@@ -235,8 +173,6 @@ https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
 https://witn.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 group-title="Local Channels",WJXT-TV 4 Ind. (Jacksonville FL)
 http://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
-#EXTINF:-1 group-title="Local Channels",WTLV-TV NBC 12 (Jacksonville FL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYp0jbqLgKYMHqEg9icFhUok
 #EXTINF:-1 group-title="Local Channels",KOMU-TV NBC 8.1 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 group-title="Local Channels",KOMU-TV CW+ 8.3 (Jefferson City MO)
@@ -265,8 +201,6 @@ http://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 http://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 #EXTINF:-1 group-title="Local Channels",KSHB-TV Laff 41.3 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-1 group-title="Local Channels",KMBC-TV ABC 9 (Kansas City MO)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYs3T8-vCWrJCKylcqzNFOu0
 #EXTINF:-1 group-title="Local Channels",KMBC-TV ABC 9.1 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 #EXTINF:-1 group-title="Local Channels",KMBC-TV MeTV 9.2 (Kansas City MO)
@@ -325,22 +259,12 @@ https://content-ause1.uplynk.com/channel/7c0eae0d267941d283a3ab14dd6fd399.m3u8
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131187
 #EXTINF:-1 group-title="Local Channels",KNTV-TV NBC 10 24/7 News (San Francisco CA)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/playlist.m3u8?ads.xumo_channelId=99951162
-#EXTINF:-1 group-title="Local Channels",KCRA-TV-TV NBC 3 (Sacramento CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYivcoRiLeKF6p7FKjA5OBTo
-#EXTINF:-1 group-title="Local Channels",KOVR-TV CBS 13 (Sacramento CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuxVgnE2SZ9IpXjRl3c6eYI
-#EXTINF:-1 group-title="Local Channels",KMAX-TV Ind. 31 (Sacramento CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuvsasPqDXRjp4ymqnIE59o
-#EXTINF:-1 group-title="Local Channels",KTXL-TV FOX 40 (Sacramento CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYo4L23DKt3ornweG0-ZdsxE
 #EXTINF:-1 group-title="Local Channels",KESQ-TV 3 ABC 24/7 News (Palm Springs CA)
 https://dai2-playlistserver.aws.syncbak.com/cpl/22046797/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIyMjA0Njc5NyIsImNpZCI6MjIyODAsInNpZCI6MTE5OSwibWQ1IjoiYjkzMDQ4ZTBhMDAyZTliNTkxMWI5ZWVkNTgwYzBmODEiLCJpYXQiOjE2ODE3Njg4NjUsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.Dz7v9duOQcxtwGtOh7ZTWHQ47ehbC7_WsmC2NsMWl6k
 #EXTINF:-1 group-title="Local Channels",WSB-TV ABC 2 24/7 News (Atlanta GA)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WAGA-TV FOX 5 (Atlanta GA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131067
-#EXTINF:-1 group-title="Local Channels",WXIA-TV NBC 11 (Atlanta GA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsICiz664gRtdr0nj17vm0A
 #EXTINF:-1 group-title="Local Channels",WXIA-TV NBC 11 24/7 News (Atlanta GA)
 https://video.tegnaone.com/wxia/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA-Production/live/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WANF-TV CBS 46 (Atlanta GA)
@@ -349,42 +273,30 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131002
 https://zeam-playlist.aws.syncbak.com/cpl/20010010/dai2v6/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjcxMSwiY2lkIjoyMDQ3MSwibWlkIjoyMDAxMDAxMCwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI3NS45OC4yMjAuMjYiLCJ1aXAiOiI3NS45OC4yMjAuMjYiLCJkbWEiOjY3OCwic3NpZCI6IjBjZDZmNjcyMGE1NzQ5OTdhNWU0ZTc3OTU2ZDU5ODFmIiwic24iOiJXZWIgNTE3ZDVlNTM4OSAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6ImVkNjJiNDhhYTI3NWVmMzFmZDNmMWYzM2UyMzI4NmE2IiwiaWF0IjoxNzM4NTQxNzA1LCJleHAiOjE3Mzg1NDIwMDUsImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6IkF6LWxrdkZnRkhxRC1WWFhaM3ZGbFpoMDdTTHNwdXY1NmNURkJMMU1IU1ZHbEcwaTFEIn0.ETVhj3hzHIigXWEcIps2MW52MIXxb-7B_TT6OJDN9b4
 #EXTINF:-1 group-title="Local Channels",WUPA-TV CW 69 (Atlanta GA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131128
-#EXTINF:-1 group-title="Local Channels",WBTV-TV CBS 3 (Charlotte NC)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYuI_Jdr0mKXKBi-OniP0t28
 #EXTINF:-1 group-title="Local Channels",WBTV-TV CBS 3 24/7 News (Charlotte NC)
 https://dai2-playlistserver.aws.syncbak.com/cpl/18497259/dai2v5/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjc1MCwiY2lkIjoxNzA1MCwibWlkIjoxODQ5NzI1OSwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI3NS45OC4yMjAuMjYiLCJ1aXAiOiI3NS45OC4yMjAuMjYiLCJkbWEiOjY3OCwic3NpZCI6ImMxNTVhYjUyZDc1NzQwNzA4NzI4ODMwNDY2Yjk0ZGExIiwic24iOiJXZWIgN2FmMzk0Zjc0NCAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6ImZiNDUzZmYxYWMyMjAxZTE1NGIzZTVlOGJjMzQ5MDE4IiwiaWF0IjoxNzM4NTQyMjU2LCJleHAiOjE3Mzg1NDI1NTYsImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6IlI0MkdIYjBURlM1VzlUc2phc3RiLS1Xd1JxVmtKWnpFMVhOYnlCMTN1cmEwN0Z0dV9QIn0.KBiJySjGMYOtfYhqkpD7Ke5KN9je4aTg3cbVQcSknvo
 #EXTINF:-1 group-title="Local Channels",WSOC-TV ABC 9 24/7 News (Charlotte NC)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocnow-ono/playlist.m3u8
-#EXTINF:-1 group-title="Local Channels",WMYT-TV MyNetworkTV 12 (Charlotte NC)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYvWnJm-TIoebwdPzxpCpW_0
 #EXTINF:-1 group-title="Local Channels",WCNC-TV NBC 36 (Charlotte NC)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131177
 #EXTINF:-1 group-title="Local Channels",WCNC-TV NBC 36 24/7 News (Charlotte NC)
 https://video.tegnaone.com/wcnc/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC-Production/live/index.m3u8
-#EXTINF:-1 group-title="Local Channels",WJZY-TV FOX 46 (Charlotte NC)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmoWH8VhRvOAA1u4pZXnYcI
 #EXTINF:-1 group-title="Local Channels",KERO-TV ABC 23 24/7 News (Bakersfield CA)
 http://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 group-title="Local Channels",KCNC-TV CBS 4 (Denver CO)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtFtsStP-UC-65iTc6LBiQY
 #EXTINF:-1 group-title="Local Channels",KCNC-TV CBS 4 24/7 News (Denver CO)
 https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/9bfae0d2-0a19-468c-90c9-08c8c9dac0c7:CBF2/master.m3u8
-#EXTINF:-1 group-title="Local Channels",KMGH-TV ABC 7 (Denver CO)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoBTH0PlZatmwJQyo0E3K3o
 #EXTINF:-1 group-title="Local Channels",KMGH-TV ABC 7 24/7 News (Denver CO)
 https://content.uplynk.com/channel/4608c2dc86a14e3db517ef7e5042a915.m3u8
 #EXTINF:-1 group-title="Local Channels",KUSA-TV NBC 9 (Denver CO)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/237257
 #EXTINF:-1 group-title="Local Channels",KUSA-TV NBC 9 24/7 News (Denver CO)
 https://video.tegnaone.com/kusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA-Production/live/index.m3u8
-#EXTINF:-1 group-title="Local Channels",KDVR-TV FOX 31 (Denver CO)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlq7kIZba74tL3k4qWwoU3I
 #EXTINF:-1 group-title="Local Channels",WRC-TV NBC 4 (Washington DC)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131200
 #EXTINF:-1 group-title="Local Channels",WRC-TV NBC 4 24/7 News (Washington DC)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/playlist.m3u8?ads.xumo_channelId=99951181
-#EXTINF:-1 group-title="Local Channels",WTTG-TV FOX 5 (Washington DC)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtIPUS6-gITRzId5IlxjAzE
 #EXTINF:-1 group-title="Local Channels",WTTG-TV FOX 5 24/7 News (Washington DC)
 https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
 #EXTINF:-1 group-title="Local Channels",WJLA-TV ABC 7 24/7 News (Washington DC)
@@ -397,80 +309,26 @@ https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 #EXTINF:-1 group-title="Local Channels",WBAL-TV NBC 11 (Baltimore MD)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131175
-#EXTINF:-1 group-title="Local Channels",WJZ-TV CBS 13 (Baltimore MD)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYhZh0ZcSvFviSqSfihz5ybI
 #EXTINF:-1 group-title="Local Channels",WBFF-TV FOX 45 (Baltimore MD)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131068
-#EXTINF:-1 group-title="Local Channels",KSEE-TV NBC 24 (Fresno CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlr2rFk5FM3zUueQhJqJHHE
-#EXTINF:-1 group-title="Local Channels",KFSN-TV ABC 30 (Fresno CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYqyho8zMfwp2y1rNxF-ehP4
 #EXTINF:-1 group-title="Local Channels",KION-TV CBS 5/46 (Monterey CA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130396
-#EXTINF:-1 group-title="Local Channels",KETV-TV ABC 7 (Omaha NE)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYqxbex4AkwebYc2V20Aik0Y
-#EXTINF:-1 group-title="Local Channels",KUTV-TV CBS 2 (Salt Lake City UT)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlA00xHj4u11TzSSW0jWw1c
-#EXTINF:-1 group-title="Local Channels",KTVX-TV ABC 4 (Salt Lake City UT)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtCeMylhIpxJB6UoFbB3SVI
 #EXTINF:-1 group-title="Local Channels",KSL-TV NBC 5 (Salt Lake City UT)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131180
-#EXTINF:-1 group-title="Local Channels",KSTU-TV FOX 13 (Salt Lake City UT)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYr2FHFz1_XqudCkDBbLIL04
-#EXTINF:-1 group-title="Local Channels",KUCW-TV CW 30 (Salt Lake City UT)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmfkXqPv4VKntQvt_h2Dr9g
-#EXTINF:-1 group-title="Local Channels",WJW-TV FOX 8 (Cleveland OH)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYonrmIpHY2OheUkWMwMSUko
-#EXTINF:-1 group-title="Local Channels",KTHV-TV CBS 11 (Little Rock AR)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYvwSNxWHaItlAlOboW3bza4
 #EXTINF:-1 group-title="Local Channels",KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131076
-#EXTINF:-1 group-title="Local Channels",KXAS-TV NBC 5 (Ft. Worth/Dallas TX)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsPuvqZEPQFJ-OTLdn6rmWk
-#EXTINF:-1 group-title="Local Channels",KTVT-TV CBS 11 (Ft. Worth/Dallas TX)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlxpgYv-7rleweNVyA_khVQ
-#EXTINF:-1 group-title="Local Channels",WWL-TV CBS 4 (New Orleans LA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYva04DVYdSdwUUpVfX4fMjM
 #EXTINF:-1 group-title="Local Channels",WDSU-TV NBC 6 (New Orleans LA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131184
 #EXTINF:-1 group-title="Local Channels",WVUE-TV FOX 8 (New Orleans LA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131080
-#EXTINF:-1 group-title="Local Channels",KING-TV NBC 5 (Seattle WA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYm07gQbZCB_mwVctO4C73Jg
-#EXTINF:-1 group-title="Local Channels",WLTX-TV CBS 19 (Columbia SC)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYtHaPC_-ihQz7Ks_DOgNoAQ
-#EXTINF:-1 group-title="Local Channels",WMUR-TV ABC 9 (Manchester NH)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYt6Skb6BSiYPii84Qof-xOA
-#EXTINF:-1 group-title="Local Channels",WIAT-TV CBS 42 (Birmingham AL)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmtJtQHlT2EFR6JSBJNAdgU
-#EXTINF:-1 group-title="Local Channels",KHHI-TV MyNetworkTV 9 (Honolulu HI)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmQPb2xq-CHlvtu9uo2uZVA
-#EXTINF:-1 group-title="Local Channels",KHNL-TV NBC 13 (Honolulu HI)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsrF2E48HHvHJHFwn-sdV1A
-#EXTINF:-1 group-title="Local Channels",KRQE-TV FOX 13 (Albuquerque/Santa Fe NM)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmE_zuLCntINNVH_LjqZMeQ
-#EXTINF:-1 group-title="Local Channels",KASY-TV MyNetworkTV 50 (Albuquerque/Santa Fe NM)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrvd4m9zrcEtcje0W8VFmwQ
-#EXTINF:-1 group-title="Local Channels",KVRR-TV FOX 15 (Fargo ND)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYn_N4BE6uH4DWsVWQmh9PD0
 #EXTINF:-1 group-title="Local Channels",KOKH-TV FOX 25 (Oklahoma City OK)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131096
 #EXTINF:-1 group-title="Local Channels",WBNS-TV CBS 10 (Columbus OH)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131006
-#EXTINF:-1 group-title="Local Channels",WSYX-TV FOX 28 (Columbus OH)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYs2bP5sj-bIcZTFTZPGHUPE
-#EXTINF:-1 group-title="Local Channels",WVBT-TV FOX 43.1 (Virginia Beach VA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpeyCVgxtP2JfKRmWrY7zfg
-#EXTINF:-1 group-title="Local Channels",WOLF-TV FOX 56 (Hazleton PA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiVYT6h1nA3naCEK7Tfb1kk
 #EXTINF:-1 group-title="Local Channels",WTHR-TV NBC 13 (Indianapolis IN)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140650
 #EXTINF:-1 group-title="Local Channels",WXIN-TV FOX 59 (Indianapolis IN)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131074
-#EXTINF:-1 group-title="Local Channels",WCWN-TV CW 15 (Albany NY)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiyNLnmPPQY4uBSjPK6zRcU
-#EXTINF:-1 group-title="Local Channels",WZTV-TV CW 17.2 (Nashville TN)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYk-eQGW1VE_cSDiF6EoUZn4
 #EXTINF:-1 group-title="Local Channels",WGRZ-TV NBC 2 (Buffalo NY)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131176
 #EXTINF:-1 group-title="Local Channels",WCSH-TV NBC 6 (Portland ME)
@@ -1645,7 +1503,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9a
 
 #EXTINF:-1 group-title="Network Channels",TV Land
 https://tvpass.org/live/tv-land-eastern/hd
-#EXTINF:-1 group-title="Network Channels",MTV
+#EXTINF:-1 group-title="Network Channels",Pluto Classic TV Family
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61325d18f5166c00081b84e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d
+EXTINF:-1 group-title="Network Channels",MTV
 https://tvpass.org/live/MTVEast/hd
 #EXTINF:-1 group-title="Network Channels",MTV (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79&userId=&serverSideAds=true
@@ -1681,6 +1541,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131328
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66080
 #EXTINF:-1 group-title="Network Channels",FOX Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",Pluto Black Classics
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c83d8-7b2e-11ef-badc-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",theGrio
 https://thegrio-live-3.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66d8a0477326e0a7c7067cd6_thegrio-live-3/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",TV One
@@ -1710,6 +1572,8 @@ https://tvpass.org/live/ComedyCentralEast/hd
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Comedy",Comedy Central Animation (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1df8-7b2e-11ef-951a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=632fe7b8-42bc-4848-8710-b775ee7de975&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Network Channels",Pluto Classic TV Comedy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d
 #EXTINF:-1 group-title="Comedy",Animation+
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-674f6a6cf44561420465f9f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Comedy",BBC Comedy
@@ -1800,7 +1664,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131323
 #EXTINF:-1 group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",Paramount+ Picks (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",SYFY
 https://tvpass.org/live/SyfyEast/hd
 #EXTINF:-1 group-title="Network Channels",BBC Sci-Fi
@@ -1829,7 +1693,7 @@ https://tvpass.org/live/TLCEast/hd
 https://tvpass.org/live/BravoEast/hd
 #EXTINF:-1 group-title="Network Channels",IFC (Independent Film Channel)
 https://tvpass.org/live/IFCEast/hd
-#EXTINF:-1 group-title="Network Channels",Sundance
+#EXTINF:-1 group-title="Network Channels",SundanceTV
 https://tvpass.org/live/SundanceTVEast/hd
 #EXTINF:-1 group-title="Network Channels",Shout! Factory TV #1
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
@@ -1840,11 +1704,13 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122527
 #EXTINF:-1 group-title="Network Channels",Outlaw (The Western Channel)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Network Channels",Ovation
-https://tvpass.org/live/SundanceTVEast/hd
+http://195.181.163.243/Ovation/index.m3u8
 #EXTINF:-1 group-title="Network Channels",INSP
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16262
 #EXTINF:-1 group-title="Network Channels",Smithsonian Channel
 http://143.244.60.97/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Network Channels",Smithsonian Channel (Pluto)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",Aspire
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21927
 #EXTINF:-1 group-title="Network Channels",BBC America
@@ -2621,14 +2487,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1268-7b2e-11ef-ba29-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1e45af2-712b-4ef0-b586-d3cd25a2fa1f&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Premium Channels",00s Replay (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c10f6-7b2e-11ef-85eb-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=083e910e-6517-406a-adc4-e65c3d51ce1c&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Premium Channels",Pluto TV Westerns (Pluto TV)
+#EXTINF:-1 group-title="Premium Channels",Pluto TV Westerns
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c14a2-7b2e-11ef-9958-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4929f9ec-f890-4768-b380-9b86c4674cbf&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Premium Channels",Classic Movie Westerns (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61f33318210549000806a530/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1574-7b2e-11ef-9f59-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e2a04b0-a96c-4cc0-8658-f2d21c2cefef&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Premium Channels",Classic Movies Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1600-7b2e-11ef-8cad-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=386e0101-213d-478f-9f18-a39e57ecfd2e&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Premium Channels",Pluto TV Cult Films (Pluto TV)
+#EXTINF:-1 group-title="Premium Channels",Pluto TV Cult Films
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24878990-2124-43e1-a915-acd0fc9792fb&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Premium Channels",Pluto TV Flicks of Fury
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c003dff7-fc41-11ef-9be8-365be5da354a&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",Made In Hollywood by Movie Fone
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 
