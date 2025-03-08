@@ -171,53 +171,35 @@ https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
 https://witn.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 group-title="Local Channels",WJXT-TV 4 Ind. (Jacksonville FL)
 http://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
+#EXTINF:-1 group-title="Local Channels",WJAX-TV CBS 47 (Jacksonville FL)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",KOMU-TV NBC 8.1 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 group-title="Local Channels",KOMU-TV CW+ 8.3 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 group-title="Local Channels",KRCG-TV CBS 13.1 (Jefferson City MO)
+#EXTINF:-1 group-title="Local Channels",KRCG-TV CBS 13 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 group-title="Local Channels",KRCG-TV Comet 13.2 (Jefferson City MO)
-http://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1 group-title="Local Channels",KRCG-TV Charge! 13.3 (Jefferson City MO)
-http://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
-#EXTINF:-1 group-title="Local Channels",KRCG-TV TBD 13.4 (Jefferson City MO)
-http://cvtv.cvalley.net/hls/KRCGTBD/KRCGTBD.m3u8
 #EXTINF:-1 group-title="Local Channels",KMIZ-TV ABC 17.1 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 group-title="Local Channels",KMIZ-TV MeTV 17.2 (Jefferson City MO)
-http://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 #EXTINF:-1 group-title="Local Channels",KMIZ-TV MyNetworkTV 17.3 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 #EXTINF:-1 group-title="Local Channels",KQFX-TV FOX 22 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 group-title="Local Channels",KCTV-TV CBS 5 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
-#EXTINF:-1 group-title="Local Channels",KSHB-TV NBC 41.1 (Kansas City MO)
+#EXTINF:-1 group-title="Local Channels",KSHB-TV NBC 41 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-#EXTINF:-1 group-title="Local Channels",KSHB-TV Grit 41.2 (Kansas City MO)
-http://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
-#EXTINF:-1 group-title="Local Channels",KSHB-TV Laff 41.3 (Kansas City MO)
-http://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-1 group-title="Local Channels",KMBC-TV ABC 9.1 (Kansas City MO)
+#EXTINF:-1 group-title="Local Channels",KMBC-TV ABC 9 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-#EXTINF:-1 group-title="Local Channels",KMBC-TV MeTV 9.2 (Kansas City MO)
-http://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
 #EXTINF:-1 group-title="Local Channels",WDAF-TV FOX 4 (Kansas City MO)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYvC_pjDYYqvNPfNf2cYT0s0
-#EXTINF:-1 group-title="Local Channels",WDAF-TV FOX 4.1 (Kansas City MO)
 http://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 group-title="Local Channels",WDAF-TV Antenna TV 4.2 (Kansas City MO)
-http://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 #EXTINF:-1 group-title="Local Channels",KCWE-TV CW 29 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
-#EXTINF:-1 group-title="Local Channels",KMCI-TV Ind./NBC 38.1 (Kansas City MO)
+#EXTINF:-1 group-title="Local Channels",KMCI-TV Ind./NBC 38 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
-#EXTINF:-1 group-title="Local Channels",KMCI-TV Bounce TV 38.2 (Kansas City MO)
-http://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 #EXTINF:-1 group-title="Local Channels",KPXE-TV ION 50 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
-#EXTINF:-1 group-title="Local Channels",KSMO-TV MyNetworkTV 62.1 (Kansas City MO)
+#EXTINF:-1 group-title="Local Channels",KSMO-TV MyNetworkTV 62 (Kansas City MO)
 http://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 #EXTINF:-1 group-title="Local Channels",KYOU-TV FOX 15.1 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
@@ -225,14 +207,10 @@ http://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
 http://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 #EXTINF:-1 group-title="Local Channels",KYOU-TV CW+ 15.4 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-#EXTINF:-1 group-title="Local Channels",KYOU-TV Grit 15.5 (Ottumwa IA)
-http://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
 #EXTINF:-1 group-title="Local Channels",KTVO-TV ABC 3.1 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 #EXTINF:-1 group-title="Local Channels",KTVO-TV CBS 3.2 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-#EXTINF:-1 group-title="Local Channels",KTVO-TV Comet 3.3 (Ottumwa IA)
-http://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
 #EXTINF:-1 group-title="Local Channels",W14DK-D-TV 14.1 Delmarva (Dagsboro DE)
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",W14DK-D-TV 14.2 NEWSNET (Dagsboro DE)
@@ -376,7 +354,7 @@ https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u
 #EXTINF:-1 group-title="Network Channels",NBC LX Home
 http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="Network Channels",REV'N
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/jw3ekQu0RK1BKmyo3O-8Ww/1740746681/media_mpegts_0.m3u8
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/Je_Rb9Zmw_sQz2MKaPcIeQ/1741558537/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Network Channels",AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",AWE Encore
@@ -395,10 +373,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-non
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 group-title="Network Channels",Retro TV
+#EXTINF:-1 group-title="Network Channels",Retro TV #1
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
-#EXTINF:-1 group-title="Network Channels",Antenna TV
+#EXTINF:-1 group-title="Network Channels",Retro TV #2
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/72VqPDpt6K4pTADfEah8Zw/1741558226/media_mpegts_0.m3u8
+#EXTINF:-1 group-title="Network Channels",Antenna TV #1
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20180
+#EXTINF:-1 group-title="Network Channels",Antenna TV #2
+http://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 #EXTINF:-1 group-title="Network Channels",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Charge!
@@ -4077,6 +4059,8 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN 5 (Canada)
 http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 group-title="Canadian Channels",TSN The Ocho (Canada)
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 group-title="Canadian Channels",RDS Info (Canada)
 http://visualservice.xyz:8080/Ita/Sf2ZqPD/445466
 #EXTINF:-1 group-title="Canadian Channels",beIN Sports (Canada)
