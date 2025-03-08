@@ -15,8 +15,6 @@ https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
 https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
-#EXTINF:-1 group-title="Local Channels",KCOP-TV MyNetworkTV 13 FOX 11+ (Los Angeles CA)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmG581hQ2J1EdpNmiZeG-ME
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
 https://tvpass.org/live/WCBSDT1/hd
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 24/7 News (New York NY)
@@ -2424,8 +2422,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 group-title="Network Channels",Universal Crimes
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951245/hls/master.m3u8?ads.xumo_channelId=99951245
 #EXTINF:-1 group-title="Network Channels",Universal Monsters
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264
-#EXTINF:-1 group-title="Premium Channels",FilmRise Untold Stories of the ER
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264
 #EXTINF:-1 group-title="Premium Channels",FilmRise Free Movies
 https://amg00512-amg00512c7-cw-us-2476.playouts.now.amagi.tv/playlist/amg00512-filmrisefast-freemoviesus-cwus/playlist.m3u8
