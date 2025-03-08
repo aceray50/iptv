@@ -1693,9 +1693,9 @@ https://tvpass.org/live/BravoEast/hd
 https://tvpass.org/live/IFCEast/hd
 #EXTINF:-1 group-title="Network Channels",SundanceTV
 https://tvpass.org/live/SundanceTVEast/hd
-#EXTINF:-1 group-title="Network Channels",Shout! Factory TV #1
+#EXTINF:-1 group-title="Network Channels",Shout! Factory TV
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Network Channels",Shout! Factory TV #2
+#EXTINF:-1 group-title="Network Channels",Scream! Factory TV
 https://amg00163-amg00163c10-cw-us-2416.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutscreamfactorytv-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",The Cowboy Channel
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122527
