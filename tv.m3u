@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131010
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 (Los Angeles CA)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131182
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
 #EXTINF:-1 group-title="Local Channels",KTLA-TV CW 5 (Los Angeles CA)
@@ -16,7 +16,7 @@ https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 #EXTINF:-1 group-title="Local Channels",KCAL-TV 9 Ind. (Los Angeles CA)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmPXlbgqvP60DQH8eN6401A
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131078
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
 https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 #EXTINF:-1 group-title="Local Channels",KCOP-TV MyNetworkTV 13 FOX 11+ (Los Angeles CA)
@@ -1185,6 +1185,22 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 http://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:-1 group-title="Latino (Spanish)",WLII-DT TeleOnce Univision 11 (San Juan PR)
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/126162
+#EXTINF:-1 group-title="Latino (Spanish)",WWXY-TV Ind. 19.1 (San Juan PR)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",WWXY-TV 19.3 (San Juan PR)
+https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",WXWZ-LD MásTV 23 (San Juan PR)
+https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",WELU-DT1 CTNi 34 (Puerto Rico)
+https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",WRUA-DT1 Tiva TV 34 (Puerto Rico)
+https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",WDWL-DT1 36 (Bayamon PR)
+https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",WECN-TV Único TV, Canal 64 (Puerto Rico)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",WJAN-CD América TeVé 41 (Miami FL)
+https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131151
 #EXTINF:-1 group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
@@ -1227,8 +1243,10 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/139757
 http://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",KDOC-TV 56.5 Majestad Televisión
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",LATV
+#EXTINF:-1 group-title="Latino (Spanish)",LATV #1
 https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",LATV #2
+https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",XHMNL-TDT TV Nuevo León Canal 28
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",XHGV-TDT TVMás
@@ -1614,8 +1632,10 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 https://tvpass.org/live/FreeformEast/hd
 #EXTINF:-1 group-title="Children Channels",Discovery Family
 https://tvpass.org/live/DiscoveryFamily/hd
-#EXTINF:-1 group-title="Children Channels",Baby First
+#EXTINF:-1 group-title="Children Channels",Baby First #1
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58765
+#EXTINF:-1 group-title="Children Channels",Baby First #2
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 group-title="Children Channels",FilmRise Kids
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Children Channels",FilmRise Anime
@@ -3184,6 +3204,36 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3706
 #EXTINF:-1 group-title="Latino (Spanish)",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Buena Televisión
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Candelita TV
+https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",CAtv (Puerto Rico)
+https://video2.getstreamhosting.com:19360/8216/8216.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",CDM Internacional
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",EBN Televisión, Canal 46.1
+https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Faro de Santidad TV
+https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Master Video en Español
+https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",NG Radio TV (Puerto Rico)
+https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",NotiUno TV
+https://server80.servistreaming.com:3951/live/notiunotvlive.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Paraiso TV
+https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Radio Isla TV (Puerto Rico)
+https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Radio Yaucana TV (Puerto Rico)
+https://stmvideo6.livecastv.com/rytv2015/rytv2015/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Salvación TV (Puerto Rico)
+https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Telenorte (Puerto Rico)
+https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Aliento Visión
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Nosey Escándalos
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 group-title="Latino (Spanish)",TVP Culiacán
@@ -3410,6 +3460,8 @@ http://181.188.234.21:8000/play/a04t/index.m3u8
 http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Latin Zone
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Tele Hit
 https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=MdL5aa90z36jz4E0sr8Wbg:pF5otOzOm9Z-KaNRoVTA5dYMZuDpHpP0_thNoDOQHOZBdYhmodQzzkcJlMHxU6uPchgIUga76WqLLGh7IQ9nuRPvq253f5OA3R_ZAX6W8fflrUbOOEIRQtit1yRKzc-XpXD82CGQbHJ0hxVwG_slpX5DHgJ_BaF-rPDbWzG12bEQij4ydXEbwbzSi1BW4f_N_nA9oRV1_pjDvJlWXNQOcvzNtG8Rucu3dAs14esEd9gbEzFVuWpxbmSmIF8NnO3kP_WU0sqA25dSDiTaEXFFprWFSCmx_tRE3SNJsR55qASqEKrhBAdHDml3w__V0cwnCTBAOrumr9wH6aV_CnlrADS7yDK8yuNH-gVVY3Edh-dfpgTICGWt_mS73tZUIlppyuCNhFOGzdA34cwf1lQJc2xJkk32eTtzPIZvq1ac1N9roj9US18EE21tFA5tmw_lrw6IbKpLJLbNRmbtFN1Cc08tqWXfA_ILuyLSY3AKrxsSiDXXDzRA4_CPzKq9JU0jsEFaYYijEdJ-oPyPd3LWx1KmwnSkK5GPEDad_hN5LYM5xzK6TTHER1rKtD8gBmdMgSwfyZjCL7fVbWClMPlB8GKQsu0FT8Jo_7fVVUHHifVSXKmAGWzDtWrmlnhWP6z2T8GogKmbHcgh2vilkQF9ZbHJxVP2Ec_sQhf7empUp9NsS_IYknpD1iEqrwPNBY-B6XbFau8yrO_jsGoX0I0nvbGKNbuErthIY6LrVEM9rfrX3_PrsTR3bRGaK3VahVTrrza7GciBf2O9LtneD0qJRyFz8NEcPsVOll8wbximoPRkYcd4Nl9mxYzFayyFusUiuvO0lfFywisayz5-ebLGifUY-2GBbqb4hOJbO6pqxL3F19K7m2QUHavus15iqQcNEGf4U8qYODiEK0vlpTTAyh0w6GpIybjAj5aus7IzqfUX8ULbS_ZfHcRxVyb3zpa5UWUyjGz7JMsrOo8ccbODET2UhhWKQSLAMj9OJj1U7lRrbINAy_AisPvBR_fXAWuTOThtKITqnpRTnF4WRf4hG1NymB5mSGWin_K470DOMwsU746pOYrt_TW5YFxA3JbH4cp9pbsbehHgcEluTVfp0yqZg_QKQep2VLPYlNZelNtEAWfFM1QHfHS2v7vOoY_WBcEjyqAkqcBVL5hauScFSw&anvtrid=139d721696a6cca362865486bf0ee31a&anvauth=tb=0~te=1740108239~sgn=5bf87e0190aeba92d611ba02c80d88e5d5d5abf7a624f99c2f253885a34fe1eb&t=1740108149
 #EXTINF:-1 group-title="Latino (Spanish)",Somos Novelas
