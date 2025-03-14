@@ -33,8 +33,6 @@ https://tvpass.org/live/WABCDT1/hd
 https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
 #EXTINF:-1 group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
 https://tvpass.org/live/WPIX/hd
-#EXTINF:-1 group-title="Local Channels",WPXN-TV ION 31 (New York NY)
-https://tvpass.org/live/IONTVEast/hd
 #EXTINF:-1 group-title="Local Channels",WBBM-TV CBS 2 24/7 News (Chicago IL)
 http://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WMAQ-TV NBC 5 24/7 News (Chicago IL)
@@ -87,6 +85,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/160604
 https://pubads.g.doubleclick.net/ssai/event/Yo0UqqfJQp2EXhFEfrdDGQ/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WBTS-CD TV NBC 10 24/7 News (Boston MA)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/playlist.m3u8?ads.xumo_channelId=99951168
+#EXTINF:-1 group-title="Local Channels",WFXT-CD TV FOX 25 (Boston MA)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140407
 #EXTINF:-1 group-title="Local Channels",WFXT-CD TV FOX 25 24/7 News (Boston MA)
 https://dbrb49pjoymg4.cloudfront.net/10001/9995108/hls/playlist.m3u8?ads.xumo_channelId=9995108
 #EXTINF:-1 group-title="Local Channels",WSBK-TV MyNetworkTV 38 (Boston MA)
@@ -109,6 +109,8 @@ https://d2kowtvrzzi7ps.cloudfront.net/11602/88889702/hls/playlist.m3u8?ads.xumo_
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Local Channels",WPLG-TV ABC 10 24/7 News (Miami FL)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
+#EXTINF:-1 group-title="Local Channels",WTSP-DT CBS 10 (Tampa FL)
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
 #EXTINF:-1 group-title="Local Channels",WTSP-TV CBS 10 24/7 News (Tampa Bay FL)
 https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WTVT-TV FOX 13 (Tampa Bay FL)
@@ -313,6 +315,10 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131129
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131202
 #EXTINF:-1 group-title="Local Channels",WMTV-TV NBC 15 (Madison WI)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131203
+#EXTINF:-1 group-title="Local Channels",KREM-TV CBS 2 (Spokane WA)
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/865666/5743360/media.m3u8?request_token=Z1-ZrI8l37vCBmH6YKlQZNFcvAXYiLJN8c0K9gQTvqeAS2QJAdKCNfJi781AV_GZ0FiNd9AuyH162KN25KKJ1iwvz5KrioIJ6D1yPHrvpZ68JmiHTY6U93wIgD_NiMxFXxR_tw_MCi_hka74r9ng6aLxngs2p8TTSlCW71SMmjHsk4wN7kcHLDtoRtcivA&CMCD=mtp%3D111600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ac2d9503-527a-4258-a660-a8841776bd7c%22
+#EXTINF:-1 group-title="Local Channels",KRGV-TV ABC 5 (Weslaco TX)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/264111
 
 #EXTINF:-1 group-title="News",News 12 (New York NY)
 https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8
@@ -1323,6 +1329,8 @@ http://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 https://d10d0llfaw1ovl.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/QuickTakeLive/live/origin-contribution-m1-bloomberg-quicktake-Haystack-TV.m3u8
 #EXTINF:-1 group-title="News",Bloomberg TV Politics Live Event
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 group-title="News",Bloomberg Quicktake
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:-1 group-title="News",Yahoo! Finance
@@ -1379,8 +1387,6 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 https://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",Biz TV
 https://thegateway.app/BizAndYou/BizTV/chunks.m3u8?nimblesessionid=11517597
-#EXTINF:-1 group-title="News",BEK News
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",TED Talks
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
 #EXTINF:-1 group-title="News",UN Web TV
@@ -1472,6 +1478,8 @@ https://tvpass.org/live/DiscoveryFamily/hd
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58765
 #EXTINF:-1 group-title="Children Channels",Baby First #2
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 group-title="Children Channels",Brat TV
+https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
 #EXTINF:-1 group-title="Children Channels",FilmRise Kids
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Children Channels",FilmRise Anime
@@ -1514,7 +1522,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 group-title="Network Channels",BET Jams
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131327
 #EXTINF:-1 group-title="Network Channels",BET Soul
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131328
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21844
 #EXTINF:-1 group-title="Network Channels",BET Gospel
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66080
 #EXTINF:-1 group-title="Network Channels",FOX Soul
@@ -1540,7 +1548,9 @@ https://amg01312-cw-amg01312c39-cw-us-6681.playouts.now.amagi.tv/playlist/amg013
 #EXTINF:-1 group-title="Network Channels",Backstage
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusexl/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",E! (Entertainment Television)
-https://tvpass.org/live/EEast/hd
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11651
+#EXTINF:-1 group-title="Network Channels",AXS-TV
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/48324
 #EXTINF:-1 group-title="Network Channels",AXS-TV Now
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 
@@ -1656,6 +1666,8 @@ https://tvpass.org/live/FoodNetworkEast/hd
 https://tvpass.org/live/CookingChannel/hd
 #EXTINF:-1 group-title="Cooking",Gusto TV
 https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cooking",Bon Appétit
+https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cooking",PBS Food
 https://live1009.delivery.roku.com/c208a2d1-7a94-40b7-8c73-30ed17cb2b9b/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Cooking",BBC Food
@@ -1744,7 +1756,7 @@ https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 group-title="Network Channels",HGTV (Home and Garden Television)
 https://tvpass.org/live/HGTVEast/hd
 #EXTINF:-1 group-title="Network Channels",Magnolia Network
-http://143.244.60.97/DIY/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/10503
 #EXTINF:-1 group-title="Network Channels",The Design Network
 https://dbrb49pjoymg4.cloudfront.net/10001/99991390/hls/playlist.m3u8?ads.xumo_channelId=99991390
 #EXTINF:-1 group-title="Network Channels",ONTV4U
@@ -2161,7 +2173,7 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #EXTINF:-1 group-title="Sports",YES Network
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/137923
 #EXTINF:-1 group-title="Sports",Big Ten Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140776
+https://tvpass.org/live/BTN/hd
 #EXTINF:-1 group-title="Sports",Sports Grid
 http://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Unbeaten
@@ -2262,8 +2274,6 @@ https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
 #EXTINF:-1 group-title="Sports",Women's Sports Network
 https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
-#EXTINF:-1 group-title="Sports",BEK TV Sports
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports",TVS Sports
 https://bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 group-title="Sports",TVS Sports Bureau
@@ -2292,7 +2302,7 @@ https://tvpass.org/live/HBOFamilyEast/hd
 #EXTINF:-1 group-title="Premium Channels",Cinemax
 https://tvpass.org/live/CinemaxEast/hd
 #EXTINF:-1 group-title="Premium Channels",More Max
-http://195.181.163.243/CINEMAX_MOREMAX/index.m3u8
+https://tvpass.org/live/MoreMaxEast/hd
 #EXTINF:-1 group-title="Premium Channels",5 Star Max
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13381
 #EXTINF:-1 group-title="Premium Channels",Movie Max
