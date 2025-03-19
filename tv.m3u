@@ -2079,7 +2079,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24051
 #EXTINF:-1 group-title="Sports",ESPN 2
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24049
 #EXTINF:-1 group-title="Sports",ESPN News
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24042
+http://143.244.60.97/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="Sports",ESPN U
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23581
 #EXTINF:-1 group-title="Sports",PAC 12 Insider
@@ -2091,7 +2091,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951364/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="Sports",SEC Network ESPN
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23926
 #EXTINF:-1 group-title="Sports",CBS Sports Network
-https://tvpass.org/live/CBSSportsNetworkUSA/hd
+http://143.244.60.97/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports",CBS Sports HQ
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 group-title="Sports",CBS Sports Golazo Network
@@ -2099,7 +2099,7 @@ http://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1 group-title="Sports",CBS Sports UEFA Champions League
 http://dai.google.com/linear/hls/event/ydKcHHYQSt27vbSP38xMVw/master.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131194
+http://143.244.60.97/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253
 #EXTINF:-1 group-title="Sports",NBC Sports (North West)
@@ -2127,7 +2127,7 @@ https://tvpass.org/live/monumental-sports-network/hd
 #EXTINF:-1 group-title="Sports",New England Sports Network
 https://tvpass.org/live/new-england-sports-network/hd
 #EXTINF:-1 group-title="Sports",beIN Sports
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23877
+http://143.244.60.97/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Sports",beIN Sports XL
 https://apollo.production-public.tubi.io/live/ac-bein.m3u8
 #EXTINF:-1 group-title="Sports",Fubo Sports Network
@@ -2139,7 +2139,7 @@ https://lockedonsports-atlanta-live.sports.tv/v1/master/758627660e995d43cdf59491
 #EXTINF:-1 group-title="Sports",Locked on Los Angeles
 https://lockedonsports-losangeles-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66fae3bdc84b54939d0f5dc3_lockedonsports-losangeles-live/playlist.m3u8
 #EXTINF:-1 group-title="Sports",FOX Sports
-https://live858.delivery.roku.com/4ee14500-1717-41fe-9283-57cb2c2193bd/t2-origin/out/v1/live.m3u8
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 #EXTINF:-1 group-title="Sports",FOX Sports on Tubi
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 #EXTINF:-1 group-title="Sports",FSN 1
@@ -2305,7 +2305,7 @@ https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
 #EXTINF:-1 group-title="Sports",Speed Vision
 https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="Sports",The Outdoor Channel
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23943
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Sports",Outdoor TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Outdoor America
@@ -2526,11 +2526,11 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16141
 #EXTINF:-1 group-title="Premium Channels",Starz Encore Family
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150085
 #EXTINF:-1 group-title="Premium Channels",MGM+
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23817
+http://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",MGM+ Hits
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23584
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",MGM+ Drive-In
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/14193
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",MGM+ Marquee
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsuUw566IkYVqqGVplnHbJQ
 #EXTINF:-1 group-title="Premium Channels",MoviePlex
