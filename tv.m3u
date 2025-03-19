@@ -1709,7 +1709,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/48324
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 
 #EXTINF:-1 group-title="Comedy",Comedy Central
-https://tvpass.org/live/ComedyCentralEast/hd
+http://195.181.163.243/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="Comedy",Comedy Central (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Comedy",Comedy Central Animation (Pluto TV)
@@ -1770,7 +1770,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23734
 #EXTINF:-1 group-title="Network Channels",FXX
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23799
 #EXTINF:-1 group-title="Network Channels",FXM (FOX Movie Channel)
-https://tvpass.org/live/FXMovieChannel/hd
+http://143.244.60.97/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="Network Channels",TNT
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23875
 #EXTINF:-1 group-title="Network Channels",TNT+ (West)
