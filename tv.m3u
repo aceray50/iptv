@@ -2146,6 +2146,8 @@ https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24026
 #EXTINF:-1 group-title="Sports",FSN 2
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24024
+#EXTINF:-1 group-title="Sports",FOX Soccer Plus
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23728
 #EXTINF:-1 group-title="Sports",NBA TV
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23968
 #EXTINF:-1 group-title="Sports",NBA Channel
@@ -2228,6 +2230,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991281/hls/playlist.m3u8?ads.xumo_c
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162353
 #EXTINF:-1 group-title="Sports",Eleven Sports Network
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23582
+#EXTINF:-1 group-title="Sports",SSOT (Sports Stars of Tomorrow)
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23721
 #EXTINF:-1 group-title="Sports",PBR RidePass
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79
 #EXTINF:-1 group-title="Sports",FanDuel TV (Formerly TVG)
