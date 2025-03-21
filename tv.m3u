@@ -8,7 +8,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23491
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23473
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 #EXTINF:-1 group-title="Local Channels",KCAL-TV 9 Ind. (Los Angeles CA)
@@ -34,7 +34,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23470
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 24/7 News (New York NY)
 https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
 #EXTINF:-1 group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23765
+https://tvpass.org/live/WPIX/hd
 #EXTINF:-1 group-title="Local Channels",WBBM-TV CBS 2 (Chicago IL)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23571
 #EXTINF:-1 group-title="Local Channels",WBBM-TV CBS 2 24/7 News (Chicago IL)
@@ -55,12 +55,12 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23537
 #EXTINF:-1 group-title="Local Channels",WFLD-TV FOX 32 24/7 News (Chicago IL)
 https://apollo.production-public.tubi.io/live/ac-wfld.m3u8
+#EXTINF:-1 group-title="Local Channels",WJBK-TV FOX 2 (Detroit MI)
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23532
+#EXTINF:-1 group-title="Local Channels",WJBK-TV FOX 2 24/7 News (Detroit MI)
+https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
 #EXTINF:-1 group-title="Local Channels",WDIV-TV NBC 4 (Detroit MI)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23498
-#EXTINF:-1 group-title="Local Channels",WJBK-TV FOX 5 (Detroit MI)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23532
-#EXTINF:-1 group-title="Local Channels",WJBK-TV FOX 5 24/7 News (Detroit MI)
-https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
 #EXTINF:-1 group-title="Local Channels",WXYZ-TV ABC 7 (Detroit MI)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23462
 #EXTINF:-1 group-title="Local Channels",WXYZ-TV ABC 7 24/7 News (Detroit MI)
@@ -2159,7 +2159,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23959
 #EXTINF:-1 group-title="Sports",NFL Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Sports",NFL Red Zone
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23957
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="Sports",Locked on NFL
 https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5a5e6d0c3a5f3ad07b6d4_lockedonsports-nfl-live/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MLB Network
