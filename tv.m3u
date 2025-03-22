@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23753
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131010
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 (Los Angeles CA)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23491
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131182
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
-https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23473
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 #EXTINF:-1 group-title="Local Channels",KCAL-TV 9 Ind. (Los Angeles CA)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23561
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23526
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131078
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
 https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
@@ -1205,8 +1205,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108248
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/144836
 #EXTINF:-1 group-title="Latino (Spanish)",WSNS-TV Telemundo 44 (Chicago IL)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131344
-#EXTINF:-1 group-title="Latino (Spanish)",KXLN-DT Univision 45 (Houston TX)
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/440967
 #EXTINF:-1 group-title="Latino (Spanish)",WNEU-TV Telemundo 60 (Boston MA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131146
 #EXTINF:-1 group-title="Latino (Spanish)",KBLR-TV Telemundo 39 (Las Vegas NV)
@@ -2079,7 +2077,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24051
 #EXTINF:-1 group-title="Sports",ESPN 2
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24049
 #EXTINF:-1 group-title="Sports",ESPN News
-http://143.244.60.97/ESPN_NEWS/index.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140729
 #EXTINF:-1 group-title="Sports",ESPN U
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23581
 #EXTINF:-1 group-title="Sports",PAC 12 Insider
@@ -2099,7 +2097,7 @@ http://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1 group-title="Sports",CBS Sports UEFA Champions League
 http://dai.google.com/linear/hls/event/ydKcHHYQSt27vbSP38xMVw/master.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports Network
-http://143.244.60.97/NBC_SPORTS_NETWORK/index.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131290
 #EXTINF:-1 group-title="Sports",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253
 #EXTINF:-1 group-title="Sports",NBC Sports (North West)
@@ -2234,8 +2232,10 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23582
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23721
 #EXTINF:-1 group-title="Sports",PBR RidePass
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79
+#EXTINF:-1 group-title="Sports",FOX Racing America
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162128
 #EXTINF:-1 group-title="Sports",FanDuel TV (Formerly TVG)
-http://212.102.60.231/TVG/index.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140778
 #EXTINF:-1 group-title="Sports",FanDuel TV+
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex.m3u8
 #EXTINF:-1 group-title="Sports",FanDuel 2 Racing
@@ -2297,7 +2297,7 @@ https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/playl
 #EXTINF:-1 group-title="Sports",MotorTrend
 https://tvpass.org/live/Motortrend/hd
 #EXTINF:-1 group-title="Sports",Sportsman Channel
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/79913
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162127
 #EXTINF:-1 group-title="Sports",Monster Jams
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 group-title="Sports",MAV TV
@@ -2344,6 +2344,10 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131224
 #EXTINF:-1 group-title="Sports",Swerve Sports
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYi7EppPWYlrHoIQomuzPJmw
+#EXTINF:-1 group-title="Sports",VSIN Sports
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/168530
+#EXTINF:-1 group-title="Sports",Strongman Champions League
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/190839
 #EXTINF:-1 group-title="Sports",DAZN 1
 http://fl4.moveonjoy.com/DAZN_1/index.m3u8
 #EXTINF:-1 group-title="Sports",DAZN 2
@@ -2360,6 +2364,8 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23886
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 #EXTINF:-1 group-title="Sports",UFC Fight Pass
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145481
+#EXTINF:-1 group-title="Sports",FN (Fight Network)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140799
 #EXTINF:-1 group-title="Sports",HBO Boxing by WB
 https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8
 #EXTINF:-1 group-title="Sports",Fite 24/7
@@ -2406,6 +2412,8 @@ https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/us
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpyphpkjJj93hfCZh5F2BAw
 #EXTINF:-1 group-title="Sports",NESN
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/46726
+#EXTINF:-1 group-title="Sports",NESN+
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140780
 #EXTINF:-1 group-title="Sports",Extreme+
 https://d3p1dbb9xrkmd5.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NuestraTV-MuxIP-ExtremePlus/276.m3u8
 #EXTINF:-1 group-title="Sports",Marquee Sports Network
@@ -3205,9 +3213,9 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58770
 #EXTINF:-1 group-title="Latino (Spanish)",Galavisión HD
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23796
 #EXTINF:-1 group-title="Latino (Spanish)",NBC Universo
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/166714
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/166714
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Internacional
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2123480
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440973
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Al Día
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Acción
@@ -3221,13 +3229,11 @@ https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Mundo
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145512
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Uno
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3801
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/37670
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Noticias
 http://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca 7
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092601
-#EXTINF:-1 group-title="Latino (Spanish)",Azteca-TV UNO -1 HR
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/24167
 #EXTINF:-1 group-title="Latino (Spanish)",TV Azteca GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Cinema Azteca (Mexico)
@@ -3297,7 +3303,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66
 #EXTINF:-1 group-title="Latino (Spanish)",AMC en Español (Pluto)
 https://4972c88f2f4c48bf9a9a5f4fd3623cbd.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_AMCenEspanol/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",AMC en Español
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3019
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/37
 #EXTINF:-1 group-title="Latino (Spanish)",WB TV en Español
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3013
 #EXTINF:-1 group-title="Latino (Spanish)",Universal Channel en Español
@@ -3315,7 +3321,7 @@ http://170.254.18.106/USA/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TBS (i/e)
 http://170.254.18.106/TBS/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Paramount Network en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150111
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3667
 #EXTINF:-1 group-title="Latino (Spanish)",MTV en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3031
 #EXTINF:-1 group-title="Latino (Spanish)",MTV en Español (Pluto TV)
@@ -3405,7 +3411,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3746
 #EXTINF:-1 group-title="Latino (Spanish)",Gusto TV en Español
 https://amg01077-gustofast-amg01077c8-freetv-us-2222.playouts.now.amagi.tv/playlist/amg01077-gusto-gustoesp-freetvus/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",A&E en Español
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3020
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3839
 #EXTINF:-1 group-title="Latino (Spanish)",Universal Crime
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3758
 #EXTINF:-1 group-title="Latino (Spanish)",Paramount Network en Español
@@ -3501,7 +3507,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Univision TL Novelas
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/59602
 #EXTINF:-1 group-title="Latino (Spanish)",TL Novelas #1 (México)
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/110862
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/31073
 #EXTINF:-1 group-title="Latino (Spanish)",TL Novelas #2 (México)
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10572
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
@@ -3540,6 +3546,8 @@ https://live1009.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origi
 https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=lCw3g91xgIJQuJqZz07aMg:szYxz14P6wqAsyhtLLdWNbcB0c1IKL0lxx-PLfD0v4GixoETyC05b6d6LytvV_kzpIIfQO3MYtrqRbZFiPQGsqtObPRp74lLh9FClMV5kM_AZNDBdWhqVW6ewQN_dBH0pLHVuddp8XFY7cUuJ9OXZIXlN7mmdieY5WoARG6QUKDDWYK98Dw8UeQoJAHAOlTYwe4KvhmLDLTJLJfhpWeCVClNOH1OAkbXSIN6hyNYSuhV1tPqw1hwkk4IdH5taHz0aE4AHsHfs_Zv7WeKlQcj7V1ssE1jkYXMgaTHGPrOn1y0d82iaoi9DtB1NBxGdUng5xrfEDSSct7iACTFSlgFEYEWooLbS70Ijn8NT7Si7a3ei_I8cC2TNcQ9N-yqUZx-vfC3kAajiIcuAPaEe5FqHlcnN4-tnOrdckus3wqOzuHkeYWWC_PkyxcPyuRxiWi8z-VM36YW7cOvDisoSXvl8oFm5eUo9KhWMDA8S-L4E9kGhql22LToY_1jpmXR8SBVJGJfjRHMlayGviw6fEwSs4xDO7D-Ufu6MNwo5PjJPliyVZt5Hz6B6lx7VyNHYIvrc1htPHd0fY3Ag_IWArpRE9GiQ7OOxUpmd2PFix5Oy-F9pF9jSfLlGGucGI7s-espvi9dcpL3IrFyaZaDo0ksiR2IBga2SVeN2qNjG89nk50LiMwpHh1F1Hv7gm3wVFUwQvOwZLwCHxRAsY1EdZCdB_Pfz6sGfmgzz3aeVPH3j7Gs1izHz3uWhrsTHHz8p4-Jk7f69IBfKGYHEv69LnybkEkvDPqpHLkEAk_NFp0YNRMUSMjAu2vHEfYyX4yUtFmqIY1yfzRv7WaXD3VVq7irBxXlVgvPgofVKN95UNm4n-HsovzoCVpi5kAXeydML8Gzmk-5DhcOBTV9ZKBd5YcE1lMq32vUJpawTKSr5m_hhCdzFHWFnOk8cOLU7Soc7txdKAYuB-eiK14WOneLaWaMXf1cC7gPuBfghHsdN-66Qo0KZnU2nT_FzuAqkxXP6RTThjESLzthFiGaK109_86gVHouhMIVHI_Fq7BJM0reygWiG4ChTDEh00x2zRXDXqAsUp_WSqsM4hsKmzZKurjSzS-pif8U4W01QH8BEX0kxFUuTb6mIS7vOsX3yV1EqnP8Fv2k31AhY2QDq5u7-v-u-g&anvtrid=5200026ff5f8893ab93c69f6185f5e4f&anvauth=tb=0~te=1740108096~sgn=51c4e27adf1873df40d37fb07da93a62fecf8f711ede5b299905e4be6a5ed421&t=1740108006
 #EXTINF:-1 group-title="Latino (Spanish)",RCN Más
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Sony Channel en Español
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4285
 #EXTINF:-1 group-title="Latino (Spanish)",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Sony Cine
@@ -3595,21 +3603,21 @@ https://live1009.delivery.roku.com/6db7c87c-7e4b-4de4-bb6e-70efaac30d60/t2-origi
 #EXTINF:-1 group-title="Latino (Spanish)",Canela.TV Pasión Latina
 https://live1009.delivery.roku.com/15a389c6-1b0d-4f8b-93d9-7a6ea0254e7f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",HBO
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10885
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/49
 #EXTINF:-1 group-title="Latino (Spanish)",HBO 2
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/2806
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/50
 #EXTINF:-1 group-title="Latino (Spanish)",HBO Plus
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10879
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/53
 #EXTINF:-1 group-title="Latino (Spanish)",HBO Mundi
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10863
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/52
 #EXTINF:-1 group-title="Latino (Spanish)",HBO Signature
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10882
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/55
 #EXTINF:-1 group-title="Latino (Spanish)",HBO Family
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10878
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/51
 #EXTINF:-1 group-title="Latino (Spanish)",HBO Pop
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/41420
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/54
 #EXTINF:-1 group-title="Latino (Spanish)",HBO Xtreme
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135858
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/56
 #EXTINF:-1 group-title="Latino (Spanish)",HBO en Español
 http://181.188.234.21:8000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Cinemax en Español
@@ -4477,7 +4485,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlUG3FZBNR7t1B-G7kszzUw
 #EXTINF:-1 group-title="UK Channels",Willow Sports (Austrailia)
 https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
 #EXTINF:-1 group-title="UK Channels",GOL TV (UK)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsyO-AGPgeaKv4aCOHb6IgU
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162273
 #EXTINF:-1 group-title="UK Channels",Racing (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53741
 #EXTINF:-1 group-title="UK Channels",Motor Sports (UK)
