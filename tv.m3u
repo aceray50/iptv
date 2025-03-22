@@ -586,8 +586,6 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8?player_version=1.18.0
 #EXTINF:-1 group-title="Public Broadcast",WTVS-TV 56.6 Michigan Learning Channel
 https://d2jalth387y2js.cloudfront.net/test.m3u8
-#EXTINF:-1 group-title="Public Broadcast",KLCS PBS 58.3 Create (Los Angeles CA)
-https://l52uk7judkzou3.data.mediastore.us-west-2.amazonaws.com/indexKLCS_720.m3u8
 #EXTINF:-1 group-title="Public Broadcast",KMOS-TV PBS 6 (Columbia MO)
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 group-title="Public Broadcast",KCPT-TV PBS 19 (Kansas City MO)
@@ -1343,7 +1341,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-
 #EXTINF:-1 group-title="Documentary",Xplore #2
 https://dtqutq7lmcchv.cloudfront.net/10001/99991765/hls/playlist.m3u8?ads.xumo_channelId=99991765
 #EXTINF:-1 group-title="Documentary",PBS Nature
-https://dtqutq7lmcchv.cloudfront.net/10001/99991628/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991628
+https://d2irko5f9gt1c5.cloudfront.net/10008/99951195/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951195
 #EXTINF:-1 group-title="Documentary",Love & Nature
 https://amg01515-amg01515c19-cw-us-2584.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-loovenatureus-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Wild Earth
@@ -3654,9 +3652,7 @@ https://dai.google.com/linear/hls/event/P-z5VMsOQxmXTpZLaDC6Pg/master.m3u8
 https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",CLIC
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Ecuador TV #1
-http://181.188.234.21:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Ecuador TV #2
+#EXTINF:-1 group-title="Latino (Spanish)",Ecuador TV
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canal 26 VA+
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
@@ -3810,24 +3806,32 @@ https://amg00658-amg00658c27-canelatv-international-5108.playouts.now.amagi.tv/p
 http://181.188.234.21:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",TUDN #1
-http://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",TUDN #2
+#EXTINF:-1 group-title="Latino (Spanish)",TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 group-title="Latino (Spanish)",Fútbol TUDN
 https://dai.google.com/linear/hls/event/JgYgVMW8Szinkmm7dchlmQ/master.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TVC Deportes
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150069
+#EXTINF:-1 group-title="Latino (Spanish)",AYM Deportes
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3705
+#EXTINF:-1 group-title="Latino (Spanish)",Claro Sports (La Liga)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/161000
 #EXTINF:-1 group-title="Latino (Spanish)",ViX Lo Mejor de Liga MX
 https://live1009.delivery.roku.com/025088b2-d7e3-4803-9e66-a2a0eac3c39a/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports en Español
+#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports en Español #1
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/133854
-#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports La Liga #1
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports La Liga #2
-http://181.78.105.146:8800/play/a07h
+#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports en Español #2
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/189725
+#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports Premier
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/160999
+#EXTINF:-1 group-title="Latino (Spanish)",SKY Sports La Liga
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145437
 #EXTINF:-1 group-title="Latino (Spanish)",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",beIN Sports en Español
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131357
 #EXTINF:-1 group-title="Latino (Spanish)",beIN Sports Xtra en Español
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Deportes
@@ -3848,24 +3852,16 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 http://181.188.234.21:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 2 en Español SD
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",ESPN 2 HQ en Español
-http://200.60.124.19:29000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 3 en Español
 http://181.188.234.21:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",ESPN 3 HQ en Español
-http://200.60.124.19:29000/play/a02e/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 3 en Español SD
 http://181.78.105.146:2000/play/a03n/index.m3u8 
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 5 en Español
 http://200.60.124.19:29000/play/a04y/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 6 en Español
 http://181.188.234.21:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",ESPN 6 HQ en Español
-http://200.60.124.19:29000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 7 en Español
 http://181.188.234.21:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",ESPN 7 HQ en Español
-http://200.60.124.19:29000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Lucha Libre AAA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d5e2a-7b2e-11ef-9cb3-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f25e2041-12d2-4c2a-b102-39f6685f2b9c&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Latino (Spanish)",Futbol 04
