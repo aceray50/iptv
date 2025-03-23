@@ -498,7 +498,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 
 #EXTINF:-1 group-title="Network Channels",Preview Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608083444363b700366942df.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://amg00364-amg00364c2-thepreviewchannel-us-3407.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",FreeCast Sneak Preview
 https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
 #EXTINF:-1 group-title="Network Channels",NBC LX Home
@@ -547,8 +547,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/172481
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Grit TV
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131292
-#EXTINF:-1 group-title="Network Channels",GRIT TV Movies
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24008
 #EXTINF:-1 group-title="Network Channels",Grit Xtra
 https://amg01438-ewscripps-amg01438c46-cw-us-2390.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsgritxtra-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Laff
@@ -564,7 +562,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951124/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="Network Channels",Buzzr #2
 https://buzzrota-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Bounce TV
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23868
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/10001/9999613/hls/playlist.m3u8?ads.xumo_channelId=9999613
 #EXTINF:-1 group-title="Network Channels",Nosey
@@ -2466,7 +2464,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/9266
 #EXTINF:-1 group-title="Premium Channels",HBO Zone
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/9265
 #EXTINF:-1 group-title="Premium Channels",HBO Family
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23995
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Cinemax
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13380
 #EXTINF:-1 group-title="Premium Channels",More Max
