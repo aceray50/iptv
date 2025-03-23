@@ -1641,12 +1641,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131329
 #EXTINF:-1 group-title="Network Channels",MTV Classic
 http://143.244.60.97/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Network Channels",MTV Hits
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/59506
-#EXTINF:-1 group-title="Network Channels",MTV Live #1
+#EXTINF:-1 group-title="Network Channels",MTV Live
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131317
-#EXTINF:-1 group-title="Network Channels",MTV Live #2
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/59511
 #EXTINF:-1 group-title="Network Channels",MTV U
 http://143.244.60.97/MTV_U/index.m3u8
 #EXTINF:-1 group-title="LGBT",Logo
@@ -1656,7 +1652,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 group-title="Network Channels",OUTtv Proud
 https://amg00375-fusemedia-outtv-ono-fpk2m.amagi.tv/playlist/amg00375-fusemedia-outtv-ono/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",VH1
-
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/7404
 #EXTINF:-1 group-title="Network Channels",BET
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130996
 #EXTINF:-1 group-title="Network Channels",BET (Pluto TV)
