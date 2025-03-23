@@ -2137,13 +2137,13 @@ https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Spo
 #EXTINF:-1 group-title="Sports",FOX Sports on Tubi
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 #EXTINF:-1 group-title="Sports",FSN 1
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24026
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140731
 #EXTINF:-1 group-title="Sports",FSN 2
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24024
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140732
 #EXTINF:-1 group-title="Sports",FOX Soccer Plus
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23728
 #EXTINF:-1 group-title="Sports",NBA TV
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23968
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131172
 #EXTINF:-1 group-title="Sports",NBA Channel
 https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NBA Fast Channel
@@ -2151,7 +2151,7 @@ https://live-manifest.production-public.tubi.io/live/6b792a90-6adb-45aa-b4b4-aa6
 #EXTINF:-1 group-title="Sports",Locked on NBA
 https://lockedonsports-nba-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5d246ebbf09a4b30b3e19_lockedonsports-nba-live/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NFL Network
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23959
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131291
 #EXTINF:-1 group-title="Sports",NFL Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Sports",NFL Red Zone
@@ -2159,13 +2159,13 @@ http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="Sports",Locked on NFL
 https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5a5e6d0c3a5f3ad07b6d4_lockedonsports-nfl-live/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MLB Network
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23985
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140734
 #EXTINF:-1 group-title="Sports",MLB Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Sports",MLB Channel on Tubi
 https://livetv-fa.tubi.video/mlb3/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NHL Network
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23953
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131212
 #EXTINF:-1 group-title="Sports",NHL Channel
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 group-title="Sports",Altitude Sports Denver
@@ -2494,7 +2494,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23923
 #EXTINF:-1 group-title="Premium Channels",Showtime Women
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17778
 #EXTINF:-1 group-title="Premium Channels",Showtime Family Zone
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23773
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13481
 #EXTINF:-1 group-title="Premium Channels",The Movie Channel
 https://tvpass.org/live/TheMovieChannelEast/hd
 #EXTINF:-1 group-title="Premium Channels",Starz (West)
@@ -3482,12 +3482,14 @@ https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Tele Hit
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131144
+#EXTINF:-1 group-title="Latino (Spanish)",Más Chic
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131297
 #EXTINF:-1 group-title="Latino (Spanish)",Somos Novelas
 https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Univision TL Novelas
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/59602
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131311
 #EXTINF:-1 group-title="Latino (Spanish)",TL Novelas (México)
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/31073
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
