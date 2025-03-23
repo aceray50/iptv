@@ -3190,12 +3190,8 @@ http://rfcm.streamguys1.com/sailingpremium-mp3
 #EXTINF:-1 group-title="Music",TuneIn Smooth Jazz
 http://rfcm.streamguys1.com/smoothjazzpremium-mp3
 
-#EXTINF:-1 group-title="Latino (Spanish)",Spectrum Noticias NY1
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23760
-#EXTINF:-1 group-title="Latino (Spanish)",Galavisión SD
+#EXTINF:-1 group-title="Latino (Spanish)",Galavisión
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58770
-#EXTINF:-1 group-title="Latino (Spanish)",Galavisión HD
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23796
 #EXTINF:-1 group-title="Latino (Spanish)",NBC Universo
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/166714
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Internacional
@@ -3437,7 +3433,9 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Mexicali
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149214
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Tijuana
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/150362
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149214
+#EXTINF:-1 group-title="Latino (Spanish)",Televisa Ciudad Puebla
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162266
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Aguascalientes
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243101/ei/Pay5Z859nryx8g-b76igDg/ip/47.159.183.133/id/U-a3gE_u1ng.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393160/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3wqXStyYs5FQQE8y1ALGg5ppzMp-_Z6Feq529VhbRE6Za3zPJ81RW9AX7ixPHjIXFo_ch0h2JhV/spc/RjZbSd9H2z8_7GxXZFBTYxvL1L2sMvTwLDZl48WazgAYVT_BC3S_7WYucRe4dw0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYlB3ExQvZczfF0-tkfBZBKOx9P3XaWI063sHCceahZkCIQDQkE7K_y7CJXnBebBvJrVzYocWMJKziSbWY7GGuKFbTw%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Guadalajara
@@ -3463,7 +3461,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fuselatinovibes-ono
 #EXTINF:-1 group-title="Latino (Spanish)",Backstage en Español
 https://amg00375-fusemedia-backstageespanol-ono-espoe.amagi.tv/playlist/amg00375-fusemedia-backstageespanol-ono/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Banda Max
-https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=mxmvfl1BvCUNoGmzNy8rLA:NnqHHHldpyTki0ZL_nPx01ZnJM-LutlTX1RuseUZqdhEWaxRuDVVYvKR3lxSkNXZKANRKH9H_zgTb3eNoGWhm7tWEu1LBqbbAntZ_TrNt8lI71nc_XfgFxHX-GuZ5XE6_qt9K77WZ0lrpNUk1gCU0vklHBbj9g1r2sO_-sZb4KwPkwCzWD4ZNzGtkOktVyxnEOKwfuQiqs2jW--9X9_Ftsf-6MiheHe-dqAY4670fvDTX5lonQJsfYPcPsx4K0O1lzGPpw0czOlGuO2kOBb3TnGGBol7SWur5TsaO2Ib5vkcNpxPC6G415eVtcqSbWPMXd-O6juZIJuQQvN-QPWAlKmkgbIWJ_Qtbj5SDP9sq4lXex5rPuPdJZdi2Na5TwLYYGovasRMzegmXMTe0ajnGt0J7baB8Ja4HBG_o4Oeo9sdPEDC7EVTgoSqfIB0DNxN4RJJFa8YKOs2PYSI6dhOAeKTOsjZUTHqKNSWum-jDwWZyJGXEaYhgamGGOLedvO8ZhSoQMa6Jg3Rw7wD7f6B-S4Kg03UlaL5J6dil5rNUO6HhrEO1VEEZtP4lsS0xYp4yv7GVFOILNtTSfasIdp1YyFbdWR83cKJX8G-DUc8r5IN6-v-30kOF-d4vqTSSzPt-WiSutajAmvgn4O4vEKgdc6hFpBSeiRTcGCm4NM3u4UV8nQFEnwAgiLmSgHdkrErmRP8EeNLKSwQgeDAoiVkbuuHlmP3t5RizTRSbhsV2n2CLGOOeXK1DlFGtSpXPSm64lRddbvvN9H50O14vLmxlmb_CucIiYP1nKjtHw56O8gyGxvDMfUqtKVu2QarIFG1DqQg5cwQWy6ayaxIrx4Us2c6ZTM4AKcqEuyZuoRxDIzl8B9GLZAsbxShM6EcBoVwgwhqlkuD0Wc3pJhP6XuLhbeIA3poyFwTdNdwmIVJoGA48FTZvivJVzZHi5-uiQM_RReCJfIFUrj8w7GuiuRestwkjTtoKYeHgfoZEdV56u4JMau2lz21Kai_xnNOs3ARLjL6lIYGuWT_NsYsQ4gMWuO2Cw8pzUTT-nxL5-reaWC1fl7MrvVN7MRftz99d2zlCQlL0XqLilK3rttCkss7IJxSueOpVOfAVjhCPIm7WEnXZH5f2yQfaGMIz1F8IbpxGZzpyzK_ngQQEVm52kcNaw&anvtrid=e524c070c70466ff8773b468dd3b252b&anvauth=tb=0~te=1740108402~sgn=e79198b3ebbbbb5296b4ac4ed29bbfcbecf32db231ecca48f8d40eb2d6d4560a&t=1740108312
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/129047
 #EXTINF:-1 group-title="Latino (Spanish)",Wapa+
 https://live1009.delivery.roku.com/48f0cc45-b8ca-4d04-9d2a-7995b62cbd38/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",MVStv
@@ -3483,7 +3481,7 @@ https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Latin Zone
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Tele Hit
-https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=MdL5aa90z36jz4E0sr8Wbg:pF5otOzOm9Z-KaNRoVTA5dYMZuDpHpP0_thNoDOQHOZBdYhmodQzzkcJlMHxU6uPchgIUga76WqLLGh7IQ9nuRPvq253f5OA3R_ZAX6W8fflrUbOOEIRQtit1yRKzc-XpXD82CGQbHJ0hxVwG_slpX5DHgJ_BaF-rPDbWzG12bEQij4ydXEbwbzSi1BW4f_N_nA9oRV1_pjDvJlWXNQOcvzNtG8Rucu3dAs14esEd9gbEzFVuWpxbmSmIF8NnO3kP_WU0sqA25dSDiTaEXFFprWFSCmx_tRE3SNJsR55qASqEKrhBAdHDml3w__V0cwnCTBAOrumr9wH6aV_CnlrADS7yDK8yuNH-gVVY3Edh-dfpgTICGWt_mS73tZUIlppyuCNhFOGzdA34cwf1lQJc2xJkk32eTtzPIZvq1ac1N9roj9US18EE21tFA5tmw_lrw6IbKpLJLbNRmbtFN1Cc08tqWXfA_ILuyLSY3AKrxsSiDXXDzRA4_CPzKq9JU0jsEFaYYijEdJ-oPyPd3LWx1KmwnSkK5GPEDad_hN5LYM5xzK6TTHER1rKtD8gBmdMgSwfyZjCL7fVbWClMPlB8GKQsu0FT8Jo_7fVVUHHifVSXKmAGWzDtWrmlnhWP6z2T8GogKmbHcgh2vilkQF9ZbHJxVP2Ec_sQhf7empUp9NsS_IYknpD1iEqrwPNBY-B6XbFau8yrO_jsGoX0I0nvbGKNbuErthIY6LrVEM9rfrX3_PrsTR3bRGaK3VahVTrrza7GciBf2O9LtneD0qJRyFz8NEcPsVOll8wbximoPRkYcd4Nl9mxYzFayyFusUiuvO0lfFywisayz5-ebLGifUY-2GBbqb4hOJbO6pqxL3F19K7m2QUHavus15iqQcNEGf4U8qYODiEK0vlpTTAyh0w6GpIybjAj5aus7IzqfUX8ULbS_ZfHcRxVyb3zpa5UWUyjGz7JMsrOo8ccbODET2UhhWKQSLAMj9OJj1U7lRrbINAy_AisPvBR_fXAWuTOThtKITqnpRTnF4WRf4hG1NymB5mSGWin_K470DOMwsU746pOYrt_TW5YFxA3JbH4cp9pbsbehHgcEluTVfp0yqZg_QKQep2VLPYlNZelNtEAWfFM1QHfHS2v7vOoY_WBcEjyqAkqcBVL5hauScFSw&anvtrid=139d721696a6cca362865486bf0ee31a&anvauth=tb=0~te=1740108239~sgn=5bf87e0190aeba92d611ba02c80d88e5d5d5abf7a624f99c2f253885a34fe1eb&t=1740108149
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131144
 #EXTINF:-1 group-title="Latino (Spanish)",Somos Novelas
 https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Novelas
@@ -3719,7 +3717,7 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ADN 40 (México)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Panamericana (Peru)
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.SnObcKtKq69K.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvU25PYmNLdEtxNjlLIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTc0MDIyMTEyOH0.3boV72JSP0zqWF1R7QODKGgfMAQbyPH63vbZQ8Ta_uKllM_lMb8rOLiHeqMdp75XXU6YzVcn6s_5NBZ0Du5cRTCGhC-9VXU3IlOj-Zkz3z5vaPI2ND-MskBv_X2zDIWa&player_version=1.19.0
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/110633
 #EXTINF:-1 group-title="Latino (Spanish)",Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Canal 7.1 (Bolivia)
@@ -3890,8 +3888,6 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Euro Sport 2
 http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Sports Italia TV (Italy)
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Canadian Channels",CBC Calgary (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57381
