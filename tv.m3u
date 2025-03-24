@@ -1434,7 +1434,7 @@ http://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1 group-title="News",CBS 60 Minutes
 http://dai.google.com/linear/hls/event/nrb-l85CR7SIr-rGXqz4zA/master.m3u8
 #EXTINF:-1 group-title="News",FOX News Now
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",FOX News Channel
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/1818
 #EXTINF:-1 group-title="News",FOX Business
