@@ -3342,6 +3342,8 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149686
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155963
 #EXTINF:-1 group-title="Latino (Spanish)",Toon Cast
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149692
+#EXTINF:-1 group-title="Latino (Spanish)",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 group-title="Latino (Spanish)",Baby First en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149688
 #EXTINF:-1 group-title="Latino (Spanish)",Baby TV
@@ -3536,6 +3538,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe
 https://live1009.delivery.roku.com/fb245b6d-09b4-420b-9732-dfcd80c377b2/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ViX JaJaJa
 https://live1009.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Distrito Comedia
 https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=lCw3g91xgIJQuJqZz07aMg:szYxz14P6wqAsyhtLLdWNbcB0c1IKL0lxx-PLfD0v4GixoETyC05b6d6LytvV_kzpIIfQO3MYtrqRbZFiPQGsqtObPRp74lLh9FClMV5kM_AZNDBdWhqVW6ewQN_dBH0pLHVuddp8XFY7cUuJ9OXZIXlN7mmdieY5WoARG6QUKDDWYK98Dw8UeQoJAHAOlTYwe4KvhmLDLTJLJfhpWeCVClNOH1OAkbXSIN6hyNYSuhV1tPqw1hwkk4IdH5taHz0aE4AHsHfs_Zv7WeKlQcj7V1ssE1jkYXMgaTHGPrOn1y0d82iaoi9DtB1NBxGdUng5xrfEDSSct7iACTFSlgFEYEWooLbS70Ijn8NT7Si7a3ei_I8cC2TNcQ9N-yqUZx-vfC3kAajiIcuAPaEe5FqHlcnN4-tnOrdckus3wqOzuHkeYWWC_PkyxcPyuRxiWi8z-VM36YW7cOvDisoSXvl8oFm5eUo9KhWMDA8S-L4E9kGhql22LToY_1jpmXR8SBVJGJfjRHMlayGviw6fEwSs4xDO7D-Ufu6MNwo5PjJPliyVZt5Hz6B6lx7VyNHYIvrc1htPHd0fY3Ag_IWArpRE9GiQ7OOxUpmd2PFix5Oy-F9pF9jSfLlGGucGI7s-espvi9dcpL3IrFyaZaDo0ksiR2IBga2SVeN2qNjG89nk50LiMwpHh1F1Hv7gm3wVFUwQvOwZLwCHxRAsY1EdZCdB_Pfz6sGfmgzz3aeVPH3j7Gs1izHz3uWhrsTHHz8p4-Jk7f69IBfKGYHEv69LnybkEkvDPqpHLkEAk_NFp0YNRMUSMjAu2vHEfYyX4yUtFmqIY1yfzRv7WaXD3VVq7irBxXlVgvPgofVKN95UNm4n-HsovzoCVpi5kAXeydML8Gzmk-5DhcOBTV9ZKBd5YcE1lMq32vUJpawTKSr5m_hhCdzFHWFnOk8cOLU7Soc7txdKAYuB-eiK14WOneLaWaMXf1cC7gPuBfghHsdN-66Qo0KZnU2nT_FzuAqkxXP6RTThjESLzthFiGaK109_86gVHouhMIVHI_Fq7BJM0reygWiG4ChTDEh00x2zRXDXqAsUp_WSqsM4hsKmzZKurjSzS-pif8U4W01QH8BEX0kxFUuTb6mIS7vOsX3yV1EqnP8Fv2k31AhY2QDq5u7-v-u-g&anvtrid=5200026ff5f8893ab93c69f6185f5e4f&anvauth=tb=0~te=1740108096~sgn=51c4e27adf1873df40d37fb07da93a62fecf8f711ede5b299905e4be6a5ed421&t=1740108006
 #EXTINF:-1 group-title="Latino (Spanish)",RCN Más
@@ -3551,7 +3555,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214c
 #EXTINF:-1 group-title="Latino (Spanish)",Cine en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Latino (Spanish)",Cine Latino
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/155202
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/7974
 #EXTINF:-1 group-title="Latino (Spanish)",Todo Cine
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
 #EXTINF:-1 group-title="Latino (Spanish)",AXN en Español
