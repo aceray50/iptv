@@ -2,15 +2,15 @@
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131010
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
-https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/7fbeb40d-9bb1-4c6f-88ee-f6dd5322081a:DLS/variant/8896482e6fa701fdc71a89c042edbd3b/bandwidth/3072960.m3u8
+http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 (Los Angeles CA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131182
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
-https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/c39668a7-98e0-45cb-aa32-c8e59a6eb66e/2.m3u8
+https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
-https://content-ausw2-up-1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1/f.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&platform=web&ad.tag=&ad.vast3=1&ad.v=2&ad.tfcd=0&ad.is_lat=0&ad.npa=0&ad.correlator=34911&ad=kabc_live&ad.adUnit=/kabc/abc7.com/web/main&ad.pp=datg-live-vdms&ad.description_url=https%3A//abc7.com/&ad.url=https%3A//abc7.com/&ad.sz=640x480&ad.ppid=c7b0ab505fe34b2086ce5d19310cda26&ad.rdp=0&ad.us_privacy=1YNY&prbd.server=drax&ad.prbd=drax&station=kabc&id=11064936&key=otv.web.kabc.player&ad.cust_params=accesslevel%3D0%26beacTyp%3Dssai%26isAuth%3D0%26aff%3Dkabc%26lang%3Den%26ait%3Dssai%26chan%3Dmisc%26objid%3D%26isAutoplay%3D1%26isDnt%3D0%26isMute%3D0%26pgtyp%3Dhome%26vdm%3Dlive%26plt%3Ddesktop%26stp%3Dvdms%26swid%3Dc7b0ab505fe34b2086ce5d19310cda26%26dtci_yxbk%3D%26var%3D16x9%26vps%3D640x360%26noad%3D0%26refDomain%3Dhttps%253A//abc7.com/%26unid%3D%26d_us_privacy%3D1YNY%26tvid%3D&ad.paln=AQzzBGQEgT6ymhC-c2zJ1XrtdTvZ5TQljHCUpz4diNoMWCZhDp-uzwLkrMW6t3nTTj-t96C-_Tn4DczCWfR9JmPzq-KtuF0leO3lWfGWfaXeHqtezZhjsYt3dv7tVWcojljIJ8O1C2K183MVA_hJBto7rnKD7VrRMGqhO4F8hrCeWwB0HIbvGzTJu2c7BKgJEq-QQ8rFmwdYULTr0ZKix9adZrBvBK5jlqROhWVZnnzp2Y5P22L1kF7MJlm7yNnnK2BjA_S4qbgnPVgaG-2lx5PfG_V09-7oL9Lc-x6ZWrJ9K2cuCIwmjdVxi5OJ0hvg5RI9kshoKabD__uD0GnCAeb792o_DoAKS3ONFalKjIjQvf68ltJMMogBiaza9pLJqrHKeVql7CIAGhabCuHKE8GxahmWuy93J2MUESylOTLbxwL_7b9JPUilpiav8D0Skf0nkIvxDPxNFj4pe_DJ-yo-XA-Fle1xEEpmSLcJMncwv3Yx1EkDOJRzEKqy1eF54xxfrEW7i9y0-Zid47HDacgaroIEKuYB42NHPF_8zwrBJgzTSPlQXiqBV7ynvnSxyoAPu6QYajuWcuygrrZDvdee8YjVbYYfnclXhkZKbzZ7bYro9g5apHn4KKVTNRA32q5oKDHKENragUBF4n_O1CsN8GKhoufZBguQMLw86K46sRbHvbEZ4CpmXgSWmbJuv3UPzp62dbI3ERO7tKCIYPGwRKfSPQg9PCpNqVJfGx5RsoNcjYatNQNgYFbRkwPn7uRqkDMux2wXxzYSYLg_paxzZIF0Hzl0Rau3oIwPT_MnfVedDiYMY8vUmHAzzZwsHpL8A3XuEPqRT9Lh561lXeley9QQfWiSckJn2yVl7CMwjTd3ZI0qYAOvqs-51wvw5K0cbw-jaA9tW4XFiyApMiVJSx2E3PgJxhWq0-r3nbcV5E07s0a868cLWJ8Sgb0DalcFXiWvqyPMBMZwtJTZKmyCmdZnv7TQs-ADcSAHaBb65mw4CRBOD8XRfOWxOHWnFkzvwjU4T6o455Jx5iltWPOGf31Wktu9wguBbRG2FMBiOpnR0Og6KKv1ZbS2YaVfIrjCT3LgGpjCTUlc0Y3ahVkfT3MOTiCqngE5yvJLiu57AxQaTy3x5lpY8zz1qQ8ASWF8j8cZ42Gt05m765QEs-nPC4LZldFKrDR-hhGcWnGqwY8IKeEU2rDXr1MxRKpzagoE5emw_PmXfl_x7zybIQksyvHDPLrdr7zYuH5G-FdlUBi_YVj0jc9cge0UQxe4YvWRiSoX1rIDP5hXvq3jKa-87pO2oSUIxBNBaXQQ6tya&pbs=39a4941c9a7a419a9691e80fc07530a1
+https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 #EXTINF:-1 group-title="Local Channels",KCAL-TV 9 Ind. (Los Angeles CA)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23561
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
@@ -2145,9 +2145,9 @@ https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Spo
 #EXTINF:-1 group-title="Sports",FOX Sports on Tubi
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 #EXTINF:-1 group-title="Sports",FSN 1
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140731
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131090
 #EXTINF:-1 group-title="Sports",FSN 2
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140732
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131092
 #EXTINF:-1 group-title="Sports",FOX Sports Racing
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162830
 #EXTINF:-1 group-title="Sports",FOX Soccer Plus
@@ -2155,7 +2155,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131325
 #EXTINF:-1 group-title="Sports",MLS Channel
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140798
 #EXTINF:-1 group-title="Sports",NBA TV
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131172
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/157285
 #EXTINF:-1 group-title="Sports",NBA Channel
 https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NBA Fast Channel
@@ -2167,7 +2167,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131291
 #EXTINF:-1 group-title="Sports",NFL Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Sports",NFL Red Zone
-http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131211
 #EXTINF:-1 group-title="Sports",Locked on NFL
 https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5a5e6d0c3a5f3ad07b6d4_lockedonsports-nfl-live/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MLB Network
@@ -2177,9 +2177,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fee252a398
 #EXTINF:-1 group-title="Sports",MLB Channel on Tubi
 https://livetv-fa.tubi.video/mlb3/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NHL Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131212
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140736
 #EXTINF:-1 group-title="Sports",NHL Channel
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+#EXTINF:-1 group-title="Sports",Big Play Sports Network
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131097
 #EXTINF:-1 group-title="Sports",Altitude Sports Denver
 https://tvpass.org/live/altitude-sports-denver/hd
 #EXTINF:-1 group-title="Sports",Chicago Sports Network
