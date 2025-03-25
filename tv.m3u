@@ -8,7 +8,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131182
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23473
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 #EXTINF:-1 group-title="Local Channels",KCAL-TV 9 Ind. (Los Angeles CA)
@@ -34,7 +34,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131270
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 24/7 News (New York NY)
 https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
 #EXTINF:-1 group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23765
+https://tvpass.org/live/WPIX/hd
 #EXTINF:-1 group-title="Local Channels",WBBM-TV CBS 2 (Chicago IL)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23571
 #EXTINF:-1 group-title="Local Channels",WBBM-TV CBS 2 24/7 News (Chicago IL)
@@ -1194,9 +1194,9 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131151
 #EXTINF:-1 group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/46692
+https://tvpass.org/live/UnivisionEast/hd
 #EXTINF:-1 group-title="Latino (Spanish)",WNJU-TV Telemundo 47 (New York NY)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131152
+https://tvpass.org/live/TelemundoEast/hd
 #EXTINF:-1 group-title="Latino (Spanish)",WFTY-DT UniMás 67 (New York NY)
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/148794
 #EXTINF:-1 group-title="Latino (Spanish)",WLTV-TV Univision 23 (Miami FL)
