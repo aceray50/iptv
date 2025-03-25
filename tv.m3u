@@ -2442,6 +2442,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130995
 https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="Sports",Sportsman Channel
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131231
 #EXTINF:-1 group-title="Sports",Adventure Sports TV
 https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
 #EXTINF:-1 group-title="Sports",BEK Sports West
@@ -3560,8 +3562,10 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 group-title="Latino (Spanish)",Cine en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
-#EXTINF:-1 group-title="Latino (Spanish)",Cine Latino
+#EXTINF:-1 group-title="Latino (Spanish)",Cine Latino #1
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/7974
+#EXTINF:-1 group-title="Latino (Spanish)",Cine Latino #2
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/31249
 #EXTINF:-1 group-title="Latino (Spanish)",Todo Cine
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
 #EXTINF:-1 group-title="Latino (Spanish)",AXN en Español
@@ -3646,6 +3650,8 @@ https://live1009.delivery.roku.com/ed0fc38d-8885-4413-ad40-a6fb99dab94b/t2-origi
 http://181.188.234.21:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Cine Romantico
 https://live1009.delivery.roku.com/7ee12862-2d8d-447d-9124-553bfec17e48/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TCM en Español
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/31038
 #EXTINF:-1 group-title="Latino (Spanish)",TCM (i/e)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3795
 #EXTINF:-1 group-title="Latino (Spanish)",TC Television en Español
@@ -3850,6 +3856,8 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN Deportes
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145416
+#EXTINF:-1 group-title="Latino (Spanish)",ESPN Premium en Español
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/296546
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN en Vivo
 http://200.60.124.19:29000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN en Español
