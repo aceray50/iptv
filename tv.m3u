@@ -3324,7 +3324,9 @@ http://170.254.18.106/USA/index.m3u8
 http://170.254.18.106/TBS/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Paramount Network en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3667
-#EXTINF:-1 group-title="Latino (Spanish)",MTV en Español
+#EXTINF:-1 group-title="Latino (Spanish)",MTV en Español #1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/126384
+#EXTINF:-1 group-title="Latino (Spanish)",MTV en Español #2
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3031
 #EXTINF:-1 group-title="Latino (Spanish)",MTV en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
@@ -3332,6 +3334,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3035
 #EXTINF:-1 group-title="Latino (Spanish)",BET (i/e)
 http://170.254.18.106/BET/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Amazon Kids en Español
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/132324
 #EXTINF:-1 group-title="Latino (Spanish)",Nickelodeon en Español #1
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/149681
 #EXTINF:-1 group-title="Latino (Spanish)",Nickelodeon en Español #2
@@ -3460,6 +3464,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149214
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149214
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Ciudad Puebla
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162266
+#EXTINF:-1 group-title="Latino (Spanish)",Televisa Ciudad de Juarez
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/162266
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Aguascalientes
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243101/ei/Pay5Z859nryx8g-b76igDg/ip/47.159.183.133/id/U-a3gE_u1ng.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393160/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3wqXStyYs5FQQE8y1ALGg5ppzMp-_Z6Feq529VhbRE6Za3zPJ81RW9AX7ixPHjIXFo_ch0h2JhV/spc/RjZbSd9H2z8_7GxXZFBTYxvL1L2sMvTwLDZl48WazgAYVT_BC3S_7WYucRe4dw0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYlB3ExQvZczfF0-tkfBZBKOx9P3XaWI063sHCceahZkCIQDQkE7K_y7CJXnBebBvJrVzYocWMJKziSbWY7GGuKFbTw%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Guadalajara
@@ -3476,6 +3482,14 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243450/ei/m
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243505/ei/0a25Z7jJL9vAsfIPx4ejuAM/ip/47.159.183.133/id/FeJ1vEcsWL8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393160/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3x4zYSs0_wUrS2BQ5ybJPf4-Q74Japasb7daxj_w4IxA3QRAIvTl8KeYfV-FP8CLVY374x4Dh9z/spc/RjZbSbSl1DgyBZZwzBAdwaolmYG05cmVftxOoDfVe5svswlljMTcBgbQ4nE-PV8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAILrnF52HuZruMWzcjGk4dNi6cBTqjusNlbylIPKIHesAiA9AfkExJdxfAlatXgYfHzOO0wZMkQhQqEiDSXQjwooug%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Sonora
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243569/ei/Ea65Z_frLs6UsfIPn8vAeA/ip/47.159.183.133/id/ly8skBLUU4E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393160/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3zIMax4CF_0-N2tiriyeYRmphzMUqdYLsd1MBoJSWdnQfTNiQCofBEXH-laOFrC6L8iiUuR53tF/spc/RjZbSSjd7L9bUKGpzD6Ny5kdZHyl8Wb0ELefjKSKML3cEaquJmKZAZ0PFJjAGe4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALgAvayg3heiB9-xeAJUZMXoP7yoPV174K3Vb6hYv5krAiAwpvRZDp68jgoOYOZRm80_5s1UKLL71DacLQR4jbMZxw%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Televisa Zacatecas
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/131726
+#EXTINF:-1 group-title="Latino (Spanish)",Televisa Veracruz
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/198904
+#EXTINF:-1 group-title="Latino (Spanish)",Televisa Del Bajio
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/237413
+#EXTINF:-1 group-title="Latino (Spanish)",Televisa Laguna
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/237411
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Puebla
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/129043
 #EXTINF:-1 group-title="Latino (Spanish)",América TeVé
@@ -3512,6 +3526,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131144
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131297
 #EXTINF:-1 group-title="Latino (Spanish)",Somos Novelas
 https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TNT Novelas
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/162944
 #EXTINF:-1 group-title="Latino (Spanish)",Televisa Novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Univision TL Novelas
@@ -3822,6 +3838,8 @@ https://live1009.delivery.roku.com/83e3226a-8835-4fe4-b3a1-cd7f0e5a3a22/t2-origi
 https://amg00658-amg00658c29-canelatv-international-5110.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvusappta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",GOL TV en Español
 http://181.188.234.21:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",GOL Play
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4827
 #EXTINF:-1 group-title="Latino (Spanish)",Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TUDN
