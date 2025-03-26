@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131010
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 (Los Angeles CA)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131182
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
@@ -14,23 +14,23 @@ https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 #EXTINF:-1 group-title="Local Channels",KCAL-TV 9 Ind. (Los Angeles CA)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23561
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131078
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
 https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131013
+https://tvpass.org/live/WCBSDT1/hd
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 24/7 News (New York NY)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131185
+https://tvpass.org/live/WNBCDT1/hd
 #EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 24/7 News (New York NY)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889709/hls/playlist.m3u8?ads.xumo_channelId=88889709
 #EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131065
+https://tvpass.org/live/WNYWDT1/hd
 #EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 24/7 News (New York NY)
 https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 (New York NY)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131270
+https://tvpass.org/live/WABCDT1/hd
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 24/7 News (New York NY)
 https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
 #EXTINF:-1 group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
@@ -1301,37 +1301,37 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary",Discovery Channel
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131042
+https://tvpass.org/live/DiscoveryChannelEast/hd
 #EXTINF:-1 group-title="Documentary",Animal Planet
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131314
+https://tvpass.org/live/AnimalPlanetEast/hd
 #EXTINF:-1 group-title="Documentary",DogTV
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/146556
 #EXTINF:-1 group-title="Documentary",Rovr Pets
 https://amg00111-amg00111c3-cw-us-3035.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-rovrpets-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Travel Channel
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131259
+https://tvpass.org/live/TravelChannelEast/hd
 #EXTINF:-1 group-title="Documentary",ID (Investigation Discovery)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/135790
 #EXTINF:-1 group-title="Documentary",Discovery Life
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131320
+https://tvpass.org/live/DiscoveryLife/hd
 #EXTINF:-1 group-title="Documentary",Discovery Science
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131043
+https://tvpass.org/live/Science/hd
 #EXTINF:-1 group-title="Documentary",Discovery Velocity
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131252
 #EXTINF:-1 group-title="Documentary",Destination America
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23759
+https://tvpass.org/live/DestinationAmerica/hd
 #EXTINF:-1 group-title="Documentary",Pluto TV History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cbb5a-7b2e-11ef-bb34-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=490827a6-31b6-461a-964f-bf7a48ab583d&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Documentary",History Channel
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131124
+https://tvpass.org/live/HistoryEast/hd
 #EXTINF:-1 group-title="Documentary",H2 (History Channel 2)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23747
 #EXTINF:-1 group-title="Documentary",Military History
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/134832
 #EXTINF:-1 group-title="Documentary",National Geographic
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131170
+https://tvpass.org/live/NationalGeographicEast/hd
 #EXTINF:-1 group-title="Documentary",Nat Geo Wild
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131171
+https://tvpass.org/live/NationalGeographicWildEast/hd
 #EXTINF:-1 group-title="Documentary",History Hit
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=evK7iYKm-ixSYzFakeKo
 #EXTINF:-1 group-title="Documentary",Outside TV
@@ -1361,7 +1361,7 @@ https://3649884182d1462a9cada0264c1a0d57.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Documentary",Pursuit Channel
 http://195.181.163.243/Pursuit_Channel/index.m3u8
 #EXTINF:-1 group-title="Documentary",AHC (American Heroes Channel)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/10456
+https://tvpass.org/live/AmericanHeroesChannel/hd
 #EXTINF:-1 group-title="Documentary",Documentary+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
 #EXTINF:-1 group-title="Documentary",DOC+
@@ -1375,13 +1375,13 @@ http://195.181.163.243/Curiosity_Stream/index.m3u8
 #EXTINF:-1 group-title="Documentary",REELZ (West)
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",REELZ (East)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131228
+https://tvpass.org/live/Reelz/hd
 #EXTINF:-1 group-title="Documentary",REELZ Famous and Infamous
 https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
 #EXTINF:-1 group-title="Documentary",Infamous TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Documentary",Oxygen True Crime
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+https://tvpass.org/live/OxygenEast/hd
 #EXTINF:-1 group-title="Documentary",True Crime Network+
 https://amg00979-amg00979c1-truecrimenetwork-us-3194.playouts.now.amagi.tv/playlist/amg00979-truecrimenetworkfast-truecrimenetworkfast-truecrimenetworkus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",NBC American Crimes
@@ -1397,7 +1397,7 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 group-title="Documentary",Court TV Legendary Trials
 https://content.uplynk.com/channel/6adc980a399d4d0e9b923213b50e34ea.m3u8
 #EXTINF:-1 group-title="Documentary",truTV
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+https://tvpass.org/live/truTVEast/hd
 #EXTINF:-1 group-title="Documentary",truTV+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/trutvwest.us.m3u8
 #EXTINF:-1 group-title="Documentary",truTV+ (East)
@@ -1436,21 +1436,21 @@ http://dai.google.com/linear/hls/event/nrb-l85CR7SIr-rGXqz4zA/master.m3u8
 #EXTINF:-1 group-title="News",FOX News Now
 https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",FOX News Channel
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131082
+https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1 group-title="News",FOX Business
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131137
+https://tvpass.org/live/FoxBusiness/hd
 #EXTINF:-1 group-title="News",NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="News",NBC Dateline 24/7
 https://apollo.production-public.tubi.io/live/ac-dateline.m3u8
 #EXTINF:-1 group-title="News",CNBC
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131029
+https://tvpass.org/live/CNBC/hd
 #EXTINF:-1 group-title="News",CNBC World
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131030
 #EXTINF:-1 group-title="News",MSNBC
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131169
+https://tvpass.org/live/MSNBC/hd
 #EXTINF:-1 group-title="News",CNN
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131031
+https://tvpass.org/live/CNN/hd
 #EXTINF:-1 group-title="News",CNN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/cnn.us.m3u8
 #EXTINF:-1 group-title="News",CNN International
@@ -1460,7 +1460,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d
 #EXTINF:-1 group-title="News",CNN Headlines
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="News",HLN (CNN Headline News)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140825
+https://tvpass.org/live/HLN/hd
 #EXTINF:-1 group-title="News",HLN+ (CNN Headline News)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/hln.us.m3u8
 #EXTINF:-1 group-title="News",Bloomberg TV
@@ -1473,6 +1473,8 @@ https://d10d0llfaw1ovl.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 #EXTINF:-1 group-title="News",Bloomberg Quicktake
 https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",BBC News North America
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
 #EXTINF:-1 group-title="News",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:-1 group-title="News",Yahoo! Finance
@@ -1490,9 +1492,9 @@ https://n2ctsota.akamaized.net/hls/live/2113130/Live_1/index.m3u8
 #EXTINF:-1 group-title="News",News Nation
 http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="News",C-SPAN
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+https://tvpass.org/live/CSPAN/hd
 #EXTINF:-1 group-title="News",C-SPAN 2
-http://41.205.93.154:80/CSPAN2/index.m3u8
+https://tvpass.org/live/CSPAN2/hd
 #EXTINF:-1 group-title="News",USA Today News
 https://dbrb49pjoymg4.cloudfront.net/10001/99991287/hls/playlist.m3u8?ads.xumo_channelId=99991287
 #EXTINF:-1 group-title="News",OAN News (One America News Network)
@@ -1550,7 +1552,7 @@ https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/53
 #EXTINF:-1 group-title="News",CGTN America
 https://player-api.new.livestream.com/accounts/7082210/events/11037422/broadcasts/255621996.secure.m3u8
 #EXTINF:-1 group-title="Weather News",The Weather Channel
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23894
+https://tvpass.org/live/TheWeatherChannel/hd
 #EXTINF:-1 group-title="Weather News",FOX Weather
 http://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 group-title="Weather News",AccuWeather
@@ -1563,33 +1565,33 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Children Channels",Nickelodeon
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/159971
+https://tvpass.org/live/NickelodeonEast/hd
 #EXTINF:-1 group-title="Children Channels",Nick (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd630-7b2e-11ef-a94e-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebbf33a-e8f6-4c9f-91cc-df503deed9e8&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Children Channels",Nick Jr.
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131213
+https://tvpass.org/live/NickJrEast/hd
 #EXTINF:-1 group-title="Children Channels",Nick Jr. (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Children Channels",Nicktoons
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131214
+https://tvpass.org/live/NicktoonsEast/hd
 #EXTINF:-1 group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd748-7b2e-11ef-9deb-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1aa79af-a440-4286-a333-28de4fa58ebb&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Children Channels",TeenNick
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131333
+https://tvpass.org/live/TeenNickEast/hd
 #EXTINF:-1 group-title="Children Channels",Nickelodeon Totally Teen (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd7de-7b2e-11ef-9bf8-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25e42f19-c9b4-43e7-ae92-ccda1f9aff1b&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Children Channels",Nick Music
 http://212.102.60.231/NICK_MUSIC/index.m3u8
 #EXTINF:-1 group-title="Children Channels",Disney Channel
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131044
+https://tvpass.org/live/DisneyChannelEast/hd
 #EXTINF:-1 group-title="Children Channels",Disney XD
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131046
+https://tvpass.org/live/DisneyXDEast/hd
 #EXTINF:-1 group-title="Children Channels",Disney Jr.
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131045
+https://tvpass.org/live/DisneyJuniorEast/hd
 #EXTINF:-1 group-title="Children Channels",CN (Cartoon Network)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131000
+https://tvpass.org/live/CartoonNetworkEast/hd
 #EXTINF:-1 group-title="Children Channels",Boomerang by Cartoon Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130997
+https://tvpass.org/live/Boomerang/b
 #EXTINF:-1 group-title="Network Channels",Adult Swim+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
 #EXTINF:-1 group-title="Network Channels",Adult Swim+ (East)
@@ -1619,9 +1621,9 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 group-title="Children Channels",Toonami Aftermath (East)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 group-title="Children Channels",FreeForm
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131104
+https://tvpass.org/live/FreeformEast/hd
 #EXTINF:-1 group-title="Children Channels",Discovery Family
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131284
+https://tvpass.org/live/DiscoveryFamily/hd
 #EXTINF:-1 group-title="Children Channels",Baby First #1
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58765
 #EXTINF:-1 group-title="Children Channels",Baby First #2
@@ -1636,15 +1638,15 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 
 #EXTINF:-1 group-title="Network Channels",TV Land
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131256
+https://tvpass.org/live/tv-land-eastern/hd
 #EXTINF:-1 group-title="Network Channels",Pluto Classic TV Family
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61325d18f5166c00081b84e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d
 #EXTINF:-1 group-title="Network Channels",MTV
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/9818
+https://tvpass.org/live/MTVEast/hd
 #EXTINF:-1 group-title="Network Channels",MTV (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",MTV 2
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131329
+https://tvpass.org/live/mtv-2-east/hd
 #EXTINF:-1 group-title="Network Channels",MTV Classic
 http://143.244.60.97/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Network Channels",MTV Live
@@ -1652,19 +1654,19 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131317
 #EXTINF:-1 group-title="Network Channels",MTV U
 http://143.244.60.97/MTV_U/index.m3u8
 #EXTINF:-1 group-title="LGBT",Logo
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131322
+https://tvpass.org/live/LogoEast/hd
 #EXTINF:-1 group-title="LGBT",Logo (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a9a-7b2e-11ef-8b51-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bbba5747-a534-474e-b169-1d3ce211896e&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",OUTtv Proud
 https://amg00375-fusemedia-outtv-ono-fpk2m.amagi.tv/playlist/amg00375-fusemedia-outtv-ono/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",VH1
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/7404
+https://tvpass.org/live/VH1East/hd
 #EXTINF:-1 group-title="Network Channels",BET
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130996
+https://tvpass.org/live/BETEast/hd
 #EXTINF:-1 group-title="Network Channels",BET (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c83d8-7b2e-11ef-badc-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2283f01b-889a-488b-88cb-244fd4bd914f&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",BET Her
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131326
+https://tvpass.org/live/BETHerEast/hd
 #EXTINF:-1 group-title="Network Channels",BET Her (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c846e-7b2e-11ef-be38-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcf09099-9489-47b3-a6f1-93c341c215be&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",BET Jams
@@ -1680,7 +1682,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 group-title="Network Channels",theGrio
 https://thegrio-live-3.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66d8a0477326e0a7c7067cd6_thegrio-live-3/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",TV One
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20868
+https://tvpass.org/live/TVOne/hd
 #EXTINF:-1 group-title="Network Channels",Revolt
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/39276
 #EXTINF:-1 group-title="Network Channels",Cleo TV
@@ -1696,14 +1698,14 @@ https://amg01312-cw-amg01312c39-cw-us-6681.playouts.now.amagi.tv/playlist/amg013
 #EXTINF:-1 group-title="Network Channels",Backstage
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusexl/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",E! (Entertainment Television)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131049
+https://tvpass.org/live/EEast/hd
 #EXTINF:-1 group-title="Network Channels",AXS-TV
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162825
 #EXTINF:-1 group-title="Network Channels",AXS-TV Now
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 
 #EXTINF:-1 group-title="Comedy",Comedy Central
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131315
+https://tvpass.org/live/ComedyCentralEast/hd
 #EXTINF:-1 group-title="Comedy",Comedy Central (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Comedy",Comedy Central Animation (Pluto TV)
@@ -1764,31 +1766,31 @@ https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 
 #EXTINF:-1 group-title="Network Channels",FX
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131108
+https://tvpass.org/live/FXEast/hd
 #EXTINF:-1 group-title="Network Channels",FXX
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131110
+https://tvpass.org/live/FXXEast/hd
 #EXTINF:-1 group-title="Network Channels",FXM (FOX Movie Channel)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131109
+https://tvpass.org/live/FXMovieChannel/hd
 #EXTINF:-1 group-title="Network Channels",TNT
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131261
+https://tvpass.org/live/TNTEast/hd
 #EXTINF:-1 group-title="Network Channels",TNT+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tntwest.us.m3u8
 #EXTINF:-1 group-title="Network Channels",TNT+ (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tnteast.us.m3u8
 #EXTINF:-1 group-title="Network Channels",TBS
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131240
+https://tvpass.org/live/TBSEast/hd
 #EXTINF:-1 group-title="Network Channels",TBS+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbswest.us.m3u8
 #EXTINF:-1 group-title="Network Channels",TBS+ (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbseast.us.m3u8
 #EXTINF:-1 group-title="Network Channels",USA Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131253
+https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 group-title="Network Channels",El Rey Rebel
 https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-elrey-ono/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",A&E (Arts & Entertainment)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131269
+https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 group-title="Network Channels",CMT (Country Music Television)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131312
+https://tvpass.org/live/CMTEast/hd
 #EXTINF:-1 group-title="Network Channels",CMT (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a04-7b2e-11ef-adb4-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=09f1e2ea-743c-4fc9-99e7-f481a057bd47&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",Circle Country
@@ -1802,16 +1804,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 group-title="Network Channels",Paramount+ Picks (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",SYFY
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131239
+https://tvpass.org/live/SyfyEast/hd
 #EXTINF:-1 group-title="Network Channels",BBC Sci-Fi
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Network Channels",FreeTV Fantasy
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engmystify-freetv/playlist.m3u8
 
 #EXTINF:-1 group-title="Cooking",Food Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131059
+https://tvpass.org/live/FoodNetworkEast/hd
 #EXTINF:-1 group-title="Cooking",Cooking Channel
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131032
+https://tvpass.org/live/CookingChannel/hd
 #EXTINF:-1 group-title="Cooking",Gusto TV
 https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cooking",Bon Appétit
@@ -1826,13 +1828,13 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951323/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991340
 
 #EXTINF:-1 group-title="Network Channels",TLC (The Learning Channel)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131262
+https://tvpass.org/live/TLCEast/hd
 #EXTINF:-1 group-title="Network Channels",Bravo
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130998
+https://tvpass.org/live/BravoEast/hd
 #EXTINF:-1 group-title="Network Channels",IFC (Independent Film Channel)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131125
+https://tvpass.org/live/IFCEast/hd
 #EXTINF:-1 group-title="Network Channels",SundanceTV
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131238
+https://tvpass.org/live/SundanceTVEast/hd
 #EXTINF:-1 group-title="Network Channels",Shout! Factory TV
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Scream! Factory TV
@@ -1852,7 +1854,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 group-title="Network Channels",Aspire
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21927
 #EXTINF:-1 group-title="Network Channels",BBC America
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20194
+https://tvpass.org/live/BBCAmericaEast/hd
 #EXTINF:-1 group-title="Network Channels",OuterSphere by Lionsgate
 https://amg00353-amg00353c17-cw-us-2730.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Pop TV
@@ -1870,9 +1872,9 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Family Time
 https://amg09501-questar-amg09501c3-stirr-us-3096.playouts.now.amagi.tv/amg09501/AMG09501C3/segmented_playlist/0/35-89-3096.m3u8
 #EXTINF:-1 group-title="Network Channels",LifeTime
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131159
+https://tvpass.org/live/LifetimeMoviesEast/hd
 #EXTINF:-1 group-title="Network Channels",LMN (LifeTime Movie Network)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20863
+https://tvpass.org/live/LifetimeEast/hd
 #EXTINF:-1 group-title="Network Channels",Movie Favorites By Lifetime (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=17d6d310-246c-4678-a980-a3043d16f2a3&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",MyTime Movie Network
@@ -1884,7 +1886,7 @@ https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="LGBT",Revry News
 https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",WE TV (Women Entertainment Television)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131249
+https://tvpass.org/live/WeTVEast/hd
 #EXTINF:-1 group-title="Network Channels",WE Absolute Reality
 http://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",HerSphere by Lionsgate
@@ -1902,7 +1904,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="Network Channels",Smart Lifestyle TV
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 group-title="Network Channels",HGTV (Home and Garden Television)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131123
+https://tvpass.org/live/HGTVEast/hd
 #EXTINF:-1 group-title="Network Channels",Magnolia Network
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/10503
 #EXTINF:-1 group-title="Network Channels",The Design Network
@@ -1910,29 +1912,29 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991390/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="Network Channels",ONTV4U
 https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",FYI
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/13111
+https://tvpass.org/live/FYIEast/hd
 #EXTINF:-1 group-title="Network Channels",Fuse
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131106
+https://tvpass.org/live/FuseEast/hd
 #EXTINF:-1 group-title="Network Channels",UpTV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/10525
 #EXTINF:-1 group-title="Network Channels",GSN (Game Show Network)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120633
+https://tvpass.org/live/game-show-network-east/hd
 #EXTINF:-1 group-title="Network Channels",Game Show Central
 https://dbrb49pjoymg4.cloudfront.net/10001/99991750/hls/playlist.m3u8?ads.xumo_channelId=99991750
 #EXTINF:-1 group-title="Network Channels",BBC Game Shows
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Network Channels",OWN (Oprah Winfrey Network)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/46698
+https://tvpass.org/live/OWNEast/hd
 #EXTINF:-1 group-title="Network Channels",Ebony TV by Lionsgate
 https://amg00353-amg00353c10-cw-us-2723.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytvtubi-cwus/playlist.m3u8?did=1229467091790347383&dnt=0&lmt=0&device_name=computer&us_privacy=1YNN&osver=&uoo=0
 #EXTINF:-1 group-title="Network Channels",AMC (American Movie Classics)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131272
+https://tvpass.org/live/AMCEast/hd
 #EXTINF:-1 group-title="Network Channels",AMC+
 http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",AMC Thriller
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66243
 #EXTINF:-1 group-title="Network Channels",TCM (Turner Classic Movies)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66242
+https://tvpass.org/live/TCMEast/hd
 #EXTINF:-1 group-title="Network Channels",TCM+ (Turner Classic Movies) (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 #EXTINF:-1 group-title="Network Channels",TCM+ (Turner Classic Movies) (East)
@@ -1940,11 +1942,11 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcm
 #EXTINF:-1 group-title="Network Channels",NOST (The Nostalgia Network)
 https://43d8730367094c359169326b2541f48d.mediatailor.us-east-1.amazonaws.com/v1/manifest/cfccecf99f5f9bc53e6a1cf70495cfad66d82f53/dai/944b75b2-5825-499f-8dda-62dd43ba1787/0.m3u8
 #EXTINF:-1 group-title="Network Channels",Hallmark Channel
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131115
+https://tvpass.org/live/HallmarkChannelEast/hd
 #EXTINF:-1 group-title="Network Channels",Hallmark Family
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131114
+https://tvpass.org/live/HallmarkDrama/hd
 #EXTINF:-1 group-title="Network Channels",Hallmark Mystery
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131116
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 #EXTINF:-1 group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 group-title="Network Channels",80's Sitcom Flashback
@@ -2077,13 +2079,13 @@ http://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 
 #EXTINF:-1 group-title="Sports",ESPN
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131053
+https://tvpass.org/live/ESPN/hd
 #EXTINF:-1 group-title="Sports",ESPN 2
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131054
+https://tvpass.org/live/ESPN2/hd
 #EXTINF:-1 group-title="Sports",ESPN News
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140729
+https://tvpass.org/live/ESPNews/hd
 #EXTINF:-1 group-title="Sports",ESPN U
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131056
+https://tvpass.org/live/ESPNU/hd
 #EXTINF:-1 group-title="Sports",PAC 12 Insider
 http://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",ACC Network ESPN
@@ -2091,9 +2093,9 @@ https://tvpass.org/live/ACCNetwork/hd
 #EXTINF:-1 group-title="Sports",ACCDN
 https://dbrb49pjoymg4.cloudfront.net/10001/99951364/hls/playlist.m3u8?ads.xumo_channelId=99951364
 #EXTINF:-1 group-title="Sports",SEC Network ESPN
-http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+https://tvpass.org/live/SECN/hd
 #EXTINF:-1 group-title="Sports",CBS Sports Network
-http://143.244.60.97/CBS_SPORTS_NETWORK/index.m3u8
+https://tvpass.org/live/CBSSportsNetworkUSA/hd
 #EXTINF:-1 group-title="Sports",CBS Sports HQ
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 group-title="Sports",CBS Sports Golazo Network
@@ -2107,13 +2109,13 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 group-title="Sports",NBC Sports (North West)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23783
 #EXTINF:-1 group-title="Sports",NBC Sports (Boston)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23786
+https://tvpass.org/live/nbc-sports-boston/hd
 #EXTINF:-1 group-title="Sports",NBC Sports (Bay Area)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23662
+https://tvpass.org/live/nbc-sports-bay-area/hd
 #EXTINF:-1 group-title="Sports",NBC Sports (California)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23785
+https://tvpass.org/live/nbc-sports-california/hd
 #EXTINF:-1 group-title="Sports",NBC Sports (Philadelphia)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23782
+https://tvpass.org/live/nbc-sports-philadelphia/hd
 #EXTINF:-1 group-title="Sports",NBC Sports+ (Philadelphia)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpKNO5zFFsM6RHD9hwuyyxo
 #EXTINF:-1 group-title="Sports",NBC Sports (Chicago)
@@ -2145,9 +2147,9 @@ https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Spo
 #EXTINF:-1 group-title="Sports",FOX Sports on Tubi
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 #EXTINF:-1 group-title="Sports",FSN 1
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131090
+https://tvpass.org/live/FoxSports1/hd
 #EXTINF:-1 group-title="Sports",FSN 2
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131092
+https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 group-title="Sports",FOX Sports Racing
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162830
 #EXTINF:-1 group-title="Sports",FOX Soccer Plus
@@ -2155,7 +2157,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131325
 #EXTINF:-1 group-title="Sports",MLS Channel
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140798
 #EXTINF:-1 group-title="Sports",NBA TV
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/157285
+https://tvpass.org/live/NBATV/hd
 #EXTINF:-1 group-title="Sports",NBA Channel
 https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NBA Fast Channel
@@ -2163,21 +2165,21 @@ https://live-manifest.production-public.tubi.io/live/6b792a90-6adb-45aa-b4b4-aa6
 #EXTINF:-1 group-title="Sports",Locked on NBA
 https://lockedonsports-nba-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5d246ebbf09a4b30b3e19_lockedonsports-nba-live/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NFL Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131291
+https://tvpass.org/live/NFLNetwork/hd
 #EXTINF:-1 group-title="Sports",NFL Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Sports",NFL Red Zone
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131211
+https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 group-title="Sports",Locked on NFL
 https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5a5e6d0c3a5f3ad07b6d4_lockedonsports-nfl-live/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MLB Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140734
+https://tvpass.org/live/MLBNetwork/hd
 #EXTINF:-1 group-title="Sports",MLB Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Sports",MLB Channel on Tubi
 https://livetv-fa.tubi.video/mlb3/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NHL Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140736
+https://tvpass.org/live/NHLNetwork/hd
 #EXTINF:-1 group-title="Sports",NHL Channel
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 group-title="Sports",Big Play Sports Network
@@ -2187,25 +2189,25 @@ https://tvpass.org/live/altitude-sports-denver/hd
 #EXTINF:-1 group-title="Sports",Chicago Sports Network
 https://tvpass.org/live/chicago-sports-network/hd
 #EXTINF:-1 group-title="Sports",SNY Sportsnet New York Comcast
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23927
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd
 #EXTINF:-1 group-title="Sports",Space City Home Network
 https://tvpass.org/live/space-city-home-network/hd
 #EXTINF:-1 group-title="Sports",Spectrum SportsNet LA
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23746
+https://tvpass.org/live/spectrum-sportsnet-la/hd
 #EXTINF:-1 group-title="Sports",Spectrum Sportsnet Lakers
 https://tvpass.org/live/spectrum-sportsnet/hd
 #EXTINF:-1 group-title="Sports",Spectrum OC16
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrUz2JCcNiM-33VV093pIgE
-#EXTINF:-1 group-title="Sports",Sportsnet (West)
+#EXTINF:-1 group-title="Sports",Sportsnet West
 https://tvpass.org/live/sportsnet-west/hd
-#EXTINF:-1 group-title="Sports",Sportsnet (East)
+#EXTINF:-1 group-title="Sports",Sportsnet East
 https://tvpass.org/live/sportsnet-east/hd
 #EXTINF:-1 group-title="Sports",Sportsnet World
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23871
 #EXTINF:-1 group-title="Sports",Sportsnet 360
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23971
+https://tvpass.org/live/sportsnet-360/hd
 #EXTINF:-1 group-title="Sports",Sportsnet One
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23873
+https://tvpass.org/live/sportsnet-one/hd
 #EXTINF:-1 group-title="Sports",Sportsnet Ontario
 https://tvpass.org/live/sportsnet-ontario/hd
 #EXTINF:-1 group-title="Sports",Sportsnet Pacific
@@ -2217,7 +2219,7 @@ https://6788041e31d84d16a8543d7183a2dd42.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Sports",Sports Grid Live
 https://sportsgrid-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_60d4f2ce961d1109be12f573_sportsgrid-live-1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Tennis Channel
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23870
+https://tvpass.org/live/TennisChannel/hd
 #EXTINF:-1 group-title="Sports",T2 Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 group-title="Sports",Tennis+
@@ -2229,7 +2231,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866
 #EXTINF:-1 group-title="Sports",PBTV Pickleball TV
 https://amg01444-tennischannel-amg01444c3-tennischannel-us-1912.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-tennischannelus/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NBC Golf Channel
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23967
+https://tvpass.org/live/GolfChannel/hd
 #EXTINF:-1 group-title="Sports",NBC Golf Pass
 https://d4whmvwm0rdvi.cloudfront.net/10001/99991660/hls/master.m3u8?ads.xumo_channelId=99991660
 #EXTINF:-1 group-title="Sports",PGA Tour
@@ -2252,60 +2254,48 @@ https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TV
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 group-title="Sports",FanDuel Extra
 https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_FanDuelTVChannel/1febe854-2019-4835-a354-e748578b7b9e/5.m3u8
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (West)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23805
-#EXTINF:-1 group-title="Sports",Fanduel Sports (Mid-West)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23724
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network (Arizona)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23812
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network (Florida)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24018
-#EXTINF:-1 group-title="Sports",FanDuel Sports Network (Boston)
-http://fl4.moveonjoy.com/NBC_SPORTS_BOSTON/index.m3u8
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (Indiana)
-http://tvvip.us:8880/0play/NgdoXdiy-Yx1c0RQYgoiYnCQ-6itnWVPBNRLSmxWIMM
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (Detroit)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23725
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (Kansas City)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYmK78LYcH7WVCra9TG4dbO0
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (Great Lakes)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYiKGWmACFUQDUEQEQ-JmJE4
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (North)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23723
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (Cleveland)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpkxZXQG5pcqja1_F8p-BeE
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (Cincinnati)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24020
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (Oklahoma)
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network West
+https://tvpass.org/live/fanduel-sports-network-west/hd
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network Detroit
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network Florida
+https://tvpass.org/live/fanduel-sports-network-florida/hd
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network Great Lakes
+https://tvpass.org/live/fanduel-sports-network-great-lakes/hd
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network North
+https://tvpass.org/live/fanduel-sports-network-north/hd
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network Cleveland
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network Indiana
+https://tvpass.org/live/fanduel-sports-indiana/hd
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network Oklahoma
 https://tvpass.org/live/fanduel-sports-network-oklahoma/hd
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (San Diego)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24013
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (SoCal)
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network San Diego
+https://tvpass.org/live/fanduel-sports-network-san-diego/hd
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network Socal
 https://tvpass.org/live/fanduel-sports-network-socal/hd
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (South Carolinas)
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network South Carolinas
 https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (South Tennessee)
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network South Tennessee
 https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd
-#EXTINF:-1 group-title="Sports",Fanduel Sports Network (Wisconsin)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24012
-#EXTINF:-1 group-title="Sports",Fanduel Sports Southeast (Georgia)
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network Wisconsin
+https://tvpass.org/live/fanduel-sports-network-wisconsin/hd
+#EXTINF:-1 group-title="Sports",Fanduel Sports Southeast Georgia
 https://tvpass.org/live/fanduel-sports-southeast-georgia/hd
-#EXTINF:-1 group-title="Sports",Fanduel Sports Southeast (North Carolina)
+#EXTINF:-1 group-title="Sports",Fanduel Sports Southeast North Carolina
 https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd
-#EXTINF:-1 group-title="Sports",Fanduel Sports Southeast (South Carolina)
+#EXTINF:-1 group-title="Sports",Fanduel Sports Southeast South Carolina
 https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd
-#EXTINF:-1 group-title="Sports",Fanduel Sports Southeast (Nashville)
+#EXTINF:-1 group-title="Sports",Fanduel Sports Southeast Nashville
 https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd
 #EXTINF:-1 group-title="Sports",Fanduel Sports Sun
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23717
-#EXTINF:-1 group-title="Sports",Fanduel Sports (Tennessee East)
+https://tvpass.org/live/fanduel-sports-sun/hd
+#EXTINF:-1 group-title="Sports",Fanduel Sports Tennessee East
 https://tvpass.org/live/fanduel-sports-tennessee-east/hd
-#EXTINF:-1 group-title="Sports",Fanduel Sports (New Orleans)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYkqSlXlGtRYUlKloBPptbJQ
 #EXTINF:-1 group-title="Sports",NASCAR
 https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/playlist.m3u8
-#EXTINF:-1 group-title="Sports",MotorTrend
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140800
+#EXTINF:-1 group-title="Sports",Motor Trend
+https://tvpass.org/live/Motortrend/hd
 #EXTINF:-1 group-title="Sports",Sportsman Channel
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162127
 #EXTINF:-1 group-title="Sports",Monster Jams
@@ -2319,7 +2309,7 @@ https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
 #EXTINF:-1 group-title="Sports",Speed Vision
 https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="Sports",The Outdoor Channel
-http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+https://tvpass.org/live/OutdoorChannel/hd
 #EXTINF:-1 group-title="Sports",Outdoor TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Outdoor America
@@ -2345,15 +2335,15 @@ https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",WPT (World Poker Tour)
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
 #EXTINF:-1 group-title="Sports",YES Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/137923
+https://tvpass.org/live/yes-network/hd
 #EXTINF:-1 group-title="Sports",Big Ten Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131222
+https://tvpass.org/live/BTN/hd
 #EXTINF:-1 group-title="Sports",Sports Grid
 http://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Marquee Sports Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131224
+https://tvpass.org/live/marquee-sports-network/hd
 #EXTINF:-1 group-title="Sports",Swerve Sports
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYi7EppPWYlrHoIQomuzPJmw
 #EXTINF:-1 group-title="Sports",VSIN Sports
@@ -2391,9 +2381,9 @@ https://fight-network-3-live.sports.tv/v1/master/758627660e995d43cdf594915ca608e
 #EXTINF:-1 group-title="Sports",Swerve Sports
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MSG Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131165
+https://tvpass.org/live/msg-madison-square-gardens/hd
 #EXTINF:-1 group-title="Sports",MSG 2
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131166
+https://tvpass.org/live/msg-plus/hd
 #EXTINF:-1 group-title="Sports",MSG+
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131168
 #EXTINF:-1 group-title="Sports",MSG+ 2
@@ -2474,25 +2464,25 @@ https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 
 #EXTINF:-1 group-title="Premium Channels",HBO
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131119
+https://tvpass.org/live/HBOEast/hd
 #EXTINF:-1 group-title="Premium Channels",HBO 2
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/9816
+https://tvpass.org/live/HBO2East/hd
 #EXTINF:-1 group-title="Premium Channels",HBO Comedy
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/24004
+https://tvpass.org/live/HBOComedyEast/hd
 #EXTINF:-1 group-title="Premium Channels",HBO Signature
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131121
+https://tvpass.org/live/HBOSignatureEast/hd
 #EXTINF:-1 group-title="Premium Channels",HBO Zone
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131122
+https://tvpass.org/live/HBOZoneEast/hd
 #EXTINF:-1 group-title="Premium Channels",HBO Family
-http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+https://tvpass.org/live/HBOFamilyEast/hd
 #EXTINF:-1 group-title="Premium Channels",Cinemax
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131025
+https://tvpass.org/live/CinemaxEast/hd
 #EXTINF:-1 group-title="Premium Channels",More Max
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131027
+https://tvpass.org/live/MoreMaxEast/hd
 #EXTINF:-1 group-title="Premium Channels",5 Star Max
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13381
 #EXTINF:-1 group-title="Premium Channels",Movie Max
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131237
+https://tvpass.org/live/MovieMaxEast/hd
 #EXTINF:-1 group-title="Premium Channels",Outer Max
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21012
 #EXTINF:-1 group-title="Premium Channels",Thriller Max
@@ -2500,9 +2490,9 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17774
 #EXTINF:-1 group-title="Premium Channels",Action Max
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131026
 #EXTINF:-1 group-title="Premium Channels",Showtime
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/9316
+https://tvpass.org/live/ShowtimeEast/hd
 #EXTINF:-1 group-title="Premium Channels",Showtime 2
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13219
+https://tvpass.org/live/Showtime2East/hd
 #EXTINF:-1 group-title="Premium Channels",Showtime Extreme
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/1829
 #EXTINF:-1 group-title="Premium Channels",Showtime Next
@@ -2515,8 +2505,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17778
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13481
 #EXTINF:-1 group-title="Premium Channels",The Movie Channel
 https://tvpass.org/live/TheMovieChannelEast/hd
-#EXTINF:-1 group-title="Premium Channels",Starz (West)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/9299
+#EXTINF:-1 group-title="Premium Channels",Starz
+https://tvpass.org/live/StarzEast/hd
 #EXTINF:-1 group-title="Premium Channels",Starz Comedy
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23901
 #EXTINF:-1 group-title="Premium Channels",Starz In Black
@@ -3582,10 +3572,8 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 group-title="Latino (Spanish)",Cine en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
-#EXTINF:-1 group-title="Latino (Spanish)",Cine Latino #1
+#EXTINF:-1 group-title="Latino (Spanish)",Cine Latino
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/7974
-#EXTINF:-1 group-title="Latino (Spanish)",Cine Latino #2
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/31249
 #EXTINF:-1 group-title="Latino (Spanish)",Todo Cine
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
 #EXTINF:-1 group-title="Latino (Spanish)",AXN en Español
@@ -3788,8 +3776,6 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Milenio
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/130025
-#EXTINF:-1 group-title="Latino (Spanish)",Despierta América 24/7
-https://dai.google.com/linear/hls/event/oLZnojGrQ02TM-L5EeTuwA/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Cubavisión Internacional
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",RT Noticias
@@ -3877,7 +3863,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Sports en Español
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN Deportes
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145416
+https://tvpass.org/live/espn-deportes/hd
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN Premium en Español
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/296546
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN en Vivo
