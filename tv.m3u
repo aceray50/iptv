@@ -1591,7 +1591,7 @@ https://v1.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Children Channels",CN (Cartoon Network)
 https://v1.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Children Channels",Boomerang by Cartoon Network
-https://v1.thetvapp.to/hls/Boomerang/b
+https://v1.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Adult Swim+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
 #EXTINF:-1 group-title="Network Channels",Adult Swim+ (East)
