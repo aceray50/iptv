@@ -514,7 +514,7 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",MeTV
-http://143.244.60.97/ME_TV/index.m3u8
+https://v1.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",ION
 https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
 #EXTINF:-1 group-title="Network Channels",ION Plus
@@ -531,6 +531,7 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Retro TV #2
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/72VqPDpt6K4pTADfEah8Zw/1741558226/media_mpegts_0.m3u8
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Network Channels",Antenna TV #1
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20180
 #EXTINF:-1 group-title="Network Channels",Antenna TV #2
@@ -1464,7 +1465,7 @@ https://v1.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",HLN+ (CNN Headline News)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/hln.us.m3u8
 #EXTINF:-1 group-title="News",Bloomberg TV
-https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/ba20585b-6f3a-454e-9109-de6acba843a2:TUL/master.m3u8
+http://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
 #EXTINF:-1 group-title="News",Bloomberg+ (4K)
 http://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",Bloomberg Originals
@@ -1558,7 +1559,7 @@ http://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 group-title="Weather News",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweatherinc-accuweather-ono/playlist.m3u8
 #EXTINF:-1 group-title="Weather News",WeatherNation
-https://weathernation-1-us.roku.wurl.tv/playlist.m3u8
+https://live1009.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Weather News",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Weather News",Weather Spy
