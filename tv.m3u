@@ -531,7 +531,6 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Retro TV #2
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/72VqPDpt6K4pTADfEah8Zw/1741558226/media_mpegts_0.m3u8
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Network Channels",Antenna TV #1
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20180
 #EXTINF:-1 group-title="Network Channels",Antenna TV #2
@@ -1448,6 +1447,8 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991626/hls/master.m3u8?ads.xumo_cha
 https://v1.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",CNBC World
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131030
+#EXTINF:-1 group-title="News",CNBC Africa
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",MSNBC
 https://v1.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",CNN
@@ -1510,12 +1511,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00732-salemmediagroup-snc-ono/playl
 https://dai.google.com/linear/hls/event/VnZY5jBuRymXMn2_604j8Q/master.m3u8
 #EXTINF:-1 group-title="News",NTD News
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
-#EXTINF:-1 group-title="News",Black News Channel
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/176811
 #EXTINF:-1 group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 group-title="News",Real America's Voice
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/160581
+https://api.p1.media/api/projects/5ac62a8225e1b/livefeed/main-stream.m3u8?device_type_slug=web&token=2E9ifINMtG6o3ZDsXbz1
 #EXTINF:-1 group-title="News",Free Speech
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 #EXTINF:-1 group-title="News",SC Currents
@@ -1541,7 +1540,7 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 group-title="News",DW
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="News",Euronews
-https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 #EXTINF:-1 group-title="News",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="News",Al Jazeera English
