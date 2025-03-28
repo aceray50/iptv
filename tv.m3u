@@ -1648,9 +1648,9 @@ https://v1.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",MTV Classic
 http://143.244.60.97/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Network Channels",MTV Live
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131317
-#EXTINF:-1 group-title="Network Channels",MTV U
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="Network Channels",MTV U
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 group-title="LGBT",Logo
 https://v1.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LGBT",Logo (Pluto TV)
