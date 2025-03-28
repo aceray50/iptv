@@ -637,7 +637,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 group-title="Children Channels",PBS Kids (Eastern & Central)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="Public Broadcast",PBS Retro
-https://live1009.delivery.roku.com/ac2206ef-c654-4325-8725-85d995901b62/t2-origin/out/v1/live.m3u8
+https://live1009.delivery.roku.com/2af92247-9fb2-430d-bc45-f066023092f6/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 group-title="Public Access",SCTV (Santa Clarita CA)
 http://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
@@ -1871,8 +1871,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635ff8bb66f9
 https://thegateway.app/YouToocdn/YTamerica/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",WPS TV
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
-#EXTINF:-1 group-title="Network Channels",Family Time
-https://amg09501-questar-amg09501c3-stirr-us-3096.playouts.now.amagi.tv/amg09501/AMG09501C3/segmented_playlist/0/35-89-3096.m3u8
 #EXTINF:-1 group-title="Network Channels",LifeTime
 https://v1.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",LMN (LifeTime Movie Network)
@@ -1895,8 +1893,6 @@ http://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 https://amg00353-amg00353c3-cw-us-2722.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",So... Real
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="Network Channels",Vogue
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991138
 #EXTINF:-1 group-title="Network Channels",Global Fashion Channel
 https://1dc3abde694a4f9da7f45029f015ff58.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TeleUp_GlobalFashionChannel/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Fashion TV
