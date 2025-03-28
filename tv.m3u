@@ -1223,6 +1223,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131145
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23885
 #EXTINF:-1 group-title="Latino (Spanish)",Univision
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131143
+#EXTINF:-1 group-title="Latino (Spanish)",Univision (East)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/46692
 #EXTINF:-1 group-title="Latino (Spanish)",Latin Hola TV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/139757
 #EXTINF:-1 group-title="Latino (Spanish)",WSBS-TV Mega TV 22 (Key West FL)
@@ -1677,8 +1679,10 @@ http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Pluto Black Classics
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c83d8-7b2e-11ef-badc-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Network Channels",theGrio
-https://thegrio-live-3.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66d8a0477326e0a7c7067cd6_thegrio-live-3/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",theGrio #1
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/176811
+#EXTINF:-1 group-title="Network Channels",theGrio #2
+https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",TV One
 https://v1.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Revolt
@@ -2540,7 +2544,7 @@ http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",MGM+ Marquee
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsuUw566IkYVqqGVplnHbJQ
 #EXTINF:-1 group-title="Premium Channels",MoviePlex
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145503
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/1829
 #EXTINF:-1 group-title="Premium Channels",IndiePlex
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYl8jc5OumGpUiFBHyZj-ooU
 #EXTINF:-1 group-title="Premium Channels",RetroPlex
@@ -4101,6 +4105,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57356
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57380
 #EXTINF:-1 group-title="Canadian Channels",Teletoon (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57372
+#EXTINF:-1 group-title="Canadian Channels",Adult Swim (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11644
 #EXTINF:-1 group-title="Canadian Channels",Télétoon French (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130470
 #EXTINF:-1 group-title="Canadian Channels",Much (Canada)
