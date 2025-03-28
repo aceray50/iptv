@@ -2159,15 +2159,15 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131325
 #EXTINF:-1 group-title="Sports",NBA TV
 https://v1.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",NBA Channel
-https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
-#EXTINF:-1 group-title="Sports",NBA Fast Channel
-https://live-manifest.production-public.tubi.io/live/6b792a90-6adb-45aa-b4b4-aa6ea4f31d9a/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJkYjEzMWNiOC1lYTVhLTRmZGMtYmJkNy00M2QzZjE0ZDUwZTUiLCJleHAiOjE3NDA5OTI3NDUsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6bmJhLWctbGVhZ3VlIiwidXNlcl9pZCI6NzgwNTI1NDJ9.aj1HCwRM0ZAAlxyD8DGrzQcmpfTi5XMBygP47BIy2XtlNvKlZ_pdm7XvQg8QJ8Ml7C5nY1zze4XdVFOSRmMntw&ap-fb=https%3A%2F%2Flive-manifest.production-public.tubi.io%2Flive%2F6b792a90-6adb-45aa-b4b4-aa6ea4f31d9a%2Fplaylist.m3u8
+https://apollo.production-public.tubi.io/live/nba-xveaQ4.m3u8
+#EXTINF:-1 group-title="Sports",NBA G League TV
+https://apollo.production-public.tubi.io/live/nba-g-league2-5ViUll.m3u8
 #EXTINF:-1 group-title="Sports",Locked on NBA
 https://lockedonsports-nba-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5d246ebbf09a4b30b3e19_lockedonsports-nba-live/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NFL Network
 https://v1.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",NFL Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
 #EXTINF:-1 group-title="Sports",NFL Red Zone
 https://v1.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Locked on NFL
@@ -2175,9 +2175,7 @@ https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca6
 #EXTINF:-1 group-title="Sports",MLB Network
 https://v1.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",MLB Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
-#EXTINF:-1 group-title="Sports",MLB Channel on Tubi
-https://livetv-fa.tubi.video/mlb3/playlist.m3u8
+https://apollo.production-public.tubi.io/live/mlb2-RR0NCJ.m3u8
 #EXTINF:-1 group-title="Sports",NHL Network
 https://v1.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",NHL Channel
