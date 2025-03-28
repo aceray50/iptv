@@ -48,7 +48,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23665
 #EXTINF:-1 group-title="Local Channels",WLS-TV ABC 7 24/7 News (Chicago IL)
 https://content-ause1.uplynk.com/channel/553fe1231b83487383a725f2da8433f5.m3u8
 #EXTINF:-1 group-title="Local Channels",WGN-TV CW 9 (Chicago IL)
-http://fl2.moveonjoy.com/WGN/index.m3u8
+http://fl1.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WCIU-TV 26.5 The Story (Chicago IL)
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 group-title="Local Channels",WFLD-TV FOX 32 (Chicago IL)
@@ -1650,7 +1650,7 @@ http://143.244.60.97/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Network Channels",MTV Live
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131317
 #EXTINF:-1 group-title="Network Channels",MTV U
-http://143.244.60.97/MTV_U/index.m3u8
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="LGBT",Logo
 https://v1.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LGBT",Logo (Pluto TV)
