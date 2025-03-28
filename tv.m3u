@@ -609,7 +609,7 @@ http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 group-title="Public Broadcast",KETS-TV PBS 2 (Conway AR)
 http://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
 #EXTINF:-1 group-title="Public Broadcast",WNET-TV PBS 13 (New York NY)
-http://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8
+https://v1.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Public Broadcast",WNJT-TV PBS 52 (Trenton NJ)
 http://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 group-title="Public Broadcast",WNED-TV PBS 17 (Buffalo NY/Toronto ON)
