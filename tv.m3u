@@ -2592,11 +2592,9 @@ https://live1009.delivery.roku.com/7373a18f-b3e9-489b-af6c-abf6f226e159/t2-origi
 #EXTINF:-1 group-title="Premium Channels",FilmRise Action
 https://live1009.delivery.roku.com/6872f94b-9d18-49bf-83cb-832dd25a5cb4/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Horror
-https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8
+https://live1009.delivery.roku.com/148be9ff-1ae2-439c-a3f0-fd55dfa506ab/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Sci-Fi
 https://live1009.delivery.roku.com/3f4654d4-df13-4453-b224-3e5f73dcdc7b/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Premium Channels",FilmRise Z Nation
-https://live1009.delivery.roku.com/498018d9-5770-471f-9043-182e41ff6233/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Black TV
 https://live1009.delivery.roku.com/8ce67602-c071-4cae-8b5b-e555cf05145f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Western
@@ -2604,11 +2602,11 @@ https://live1009.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origi
 #EXTINF:-1 group-title="Premium Channels",FilmRise Fprensic Files
 https://live1009.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Untold Stories of the ER
-https://live1009.delivery.roku.com/ff1e4ec7-c99a-482b-b04b-5f1bf1732ec8/t2-origin/out/v1/live.m3u8
+https://live1009.delivery.roku.com/2d4802c1-8a61-47ed-9254-c5c4b4b9f04c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Classic TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ea07049502c5778b828d3f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
+https://live1009.delivery.roku.com/9f8d19b2-1dfc-432a-bc3e-e1dacf2f0e4e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",BritBox Mysteries
-https://live1009.delivery.roku.com/aee9ffde-42ef-4dc7-94e0-eef37e7f9449/t2-origin/out/v1/live.m3u8
+https://live1009.delivery.roku.com/958c324b-b3cc-4d40-aeea-1b1a85ec6321/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",Pluto Icon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b585f84ea480000838e446/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8e84ba84-b45c-4343-8abe-02646588530f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5895e1f0-f4df-11ef-9067-4e61923e3a1b&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Premium Channels",Pluto Action
@@ -2705,7 +2703,9 @@ https://amg00658-amg00658c41-canelatv-international-5234.playouts.now.amagi.tv/p
 #EXTINF:-1 group-title="Music",La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1 group-title="Music",CMC (California Music Channel)
-https://cmc-ono.amagi.tv/playlist.m3u8
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Music",CMC (Country Music Channel)
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/chunklist_w1421510obd393sh.m3u8
 #EXTINF:-1 group-title="Music",The Country Network
 https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Music",MCN6 Music Channel
