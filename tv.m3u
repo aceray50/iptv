@@ -4097,6 +4097,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11644
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130470
 #EXTINF:-1 group-title="Canadian Channels",Much (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/215268
+#EXTINF:-1 group-title="Canadian Channels",MTV (Canada)
+https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 group-title="Canadian Channels",MTV 2 (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130451
 #EXTINF:-1 group-title="Canadian Channels",APTN (Canada)
@@ -4321,41 +4323,41 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53649
 #EXTINF:-1 group-title="UK Channels",BBC TWO (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53650
 #EXTINF:-1 group-title="UK Channels",BBC One Scotland (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53755
+http://fortv.cc:8080/gscQ3v/779460/53755
 #EXTINF:-1 group-title="UK Channels",BBC 1 (UK)
-http://92.114.85.81:8000/play/a001/index.m3u8
+http://fortv.cc:8080/gscQ3v/779460/53649
 #EXTINF:-1 group-title="UK Channels",BBC 2 (UK)
-http://92.114.85.81:8000/play/a011/index.m3u8
+http://fortv.cc:8080/gscQ3v/779460/53755
 #EXTINF:-1 group-title="UK Channels",BBC 3 (UK)
 http://92.114.85.81:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="UK Channels",BBC 4 (UK)
 http://92.114.85.81:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="UK Channels",ITV 1 (UK)
-http://92.114.85.81:8000/play/a00y/index.m3u8
+http://fortv.cc:8080/gscQ3v/779460/53651
 #EXTINF:-1 group-title="UK Channels",ITV (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53651
 #EXTINF:-1 group-title="UK Channels",ITV 2 #1 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53671
 #EXTINF:-1 group-title="UK Channels",ITV 2 #2 (UK)
-http://92.114.85.77:8000/play/a041
+http://fortv.cc:8080/gscQ3v/779460/53671
 #EXTINF:-1 group-title="UK Channels",ITV 3 #1 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53665
 #EXTINF:-1 group-title="UK Channels",ITV 3 #2 (UK)
-http://92.114.85.77:8000/play/a04z
+http://fortv.cc:8080/gscQ3v/779460/53665
 #EXTINF:-1 group-title="UK Channels",More4 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53673
 #EXTINF:-1 group-title="UK Channels",Channel More4 (UK)
-https://livetvde.net/more4/index.m3u8?token=36b878859d0c79aadf75f25b1f61cc932209e3ab-ceb5a1990dc2705c04004031c6e528c8-1739998848-1739988048
+http://fortv.cc:8080/gscQ3v/779460/53673
 #EXTINF:-1 group-title="UK Channels",Channel 4 #1 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/99138
 #EXTINF:-1 group-title="UK Channels",Channel 4 #2 (UK)
-http://92.114.85.77:8000/play/a0b9
+http://fortv.cc:8080/gscQ3v/779460/99138
 #EXTINF:-1 group-title="UK Channels",Channel 4 Seven (UK)
 https://livetvde.net/4seven/index.m3u8?token=5f5b5ba498257e261f0671e12fb9af3cf201db44-d16a3e62ca9bc18d2cd36418de24fa1b-1739998779-1739987979
 #EXTINF:-1 group-title="UK Channels",Channel 5 #1 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53653
 #EXTINF:-1 group-title="UK Channels",Channel 5 #2 (UK)
-http://92.114.85.81:8000/play/a01g/index.m3u8
+http://fortv.cc:8080/gscQ3v/779460/53653
 #EXTINF:-1 group-title="UK Channels",Channel 5+ (UK)
 http://92.114.85.81:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Channel 5 USA (UK)
@@ -4384,8 +4386,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_cha
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77166
 #EXTINF:-1 group-title="UK Channels",GB News (UK)
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
-#EXTINF:-1 group-title="UK Channels",Blaze (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53754
 #EXTINF:-1 group-title="UK Channels",History Channel (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53686
 #EXTINF:-1 group-title="UK Channels",Nickelodeon (UK)
@@ -4395,13 +4395,13 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53718
 #EXTINF:-1 group-title="UK Channels",Cartoon Network (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53719
 #EXTINF:-1 group-title="UK Channels",Pop (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53730
+http://fortv.cc:8080/gscQ3v/779460/53730
 #EXTINF:-1 group-title="UK Channels",CBBC (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53720
+http://fortv.cc:8080/gscQ3v/779460/53720
 #EXTINF:-1 group-title="UK Channels",Zoo Moo (Australia)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYt591cd7OqseFyOnxc_1Bt8
 #EXTINF:-1 group-title="UK Channels",Drama (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53677
+http://fortv.cc:8080/gscQ3v/779460/53677
 #EXTINF:-1 group-title="UK Channels",E4 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53672
 #EXTINF:-1 group-title="UK Channels",Investigation Discovery (UK)
@@ -4413,7 +4413,7 @@ http://190.102.246.93:9005/play/a01p
 #EXTINF:-1 group-title="UK Channels",MTV 80's (UK)
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Quest (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53682
+http://fortv.cc:8080/gscQ3v/779460/53682
 #EXTINF:-1 group-title="UK Channels",Sky Cinema Comedy (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53661
 #EXTINF:-1 group-title="UK Channels",CBS Justice (UK)
@@ -4441,7 +4441,7 @@ http://92.114.85.81:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Great! Romance (UK)
 http://92.114.85.81:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Blaze (UK)
-http://92.114.85.77:8000/play/a0ak
+http://fortv.cc:8080/gscQ3v/779460/53754
 #EXTINF:-1 group-title="UK Channels",RealityXtra (UK)
 http://92.114.85.81:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="UK Channels",HorrorXtra (UK)
@@ -4512,13 +4512,11 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53741
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145810
 #EXTINF:-1 group-title="UK Channels",SKY Sports MIX (UK)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145813
-#EXTINF:-1 group-title="UK Channels",EuroSports 1 #1 (UK)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsAglIpOeU_G1M2HA5T6_FA
-#EXTINF:-1 group-title="UK Channels",EuroSports 1 #2 (UK)
+#EXTINF:-1 group-title="UK Channels",EuroSports 1 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53713
-#EXTINF:-1 group-title="UK Channels",EuroSports 2
+#EXTINF:-1 group-title="UK Channels",EuroSports 2 (UK)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoIU9vxyY1Pv1yWlDMe-aZs
-#EXTINF:-1 group-title="UK Channels",FOX Soccer+
+#EXTINF:-1 group-title="UK Channels",FOX Soccer+ (UK)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYk-P0xYL6HjbJgm8vxqgFoQ
 #EXTINF:-1 group-title="UK Channels",TNT Sports 1 (UK)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsPD5yJt-dGLj6mjShpVCdg
