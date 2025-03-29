@@ -1414,6 +1414,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",MST3K (Mystery Science Theater 3000)
 https://amg00163-shoutfactoryfast-amg00163c4-cw-us-2266.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-mst3k-cwus/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",FilmRise Fprensic Files
+https://live1009.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Documentary",FilmRise Untold Stories of the ER
+https://live1009.delivery.roku.com/2d4802c1-8a61-47ed-9254-c5c4b4b9f04c/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 group-title="News",Today All Day
 https://apollo.production-public.tubi.io/live/ac-today.m3u8
@@ -1596,6 +1600,8 @@ https://v1.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
 #EXTINF:-1 group-title="Network Channels",Adult Swim+ (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aseast.us.m3u8
+#EXTINF:-1 group-title="Children Channels",MeTV Toons
+https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Children Channels",No Parents Allowed (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d538a-7b2e-11ef-9d89-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3a45869-717e-45df-924b-df7f8f212859&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Children Channels",Forever Kids (Pluto TV)
@@ -1608,8 +1614,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/667f3852efa2a10008e1e514/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4d59fbb0-084a-11f0-903e-4ee1b17a5297&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Children Channels",Super Mario Bros. Channel
 https://live1009.delivery.roku.com/4c394a43-2ae4-493b-acce-7dd7700495ef/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Children Channels",MeTV Toons
-https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Children Channels",Cartoon Classics
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 group-title="Children Channels",Q Toons
@@ -1787,16 +1791,10 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbs
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbseast.us.m3u8
 #EXTINF:-1 group-title="Network Channels",USA Network
 https://v1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Network Channels",SYFY
+https://v1.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",El Rey Rebel
 https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-elrey-ono/playlist.m3u8
-#EXTINF:-1 group-title="Network Channels",A&E (Arts & Entertainment)
-https://v1.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Network Channels",CMT (Country Music Television)
-https://v1.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Network Channels",CMT (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a04-7b2e-11ef-adb4-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=09f1e2ea-743c-4fc9-99e7-f481a057bd47&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Network Channels",Circle Country
-https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Spike (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c5dfe-7b2e-11ef-8166-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=609775b2-41e9-4448-9930-83cdb66ebbbc&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",Paramount Network
@@ -1805,8 +1803,6 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",Paramount+ Picks (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Network Channels",SYFY
-https://v1.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",BBC Sci-Fi
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Network Channels",FreeTV Fantasy
@@ -1841,6 +1837,14 @@ https://v1.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Scream! Factory TV
 https://amg00163-amg00163c10-cw-us-2416.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutscreamfactorytv-cwus/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",A&E (Arts & Entertainment)
+https://v1.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Network Channels",CMT (Country Music Television)
+https://v1.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Network Channels",CMT (Pluto TV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a04-7b2e-11ef-adb4-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=09f1e2ea-743c-4fc9-99e7-f481a057bd47&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Network Channels",Circle Country
+https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",The Cowboy Channel
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122527
 #EXTINF:-1 group-title="Network Channels",Outlaw (The Western Channel)
@@ -2599,10 +2603,6 @@ https://live1009.delivery.roku.com/3f4654d4-df13-4453-b224-3e5f73dcdc7b/t2-origi
 https://live1009.delivery.roku.com/8ce67602-c071-4cae-8b5b-e555cf05145f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Western
 https://live1009.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Premium Channels",FilmRise Fprensic Files
-https://live1009.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Premium Channels",FilmRise Untold Stories of the ER
-https://live1009.delivery.roku.com/2d4802c1-8a61-47ed-9254-c5c4b4b9f04c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Classic TV
 https://live1009.delivery.roku.com/9f8d19b2-1dfc-432a-bc3e-e1dacf2f0e4e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Premium Channels",BritBox Mysteries
