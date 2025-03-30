@@ -2245,6 +2245,8 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23721
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79
 #EXTINF:-1 group-title="Sports",FOX Racing America
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162128
+#EXTINF:-1 group-title="Sports",CMH.TV
+https://fhdinternationalhermes.live.clipmyhorse.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",FanDuel TV (Formerly TVG)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140778
 #EXTINF:-1 group-title="Sports",FanDuel TV+
@@ -4253,15 +4255,15 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57370
 #EXTINF:-1 group-title="Shopping",TSC (The Shopping Channel) (Canada)
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN 1 (Canada)
-http://212.102.60.231/TSN_1/index.m3u8
+https://v1.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN 2 (Canada)
-http://212.102.60.231/TSN_2/index.m3u8
+https://v1.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN 3 (Canada)
-http://212.102.60.231/TSN_3/index.m3u8
+https://v1.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN 4 (Canada)
-http://212.102.60.231/TSN_4/index.m3u8
+https://v1.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN 5 (Canada)
-http://212.102.60.231/TSN_5/index.m3u8
+https://v1.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN The Ocho (Canada)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 group-title="Canadian Channels",RDS Info (Canada)
