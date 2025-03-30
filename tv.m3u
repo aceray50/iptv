@@ -505,6 +505,8 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A
 https://amg00364-amg00364c2-thepreviewchannel-us-3407.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",FreeCast Sneak Preview
 https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
+#EXTINF:-1 group-title="Network Channels",Made In Hollywood by Movie Fone
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",NBC LX Home
 http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="Network Channels",REV'N
@@ -574,7 +576,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991366/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="Network Channels",Confess by Nosey
 https://dbrb49pjoymg4.cloudfront.net/10001/99991388/hls/playlist.m3u8?ads.xumo_channelId=99991388
 #EXTINF:-1 group-title="Network Channels",Judge Nosey
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=iNJo2ZVSgxGRCns9vTzE
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ukYQGfmjaVjMjmoUbyR6
 
 #EXTINF:-1 group-title="Public Broadcast",Create
 https://create.lls.pbs.org/index_1080p.m3u8
@@ -1684,9 +1686,9 @@ http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Pluto Black Classics
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c83d8-7b2e-11ef-badc-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Network Channels",theGrio #1
+#EXTINF:-1 group-title="Network Channels",theGrio
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/176811
-#EXTINF:-1 group-title="Network Channels",theGrio #2
+#EXTINF:-1 group-title="Network Channels",theGrio+
 https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",TV One
 https://v1.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
@@ -1958,9 +1960,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc
 https://amg00163-amg00163c8-cw-us-2414.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-nonstop90stv-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Dove Channel
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
-#EXTINF:-1 group-title="Network Channels",Great American Family
+#EXTINF:-1 group-title="Network Channels",GAC Great American Family
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/104877
-#EXTINF:-1 group-title="Network Channels",GAC Living
+#EXTINF:-1 group-title="Network Channels",GAC Great American Faith & Living
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75654
 #EXTINF:-1 group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
@@ -2660,8 +2662,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a17c90d1-090b-11f0-92c8-3e7f6cb12bba&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Premium Channels",Pluto TV Black Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=575bd0af-08fa-11f0-bed2-86d507b84126&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Network Channels",Made In Hollywood by Movie Fone
-https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Vevo Regional Mexicano
 https://amg00056-amg00056c4-slingtv-worldwide-3018.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevoregionalmexicano-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=latin%2Cmusic&us_privacy=REPLACE_ME&did=91bc0f16d53bf6bbb7446e3023a6d1485ab2867c&dnt=REPLACE_ME&lmt=1
