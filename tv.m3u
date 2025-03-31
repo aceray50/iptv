@@ -1709,9 +1709,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusexl/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",E! (Entertainment Television)
 https://v1.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",AXS-TV
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162825
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/48324
 #EXTINF:-1 group-title="Network Channels",AXS-TV Now
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="Comedy",Comedy Central
 https://v1.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
@@ -1794,8 +1794,6 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbs
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbseast.us.m3u8
 #EXTINF:-1 group-title="Network Channels",USA Network
 https://v1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Network Channels",SYFY
-https://v1.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",El Rey Rebel
 https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-elrey-ono/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Spike (Pluto TV)
@@ -1806,6 +1804,8 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",Paramount+ Picks (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Network Channels",SYFY
+https://v1.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",BBC Sci-Fi
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 group-title="Network Channels",FreeTV Fantasy
@@ -1945,7 +1945,7 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcm
 #EXTINF:-1 group-title="Network Channels",TCM+ (Turner Classic Movies) (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmeast.us.m3u8
 #EXTINF:-1 group-title="Network Channels",NOST (The Nostalgia Network)
-https://43d8730367094c359169326b2541f48d.mediatailor.us-east-1.amazonaws.com/v1/manifest/cfccecf99f5f9bc53e6a1cf70495cfad66d82f53/dai/944b75b2-5825-499f-8dda-62dd43ba1787/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nost-the-nostalgia-network/stream.m3u8
 #EXTINF:-1 group-title="Network Channels",Hallmark Channel
 https://v1.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Hallmark Family
@@ -3222,7 +3222,7 @@ http://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Internacional adn 40
 https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Mundo
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145512
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3708
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Uno
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/37670
 #EXTINF:-1 group-title="Latino (Spanish)",Azteca Noticias
@@ -3233,6 +3233,8 @@ http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/24167
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Cinema Azteca (Mexico)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3706
+#EXTINF:-1 group-title="Latino (Spanish)",Azteca Corazón
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/129030
 #EXTINF:-1 group-title="Latino (Spanish)",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Buena Televisión
@@ -3765,6 +3767,10 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",CTV Internacional
 https://mediacp.us:8081/ctvhn/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Multimedios
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3775
+#EXTINF:-1 group-title="Latino (Spanish)",Multimedios Plus
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/129042
 #EXTINF:-1 group-title="Latino (Spanish)",Telediario (Spain)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Telediario Canal 6
@@ -3778,7 +3784,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #EXTINF:-1 group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",N+ FORO
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131278
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3748
 #EXTINF:-1 group-title="Latino (Spanish)",N+ Noticieros
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index_5.m3u8&redirect=true
 #EXTINF:-1 group-title="Latino (Spanish)",ADN 40
@@ -4089,11 +4095,11 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130433
 #EXTINF:-1 group-title="Canadian Channels",Disney Junior (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/41960
 #EXTINF:-1 group-title="Canadian Channels",Cartoon Network (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57356
-#EXTINF:-1 group-title="Canadian Channels",Boomerang (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57380
-#EXTINF:-1 group-title="Canadian Channels",Teletoon (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57372
+#EXTINF:-1 group-title="Canadian Channels",Boomerang #1 (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57356
+#EXTINF:-1 group-title="Canadian Channels",Boomerang #2 (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57380
 #EXTINF:-1 group-title="Canadian Channels",Adult Swim (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11644
 #EXTINF:-1 group-title="Canadian Channels",Télétoon French (Canada)
