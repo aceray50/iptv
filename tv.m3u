@@ -2324,15 +2324,15 @@ https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Goal TV
 https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Stadium
-https://stadium.ad.ballys.tv/v1/manifest/ba2b6c85d52a58850082257f9bb40327e66446c0/Stadium-8b68d793-9ed1-48af-92c2-a157b8558c93/7e8072f2-36b5-4151-b2c5-2dd4a184ae39/0.m3u8
+https://stadium.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/Stadium-8b68d793-9ed1-48af-92c2-a157b8558c93/index_dvr.m3u8
 #EXTINF:-1 group-title="Sports",Bally Sports (MLB)
-https://ohio.ad.ballys.tv/v1/manifest/ba2b6c85d52a58850082257f9bb40327e66446c0/BallyLIVEOhio-98c84c43-7026-401e-9746-25e5dca2395b/c1a1aafc-6bd5-494a-8e34-c0bcd391ebac/3.m3u8
+https://ohio.ad.ballys.tv/v1/manifest/ba2b6c85d52a58850082257f9bb40327e66446c0/BallyLIVEOhio-98c84c43-7026-401e-9746-25e5dca2395b/169618a9-d203-44a6-832b-61da55c8a0cc/2.m3u8
 #EXTINF:-1 group-title="Sports",Bally Sports (Glory)
-https://glorykickboxing.ad.ballys.tv/v1/manifest/ba2b6c85d52a58850082257f9bb40327e66446c0/GLORYKickBoxing-7a2ba2de-5648-4cea-a54e-c21246c76ef9/305e6e2b-6bb9-4d11-9505-180f771a4d6e/5.m3u8
+https://glorykickboxing.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/GLORYKickBoxing-7a2ba2de-5648-4cea-a54e-c21246c76ef9/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Bally Sports (Banana Ball)
-https://bananas.ad.ballys.tv/v1/manifest/ba2b6c85d52a58850082257f9bb40327e66446c0/BananaBall-41b3db2a-4b11-45c2-ae9e-ffe26cbef8ca/497f4904-8e54-4bf7-8386-d7451e1154c8/4.m3u8
+https://bananas.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/BananaBall-41b3db2a-4b11-45c2-ae9e-ffe26cbef8ca/index_dvr.m3u8
 #EXTINF:-1 group-title="Sports",Bally Sports (Poker)
-https://casinogames.ad.ballys.tv/v1/manifest/ba2b6c85d52a58850082257f9bb40327e66446c0/CasinoGames-559fb3c4-483a-492b-bacf-d00e40538156/4ddbc670-a2a9-4420-b923-4ca7bbc635e7/4.m3u8
+https://casinogames.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/CasinoGames-559fb3c4-483a-492b-bacf-d00e40538156/index_dvr.m3u8
 #EXTINF:-1 group-title="Sports",PokerGo
 https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",WPT (World Poker Tour)
@@ -2428,7 +2428,7 @@ http://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 group-title="Sports",eSports Network
 http://eyeonesports.com/720/ESR-002SCTE35.m3u8
 #EXTINF:-1 group-title="Sports",FTF Sports
-https://live1009.delivery.roku.com/c3f9833e-04cd-4bfd-b00d-8f0d6af73766/t2-origin/out/v1/live.m3u8
+https://ssai.gumgum.com/gs/stream/master/For-the-Fans/content.m3u8?stream_url=https%3A%2F%2F1622862207.rsc.cdn77.org%2FHLS%2FFTF_SCTE.m3u8
 #EXTINF:-1 group-title="Sports",FTF Next Live
 https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 group-title="Sports",The Cycling Channel
