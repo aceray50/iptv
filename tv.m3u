@@ -2516,6 +2516,8 @@ https://v1.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Starz (East)
 https://v1.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Premium Channels",Starz Cinema
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17775
 #EXTINF:-1 group-title="Premium Channels",Starz Comedy
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23901
 #EXTINF:-1 group-title="Premium Channels",Starz In Black
