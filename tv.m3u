@@ -3307,6 +3307,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/37
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3013
 #EXTINF:-1 group-title="Latino (Spanish)",Universal Channel en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/7980
+#EXTINF:-1 group-title="Latino (Spanish)",Universal TV
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440770
 #EXTINF:-1 group-title="Latino (Spanish)",Studio Universal
 http://181.188.234.21:8000/play/a05s/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",E! Entertainment en Español
@@ -3673,6 +3675,8 @@ https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 https://dai.google.com/linear/hls/event/P-z5VMsOQxmXTpZLaDC6Pg/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Revry LatinX
 https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Canal Caracol
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440762
 #EXTINF:-1 group-title="Latino (Spanish)",CLIC
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Ecuador TV
@@ -3815,6 +3819,8 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 https://dai.google.com/linear/hls/event/j-Z_2JOSSByv4z2OibrTfw/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TVA Tele Vida Abundante
 https://5f700d5b2c46f.streamlock.net/televidaabundante/televidaabundante/playlist.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Venevisión
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440769
 #EXTINF:-1 group-title="Latino (Spanish)",Venevisión Internacional
 https://pubads.g.doubleclick.net/ssai/event/4EZVJznARm6vHvBUVjnYsw/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",+Show
@@ -3863,32 +3869,38 @@ https://amg01334-amg01334c1-canelatv-international-6037.playouts.now.amagi.tv/pl
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131136
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Sports en Español (México)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",FOX Sports en Español
+#EXTINF:-1 group-title="Latino (Spanish)",FOX Sports Channel en Español
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",FSN Premium en Español
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/277666
+#EXTINF:-1 group-title="Latino (Spanish)",FSN 1 en Español
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440927
+#EXTINF:-1 group-title="Latino (Spanish)",FSN 2 en Español
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/61814
+#EXTINF:-1 group-title="Latino (Spanish)",FSN 3 en Español
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/288104
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN Deportes
 https://v1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",ESPN Premium en Español
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/296546
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN en Vivo
 http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",ESPN Premium en Español
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/22895
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN en Español
-http://181.188.234.21:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",ESPN en Español SD
-http://181.78.105.146:2000/play/a064/index.m3u8
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440933
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 2 en Español
-http://181.188.234.21:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",ESPN 2 en Español SD
-http://181.78.105.146:2000/play/a063/index.m3u8
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440937
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 3 en Español
-http://181.188.234.21:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",ESPN 3 en Español SD
-http://181.78.105.146:2000/play/a03n/index.m3u8 
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440993
+#EXTINF:-1 group-title="Latino (Spanish)",ESPN 4 en Español
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440934
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 5 en Español
 http://200.60.124.19:29000/play/a04y/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 6 en Español
-http://181.188.234.21:8000/play/a046/index.m3u8
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/292845
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 7 en Español
 http://181.188.234.21:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",TNT Sports Premium en Español
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440939
 #EXTINF:-1 group-title="Latino (Spanish)",Lucha Libre AAA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d5e2a-7b2e-11ef-9cb3-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f25e2041-12d2-4c2a-b102-39f6685f2b9c&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Latino (Spanish)",Futbol 04
