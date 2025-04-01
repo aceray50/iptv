@@ -2111,8 +2111,6 @@ http://dai.google.com/linear/hls/event/ydKcHHYQSt27vbSP38xMVw/master.m3u8
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253
-#EXTINF:-1 group-title="Sports",NBC Sports (North West)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23783
 #EXTINF:-1 group-title="Sports",NBC Sports (Boston)
 https://v1.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports (Bay Area)
@@ -2129,6 +2127,8 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23784
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlbtbw-34OIrF6a4YrABZvE
 #EXTINF:-1 group-title="Sports",NBC Sports+ (Washington)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrmNk65TgPRg6__SofxipW0
+#EXTINF:-1 group-title="Sports",NBC Sports (North West)
+http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23783
 #EXTINF:-1 group-title="Sports",Midatlantic Sports Network
 https://v1.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Monumental Sports Network
@@ -2139,6 +2139,12 @@ https://v1.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Sports",beIN Sports XL
 https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 4
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131266
+#EXTINF:-1 group-title="Sports",beIN Sports 5
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131267
+#EXTINF:-1 group-title="Sports",beIN Sports 6
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131268
 #EXTINF:-1 group-title="Sports",Fubo Sports Network
 http://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/fsn/master.m3u8
 #EXTINF:-1 group-title="Sports",Locked on College Sports
