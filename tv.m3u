@@ -1191,8 +1191,6 @@ https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",WJAN-CD América TeVé 41 (Miami FL)
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",KMEX-TV Univision 34 24/7 Noticias (Los Angeles CA)
-https://dcs4-live.mp.lura.live/server/podserve2/AoeWeMi5w6vEHk57/manifest.mpd?gam_stream_id=66a11a3f-6b47-4e66-adfa-6f3ec54a184d:TUL&encp=zuvPJYoOOdEMDNF2j2mvmg:zdYctvlP15yABFWfz0N6lfMokGcktxlbAdfxU0V-z5YRCZv7pE0A11HlAdL2QeVqgXS0cgWfVVytLjqAFRbLNxzRQ9GkC_Zbe--IjVjxYL_K-4B7My7H8Zu2LwELtiiq8JlipZcgf3O-7kommcfRQpGS3ktZPVh6JwYNRBghOugGftjtMA5pDqNB_bPLhscPy3gYOSxwI9UJVYCOEsvjwi-eTj3ubBpNOmjaHIAdZ-jMGCBctvm2xa_WhbznkynpT2UQUewqLXj_g4swuqSUMu9VJTzOYcikKJ-ZqJc2FbqD7nI1FFUpabmYRzyQU-Q1IgyjV5fBdwMjRlZ62OYnCA&anvauth=tb=0~te=1743606004~sgn=80dc7eb806165ab5137132c781692fc96aa8e9baed95c94643b3f2f7d49fbb4c&t=1743605104&lura_pal_nonce=AQzzBGQEv3UUrkcrAoK-QeHATYz9akO4kz_2AD1rLIZvMA1TLIg42yCUuifHmdQWraGzd4sdmg1H57CFPaQEdJwJlMo2ArK9le1uu5dMXeFIpMAVEJLEyywh2BouX8Ce8y6YMBb5K1uy2x1ZPstuD_v0UdWnuxju-4qbRgVYLz2Y5pbhwMXjwLsFg_NDd3akqQkDEkwXOXe2bT34Ceuq6qLYAt5gKiDLMWd9XCkWTPF8pe0cFOrT7vRzMaqwXKxbjqo6nxesdPxOL90vJVVyoOVWyV1uTTG0CbqIGz5polOpdMnvfCaV5dnnsG4PsnOfvpuo_lAvd6ima8WhfkoimMWRBU_---QxCpko9D9Ta_NFykVAyBMLWyP5dUkcHzIWyJWYgA9lnPqmh-Jtitp4Khgl6F9zVNZszDLpjiQtFWJAL2wtsNOYsmXKvWsLW949DbWd-ekggR8XKN_GNuSLeRFO2ba_BjDYZYJV9IYUS7blDUtFwUKyZYFAzEcQA0izSo4CCem41reKu4xcNij8arj_Mgxj-uQWEpkTVSFXTpjishi8ou3Cv11_1U9FhgICyafgYoId7vsXn4RU6oNEbhirTgscKmvJ9bcedlJV_QzOP4gRI4gAUyFIgnh4UaZereIBerpyUZVrzvDcqAjylRGkcFckK6X4wD3gQTFeGuF9rtG3GyOg4iYr9QChwScT3a7omvRU1cyHmMyCL2Yz2DM_hBmALVmEvypLISxdApwEe64DXTlf6NfOZwhFgSbxLgMzgmHbx6ofB45DAVzndp9ddoiu9tmzO5WGXwmNzwtuXX6WJMj5BmcDX4CBYoGsCR88ADNE1nVx-q90pv892m-JyP59V9gb-RdPV4i0rg4sY4nbjTPro6hzKvND0g6TRIfkhl4Vw-ZIJYHRsqjUiVoewZFVylHG61ulTtb_VvAYuBvR-CTE4_LvVPWqCj8tLN3_1dE24jiBwMveMdArNqhKnrKQZf11Q9Odt-c-Yiff3O-zf_t_8c7gamTlQVVJqC1LxPHXenmOiN-S9xG6zNsGbUubYi2uMp_WzBRdu7S54j1t7zoz2Hq0CSG6ewRzN3YNDnB8xt4h43VS_FRfBMmbIsYKS0_JwvkX4Dc-llkVZkwnFpNq9d6tmt-UIGWfxCvI2KGFKSUZC2Mrmeb__021u5dg--yfxbeM86LJh2KsoioOTg..&psi=fbdcb462-e1ec-455d-acb7-d7cae9abbf1e&sid=a5658de8fd73fe00da0c50ec5a932308&pcqx=c2e581c76c8e137c4305001f20f643c4
 #EXTINF:-1 group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131151
 #EXTINF:-1 group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
@@ -1983,6 +1981,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-634700569d64
 
 #EXTINF:-1 group-title="Religious",Scientology Network
 https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 group-title="Religious",Victory Channel
+https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
 #EXTINF:-1 group-title="Religious",Positiv
 https://cdn.jwplayer.com/v2/sites/fGLyccP5/media/FoWynVnP/ssai.m3u8?ad_config_id=wrVOL0T1&content_id=FoWynVnP&content_title=Positiv+TV&app_domain=https%3A%2F%2Fwatch.positiv.tv&app_bundle=PostivTV.web&custom_10=web&user_id=&site_id=38571&app_name=PostivTV&min_ad_duration=6&max_ad_duration=60&format=vast&ssai_enabled=1&ssai_vendor=jwplayer&livestream=1&content_genre=Entertainment&content_channel=PostivTV&content_network=PostivTV&height=1080&width=1920&content_cat=IAB1&page_url=https%3A%2F%2Fwatch.positiv.tv%2Fp%2FYVBF54l8%3Fchannel%3DFoWynVnP%26play%3D1&device_type=2
 #EXTINF:-1 group-title="Religious",GLC (God's Learning Channel)
@@ -2017,8 +2017,10 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",CYC (Christian Youth Channel)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Impact TV
+#EXTINF:-1 group-title="Religious",CTVN
 https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Impact TV
+https://edge1.lifestreamcdn.com/live/impactroku1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",The Word Network
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Enlace
@@ -3519,6 +3521,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fuselatinovibes-ono
 https://amg00375-fusemedia-backstageespanol-ono-espoe.amagi.tv/playlist/amg00375-fusemedia-backstageespanol-ono/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Banda Max
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/129047
+#EXTINF:-1 group-title="Latino (Spanish)",Tele Hit
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131144
+#EXTINF:-1 group-title="Latino (Spanish)",TeleHit Música
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131144
 #EXTINF:-1 group-title="Latino (Spanish)",Wapa+
 https://live1009.delivery.roku.com/48f0cc45-b8ca-4d04-9d2a-7995b62cbd38/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",MVStv
@@ -3527,8 +3533,10 @@ https://live1009.delivery.roku.com/504bbabd-ddfc-4216-a31f-9b598b459845/t2-origi
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ECDF
 http://181.188.234.21:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Ecuavisa
+#EXTINF:-1 group-title="Latino (Spanish)",Ecuavisa #1
 http://181.188.234.21:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Ecuavisa #2
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b283937306567ed661272ffd
 #EXTINF:-1 group-title="Latino (Spanish)",Teleamazonas
 http://181.188.234.21:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Unicable
@@ -3537,8 +3545,8 @@ http://181.78.105.146:2000/play/a08f/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Latin Zone
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Tele Hit
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131144
+#EXTINF:-1 group-title="Latino (Spanish)",A3S
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/110860
 #EXTINF:-1 group-title="Latino (Spanish)",Más Chic
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131297
 #EXTINF:-1 group-title="Latino (Spanish)",Somos Novelas
@@ -3557,6 +3565,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://dai.google.com/linear/hls/event/4VaHBXfJSYihkeo7w_T0Qw/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",RCN Novelas
 http://181.188.234.21:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Latino (Spanish)",Pasiones
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/156061
 #EXTINF:-1 group-title="Latino (Spanish)",Novelisima
 https://pubads.g.doubleclick.net/ssai/event/RYoIzyuDThiKjFnuLMyF5g/master.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Pluto TV Novelas
@@ -3601,6 +3611,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214c
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Latino (Spanish)",Cine Latino
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/155202
+#EXTINF:-1 group-title="Latino (Spanish)",Caracol Internacional
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3573
 #EXTINF:-1 group-title="Latino (Spanish)",Todo Cine
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
 #EXTINF:-1 group-title="Latino (Spanish)",AXN en Español
