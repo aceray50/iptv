@@ -511,6 +511,8 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="Network Channels",REV'N
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/Je_Rb9Zmw_sQz2MKaPcIeQ/1741558537/media_mpegts_0.m3u8
+#EXTINF:-1 group-title="Network Channels",Power Nation
+https://amg01258-amg01258c5-circle-worldwide-2862.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationroku-circleworldwide/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",AWE Encore
@@ -1310,6 +1312,8 @@ https://v1.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/146556
 #EXTINF:-1 group-title="Documentary",Rovr Pets
 https://amg00111-amg00111c3-cw-us-3035.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-rovrpets-cwus/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",Taste Made Travel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelenglish24i-ono/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Travel Channel
 https://v1.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary",ID (Investigation Discovery)
@@ -1372,6 +1376,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991638/hls/master.m3u8?includeAsset
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Haunt TV
 https://amg01515-blueskyeus-amg01515c7-cw-us-4892.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-haunttvus-cwus/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",Meateater
+https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Curiosity Stream
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 group-title="Documentary",REELZ (West)
@@ -1635,6 +1641,8 @@ https://v1.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58765
 #EXTINF:-1 group-title="Children Channels",Baby First #2
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 group-title="Children Channels",Baby TV
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130991
 #EXTINF:-1 group-title="Children Channels",Brat TV
 https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
 #EXTINF:-1 group-title="Children Channels",FilmRise Kids
@@ -1827,6 +1835,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951177/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99951323/hls/playlist.m3u8?ads.xumo_channelId=99951323
 #EXTINF:-1 group-title="Cooking",Food52
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991340
+#EXTINF:-1 group-title="Cooking",Taste Made
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv1624i-ono/playlist.m3u8
 
 #EXTINF:-1 group-title="Network Channels",TLC (The Learning Channel)
 https://v1.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
@@ -1914,6 +1924,8 @@ https://v1.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
 http://fl2.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 group-title="Network Channels",The Design Network
 https://dbrb49pjoymg4.cloudfront.net/10001/99991390/hls/playlist.m3u8?ads.xumo_channelId=99991390
+#EXTINF:-1 group-title="Network Channels",Taste Made Home
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",ONTV4U
 https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",FYI
@@ -2027,6 +2039,8 @@ https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/720p/main.m3u8
 https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Hope Church Channel
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="Religious",BYUtv
+https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TBN
 https://d2irko5f9gt1c5.cloudfront.net/10008/99991708/hls/playlist.m3u8?ads.xumo_channelId=99991708
 #EXTINF:-1 group-title="Religious",TBN Inspire
@@ -2357,6 +2371,8 @@ https://v1.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYi7EppPWYlrHoIQomuzPJmw
 #EXTINF:-1 group-title="Sports",VSIN Sports
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/168530
+#EXTINF:-1 group-title="Sports",Ginx.tv
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131321
 #EXTINF:-1 group-title="Sports",Strongman Champions League
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/190839
 #EXTINF:-1 group-title="Sports",DAZN 1
@@ -3397,6 +3413,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3778
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132575
 #EXTINF:-1 group-title="Latino (Spanish)",Nat Geo Wild en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/2012
+#EXTINF:-1 group-title="Latino (Spanish)",Taste Made en Español
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Love Nautre en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-lovenatureusspa-freetv/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",TLC en Español
