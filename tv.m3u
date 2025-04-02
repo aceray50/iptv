@@ -11,7 +11,7 @@ https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_
 https://v1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
-#EXTINF:-1 group-title="Local Channels",KCAL-TV 9 Ind. (Los Angeles CA)
+#EXTINF:-1 group-title="Local Channels",KCAL-TV Ind. 9 (Los Angeles CA)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23561
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
 https://v1.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
@@ -507,8 +507,6 @@ https://amg00364-amg00364c2-thepreviewchannel-us-3407.playouts.now.amagi.tv/play
 https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Made In Hollywood by Movie Fone
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Network Channels",NBC LX Home
-http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="Network Channels",REV'N
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/Je_Rb9Zmw_sQz2MKaPcIeQ/1741558537/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="Network Channels",Power Nation
@@ -1429,7 +1427,7 @@ https://live1009.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origi
 https://live1009.delivery.roku.com/2d4802c1-8a61-47ed-9254-c5c4b4b9f04c/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 group-title="News",Today All Day
-https://apollo.production-public.tubi.io/live/ac-today.m3u8
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245
 #EXTINF:-1 group-title="News",Spectrum News+
 https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.xumo_channelId=99951337
 #EXTINF:-1 group-title="News",ABC Localish
@@ -1611,14 +1609,14 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/asw
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aseast.us.m3u8
 #EXTINF:-1 group-title="Children Channels",MeTV Toons
 https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Children Channels",Kartoon Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327
 #EXTINF:-1 group-title="Children Channels",No Parents Allowed (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d538a-7b2e-11ef-9d89-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3a45869-717e-45df-924b-df7f8f212859&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Children Channels",Forever Kids (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76cdc847-bc01-40b7-a0b3-beef54986292&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Children Channels",Kids Movie Club (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba2cd391-08f6-11f0-a196-2e4264ece789&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Children Channels",Kartoon Channel (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=29885d76-77a3-4ade-baa1-27e6b946c805&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4d59fbb0-084a-11f0-903e-4ee1b17a5297&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Children Channels",Go-Go Gadget (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/667f3852efa2a10008e1e514/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4d59fbb0-084a-11f0-903e-4ee1b17a5297&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Children Channels",Super Mario Bros. Channel
@@ -1725,8 +1723,6 @@ https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 https://v1.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Comedy",Comedy Central (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Comedy",Comedy Central Animation (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1df8-7b2e-11ef-951a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=632fe7b8-42bc-4848-8710-b775ee7de975&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Comedy",Sketchy AF (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67882c1c7b11714b795c2008/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1df8-7b2e-11ef-951a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba2cd391-08f6-11f0-a196-2e4264ece789&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",Pluto Classic TV Comedy
@@ -1875,7 +1871,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21927
 #EXTINF:-1 group-title="Network Channels",BBC America
 https://v1.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",OuterSphere by Lionsgate
-https://amg00353-amg00353c17-cw-us-2730.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-cwus/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951250/hls/playlist.m3u8?ads.xumo_channelId=99951250
 #EXTINF:-1 group-title="Network Channels",Pop TV
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Vice
@@ -1907,7 +1903,7 @@ https://v1.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",WE Absolute Reality
 http://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",HerSphere by Lionsgate
-https://amg00353-amg00353c3-cw-us-2722.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-cwus/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951382/hls/playlist.m3u8?ads.xumo_channelId=99951382
 #EXTINF:-1 group-title="Network Channels",So... Real
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Global Fashion Channel
@@ -1922,6 +1918,8 @@ https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 https://v1.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Magnolia Network
 http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 group-title="Network Channels",NBC LX Home
+http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="Network Channels",The Design Network
 https://dbrb49pjoymg4.cloudfront.net/10001/99991390/hls/playlist.m3u8?ads.xumo_channelId=99991390
 #EXTINF:-1 group-title="Network Channels",Taste Made Home
@@ -1943,7 +1941,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d7
 #EXTINF:-1 group-title="Network Channels",OWN (Oprah Winfrey Network)
 https://v1.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Ebony TV by Lionsgate
-https://amg00353-amg00353c10-cw-us-2723.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytvtubi-cwus/playlist.m3u8?did=1229467091790347383&dnt=0&lmt=0&device_name=computer&us_privacy=1YNN&osver=&uoo=0
+https://dbrb49pjoymg4.cloudfront.net/10001/99951293/hls/playlist.m3u8?ads.xumo_channelId=99951293
 #EXTINF:-1 group-title="Network Channels",AMC (American Movie Classics)
 https://v1.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",AMC+
