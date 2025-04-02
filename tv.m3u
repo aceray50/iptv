@@ -1699,7 +1699,7 @@ https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",TV One
 https://v1.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Revolt
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/39276
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Cleo TV
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Shades of Black
@@ -2454,7 +2454,7 @@ https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 group-title="Sports",The Cycling Channel
 http://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 #EXTINF:-1 group-title="Sports",World Fishing Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130995
+http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports",People are Awesome
 https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8
 #EXTINF:-1 group-title="Sports",30A Golf Kingdom
@@ -4149,7 +4149,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11644
 #EXTINF:-1 group-title="Canadian Channels",Télétoon French (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130470
 #EXTINF:-1 group-title="Canadian Channels",Much (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/215268
+http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 group-title="Canadian Channels",MTV (Canada)
 https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 group-title="Canadian Channels",MTV 2 (Canada)
@@ -4189,7 +4189,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/99621
 #EXTINF:-1 group-title="Canadian Channels",WILD TV (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100456
 #EXTINF:-1 group-title="Canadian Channels",Love Nature (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47324
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 group-title="Canadian Channels",Documentary (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/148610
 #EXTINF:-1 group-title="Canadian Channels",Oxygen True Crime (Canada)
@@ -4200,8 +4200,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57256
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130438
 #EXTINF:-1 group-title="Canadian Channels",TV Ontario (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57369
-#EXTINF:-1 group-title="Canadian Channels",W Network East (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57284
+#EXTINF:-1 group-title="Canadian Channels",W Network (Canada)
+http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Canadian Channels",YES TV (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57472
 #EXTINF:-1 group-title="Canadian Channels",Super Channel Heart & Home (Canada)
