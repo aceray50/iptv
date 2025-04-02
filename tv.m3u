@@ -4302,9 +4302,9 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66242
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57430
 #EXTINF:-1 group-title="Religious",3ABN (Canada)
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
-#EXTINF:-1 group-title="Canadian Channels",The Shopping Channel (Canada)
+#EXTINF:-1 group-title="Canadian Channels",TSC (The Shopping Channel) #1 (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57370
-#EXTINF:-1 group-title="Canadian Channels",TSC (The Shopping Channel) (Canada)
+#EXTINF:-1 group-title="Canadian Channels",TSC (The Shopping Channel) #2 (Canada)
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN 1 (Canada)
 https://v1.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
