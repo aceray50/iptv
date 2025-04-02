@@ -546,7 +546,7 @@ http://195.181.163.243/COZI_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",H&I (Heroes & Icons)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66087
 #EXTINF:-1 group-title="Network Channels",Start TV
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/137680
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 group-title="Network Channels",fetv (Family Entertainment Television)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/172481
 #EXTINF:-1 group-title="Network Channels",Get TV
@@ -1931,7 +1931,7 @@ https://v1.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Fuse
 https://v1.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",UpTV
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/10525
+http://fl3.moveonjoy.com/Up_Tv/index.m3u8
 #EXTINF:-1 group-title="Network Channels",GSN (Game Show Network)
 https://v1.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Game Show Central
@@ -2460,7 +2460,7 @@ https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Sports",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 group-title="Sports",Sportsman Channel
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131231
+http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Sports",Adventure Sports TV
 https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
 #EXTINF:-1 group-title="Sports",BEK Sports West
