@@ -2226,7 +2226,7 @@ https://v1.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Sportsnet East
 https://v1.thetvapp.to/hls/sportsnet-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Sportsnet World
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23871
+https://a1xs.vip/6000013
 #EXTINF:-1 group-title="Sports",Sportsnet 360
 https://v1.thetvapp.to/hls/sportsnet-360/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Sportsnet One
@@ -3521,9 +3521,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fuselatinovibes-ono
 https://amg00375-fusemedia-backstageespanol-ono-espoe.amagi.tv/playlist/amg00375-fusemedia-backstageespanol-ono/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",Banda Max
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/129047
-#EXTINF:-1 group-title="Latino (Spanish)",Tele Hit
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131144
-#EXTINF:-1 group-title="Latino (Spanish)",TeleHit Música
+#EXTINF:-1 group-title="Latino (Spanish)",TeleHit+
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131144
 #EXTINF:-1 group-title="Latino (Spanish)",Wapa+
 https://live1009.delivery.roku.com/48f0cc45-b8ca-4d04-9d2a-7995b62cbd38/t2-origin/out/v1/live.m3u8
@@ -3533,9 +3531,7 @@ https://live1009.delivery.roku.com/504bbabd-ddfc-4216-a31f-9b598b459845/t2-origi
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ECDF
 http://181.188.234.21:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Ecuavisa #1
-http://181.188.234.21:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",Ecuavisa #2
+#EXTINF:-1 group-title="Latino (Spanish)",Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b283937306567ed661272ffd
 #EXTINF:-1 group-title="Latino (Spanish)",Teleamazonas
 http://181.188.234.21:8000/play/a04t/index.m3u8
@@ -4319,15 +4315,15 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57370
 #EXTINF:-1 group-title="Canadian Channels",TSC (The Shopping Channel) #2 (Canada)
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN 1 (Canada)
-https://v1.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
+https://a1xs.vip/6000001
 #EXTINF:-1 group-title="Canadian Channels",TSN 2 (Canada)
-https://v1.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
+https://a1xs.vip/6000002
 #EXTINF:-1 group-title="Canadian Channels",TSN 3 (Canada)
-https://v1.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
+https://a1xs.vip/6000003
 #EXTINF:-1 group-title="Canadian Channels",TSN 4 (Canada)
-https://v1.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
+https://a1xs.vip/6000004
 #EXTINF:-1 group-title="Canadian Channels",TSN 5 (Canada)
-https://v1.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
+https://a1xs.vip/6000005
 #EXTINF:-1 group-title="Canadian Channels",TSN The Ocho (Canada)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 group-title="Canadian Channels",RDS Info (Canada)
@@ -4565,10 +4561,10 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162273
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53741
 #EXTINF:-1 group-title="UK Channels",Motor Sports (UK)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/237596
-#EXTINF:-1 group-title="UK Channels",Sky Sports (UK)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoQwBnkhmTzP8ZjKWbah9tA
+#EXTINF:-1 group-title="UK Channels",Sky Sports Football (UK)
+https://a1xs.vip/2000003
 #EXTINF:-1 group-title="UK Channels",Sky Sports Premier League (UK)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYkJWQzhynxJS5GKzkVCtmNs
+https://a1xs.vip/2000002
 #EXTINF:-1 group-title="UK Channels",Sky Sports Action (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53705
 #EXTINF:-1 group-title="UK Channels",Sky Sports F1 (UK)
@@ -4576,7 +4572,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53704
 #EXTINF:-1 group-title="UK Channels",Sky Sports Racing (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53741
 #EXTINF:-1 group-title="UK Channels",SKY Sports Main Event (UK)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145810
+https://a1xs.vip/2000001
 #EXTINF:-1 group-title="UK Channels",SKY Sports MIX (UK)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145813
 #EXTINF:-1 group-title="UK Channels",EuroSports 1 (UK)
@@ -4586,11 +4582,11 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoIU9vxyY1Pv1yWlDMe-aZs
 #EXTINF:-1 group-title="UK Channels",FOX Soccer+ (UK)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYk-P0xYL6HjbJgm8vxqgFoQ
 #EXTINF:-1 group-title="UK Channels",TNT Sports 1 (UK)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsPD5yJt-dGLj6mjShpVCdg
+https://a1xs.vip/2000021
 #EXTINF:-1 group-title="UK Channels",TNT Sports 2 (UK)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoCcBO1mVBFIvEOb_4xoYWA
+https://a1xs.vip/2000022
 #EXTINF:-1 group-title="UK Channels",TNT Sports 3 (UK)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrAyuzKk9XTKxbHcflPS4mk
+https://a1xs.vip/2000023
 #EXTINF:-1 group-title="UK Channels",Sky Cinema Action (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35254
 #EXTINF:-1 group-title="UK Channels",Sky Cinema Drama (UK)
