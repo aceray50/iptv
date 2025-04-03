@@ -1320,8 +1320,6 @@ http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 https://v1.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary",Discovery Science
 https://v1.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Documentary",Discovery Velocity
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131252
 #EXTINF:-1 group-title="Documentary",Destination America
 https://v1.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary",Pluto TV History
@@ -1392,8 +1390,6 @@ https://v1.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
 https://amg00979-amg00979c1-truecrimenetwork-us-3194.playouts.now.amagi.tv/playlist/amg00979-truecrimenetworkfast-truecrimenetworkfast-truecrimenetworkus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",NBC American Crimes
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951246/hls/master.m3u8?ads.xumo_channelId=99951246
-#EXTINF:-1 group-title="Documentary",Law & Crimes
-https://dtqutq7lmcchv.cloudfront.net/10001/99991320/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991320
 #EXTINF:-1 group-title="Documentary",Xumo Crime
 https://dbrb49pjoymg4.cloudfront.net/10001/99991384/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991384
 #EXTINF:-1 group-title="Documentary",Total Crime
@@ -4186,6 +4182,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47258
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57377
 #EXTINF:-1 group-title="Canadian Channels",Discovery Science (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57418
+#EXTINF:-1 group-title="Canadian Channels",CTV Speed
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131252
 #EXTINF:-1 group-title="Canadian Channels",National Geographic (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47338
 #EXTINF:-1 group-title="Canadian Channels",National Geographic Wild (Canada)
@@ -4397,29 +4395,19 @@ http://92.114.85.81:8000/play/a017/index.m3u8
 http://92.114.85.81:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="UK Channels",ITV 1 (UK)
 http://fortv.cc:8080/gscQ3v/779460/53651
-#EXTINF:-1 group-title="UK Channels",ITV (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53651
-#EXTINF:-1 group-title="UK Channels",ITV 2 #1 (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53671
-#EXTINF:-1 group-title="UK Channels",ITV 2 #2 (UK)
+#EXTINF:-1 group-title="UK Channels",ITV 2 (UK)
 http://fortv.cc:8080/gscQ3v/779460/53671
-#EXTINF:-1 group-title="UK Channels",ITV 3 #1 (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53665
-#EXTINF:-1 group-title="UK Channels",ITV 3 #2 (UK)
+#EXTINF:-1 group-title="UK Channels",ITV 3 (UK)
 http://fortv.cc:8080/gscQ3v/779460/53665
 #EXTINF:-1 group-title="UK Channels",More4 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53673
 #EXTINF:-1 group-title="UK Channels",Channel More4 (UK)
 http://fortv.cc:8080/gscQ3v/779460/53673
-#EXTINF:-1 group-title="UK Channels",Channel 4 #1 (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/99138
-#EXTINF:-1 group-title="UK Channels",Channel 4 #2 (UK)
+#EXTINF:-1 group-title="UK Channels",Channel 4 (UK)
 http://fortv.cc:8080/gscQ3v/779460/99138
 #EXTINF:-1 group-title="UK Channels",Channel 4 Seven (UK)
 https://livetvde.net/4seven/index.m3u8?token=5f5b5ba498257e261f0671e12fb9af3cf201db44-d16a3e62ca9bc18d2cd36418de24fa1b-1739998779-1739987979
-#EXTINF:-1 group-title="UK Channels",Channel 5 #1 (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53653
-#EXTINF:-1 group-title="UK Channels",Channel 5 #2 (UK)
+#EXTINF:-1 group-title="UK Channels",Channel 5 (UK)
 http://fortv.cc:8080/gscQ3v/779460/53653
 #EXTINF:-1 group-title="UK Channels",Channel 5+ (UK)
 http://92.114.85.81:8000/play/a01f/index.m3u8
@@ -4443,10 +4431,8 @@ https://www.bloomberg.com/media-manifest/videos/android/WiFi/c0fd1f87-6441-4321-
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 group-title="UK Channels",BBC World News
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53757
-#EXTINF:-1 group-title="UK Channels",Sky News #1 (UK)
+#EXTINF:-1 group-title="UK Channels",Sky News (UK)
 https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
-#EXTINF:-1 group-title="UK Channels",Sky News #2 (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77166
 #EXTINF:-1 group-title="UK Channels",GB News (UK)
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
 #EXTINF:-1 group-title="UK Channels",History Channel (UK)
@@ -4463,7 +4449,7 @@ http://fortv.cc:8080/gscQ3v/779460/53730
 http://fortv.cc:8080/gscQ3v/779460/53720
 #EXTINF:-1 group-title="UK Channels",Zoo Moo (Australia)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYt591cd7OqseFyOnxc_1Bt8
-#EXTINF:-1 group-title="UK Channels",Drama (UK)
+#EXTINF:-1 group-title="UK Channels",U&Drama (UK)
 http://fortv.cc:8080/gscQ3v/779460/53677
 #EXTINF:-1 group-title="UK Channels",E4 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53672
@@ -4475,10 +4461,10 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53737
 http://190.102.246.93:9005/play/a01p
 #EXTINF:-1 group-title="UK Channels",MTV 80's (UK)
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
+#EXTINF:-1 group-title="UK Channels",Blaze (UK)
+http://fortv.cc:8080/gscQ3v/779460/53754
 #EXTINF:-1 group-title="UK Channels",Quest (UK)
 http://fortv.cc:8080/gscQ3v/779460/53682
-#EXTINF:-1 group-title="UK Channels",Sky Cinema Comedy (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53661
 #EXTINF:-1 group-title="UK Channels",CBS Justice (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/134942
 #EXTINF:-1 group-title="UK Channels",CBS True Crime (UK)
@@ -4503,8 +4489,6 @@ http://92.114.85.81:8000/play/a00m/index.m3u8
 http://92.114.85.81:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Great! Romance (UK)
 http://92.114.85.81:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="UK Channels",Blaze (UK)
-http://fortv.cc:8080/gscQ3v/779460/53754
 #EXTINF:-1 group-title="UK Channels",RealityXtra (UK)
 http://92.114.85.81:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="UK Channels",HorrorXtra (UK)
@@ -4517,10 +4501,6 @@ http://92.114.85.81:8000/play/a01y/index.m3u8
 http://92.114.85.81:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Horse & Country TV (UK)
 https://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="UK Channels",God TV (UK)
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278982/R_rkEO9KKmEcFP1n8u7bHQ/1741274388/media_mpegts_0.m3u8
-#EXTINF:-1 group-title="UK Channels",God TV (Austrailia)
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278991/sfmnDKtFo-E0pZJeuBV05w/1741274474/media_mpegts_0.m3u8
 #EXTINF:-1 group-title="UK Channels",TBN (UK)
 https://livecdn.euw1-0005.jwplive.com/live/sites/Yal8cmyO/media/r08fY89I/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
 #EXTINF:-1 group-title="UK Channels",TBN Pacific (Austrailia)
@@ -4538,12 +4518,10 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.
 #EXTINF:-1 group-title="UK Channels",Ideal World (UK)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(HDTJCBeauty)/index.m3u8
 #EXTINF:-1 group-title="UK Channels",Jewellery Maker (UK)
-https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+https://la1.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 group-title="UK Channels",Hobby Maker (UK)
-https://lo2-1.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:-1 group-title="UK Channels",MUTV #1 (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53717
-#EXTINF:-1 group-title="UK Channels",MUTV #2 (UK)
+https://la1.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:-1 group-title="UK Channels",MUTV (UK)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="UK Channels",Tennis Channel (UK)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -4576,7 +4554,7 @@ https://a1xs.vip/2000001
 #EXTINF:-1 group-title="UK Channels",SKY Sports MIX (UK)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145813
 #EXTINF:-1 group-title="UK Channels",EuroSports 1 (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53713
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145473
 #EXTINF:-1 group-title="UK Channels",EuroSports 2 (UK)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoIU9vxyY1Pv1yWlDMe-aZs
 #EXTINF:-1 group-title="UK Channels",FOX Soccer+ (UK)
