@@ -1769,6 +1769,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 #EXTINF:-1 group-title="Comedy",TVS Comedy Network
 https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 group-title="Comedy",TVS Flashback Network
+https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 
 #EXTINF:-1 group-title="Network Channels",FX
 https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
@@ -1850,6 +1852,8 @@ https://circle-klowdtv.amagi.tv/playlist.m3u8
 http://fortv.cc:8080/0n8u9R/169324/122527
 #EXTINF:-1 group-title="Network Channels",Outlaw (The Western Channel)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+#EXTINF:-1 group-title="Network Channels",TVS Western Movie
+https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Ovation
 http://fl3.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 group-title="Network Channels",INSP
@@ -1916,6 +1920,8 @@ http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991390/hls/playlist.m3u8?ads.xumo_channelId=99991390
 #EXTINF:-1 group-title="Network Channels",Taste Made Home
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-ono/playlist.m3u8
+#EXTINF:-1 group-title="Network Channels",TVS Today Home Entertainment
+https://rpn.bozztv.com/gusa/gusa-TVSTodayHomeEntertainment/index.m3u8
 #EXTINF:-1 group-title="Network Channels",ONTV4U
 https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",FYI
@@ -2439,8 +2445,6 @@ http://fortv.cc:8080/0n8u9R/169324/46726
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140780
 #EXTINF:-1 group-title="Sports",Extreme+
 https://d3p1dbb9xrkmd5.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NuestraTV-MuxIP-ExtremePlus/276.m3u8
-#EXTINF:-1 group-title="Sports",Marquee Sports Network
-http://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8
 #EXTINF:-1 group-title="Sports",ESR Gaming Network
 http://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 group-title="Sports",eSports Network
@@ -2465,12 +2469,12 @@ https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Billiard TV
 https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8
-#EXTINF:-1 group-title="Sports",CampusLore #1
-https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Sports",CampusLore #2
+#EXTINF:-1 group-title="Sports",CampusLore
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
 #EXTINF:-1 group-title="Sports",Women's Sports Network
 https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
+#EXTINF:-1 group-title="Sports",TVS All American
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 group-title="Sports",TVS Sports
 https://bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 group-title="Sports",TVS Sports Bureau
@@ -2608,6 +2612,8 @@ https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",TVS Nostalgia Movies
 https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 group-title="Premium Channels",TVS Action Network
+https://rpn.bozztv.com/gusa/gusa-tvsrarecollectibles/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
 #EXTINF:-1 group-title="Network Channels",Universal Crimes
