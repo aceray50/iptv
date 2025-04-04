@@ -1470,7 +1470,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="News",HLN (CNN Headline News)
 https://v1.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="News",HLN+ (CNN Headline News)
+#EXTINF:-1 group-title="News",HLN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/hln.us.m3u8
 #EXTINF:-1 group-title="News",Bloomberg TV
 http://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
@@ -1759,7 +1759,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991176/hls/master.m3u8?includeAsset
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
 #EXTINF:-1 group-title="Comedy",Funny Or Die, Inc.
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
-&#EXTINF:-1 group-title="Comedy",Camera Smile TV
+#EXTINF:-1 group-title="Comedy",Camera Smile TV
 https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:-1 group-title="Comedy",FailArmy
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
@@ -1942,9 +1942,9 @@ http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/624581
 http://fortv.cc:8080/0n8u9R/169324/66243
 #EXTINF:-1 group-title="Network Channels",TCM (Turner Classic Movies)
 https://v1.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Network Channels",TCM+ (Turner Classic Movies) (West)
+#EXTINF:-1 group-title="Network Channels",TCM+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmwest.us.m3u8
-#EXTINF:-1 group-title="Network Channels",TCM+ (Turner Classic Movies) (East)
+#EXTINF:-1 group-title="Network Channels",TCM+ (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmeast.us.m3u8
 #EXTINF:-1 group-title="Network Channels",NOST (The Nostalgia Network)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nost-the-nostalgia-network/stream.m3u8
@@ -2181,6 +2181,8 @@ https://apollo.production-public.tubi.io/live/nba-xveaQ4.m3u8
 https://apollo.production-public.tubi.io/live/nba-g-league2-5ViUll.m3u8
 #EXTINF:-1 group-title="Sports",Locked on NBA
 https://lockedonsports-nba-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5d246ebbf09a4b30b3e19_lockedonsports-nba-live/playlist.m3u8
+#EXTINF:-1 group-title="Sports",The Original Globetrotters
+https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8?ads.wurl_channel=1909
 #EXTINF:-1 group-title="Sports",NFL Network
 https://v1.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",NFL Channel
