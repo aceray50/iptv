@@ -11,26 +11,24 @@ https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_
 https://v1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
-#EXTINF:-1 group-title="Local Channels",KCAL-TV Ind. 9 (Los Angeles CA)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23561
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
 https://v1.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
 https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
-https://v1.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
+http://143.244.60.97/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 24/7 News (New York NY)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
-https://v1.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
+http://143.244.60.30/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 24/7 News (New York NY)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889709/hls/playlist.m3u8?ads.xumo_channelId=88889709
 #EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
-https://v1.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
+http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 24/7 News (New York NY)
 https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 (New York NY)
-https://v1.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
+http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 24/7 News (New York NY)
 https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
 #EXTINF:-1 group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
@@ -2153,8 +2151,10 @@ https://v1.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Sports",beIN Sports XL
 https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 1
+http://netlevel.online:8080/MARIO630/GWPRM/214687
 #EXTINF:-1 group-title="Sports",beIN Sports 4
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131266
+http://netlevel.online:8080/MARIO630/GWPRM/214733
 #EXTINF:-1 group-title="Sports",beIN Sports 5
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131267
 #EXTINF:-1 group-title="Sports",beIN Sports 6
@@ -2237,6 +2237,8 @@ https://v1.thetvapp.to/hls/sportsnet-ontario/tracks-v1a1/mono.m3u8
 https://v1.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Sportsnet Pittsburgh
 https://v1.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",Sportsnet New York
+http://netlevel.online:8080/MARIO630/GWPRM/479287
 #EXTINF:-1 group-title="Sports",HBCU Go Sports
 https://6788041e31d84d16a8543d7183a2dd42.mediatailor.us-east-1.amazonaws.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/OneStudio_HBCUgo_Prod/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Sports Grid Live
@@ -4138,6 +4140,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238360
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238359
 #EXTINF:-1 group-title="Canadian Channels",Nickelodeon (Canada)
 http://fortv.cc:8080/0n8u9R/169324/47349
+#EXTINF:-1 group-title="Canadian Channels",Nicktoons (Canada)
+http://netlevel.online:8080/MARIO630/GWPRM/479264
 #EXTINF:-1 group-title="Canadian Channels",Treehouse (Canada)
 http://fortv.cc:8080/0n8u9R/169324/57371
 #EXTINF:-1 group-title="Canadian Channels",YTV (Canada)
@@ -4162,6 +4166,8 @@ http://fl1.moveonjoy.com/MUCH/index.m3u8
 https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 group-title="Canadian Channels",MTV 2 (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130451
+#EXTINF:-1 group-title="Canadian Channels",BET (Canada)
+http://netlevel.online:8080/MARIO630/GWPRM/479135
 #EXTINF:-1 group-title="Canadian Channels",APTN (Canada)
 http://fortv.cc:8080/0n8u9R/169324/57320
 #EXTINF:-1 group-title="Canadian Channels",USA Network (Canada)
@@ -4308,12 +4314,12 @@ http://fortv.cc:8080/0n8u9R/169324/57429
 http://fortv.cc:8080/0n8u9R/169324/66242
 #EXTINF:-1 group-title="Canadian Channels",Game Show Network (Canada)
 http://fortv.cc:8080/0n8u9R/169324/57430
-#EXTINF:-1 group-title="Religious",3ABN (Canada)
+#EXTINF:-1 group-title="Canadian Channels",3ABN (Canada)
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
-#EXTINF:-1 group-title="Canadian Channels",TSC (The Shopping Channel) #1 (Canada)
+#EXTINF:-1 group-title="Canadian Channels",Salt And Light TV (Canada)
+http://netlevel.online:8080/MARIO630/GWPRM/479279
+#EXTINF:-1 group-title="Canadian Channels",TSC (The Shopping Channel) (Canada)
 http://fortv.cc:8080/0n8u9R/169324/57370
-#EXTINF:-1 group-title="Canadian Channels",TSC (The Shopping Channel) #2 (Canada)
-https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 group-title="Canadian Channels",TSN 1 (Canada)
 https://a1xs.vip/6000001
 #EXTINF:-1 group-title="Canadian Channels",TSN 2 (Canada)
