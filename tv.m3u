@@ -2512,7 +2512,7 @@ http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 http://fortv.cc:8080/0n8u9R/169324/17774
 #EXTINF:-1 group-title="Premium Channels",Action Max
 http://fortv.cc:8080/0n8u9R/169324/21013
-#EXTINF:-1 group-title="Premium Channels",Showtime (East)
+#EXTINF:-1 group-title="Premium Channels",Showtime
 https://v1.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Premium Channels",Showtime 2
 https://v1.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
@@ -2526,7 +2526,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23923
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Showtime Family Zone
 http://fortv.cc:8080/0n8u9R/169324/13481
-#EXTINF:-1 group-title="Premium Channels",Paramount+ Showtime
+#EXTINF:-1 group-title="Premium Channels",Paramount+ with Showtime
 http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",The Movie Channel
 https://v1.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
