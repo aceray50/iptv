@@ -1458,8 +1458,6 @@ https://v1.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
 https://v1.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",CNN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/cnn.us.m3u8
-#EXTINF:-1 group-title="News",CNN International
-http://143.244.60.97/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 group-title="News",CNN Originals
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="News",CNN Headlines
@@ -1671,11 +1669,11 @@ https://v1.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",BET Her (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c846e-7b2e-11ef-be38-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcf09099-9489-47b3-a6f1-93c341c215be&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",BET Jams
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131327
 #EXTINF:-1 group-title="Network Channels",BET Soul
-http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21844
 #EXTINF:-1 group-title="Network Channels",BET Gospel
-http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66080
 #EXTINF:-1 group-title="Network Channels",FOX Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",Pluto Black Classics
@@ -1687,7 +1685,7 @@ https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",TV One
 https://v1.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Revolt
-http://fl2.moveonjoy.com/REVOLT/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/39276
 #EXTINF:-1 group-title="Network Channels",Cleo TV
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Shades of Black
@@ -1793,7 +1791,7 @@ https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-
 #EXTINF:-1 group-title="Network Channels",Spike (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c5dfe-7b2e-11ef-8166-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=609775b2-41e9-4448-9930-83cdb66ebbbc&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",Paramount Network
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/10464
 #EXTINF:-1 group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",Paramount+ Picks (Pluto TV)
@@ -1853,9 +1851,9 @@ https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Ovation
 http://fl3.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 group-title="Network Channels",INSP
-http://fl2.moveonjoy.com/INSP/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16262
 #EXTINF:-1 group-title="Network Channels",Smithsonian Channel
-http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149649
 #EXTINF:-1 group-title="Network Channels",Smithsonian Channel (Pluto)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Network Channels",Aspire
@@ -1865,11 +1863,9 @@ https://v1.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",OuterSphere by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951250/hls/playlist.m3u8?ads.xumo_channelId=99951250
 #EXTINF:-1 group-title="Network Channels",Pop TV
-http://fl3.moveonjoy.com/Pop_TV/index.m3u8
+http://fortv.cc:8080/0n8u9R/169324/20976
 #EXTINF:-1 group-title="Network Channels",Vice
 https://v1.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Network Channels",Viceland
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Vice News
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635ff8bb66f96b46951ab7f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Network Channels",YouToo America
@@ -1909,7 +1905,7 @@ https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 group-title="Network Channels",HGTV (Home and Garden Television)
 https://v1.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Magnolia Network
-http://fl2.moveonjoy.com/DIY/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/10503
 #EXTINF:-1 group-title="Network Channels",NBC LX Home
 http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="Network Channels",The Design Network
@@ -1925,7 +1921,7 @@ https://v1.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Fuse
 https://v1.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",UpTV
-http://fl3.moveonjoy.com/Up_Tv/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/10525
 #EXTINF:-1 group-title="Network Channels",GSN (Game Show Network)
 https://v1.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",Game Show Central
@@ -2117,8 +2113,6 @@ http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 http://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1 group-title="Sports",CBS Sports UEFA Champions League
 http://dai.google.com/linear/hls/event/ydKcHHYQSt27vbSP38xMVw/master.m3u8
-#EXTINF:-1 group-title="Sports",NBC Sports Network
-http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253
 #EXTINF:-1 group-title="Sports",NBC Sports (Boston)
@@ -2146,7 +2140,7 @@ https://v1.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",New England Sports Network
 https://v1.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",beIN Sports
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140739
 #EXTINF:-1 group-title="Sports",beIN Sports XL
 https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Sports",beIN Sports 1
@@ -2458,7 +2452,7 @@ https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Sports",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 group-title="Sports",Sportsman Channel
-http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/79913
 #EXTINF:-1 group-title="Sports",Adventure Sports TV
 https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
 #EXTINF:-1 group-title="Sports",BEK Sports West
@@ -2507,7 +2501,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13381
 #EXTINF:-1 group-title="Premium Channels",Movie Max
 https://v1.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Premium Channels",Outer Max
-http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21012
 #EXTINF:-1 group-title="Premium Channels",Thriller Max
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17774
 #EXTINF:-1 group-title="Premium Channels",Action Max
@@ -2519,11 +2513,11 @@ https://v1.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Premium Channels",Showtime Extreme
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/1829
 #EXTINF:-1 group-title="Premium Channels",Showtime Next
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/9316
 #EXTINF:-1 group-title="Premium Channels",Showtime Case (ShoCase)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23923
 #EXTINF:-1 group-title="Premium Channels",Showtime Women
-http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17778
 #EXTINF:-1 group-title="Premium Channels",Showtime Family Zone
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13481
 #EXTINF:-1 group-title="Premium Channels",Paramount+ with Showtime
@@ -2531,7 +2525,7 @@ http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",The Movie Channel
 https://v1.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Premium Channels",Starz (West)
-http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21091
 #EXTINF:-1 group-title="Premium Channels",Starz (East)
 https://v1.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Premium Channels",Starz Cinema
@@ -2561,11 +2555,11 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150085
 #EXTINF:-1 group-title="Premium Channels",MGM+
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",MGM+ Hits
-http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/12730
 #EXTINF:-1 group-title="Premium Channels",MGM+ Drive-In
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/14193
 #EXTINF:-1 group-title="Premium Channels",MGM+ Marquee
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsuUw566IkYVqqGVplnHbJQ
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/12744
 #EXTINF:-1 group-title="Premium Channels",MoviePlex
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/1829
 #EXTINF:-1 group-title="Premium Channels",IndiePlex
