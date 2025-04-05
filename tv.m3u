@@ -1409,8 +1409,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951285/hls/master.m3u8?ads.xumo_cha
 https://v1.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary",Law & Crime
 https://dtqutq7lmcchv.cloudfront.net/10001/99991320/hls/playlist.m3u8?ads.xumo_channelId=99991320
-#EXTINF:-1 group-title="Documentary",Rescue 911
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c5cb4-7b2e-11ef-9ab0-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ab7aba17-8dc1-4b46-9832-9b46540d2aff&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Documentary",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",MST3K (Mystery Science Theater 3000)
@@ -2514,8 +2512,6 @@ http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 http://fortv.cc:8080/0n8u9R/169324/17774
 #EXTINF:-1 group-title="Premium Channels",Action Max
 http://fortv.cc:8080/0n8u9R/169324/21013
-#EXTINF:-1 group-title="Premium Channels",Showtime (West)
-http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Showtime (East)
 https://v1.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Premium Channels",Showtime 2
@@ -2530,6 +2526,8 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23923
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Showtime Family Zone
 http://fortv.cc:8080/0n8u9R/169324/13481
+#EXTINF:-1 group-title="Premium Channels",Paramount+ Showtime
+http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",The Movie Channel
 https://v1.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Premium Channels",Starz (West)
@@ -4276,10 +4274,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130406
 http://fortv.cc:8080/0n8u9R/169324/75653
 #EXTINF:-1 group-title="Canadian Channels",CMT (Canada)
 http://fortv.cc:8080/0n8u9R/169324/57258
-#EXTINF:-1 group-title="Canadian Channels",Cottage Life #1 (Canada)
+#EXTINF:-1 group-title="Canadian Channels",Cottage Life (Canada)
 http://fortv.cc:8080/0n8u9R/169324/47217
-#EXTINF:-1 group-title="Canadian Channels",Cottage Life #2 (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130435
 #EXTINF:-1 group-title="Canadian Channels",CP24 (Canada)
 http://fortv.cc:8080/0n8u9R/169324/47218
 #EXTINF:-1 group-title="Canadian Channels",CPAC English (Canada)
