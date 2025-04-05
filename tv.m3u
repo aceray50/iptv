@@ -16,19 +16,19 @@ https://v1.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
 https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
-http://143.244.60.97/CBSEAST/index.m3u8
+https://v1.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 24/7 News (New York NY)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
-http://143.244.60.30/NBC_EAST/index.m3u8
+https://v1.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 24/7 News (New York NY)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889709/hls/playlist.m3u8?ads.xumo_channelId=88889709
 #EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
-http://143.244.60.30/FOX_EAST/index.m3u8
+https://v1.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 24/7 News (New York NY)
 https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 (New York NY)
-http://143.244.60.30/ABC_EAST/index.m3u8
+https://v1.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",WABC-TV ABC 7 24/7 News (New York NY)
 https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
 #EXTINF:-1 group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
@@ -344,7 +344,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131002
 #EXTINF:-1 group-title="Local Channels",WANF-TV CBS 46 24/7 News (Atlanta GA)
 https://zeam-playlist.aws.syncbak.com/cpl/20010010/dai2v6/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjcxMSwiY2lkIjoyMDQ3MSwibWlkIjoyMDAxMDAxMCwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI3NS45OC4yMjAuMjYiLCJ1aXAiOiI3NS45OC4yMjAuMjYiLCJkbWEiOjY3OCwic3NpZCI6IjBjZDZmNjcyMGE1NzQ5OTdhNWU0ZTc3OTU2ZDU5ODFmIiwic24iOiJXZWIgNTE3ZDVlNTM4OSAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6ImVkNjJiNDhhYTI3NWVmMzFmZDNmMWYzM2UyMzI4NmE2IiwiaWF0IjoxNzM4NTQxNzA1LCJleHAiOjE3Mzg1NDIwMDUsImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6IkF6LWxrdkZnRkhxRC1WWFhaM3ZGbFpoMDdTTHNwdXY1NmNURkJMMU1IU1ZHbEcwaTFEIn0.ETVhj3hzHIigXWEcIps2MW52MIXxb-7B_TT6OJDN9b4
 #EXTINF:-1 group-title="Local Channels",WUPA-TV CW 69 (Atlanta GA)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131128
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131037
 #EXTINF:-1 group-title="Local Channels",WBTV-TV CBS 3 (Charlotte NC)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23572
 #EXTINF:-1 group-title="Local Channels",WBTV-TV CBS 3 24/7 News (Charlotte NC)
