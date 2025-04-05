@@ -3901,22 +3901,18 @@ http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/61814
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/288104
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN Deportes
 https://v1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Latino (Spanish)",ESPN en Vivo
-http://200.60.124.19:29000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN Premium en Español
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/22895
-#EXTINF:-1 group-title="Latino (Spanish)",ESPN en Vivo
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440933
+http://netlevel.online:8080/MARIO630/GWPRM/276163
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN en Español
-http://45.71.254.1:8000/play/a0e6/index.m3u8
+http://netlevel.online:8080/MARIO630/GWPRM/9380
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 2 en Español
-http://45.71.254.1:8000/play/a0e7/index.m3u8
+http://netlevel.online:8080/MARIO630/GWPRM/36391
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 3 en Español
-http://45.71.254.1:8000/play/a0e8/index.m3u8
+http://netlevel.online:8080/MARIO630/GWPRM/186774
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 4 en Español
-http://45.71.254.1:8000/play/a0b8/index.m3u8
+http://netlevel.online:8080/MARIO630/GWPRM/439801
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 5 en Español
-http://200.60.124.19:29000/play/a04y/index.m3u8
+http://netlevel.online:8080/MARIO630/GWPRM/272499
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 6 en Español
 http://45.71.254.1:8000/play/a0e9/index.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN 7 en Español
@@ -4130,8 +4126,6 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238360
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57346
 #EXTINF:-1 group-title="Canadian Channels",Nickelodeon (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47349
-#EXTINF:-1 group-title="Canadian Channels",Nicktoons (Canada)
-http://netlevel.online:8080/MARIO630/GWPRM/479264
 #EXTINF:-1 group-title="Canadian Channels",Treehouse (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57371
 #EXTINF:-1 group-title="Canadian Channels",YTV (Canada)
