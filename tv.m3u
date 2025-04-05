@@ -3887,18 +3887,16 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131357
 https://amg01334-amg01334c1-canelatv-international-6037.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-canelatvinternational/playlist.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Deportes
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131136
-#EXTINF:-1 group-title="Latino (Spanish)",FOX Sports en Español (México)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FOX Sports Channel en Español
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",FSN Premium en Español
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/277666
+http://netlevel.online:8080/MARIO630/GWPRM/198785
 #EXTINF:-1 group-title="Latino (Spanish)",FSN 1 en Español
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/22899
+http://netlevel.online:8080/MARIO630/GWPRM/19632
 #EXTINF:-1 group-title="Latino (Spanish)",FSN 2 en Español
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/61814
+http://netlevel.online:8080/MARIO630/GWPRM/19495
 #EXTINF:-1 group-title="Latino (Spanish)",FSN 3 en Español
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/288104
+http://netlevel.online:8080/MARIO630/GWPRM/93563
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN Deportes
 https://v1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Latino (Spanish)",ESPN Premium en Español
