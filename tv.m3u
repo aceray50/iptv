@@ -1830,10 +1830,6 @@ https://v1.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
 https://v1.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",SundanceTV
 https://v1.thetvapp.to/hls/SundanceTVEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Network Channels",Shout! Factory TV
-https://shoutfactory-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Network Channels",Scream! Factory TV
-https://amg00163-amg00163c10-cw-us-2416.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutscreamfactorytv-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Network Channels",A&E (Arts & Entertainment)
 https://v1.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Network Channels",CMT (Country Music Television)
@@ -2638,7 +2634,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2b1457-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32aea123-3ab5-4713-944a-87ebeb334781&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Premium Channels",Pluto Trending Now
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673247127d5da5000817b4d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Premium Channels",Scream Factory TV
+#EXTINF:-1 group-title="Premium Channels",Shout! Factory TV
+https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premium Channels",Scream! Factory TV
 https://amg00163-amg00163c10-cw-us-2416.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutscreamfactorytv-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Premium Channels",Horror by ALTER
 https://amg01312-cw-amg01312c19-cw-us-3284.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-alter-cwus/playlist.m3u8
