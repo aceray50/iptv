@@ -2283,6 +2283,8 @@ https://v1.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8
 https://v1.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Fanduel Sports Network Indiana
 https://v1.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",Fanduel Sports Network New Orleans
+https://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8
 #EXTINF:-1 group-title="Sports",Fanduel Sports Network Oklahoma
 https://v1.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Fanduel Sports Network San Diego
