@@ -1351,9 +1351,9 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99991628/hls/playlist.m3u8?includeAss
 #EXTINF:-1 group-title="Documentary",BBC Earth
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 group-title="Documentary",EarthXtra
-https://dbrb49pjoymg4.cloudfront.net/10001/99951378/hls/master.m3u8?ads.xumo_channelId=99951378&
+https://dbrb49pjoymg4.cloudfront.net/10001/99951378/hls/master.m3u8?ads.xumo_channelId=99951378
 #EXTINF:-1 group-title="Documentary",The Real Disaster Channel
-https://live1009.delivery.roku.com/0bde350c-785b-45d7-9e4c-5c23c5707624/t2-origin/out/v1/live.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951262/hls/playlist.m3u8?ads.xumo_channelId=99951262
 #EXTINF:-1 group-title="Documentary",Go USA
 https://d5e439997a40436ab60a8ead11b76b75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TeleUp_GoUSATV-1/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",WatchMojo
@@ -1414,9 +1414,9 @@ https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",MST3K (Mystery Science Theater 3000)
 https://amg00163-shoutfactoryfast-amg00163c4-cw-us-2266.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-mst3k-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",FilmRise Fprensic Files
-https://live1009.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live.m3u8
+https://dtqutq7lmcchv.cloudfront.net/10001/99991367/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991367
 #EXTINF:-1 group-title="Documentary",FilmRise Untold Stories of the ER
-https://live1009.delivery.roku.com/2d4802c1-8a61-47ed-9254-c5c4b4b9f04c/t2-origin/out/v1/live.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951341/hls/master.m3u8?ads.xumo_channelId=99951341
 
 #EXTINF:-1 group-title="News",Today All Day
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245
@@ -1529,7 +1529,7 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 group-title="News",The Young Turks
 https://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",Biz TV
-https://thegateway.app/BizAndYou/BizTV/chunks.m3u8?nimblesessionid=11517597
+https://2-fss-1.streamhoster.com/pl_122/205722-2407996-1/playlist.m3u8
 #EXTINF:-1 group-title="News",TED Talks
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
 #EXTINF:-1 group-title="News",UN Web TV
@@ -1559,7 +1559,7 @@ https://live1009.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origi
 #EXTINF:-1 group-title="Weather News",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Weather News",Weather Spy
-https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991372/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991372
 
 #EXTINF:-1 group-title="Children Channels",Nickelodeon
 https://v1.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
@@ -2303,6 +2303,14 @@ https://v1.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v
 https://v1.thetvapp.to/hls/fanduel-sports-sun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Fanduel Sports Tennessee East
 https://v1.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",PHLY Sports
+https://dbrb49pjoymg4.cloudfront.net/10001/99951362/hls/live.m3u8?ads.xumo_channelId=99951362
+#EXTINF:-1 group-title="Sports",CHGO Sports
+https://dbrb49pjoymg4.cloudfront.net/10001/99951360/hls/live.m3u8?ads.xumo_channelId=99951360
+#EXTINF:-1 group-title="Sports",DNVR Sports
+https://dbrb49pjoymg4.cloudfront.net/10001/99951361/hls/live.m3u8?ads.xumo_channelId=99951361
+#EXTINF:-1 group-title="Sports",PHNX Sports
+https://dbrb49pjoymg4.cloudfront.net/10001/99951363/hls/live.m3u8?ads.xumo_channelId=99951363
 #EXTINF:-1 group-title="Sports",NASCAR
 https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Motor Trend
@@ -2602,10 +2610,12 @@ https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvsrarecollectibles/index.m3u8
 #EXTINF:-1 group-title="Network Channels",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
-#EXTINF:-1 group-title="Network Channels",Universal Crimes
+#EXTINF:-1 group-title="Network Channels",Universal Crime
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951245/hls/master.m3u8?ads.xumo_channelId=99951245
 #EXTINF:-1 group-title="Network Channels",Universal Monsters
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264
+#EXTINF:-1 group-title="Network Channels",Universal Westerns
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951255/hls/master.m3u8?ads.xumo_channelId=99951255&
 #EXTINF:-1 group-title="Premium Channels",FilmRise Free Movies
 https://amg00512-amg00512c7-cw-us-2476.playouts.now.amagi.tv/playlist/amg00512-filmrisefast-freemoviesus-cwus/playlist.m3u8
 #EXTINF:-1 group-title="Premium Channels",FilmRise Creators
