@@ -2207,8 +2207,6 @@ https://v1.thetvapp.to/hls/space-city-home-network/tracks-v1a1/mono.m3u8
 https://v1.thetvapp.to/hls/spectrum-sportsnet-la/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Spectrum Sportsnet Lakers
 https://v1.thetvapp.to/hls/spectrum-sportsnet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports",Spectrum OC16
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrUz2JCcNiM-33VV093pIgE
 #EXTINF:-1 group-title="Sports",Sportsnet West
 https://v1.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Sportsnet East
@@ -2334,9 +2332,9 @@ https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Goal TV
 https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Stadium
-https://stadium.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/Stadium-8b68d793-9ed1-48af-92c2-a157b8558c93/index_dvr.m3u8
+http://dai.google.com/linear/hls/event/FH5OItUrSPquaZHqgVNNRg/master.m3u8
 #EXTINF:-1 group-title="Sports",Bally Sports (MLB)
-https://ohio.ad.ballys.tv/v1/manifest/ba2b6c85d52a58850082257f9bb40327e66446c0/BallyLIVEOhio-98c84c43-7026-401e-9746-25e5dca2395b/169618a9-d203-44a6-832b-61da55c8a0cc/2.m3u8
+https://ohio.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/BallyLIVEOhio-98c84c43-7026-401e-9746-25e5dca2395b/playlist.m3u8?ads.configId=98c84c43-7026-401e-9746-25e5dca2395b
 #EXTINF:-1 group-title="Sports",Bally Sports (Glory)
 https://glorykickboxing.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/GLORYKickBoxing-7a2ba2de-5648-4cea-a54e-c21246c76ef9/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Bally Sports (Banana Ball)
@@ -2358,7 +2356,7 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Marquee Sports Network
 https://v1.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",Swerve Sports
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYi7EppPWYlrHoIQomuzPJmw
+https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",VSIN Sports
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/168530
 #EXTINF:-1 group-title="Sports",Ginx.tv
@@ -3222,7 +3220,7 @@ http://rfcm.streamguys1.com/sailingpremium-mp3
 http://rfcm.streamguys1.com/smoothjazzpremium-mp3
 
 #EXTINF:-1 group-title="Latino (Spanish)",Galavisión
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58770
+http://fortv.cc:8080/0n8u9R/169324/58770
 #EXTINF:-1 group-title="Latino (Spanish)",NBC Universo
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/166714
 #EXTINF:-1 group-title="Latino (Spanish)",Telemundo Internacional
