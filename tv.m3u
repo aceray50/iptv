@@ -1386,6 +1386,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_c
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 group-title="Documentary",Oxygen True Crime
 https://v1.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Documentary",Oxygen True Crime Archives
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951234/hls/master.m3u8?ads.xumo_channelId=99951234
 #EXTINF:-1 group-title="Documentary",True Crime Network+
 https://amg00979-amg00979c1-truecrimenetwork-us-3194.playouts.now.amagi.tv/playlist/amg00979-truecrimenetworkfast-truecrimenetworkfast-truecrimenetworkus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",NBC American Crimes
@@ -2518,7 +2520,7 @@ http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17774
 #EXTINF:-1 group-title="Premium Channels",Action Max
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21013
-#EXTINF:-1 group-title="Premium Channels",Showtime
+#EXTINF:-1 group-title="Premium Channels",Paramount+ with Showtime
 https://v1.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Premium Channels",Showtime 2
 https://v1.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
@@ -2532,8 +2534,6 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23923
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",Showtime Family Zone
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13481
-#EXTINF:-1 group-title="Premium Channels",Paramount+ with Showtime
-http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 group-title="Premium Channels",The Movie Channel
 https://v1.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Premium Channels",Starz (West)
