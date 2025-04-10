@@ -578,7 +578,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991388/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Judge Nosey
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ukYQGfmjaVjMjmoUbyR6
 
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",Create
+#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Public Broadcast",Create
 https://create.lls.pbs.org/index_1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Broadcast",NHK World
 https://nhk.lls.pbs.org/index_1080p.m3u8
@@ -596,49 +596,49 @@ https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKLE-TV KET-TV PBS 46.1 (Lexington KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WKLE-TV KET 2 46.2 Create (Lexington KY)
+#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Public Broadcast",WKLE-TV KET 2 46.2 Create (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1315484/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WKLE-TV KET KY 46.3 (Lexington KY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKLE-TV KET KY 46.3 (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_132/amlst%3a200914-1315486/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",WKLE-TV KET 46.4 PBS Kids (Lexington KY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",WKLE-TV KET 46.4 PBS Kids (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKMJ-TV KET 2 68.1 PBS (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",WKMJ-TV KET 2 68.4 PBS Kids (Louisville KY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Children Channels",WKMJ-TV KET 2 68.4 PBS Kids (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",KMOS-TV PBS 6 (Sedalia/Jefferson City MO)
 http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",KETS-TV PBS 2 (Conway AR)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",KETS-TV PBS 2 (Conway AR)
 http://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WNET-TV PBS 13 (New York NY)
 https://v1.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WNJT-TV PBS 52 (Trenton NJ)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WNJT-TV PBS 52 (Trenton NJ)
 http://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WNED-TV PBS 17 (Buffalo NY/Toronto ON)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57276
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WETA-TV WETA UK 26.2 (Washington DC)
+#EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Public Broadcast",WETA-TV WETA UK 26.2 (Washington DC)
 https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WETA-TV PBS Metro 26.5 (Washington DC)
+#EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-metro_1900x1900.png" group-title="Public Broadcast",WETA-TV PBS Metro 26.5 (Washington DC)
 https://wetadt5.lls.pbs.org/wetadt5-cmaf-hls.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WMPB-TV PBS 67.1 (Baltimore MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst%3a201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WMPB-TV PBS 67.2 Create (Baltimore MD)
+#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Public Broadcast",WMPB-TV PBS 67.2 Create (Baltimore MD)
 http://2-fss-1.streamhoster.com/pl_122/amlst%3a201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WMPT-TV PBS 22 (Annapolis MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WBRA-TV PBS 15.3 (Roanoke VA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WBRA-TV PBS 15.3 (Roanoke VA)
 http://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",KUON-TV PBS 12 Create (Lincoln NE)
+#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Public Broadcast",KUON-TV PBS 12 Create (Lincoln NE)
 https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",PBS National (West)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",PBS National (West)
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",PBS National (East)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",PBS National (East)
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",PBS Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",PBS Kids (Eastern & Central)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids (Eastern & Central)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",PBS Retro
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="Public Broadcast",PBS Retro
 https://live1009.delivery.roku.com/2af92247-9fb2-430d-bc45-f066023092f6/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Public Access",SCTV (Santa Clarita CA)
