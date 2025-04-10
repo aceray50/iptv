@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="KCBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png?20220123075552" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png?20220123075552" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
 https://v1.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
+#EXTINF:-1 tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2023/01/05/b2bdf06b-325f-4e2b-81dd-c6965c61ae5b/kcal-1280x720-screen.png" group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
-#EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 (Los Angeles CA)
+#EXTINF:-1 tvg-logo="https://www.plannedparenthood.org/uploads/filer_public_thumbnails/filer_public/45/9a/459a4133-429b-45fd-b45a-fc3a16e8e9c3/nbc_4_los_angeles.png__1200x1200_subsampling-2.png" group-title="Local Channels",KNBC-TV NBC 4 (Los Angeles CA)
 https://v1.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
-#EXTINF:-1 tvg-ID="KABC.us" tvg-logo="https://play-lh.googleusercontent.com/0n0uMybijjbr1_Gu53lhXbh-L7GKCD5jBrmgsBvL5nJSpe_pLhh3os26kySliGUnGQw" group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0n0uMybijjbr1_Gu53lhXbh-L7GKCD5jBrmgsBvL5nJSpe_pLhh3os26kySliGUnGQw" group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
 https://v1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
+#EXTINF:-1 tvg-logo="https://cdn.abcotvs.com/dip/images/12411387_22-jobs-EWN.jpg" group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
-#EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Fts-los-angeles-a.svg" group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
 https://v1.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YatspB_4VZZASIui2EO8ntpUUcnSrTRCeNHk4dJDy0toaauziO6i9b91mB4TjIOtx6Y" group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
 https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
-#EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png?20220123075552" group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
 https://v1.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Local Channels",WCBS-TV CBS 2 24/7 News (New York NY)
+#EXTINF:-1 tvg-logo="https://images.radio.com/aud-opsconsole-media-images-prod-prod/WCBS_Logo-1700599252401.png" group-title="Local Channels",WCBS-TV CBS 2 24/7 News (New York NY)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
+#EXTINF:-1 tvg-logo="" group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
 https://v1.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Local Channels",WNBC-TV NBC 4 24/7 News (New York NY)
+#EXTINF:-1 tvg-logo="" group-title="Local Channels",WNBC-TV NBC 4 24/7 News (New York NY)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889709/hls/playlist.m3u8?ads.xumo_channelId=88889709
 #EXTINF:-1 group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
 https://v1.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
