@@ -31,7 +31,7 @@ https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 https://v1.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WABC-TV ABC 7 24/7 News (New York NY)
 https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
-#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/01/the-cw-logo.jpg" group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
 https://v1.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels",WBBM-TV CBS 2 (Chicago IL)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23571
@@ -45,7 +45,7 @@ https://d2kowtvrzzi7ps.cloudfront.net/11602/88889704/hls/playlist.m3u8?ads.xumo_
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23665
 #EXTINF:-1 tvg-logo="" group-title="Local Channels",WLS-TV ABC 7 24/7 News (Chicago IL)
 https://content-ause1.uplynk.com/channel/553fe1231b83487383a725f2da8433f5.m3u8
-#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/01/the-cw-logo.jpg" group-title="Local Channels",WGN-TV CW 9 (Chicago IL)
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WGN-TV CW 9 (Chicago IL)
 http://fl1.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels",WCIU-TV 26.5 The Story (Chicago IL)
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
@@ -590,11 +590,11 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8?player_version=1.18.0
 #EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WTVS-TV 56.6 Michigan Learning Channel
 https://d2jalth387y2js.cloudfront.net/test.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",KMOS-TV PBS 6 (Columbia MO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",KMOS-TV PBS 6 (Columbia MO)
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",KCPT-TV PBS 19 (Kansas City MO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",KCPT-TV PBS 19 (Kansas City MO)
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WKLE-TV KET-TV PBS 46.1 (Lexington KY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKLE-TV KET-TV PBS 46.1 (Lexington KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WKLE-TV KET 2 46.2 Create (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1315484/playlist.m3u8
@@ -602,29 +602,29 @@ http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1315484/playlist.m3u8
 http://2-fss-2.streamhoster.com/pl_132/amlst%3a200914-1315486/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",WKLE-TV KET 46.4 PBS Kids (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WKMJ-TV KET 2 68.1 PBS (Louisville KY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKMJ-TV KET 2 68.1 PBS (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",WKMJ-TV KET 2 68.4 PBS Kids (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",KMOS-TV PBS 6 (Sedalia/Jefferson City MO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",KMOS-TV PBS 6 (Sedalia/Jefferson City MO)
 http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Broadcast",KETS-TV PBS 2 (Conway AR)
 http://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WNET-TV PBS 13 (New York NY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WNET-TV PBS 13 (New York NY)
 https://v1.thetvapp.to/hls/WNET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WNJT-TV PBS 52 (Trenton NJ)
 http://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WNED-TV PBS 17 (Buffalo NY/Toronto ON)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WNED-TV PBS 17 (Buffalo NY/Toronto ON)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57276
 #EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WETA-TV WETA UK 26.2 (Washington DC)
 https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WETA-TV PBS Metro 26.5 (Washington DC)
 https://wetadt5.lls.pbs.org/wetadt5-cmaf-hls.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WMPB-TV PBS 67.1 (Baltimore MD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WMPB-TV PBS 67.1 (Baltimore MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst%3a201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WMPB-TV PBS 67.2 Create (Baltimore MD)
 http://2-fss-1.streamhoster.com/pl_122/amlst%3a201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WMPT-TV PBS 22 (Annapolis MD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WMPT-TV PBS 22 (Annapolis MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WBRA-TV PBS 15.3 (Roanoke VA)
 http://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
