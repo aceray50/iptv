@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KCBS.us" tvg-logo="https://static.epg.best/us/KCBS.us.png" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
+#EXTINF:-1 tvg-ID="KCBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/500px-CBS_2.svg.png?20220123075552" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
 https://v1.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
@@ -7,7 +7,7 @@ http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
 https://v1.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
-#EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
+#EXTINF:-1 tvg-ID="KABC.us" tvg-logo="https://play-lh.googleusercontent.com/0n0uMybijjbr1_Gu53lhXbh-L7GKCD5jBrmgsBvL5nJSpe_pLhh3os26kySliGUnGQw" group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
 https://v1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
