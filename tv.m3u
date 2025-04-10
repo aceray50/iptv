@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="[XML_EPG]"
-#EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
+#EXTM3U
+#EXTINF:-1 tvg-id="KCBS.us" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
 https://v1.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
@@ -152,7 +152,7 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23455
 #EXTINF:-1 group-title="Local Channels",WPLG-TV ABC 10 24/7 News (Miami FL)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 #EXTINF:-1 group-title="Local Channels",WTSP-DT CBS 10 (Tampa FL)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23544
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
 #EXTINF:-1 group-title="Local Channels",WTSP-TV CBS 10 24/7 News (Tampa Bay FL)
 https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
 #EXTINF:-1 group-title="Local Channels",WTVT-TV FOX 13 (Tampa Bay FL)
@@ -1599,6 +1599,8 @@ https://v1.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
 #EXTINF:-1 group-title="Network Channels",Adult Swim+ (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aseast.us.m3u8
+#EXTINF:-1 group-title="Network Channels",Adult Swim 24/7
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 group-title="Children Channels",MeTV Toons
 https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Children Channels",Kartoon Channel
