@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KCBS.us" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
+#EXTINF:-1 tvg-id="KCBS.us" tvg-logo="https://static.epg.best/us/KCBS.us.png" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
 https://v1.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
