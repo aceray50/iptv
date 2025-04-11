@@ -2267,6 +2267,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162128
 #EXTINF:-1 tvg-logo="" group-title="Sports",CMH.TV
 https://fhdinternationalhermes.live.clipmyhorse.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TVG Racebook
+https://d3my5j6o8w4ud5.cloudfront.net/out/v1/84a40d370d6e456cad17143ad8ff1671/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel TV (Formerly TVG)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140778
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel TV+
@@ -2274,7 +2276,7 @@ https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TV
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel 2 Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel Extra
-https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_FanDuelTVChannel/1febe854-2019-4835-a354-e748578b7b9e/5.m3u8
+https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_FanDuelTVChannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network West
 https://v1.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network Detroit
