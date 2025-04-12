@@ -3340,13 +3340,15 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3013
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Universal Channel en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/7980
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Universal TV
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440770
+http://200.229.147.142:8000/play/a04d
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Studio Universal
-http://181.188.234.21:8000/play/a05s/index.m3u8
+http://200.229.147.142:8000/play/a01t
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",E! Entertainment en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/155962
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TNT en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/138044
+http://200.229.147.142:8000/play/a03k
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TNT Series (i/e)
+http://200.229.147.142:8000/play/a04y
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",USA en Español
 http://181.188.234.21:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",USA (i/e)
@@ -3366,7 +3368,7 @@ http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Amazon Kids en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132324
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nickelodeon en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149681
+http://200.229.147.142:8000/play/a03j
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nick en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd6bc-7b2e-11ef-a935-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1602d877-b320-408c-baba-bd38374c2743&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nick Jr. en Español
@@ -3374,17 +3376,17 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132318
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nicktoons en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3665
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TeenNick en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149684
+http://200.229.147.142:8000/play/a01s
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Disney Channel en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149676
+http://200.229.147.142:8000/play/a044
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Disney Jr. en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149677
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cartoon Network en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149672
+http://200.229.147.142:8000/play/a00p
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cartoonito en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149686
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Toon Cast
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132325
+http://200.229.147.142:8000/play/a02z
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Baby First en Español
@@ -3392,7 +3394,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149688
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Baby TV
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149689
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Comedy Central en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150324
+http://200.229.147.142:8000/play/a03o
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Comedy Central en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery Kids en Español
@@ -3418,9 +3420,9 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132572
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",History Channel en Español 
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3764
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",H2 (History Channel 2) en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3778
+http://200.229.147.142:8000/play/a02e
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nat Geo en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/132575
+http://200.229.147.142:8000/play/a04w
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Wild en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/2012
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Taste Made en Español
@@ -3448,11 +3450,11 @@ https://amg01077-gustofast-amg01077c8-freetv-us-2222.playouts.now.amagi.tv/playl
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",A&E en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/138105
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Universal Crime
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3758
+http://200.229.147.142:8000/play/a03u
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Paramount Network en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/2826
+http://200.229.147.142:8000/play/a04x
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FX en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150122
+http://200.229.147.142:8000/play/a020
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Bravo (i/e)
 http://170.254.18.106/BRAVO/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",LifeTime
@@ -3460,7 +3462,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/155401
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Comedy Central en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/2805
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Universal Reality
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3750
+http://200.229.147.142:8000/play/a03t
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Always Funny en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=XFS46cy4dysF9DttxYif&_gl=1*uxq749*_gcl_au*ODM2NzY4ODIuMTczNzg1NTIwOQ..*_ga*MjIwNTAxMTIwLjE3Mzc4NTUyMDk.*_ga_G6FQWNSENB*MTczODA5MzUzOC41LjAuMTczODA5MzUzOC42MC4wLjA
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Más Risas
@@ -3529,8 +3531,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fuselatinovibes-ono
 https://amg00375-fusemedia-backstageespanol-ono-espoe.amagi.tv/playlist/amg00375-fusemedia-backstageespanol-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Banda Max
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/129047
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TeleHit+
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131144
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TeleHit
+http://200.229.147.142:8000/play/a07o
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TeleHit Musica
+http://200.229.147.142:8000/play/a07e
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Wapa+
 https://live1009.delivery.roku.com/48f0cc45-b8ca-4d04-9d2a-7995b62cbd38/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",MVStv
@@ -3556,19 +3560,19 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131297
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Somos Novelas
 https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TNT Novelas
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162246
+http://200.229.147.142:8000/play/a01a
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Televisa Novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Univision TL Novelas
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131311
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TL Novelas (México)
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/31073
+http://200.229.147.142:8000/play/a03w
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d5d9e-7b2e-11ef-9e52-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3879f173-1091-4b31-a197-b44138458061&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Novelas Channel
 http://dai.google.com/linear/hls/event/4VaHBXfJSYihkeo7w_T0Qw/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",RCN Novelas
-http://181.188.234.21:8000/play/a05f/index.m3u8
+http://200.229.147.142:8000/play/a02c
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Pasiones
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/156061
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Novelisima
@@ -3604,17 +3608,19 @@ https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=lCw3g91xgIJQuJqZz07aMg:szYx
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",RCN Más
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Sony Channel en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4285
+http://200.229.147.142:8000/play/a03f
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Sony Movies en Español
+http://200.229.147.142:8000/play/a022
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cine EstrellaTV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cine en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cine Latino
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/155202
+http://200.229.147.142:8000/play/a04g
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Caracol Internacional
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3573
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Todo Cine
@@ -3678,7 +3684,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/54
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",HBO Xtreme
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/56
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",HBO en Español
-http://181.188.234.21:8000/play/a04e/index.m3u8
+http://181.188.234.21:8000/play/a04e
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cinemax en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3725
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",STAR Channel
@@ -3704,7 +3710,7 @@ https://live1009.delivery.roku.com/7ee12862-2d8d-447d-9124-553bfec17e48/t2-origi
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TCM en Español
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/31038
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TCM (i/e)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3795
+http://200.229.147.142:8000/play/a02o
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TC Television en Español
 http://181.188.234.21:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TVOAI Channel
@@ -3823,8 +3829,8 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",CGTN en Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cubavisión Internacional
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cubavisión
+http://200.229.147.142:8000/play/a05h
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Milenio
@@ -3889,9 +3895,11 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3705
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/161000
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ViX Lo Mejor de Liga MX
 https://live1009.delivery.roku.com/025088b2-d7e3-4803-9e66-a2a0eac3c39a/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",SKY Sports en Español #1
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ViX Sports
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162334
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",SKY Sports en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/133854
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",SKY Sports en Español #2
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",SKY Sports One
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/189725
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",SKY Sports Premier
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/160999
@@ -3908,31 +3916,31 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131136
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FOX Sports Channel en Español
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN Premium en Español
-http://netlevel.online:8080/MARIO630/GWPRM/198785
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/146541
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN 1 en Español
-http://netlevel.online:8080/MARIO630/GWPRM/19632
+http://200.229.147.142:8000/play/a06a
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN 2 en Español
-http://netlevel.online:8080/MARIO630/GWPRM/19495
+http://200.229.147.142:8000/play/a06b
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN 3 en Español
-http://netlevel.online:8080/MARIO630/GWPRM/93563
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/134468
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN Deportes
 https://v1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN Premium en Español
-http://netlevel.online:8080/MARIO630/GWPRM/276163
+http://181.13.173.86:8000/play/a078
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN en Español
-http://netlevel.online:8080/MARIO630/GWPRM/9380
+http://200.229.147.142:8000/play/a05z
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 2 en Español
-http://netlevel.online:8080/MARIO630/GWPRM/36391
+http://181.13.173.86:8000/play/a0ag
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 3 en Español
-http://netlevel.online:8080/MARIO630/GWPRM/186774
+http://200.229.147.142:8000/play/a061
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 4 en Español
-http://netlevel.online:8080/MARIO630/GWPRM/439801
+http://200.229.147.142:8000/play/a05s
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 5 en Español
-http://netlevel.online:8080/MARIO630/GWPRM/272499
+http://200.229.147.142:8000/play/a05y
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 6 en Español
-http://45.71.254.1:8000/play/a0e9/index.m3u8
+http://200.229.147.142:8000/play/a04v
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 7 en Español
-http://181.188.234.21:8000/play/a045/index.m3u8
+http://181.188.234.21:8000/play/a045
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TNT Sports Premium en Español
 http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440939
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Lucha Libre AAA
@@ -3957,6 +3965,8 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9607
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Claro Sports
 http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",DAZN FI
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/237789
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Eventos TyC Play 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Eventos TyC Play 2
@@ -4162,11 +4172,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11644
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130470
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Much (Canada)
 http://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",MTV (Canada)
-https://streamer1.nexgen.bz/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",MTV 2 (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130451
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",BET (Canada)
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",BET French (Canada)
 http://netlevel.online:8080/MARIO630/GWPRM/479135
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",APTN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57320
@@ -4176,6 +4182,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57252
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57264
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ABC Spark (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57375
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Dejaview (Canada)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238357
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",BBC America (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130385
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",AMC (Canada)
@@ -4226,8 +4234,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100460
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/107190
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Travel Escape (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108136
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Dejaview (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238357
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",HPItv East (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/173131
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV (Canada)
@@ -4582,7 +4588,9 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35248
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Comedy (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53661
 
-#EXTINF:-1 tvg-logo="" group-title="Adults Only",Playboy TV (i/e)
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Playboy TV SD
+http://181.13.173.86:8000/play/a032
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Playboy TV HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Adults Only",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
