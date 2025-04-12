@@ -1454,8 +1454,6 @@ https://v1.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131030
 #EXTINF:-1 tvg-logo="" group-title="News",CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",CNBC 24/7
-https://www.youtube.com/c/CNBC/live
 #EXTINF:-1 tvg-logo="" group-title="News",MSNBC
 https://v1.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CNN
