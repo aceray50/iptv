@@ -1305,7 +1305,7 @@ https://v1.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Animal Planet
 https://v1.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DogTV
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/146556
+http://fortv.cc:8080/0n8u9R/169324/53539
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Rovr Pets
 https://amg00111-amg00111c3-cw-us-3035.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-rovrpets-cwus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Taste Made Travel
@@ -1335,7 +1335,7 @@ https://v1.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",History Hit
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=evK7iYKm-ixSYzFakeKo
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Outside TV
-http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
+http://fortv.cc:8080/0n8u9R/169324/20865
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Outside TV+
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Xplore #1
@@ -1404,7 +1404,6 @@ https://v1.thetvapp.to/hls/truTVEast/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/trutvwest.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",truTV+ (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/trutveast.us.m3u8
-https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/trutveast.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Investigation
 https://dbrb49pjoymg4.cloudfront.net/10001/99951285/hls/master.m3u8?ads.xumo_channelId=99951285
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Crime & Investigation
@@ -1451,7 +1450,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991626/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-logo="" group-title="News",CNBC
 https://v1.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CNBC World
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131030
+http://fortv.cc:8080/0n8u9R/169324/20860
 #EXTINF:-1 tvg-logo="" group-title="News",CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",MSNBC
@@ -1497,7 +1496,7 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Newsmax 2
 https://n2ctsota.akamaized.net/hls/live/2113130/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",News Nation
-http://212.102.60.231/NEWS_NATION/index.m3u8
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",C-SPAN
 https://v1.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",C-SPAN 2
@@ -1582,7 +1581,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd7de-7b2e-11ef-9bf8-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4e94404-1332-11f0-8694-3a1fbadd5755&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nick Music
-http://212.102.60.231/NICK_MUSIC/index.m3u8
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Disney Channel
 https://v1.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Disney XD
@@ -1628,7 +1627,7 @@ https://v1.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Discovery Family
 https://v1.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Baby First #1
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58765
+http://fortv.cc:8080/0n8u9R/169324/58765
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Baby First #2
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Baby TV
@@ -1677,7 +1676,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Jams
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Soul
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21844
+http://fortv.cc:8080/0n8u9R/169324/21844
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Gospel
 http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FOX Soul
@@ -1691,7 +1690,7 @@ https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TV One
 https://v1.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Revolt
-http://fl2.moveonjoy.com/REVOLT/index.m3u8
+http://fortv.cc:8080/0n8u9R/169324/39276
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Cleo TV
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Shades of Black
@@ -1855,7 +1854,7 @@ https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Ovation
 http://fl3.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",INSP
-http://fl2.moveonjoy.com/INSP/index.m3u8
+http://fortv.cc:8080/0n8u9R/169324/16262
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Smithsonian Channel
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Smithsonian Channel (Pluto)
@@ -1920,6 +1919,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-on
 https://rpn.bozztv.com/gusa/gusa-TVSTodayHomeEntertainment/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",ONTV4U
 https://stirr.b-cdn.net/stirr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Motor Trend
+https://v1.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FYI
 https://v1.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Fuse
@@ -2117,8 +2118,6 @@ http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 http://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",CBS Sports UEFA Champions League
 http://dai.google.com/linear/hls/event/ydKcHHYQSt27vbSP38xMVw/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports Network
-http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (Boston)
@@ -2149,10 +2148,6 @@ https://v1.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports XL
 https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports 1
-http://netlevel.online:8080/MARIO630/GWPRM/214687
-#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports 4
-http://netlevel.online:8080/MARIO630/GWPRM/214733
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports 5
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131267
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports 6
@@ -2325,8 +2320,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951361/hls/live.m3u8?ads.xumo_chann
 https://dbrb49pjoymg4.cloudfront.net/10001/99951363/hls/live.m3u8?ads.xumo_channelId=99951363
 #EXTINF:-1 tvg-logo="" group-title="Sports",NASCAR
 https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Motor Trend
-https://v1.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsman Channel
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162127
 #EXTINF:-1 tvg-logo="" group-title="Sports",Monster Jams
@@ -2462,7 +2455,7 @@ https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",The Cycling Channel
 http://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",World Fishing Network
-http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+http://fortv.cc:8080/0n8u9R/169324/10477
 #EXTINF:-1 tvg-logo="" group-title="Sports",People are Awesome
 https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",30A Golf Kingdom
@@ -2584,8 +2577,6 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131230
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16265
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",PixL
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21648
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Free Movies+
@@ -2696,33 +2687,31 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=575bd0af-08fa-11f0-bed2-86d507b84126&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo Regional Mexicano
-https://amg00056-amg00056c4-slingtv-worldwide-3018.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevoregionalmexicano-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=latin%2Cmusic&us_privacy=REPLACE_ME&did=91bc0f16d53bf6bbb7446e3023a6d1485ab2867c&dnt=REPLACE_ME&lmt=1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba098dd8-1896-11f0-99f7-2a81c71d0e40&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo Latinos
-https://amg00056-vevotv-amg00056c20-slingtv-worldwide-1199.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatino-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=4cb370313ef7201f33a039300ae69bb40ec3b04d&dnt=REPLACE_ME&lmt=1
-#EXTINF:-1 tvg-logo="" group-title="Music",Vevo Íconos Latinos
-https://amg00056-amg00056c5-slingtv-worldwide-3020.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolconoslatinos-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=latin%2Cmusic&us_privacy=REPLACE_ME&did=91bc0f16d53bf6bbb7446e3023a6d1485ab2867c&dnt=REPLACE_ME&lmt=1
+https://live1009.delivery.roku.com/473ec9f9-6dad-4a92-86e9-215c5fa50602/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Vevo Reggaeton & Trap
+https://live1009.delivery.roku.com/3facddc6-460f-4902-861c-0949fca8e3b6/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo '70s
-https://amg00056-vevotv-amg00056c17-slingtv-worldwide-1195.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo70s-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=91bc0f16d53bf6bbb7446e3023a6d1485ab2867c&dnt=REPLACE_ME&lmt=1
+https://amg00056-vevotv-amg00056c17-slingtv-worldwide-1195.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo70s-slingtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo '80s
-https://amg00056-vevotv-amg00056c16-slingtv-worldwide-1192.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo80s-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music%2Cpop&us_privacy=REPLACE_ME&did=4cb370313ef7201f33a039300ae69bb40ec3b04d&dnt=REPLACE_ME&lmt=1
+https://amg00056-vevotv-amg00056c16-slingtv-worldwide-1192.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo80s-slingtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo '90s
-https://amg00056-amg00056c24-slingtv-worldwide-2523.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90s-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=4cb370313ef7201f33a039300ae69bb40ec3b04d&dnt=REPLACE_ME&lmt=1
+https://amg00056-amg00056c24-slingtv-worldwide-2523.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90s-slingtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo 2K
-https://amg00056-amg00056c22-slingtv-worldwide-2521.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo2k-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=4cb370313ef7201f33a039300ae69bb40ec3b04d&dnt=REPLACE_ME&lmt=1
+https://live1009.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo Country
-https://amg00056-vevotv-amg00056c18-slingtv-worldwide-1194.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevocountry-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=91bc0f16d53bf6bbb7446e3023a6d1485ab2867c&dnt=REPLACE_ME&lmt=1
+https://amg00056-vevotv-amg00056c18-slingtv-worldwide-1194.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevocountry-slingtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo Hip-Hop
-https://amg00056-amg00056c25-slingtv-worldwide-2524.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphop-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=4cb370313ef7201f33a039300ae69bb40ec3b04d&dnt=REPLACE_ME&lmt=1
+https://amg00056-amg00056c25-slingtv-worldwide-2524.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphop-slingtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo True School Hip-Hop
-https://amg00056-amg00056c3-slingtv-worldwide-3019.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevotrueschoolhiphop-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=91bc0f16d53bf6bbb7446e3023a6d1485ab2867c&dnt=REPLACE_ME&lmt=1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo R&B
-https://amg00056-amg00056c23-slingtv-worldwide-2522.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevornb-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=4cb370313ef7201f33a039300ae69bb40ec3b04d&dnt=REPLACE_ME&lmt=1
+https://amg00056-amg00056c23-slingtv-worldwide-2522.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevornb-slingtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo Retro Rock
-https://amg00056-amg00056c2-slingtv-worldwide-3017.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevoretrorock-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=heavy+metal%2Cmusic&us_privacy=REPLACE_ME&did=4cb370313ef7201f33a039300ae69bb40ec3b04d&dnt=REPLACE_ME&lmt=1
+https://amg00056-amg00056c2-slingtv-worldwide-3017.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevoretrorock-slingtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo Pop
-https://amg00056-vevotv-amg00056c19-slingtv-worldwide-1196.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopop-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=91bc0f16d53bf6bbb7446e3023a6d1485ab2867c&dnt=REPLACE_ME&lmt=1
-#EXTINF:-1 tvg-logo="" group-title="Music",Vevo Features
-https://amg00056-vevotv-amg00056c21-slingtv-worldwide-1200.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevofeatures-slingtvworldwide/playlist.m3u8?app_name=slingtv&genre=music&us_privacy=REPLACE_ME&did=91bc0f16d53bf6bbb7446e3023a6d1485ab2867c&dnt=REPLACE_ME&lmt=1
+https://amg00056-vevotv-amg00056c19-slingtv-worldwide-1196.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopop-slingtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Def Jam
 https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Nago TV
@@ -3240,9 +3229,9 @@ http://rfcm.streamguys1.com/smoothjazzpremium-mp3
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Galavisión
 http://fortv.cc:8080/0n8u9R/169324/58770
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",NBC Universo
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/166714
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149865
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Telemundo Internacional
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/440973
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/440973
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Telemundo Al Día
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Telemundo Acción
@@ -3260,7 +3249,7 @@ http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/37670
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Azteca Noticias
 http://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Azteca 7
-http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/24167
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/24167
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TV Azteca GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cinema Azteca (Mexico)
@@ -3430,7 +3419,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-lovenatureusspa-fre
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TLC en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3741
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Sundance en Español
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/3033
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3033
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Garage TV en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/136487
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Pequeradio TV
@@ -4596,6 +4585,8 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Adults Only",Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Miami TV Fashion
+https://59ec5453559f0.streamlock.net/miamitvfashion/smil:VIVALIVE/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Adults Only",Babestation24
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Adults Only",Kaloopy
