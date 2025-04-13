@@ -2506,9 +2506,7 @@ https://v1.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
 https://v1.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Family
 https://v1.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax (West)
-http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax (East)
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax
 https://v1.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",More Max
 https://v1.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
@@ -3498,7 +3496,7 @@ http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/162266
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Televisa Aguascalientes
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243101/ei/Pay5Z859nryx8g-b76igDg/ip/47.159.183.133/id/U-a3gE_u1ng.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393160/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3wqXStyYs5FQQE8y1ALGg5ppzMp-_Z6Feq529VhbRE6Za3zPJ81RW9AX7ixPHjIXFo_ch0h2JhV/spc/RjZbSd9H2z8_7GxXZFBTYxvL1L2sMvTwLDZl48WazgAYVT_BC3S_7WYucRe4dw0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYlB3ExQvZczfF0-tkfBZBKOx9P3XaWI063sHCceahZkCIQDQkE7K_y7CJXnBebBvJrVzYocWMJKziSbWY7GGuKFbTw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Televisa Guadalajara
-https://www.youtube.com/watch?v=NzMMrExwh-A
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740243160/ei/eKy5Z-SiLoi8sfIPt-P0gAM/ip/47.159.183.133/id/RMSYipkgvzo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393160/txs/51393160%2C51393161%2C51393162%2C51393163%2C51393164/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3whbyjUeoUe_IEQhKjXY6-EO2MysJ3r0YWxq8XRy3bXbZ-xMVXv1i3XAE3_crOqnq6uoawkp3XA/spc/RjZbSR2mpOScH3PkPYMwOOeJOr23bo9hMzAAjWcG6vDMNWJidsM8CPJEXEw-Wf0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJTcZMHDMVovYD3ndPQY5aB60PExslgza2aKDqOSr-_CAiBUSxh30euIbSkvjo3oF2OVJj4ysNQWhvyTNU_6Fop73g%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Televisa Monterrey
 https://ythls-v3.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Televisa Noreste
@@ -3835,8 +3833,10 @@ http://200.229.147.142:8000/play/a05h
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Milenio
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130025
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",N+ FORO #1
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131278
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",N+ FORO #2
+http://visualservice.xyz:8080/HUGO_1_Y_2/Q9*mYCB/109054
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",N+ Noticieros
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index_5.m3u8&redirect=true
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ADN 40
@@ -4588,9 +4588,9 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35248
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Comedy (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53661
 
-#EXTINF:-1 tvg-logo="" group-title="Adults Only",Playboy TV SD
-http://181.13.173.86:8000/play/a032
-#EXTINF:-1 tvg-logo="" group-title="Adults Only",Playboy TV HD
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Playboy TV
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/150991
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Playboy TV Latin America
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Adults Only",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
@@ -4600,6 +4600,30 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Adults Only",Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Brazzers
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/151000
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Vivid TV
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/151006
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Ast TV 1
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/151032
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Mofos
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/151038
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Erotic 5
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/151067
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Cul***
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/162215
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Blackets XXX
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/162216
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Visit-X TV
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/162231
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Smoking
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/162245
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Venus TV
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/87030
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Penthouse
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/87033
+#EXTINF:-1 tvg-logo="" group-title="Adults Only",Compilacion Latinas
+http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/766798
 #EXTINF:-1 tvg-logo="" group-title="Adults Only",Adult IPTV Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Adults Only",Adult IPTV MILF
