@@ -1921,6 +1921,8 @@ https://rpn.bozztv.com/gusa/gusa-TVSTodayHomeEntertainment/index.m3u8
 https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Motor Trend
 https://v1.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",World Fishing Network
+http://fortv.cc:8080/0n8u9R/169324/10477
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FYI
 https://v1.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Fuse
@@ -2454,8 +2456,6 @@ https://ssai.gumgum.com/gs/stream/master/For-the-Fans/content.m3u8?stream_url=ht
 https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",The Cycling Channel
 http://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",World Fishing Network
-http://fortv.cc:8080/0n8u9R/169324/10477
 #EXTINF:-1 tvg-logo="" group-title="Sports",People are Awesome
 https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",30A Golf Kingdom
@@ -2776,7 +2776,7 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-logo="" group-title="Music",Stingray Music Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",iHeart Latino Hits 
-https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
+http://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",iHeart Latino Top 20
 https://stream.revma.ihrhls.com/zc9763/hls.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",iHeart Mega
@@ -4161,8 +4161,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11644
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130470
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Much (Canada)
 http://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",BET French (Canada)
-http://netlevel.online:8080/MARIO630/GWPRM/479135
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",APTN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57320
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",USA Network (Canada)
@@ -4172,7 +4170,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57264
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ABC Spark (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57375
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Dejaview (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238357
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122001
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",BBC America (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130385
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",AMC (Canada)
