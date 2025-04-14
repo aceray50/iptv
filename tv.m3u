@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
+#EXTINF:-1 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
 https://v1.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
@@ -504,7 +504,7 @@ https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Made In Hollywood by Movie Fone
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",REV'N
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/Je_Rb9Zmw_sQz2MKaPcIeQ/1741558537/media_mpegts_0.m3u8
+http://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/vpwM2si7O4I8SmEgGc6yIA/1744747151/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Power Nation
 https://amg01258-amg01258c5-circle-worldwide-2862.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationroku-circleworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",AWE
@@ -528,7 +528,7 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro TV #1
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro TV #2
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/VldAwIdWKJ5WmkcXqmjWhQ/1744680219/media_mpegts_0.m3u8
+http://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/VldAwIdWKJ5WmkcXqmjWhQ/1744680219/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #1
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20180
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #2
