@@ -528,7 +528,7 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro TV #1
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro TV #2
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/72VqPDpt6K4pTADfEah8Zw/1741558226/media_mpegts_0.m3u8
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/VldAwIdWKJ5WmkcXqmjWhQ/1744680219/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #1
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20180
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #2
@@ -1828,6 +1828,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951323/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991340
 #EXTINF:-1 tvg-logo="" group-title="Cooking",Taste Made
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv1624i-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cooking",Chef Roc Show
+https://bozztv.com/gusa/gusa-chefrock/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TLC (The Learning Channel)
 https://v1.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
@@ -1919,6 +1921,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome24i-on
 https://rpn.bozztv.com/gusa/gusa-TVSTodayHomeEntertainment/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",ONTV4U
 https://stirr.b-cdn.net/stirr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Motor Trend
 https://v1.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",World Fishing Network
