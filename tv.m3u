@@ -602,7 +602,7 @@ http://2-fss-2.streamhoster.com/pl_132/amlst%3a200914-1315486/playlist.m3u8
 http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKMJ-TV KET 2 68.1 PBS (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Children Channels",WKMJ-TV KET 2 68.4 PBS Kids (Louisville KY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKMJ-TV KET 2 68.4 KET World (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",KMOS-TV PBS 6 (Sedalia/Jefferson City MO)
 http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
@@ -3314,6 +3314,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-es
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Canal Estrellas
 http://181.188.234.21:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Las Estrellas Internacional
+http://181.119.86.68:8000/play/b059/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Power Nation En Español
 https://live1009.delivery.roku.com/26bc7b84-43bc-49f9-b180-e7427525cbaa/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",CBS en Español
@@ -4228,9 +4230,9 @@ http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Drama Channel (Canada)
 http://tvmate.icu:8080/live/7686199/9576982/57254.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Life Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/116506
+http://tvmate.icu:8080/live/7686199/9576982/116506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Sci-Fi Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57253
+http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Makeful (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57270
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",(ZH) NTD (Canada)
@@ -4433,7 +4435,7 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",BBC World News
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53757
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky News (UK)
-https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",GB News (UK)
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",History Channel (UK)
