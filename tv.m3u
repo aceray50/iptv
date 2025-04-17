@@ -2111,7 +2111,7 @@ https://v1.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",PAC 12 Insider
 http://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACC Network ESPN
-https://v1.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACCDN
 https://dbrb49pjoymg4.cloudfront.net/10001/99951364/hls/playlist.m3u8?ads.xumo_channelId=99951364
 #EXTINF:-1 tvg-logo="" group-title="Sports",SEC Network ESPN
