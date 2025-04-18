@@ -1173,6 +1173,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/WIPR_2015_blue.svg/1200px-WIPR_2015_blue.svg.png" group-title="Latino (Spanish)",WIPR-TV 6 (San Juan PR)
 http://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WLII-TV Univision 11 (San Juan PR)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334597
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",WWXY-TV Ind. 19.1 (San Juan PR)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",WWXY-TV 19.3 (San Juan PR)
@@ -1189,36 +1191,86 @@ https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",WJAN-CD América TeVé 41 (Miami FL)
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KMEX-TV Univision 34 (Los Angeles CA)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334533
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131151
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334580
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
 https://v1.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNJU-TV Telemundo 47 (New York NY)
 https://v1.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WFTY-DT UniMás 67 (New York NY)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/148794
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334570
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WLTV-TV Univision 23 (Miami FL)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108248
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334528
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WSCV-TV Telemundo 51 (Miami FL)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/56410
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334579
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WSNS-TV Telemundo 44 (Chicago IL)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131344
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334582
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WBGO-TV Univision 66 (Chicago IL)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312974
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WQHS-DT UniMás 61.2 (Cleveland OH)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334563
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNEU-TV Telemundo 60 (Boston MA)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131146
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334595
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WFPA-DT UniMás 28 (Philadelphia PA)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334560
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WUVP-TV Univision 65 (Philadelphia PA)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334521
+#EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WZDC-CD Telemundo 44 (Washington DC)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334584
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KELV-DT UniMás 27 (Las Vegas NV)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334566
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KBLR-TV Telemundo 39 (Las Vegas NV)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131150
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KNIC-TV UniMás 17 (San Antonio TX)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334557
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KWEX-TV Univision 41 (San Antonio TX)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334525
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUVN-TV Univision 23 (Ft. Worth/Dallas TX)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334530
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131149
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334594
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KSTR-TV UniMás 49 (Ft. Worth/Dallas TX)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35114
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KAKW-TV Univision 62 (Austin TX)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334519
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KXLN-TV Univision 45 (Houston TX)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334532
+#EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTMD-TV Telemundo 47 (Houston TX)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334592
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTH-DT UniMás 67 (Houston TX)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334569
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KTVW-TV Univision 33 (Phoenix AZ)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334522
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTAZ-TV Telemundo 39 (Phoenix AZ)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131153
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUTH-TV Univision 32 (Salt Lake City UT)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334524
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KCEC-TV Univision 14 (Denver CO)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334529
+#EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KDEN-TV Telemundo 25 (Denver CO)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334593
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KDTV-TV Univision 14 (San Francisco CA)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334526
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KSTS-TV Telemundo 48 (San Francisco CA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131154
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WZDC-CD Telemundo 44 (Washington DC)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131155
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KNSO-TV Telemundo 51 (Clovis/Fresno CA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131347
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFF-DT UniMás 61 (Fresno CA)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334559
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUVS-TV Univision 19 (Modesto/Sacramento CA)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334596
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WTMO-TV Telemundo 31 (Orlando FL)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131145
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334583
+#EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WRMD-CD Telemundo 49 (Tampa FL)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334581
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WUVG-TV Univision 34.1 (Atlanta GA)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334518
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WUVG-TV UniMás 34.2 (Atlanta GA)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334558
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",UniMás
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23885
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",Univision
@@ -1600,6 +1652,8 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/ase
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",MeTV Toons
 https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Children Channels",ToonCast (i/e)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313161
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Kartoon Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",No Parents Allowed (Pluto TV)
@@ -1674,9 +1728,9 @@ https://v1.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Her (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c846e-7b2e-11ef-be38-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcf09099-9489-47b3-a6f1-93c341c215be&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Jams
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319446
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Soul
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131328
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319447
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Gospel
 http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FOX Soul
@@ -2134,14 +2188,10 @@ https://v1.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
 https://v1.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (Philadelphia)
 https://v1.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports+ (Philadelphia)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpKNO5zFFsM6RHD9hwuyyxo
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (Chicago)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23784
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319515
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (Washington)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlbtbw-34OIrF6a4YrABZvE
-#EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports+ (Washington)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYrmNk65TgPRg6__SofxipW0
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319518
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (North West)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23783
 #EXTINF:-1 tvg-logo="" group-title="Sports",Midatlantic Sports Network
@@ -2235,7 +2285,7 @@ https://v1.thetvapp.to/hls/sportsnet-pacific/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet Pittsburgh
 https://v1.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet New York
-http://netlevel.online:8080/MARIO630/GWPRM/479287
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319545
 #EXTINF:-1 tvg-logo="" group-title="Sports",HBCU Go Sports
 https://6788041e31d84d16a8543d7183a2dd42.mediatailor.us-east-1.amazonaws.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/OneStudio_HBCUgo_Prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sports Grid Live
@@ -2512,7 +2562,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13381
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Movie Max
 https://v1.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Outer Max
-http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34536
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Thriller Max
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17774
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Action Max
@@ -2540,7 +2590,7 @@ https://v1.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Cinema
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17775
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Comedy
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23901
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319548
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz In Black
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17779
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Edge
@@ -2548,19 +2598,19 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16143
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Kids & Family
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/148541
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150086
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319549
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Classic
 http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23916
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/31955423916
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Action
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23919
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319550
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16263
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319555
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Black
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16141
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319551
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Family
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150085
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319553
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Hits
@@ -2570,7 +2620,7 @@ http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MoviePlex
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/1829
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34537
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",IndiePlex
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYl8jc5OumGpUiFBHyZj-ooU
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",RetroPlex
@@ -2689,6 +2739,74 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a17c90d1-090b-11f0-92c8-3e7f6cb12bba&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Pluto TV Black Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=575bd0af-08fa-11f0-bed2-86d507b84126&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 01
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34477
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 02
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34478
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 03
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34479
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 04
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34480
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 05
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34481
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 06
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34482
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 07
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34483
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 08
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34484
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 09
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34485
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 10
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34486
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 11
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34487
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 12
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34488
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 13
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34489
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 14
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34490
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 15
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34491
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 16
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34492
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 17
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34493
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 18
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34494
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 19
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34495
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 20
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34496
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 21
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34497
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 22
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34498
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 24
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34500
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 25
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34501
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 26
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34502
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 27
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34503
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 28
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34504
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 30
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34506
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 31
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34507
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 33
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34509
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 34
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34510
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 35
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34511
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 36
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34512
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 37
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34513
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Vevo Regional Mexicano
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba098dd8-1896-11f0-99f7-2a81c71d0e40&userId=&serverSideAds=true
@@ -3230,12 +3348,14 @@ http://rfcm.streamguys1.com/sailingpremium-mp3
 #EXTINF:-1 tvg-logo="" group-title="Music",TuneIn Smooth Jazz
 http://rfcm.streamguys1.com/smoothjazzpremium-mp3
 
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Galavisión
-http://fortv.cc:8080/0n8u9R/169324/58770
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Galavisión (West)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334548
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Galavisión (East)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334541
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",NBC Universo
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/149865
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319509
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Telemundo Internacional
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3024
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334576
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Telemundo Al Día
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Telemundo Acción
@@ -3253,7 +3373,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/129032
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Azteca Noticias
 http://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Azteca 7
-http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/24167
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302683
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TV Azteca GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cinema Azteca (Mexico)
@@ -3827,9 +3947,9 @@ http://200.229.147.142:8000/play/a05h
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Milenio
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130025
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302702
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3748
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302620
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",N+ Noticieros
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index_5.m3u8&redirect=true
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ADN 40
