@@ -1613,6 +1613,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00732-salemmediagroup-snc-ono/playl
 https://dai.google.com/linear/hls/event/VnZY5jBuRymXMn2_604j8Q/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",NTD News
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",NTD TV (New Tang Dynasty Television)
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Real America's Voice
@@ -1627,8 +1629,6 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/pla
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",InfoWars
 https://a-cdn.klowdtv.com/live2/infowars_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",NTD TV (New Tang Dynasty Television)
-https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",The Young Turks
 https://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Biz TV
@@ -1735,7 +1735,7 @@ https://v1.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Baby First #1
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319416
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Baby First #2
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Baby TV
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319417
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Brat TV
@@ -2618,57 +2618,57 @@ https://v1.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Outer Max
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34536
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Thriller Max
-http://lunar.pm:8080/mrjayp/Spectrum2/98686
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328685
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Action Max
-http://lunar.pm:8080/mrjayp/Spectrum2/18211
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415064
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime
 https://v1.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime 2
 https://v1.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Extreme
-http://lunar.pm:8080/mrjayp/Spectrum2/98717
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415088
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Next
-http://lunar.pm:8080/mrjayp/Spectrum2/98722
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415091
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Beyond
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328690
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase)
-http://lunar.pm:8080/mrjayp/Spectrum2/18182
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328707
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Women
-http://lunar.pm:8080/mrjayp/Spectrum2/98725
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415093
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Family Zone
-http://lunar.pm:8080/mrjayp/Spectrum2/98720
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328709
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET)
-http://lunar.pm:8080/mrjayp/Spectrum2/98717
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415122
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Movie Channel
 https://v1.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (West)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21091
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415100
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (East)
 https://v1.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Cinema
-http://lunar.pm:8080/mrjayp/Spectrum2/58542
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415097
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Comedy
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319548
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz In Black
-http://lunar.pm:8080/mrjayp/Spectrum2/58536
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415106
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Edge
-http://lunar.pm:8080/mrjayp/Spectrum2/58533
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415103
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Kids & Family
-http://lunar.pm:8080/mrjayp/Spectrum2/58535
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415109
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319549
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Classic
-http://lunar.pm:8080/mrjayp/Spectrum2/98706
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415112
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense
-http://lunar.pm:8080/mrjayp/Spectrum2/98710
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415117
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Action
-http://lunar.pm:8080/mrjayp/Spectrum2/98702
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415110
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns
-http://lunar.pm:8080/mrjayp/Spectrum2/58537
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415118
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Black
-http://lunar.pm:8080/mrjayp/Spectrum2/98704
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415108
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Family
-http://lunar.pm:8080/mrjayp/Spectrum2/98708
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415114
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328686
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Hits
@@ -2688,7 +2688,7 @@ http://195.181.163.243/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HDNET Movies
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414993
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",PixL
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21648
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328918
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Free Movies+
