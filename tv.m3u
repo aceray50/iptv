@@ -594,7 +594,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414934
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",DABL
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414882
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",fetv (Family Entertainment Television)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/172481
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328979
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Get TV
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Grit TV
@@ -1664,7 +1664,9 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 #EXTINF:-1 tvg-logo="" group-title="Weather News",Weather Spy
 https://dbrb49pjoymg4.cloudfront.net/10001/99991372/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991372
 
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon
+#EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon (West)
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328786
+#EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon (East)
 https://v1.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nick (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd630-7b2e-11ef-a94e-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebbf33a-e8f6-4c9f-91cc-df503deed9e8&userId=&serverSideAds=true
@@ -2300,6 +2302,8 @@ https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca6
 https://v1.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",MLB Channel
 https://apollo.production-public.tubi.io/live/mlb2-RR0NCJ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",MLB Network Strike Zone
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329093
 #EXTINF:-1 tvg-logo="" group-title="Sports",NHL Network
 https://v1.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NHL Channel
@@ -2608,7 +2612,7 @@ https://v1.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",More Max
 https://v1.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",5 Star Max
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13381
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328679
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Movie Max
 https://v1.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Outer Max
@@ -2666,7 +2670,7 @@ http://lunar.pm:8080/mrjayp/Spectrum2/98704
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Family
 http://lunar.pm:8080/mrjayp/Spectrum2/98708
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+
-http://lunar.pm:8080/mrjayp/Spectrum2/182061
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328686
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Hits
 http://lunar.pm:8080/mrjayp/Spectrum2/98690
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Drive-In
