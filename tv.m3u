@@ -1425,7 +1425,7 @@ https://v1.thetvapp.to/hls/HistoryEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",H2 (History Channel 2)
 http://lunar.pm:8080/mrjayp/Spectrum2/110783
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Military History
-http://fl3.moveonjoy.com/Military_History/index.m3u8
+http://lunar.pm:8080/mrjayp/Spectrum2/110786
 #EXTINF:-1 tvg-logo="" group-title="Documentary",National Geographic
 https://v1.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Nat Geo Wild
@@ -1814,7 +1814,7 @@ https://v1.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",AXS-TV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/48324
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",AXS-TV Now
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+https://amg00966-amg00966c9-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c9-amgplt0081/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Central
 https://v1.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
@@ -1904,7 +1904,7 @@ https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Spike (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c5dfe-7b2e-11ef-8166-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=609775b2-41e9-4448-9930-83cdb66ebbbc&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131323
+http://lunar.pm:8080/mrjayp/Spectrum2/9158
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount+ Picks (Pluto TV)
