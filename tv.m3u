@@ -197,7 +197,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415699
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",KCWX-TV MyNetworkTV 2 (San Antonio TX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WOAI-TV NBC 4 (Orlando FL)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WOAI-TV NBC 4 (San Antonio TX)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415450
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KENS-TV CBS 5 (San Antonio TX)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329148
@@ -493,7 +493,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131203
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23489
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WITI-TV FOX 6 (Milwaukee WI)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329115
-#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WVTV-TV CW 18 (Washington DC)
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WVTV-TV CW 18 (Milwaukee WI)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/416018
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WISN-TV ABC 12 (Milwaukee WI)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329132
@@ -2078,9 +2078,11 @@ https://amg00163-amg00163c8-cw-us-2414.playouts.now.amagi.tv/playlist/amg00163-s
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Dove Channel
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Family
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/104877
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414895
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Faith & Living
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75654
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414896
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Country
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414899
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Holiday Plus
@@ -2098,10 +2100,6 @@ https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",GEB America
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",God TV
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278979/EMV9SHdb22g-pNaDFGSotQ/1741311942/media_mpegts_0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",God TV Africa
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278985/w05KRd1UlS6o1alV66RXew/1741274527/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",CBN Family
@@ -2109,7 +2107,7 @@ https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/7345
 #EXTINF:-1 tvg-logo="" group-title="Religious",CTN (Christian Television Network)
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_1523529/O6p-4mH33dtcHl-XqILgDw/1740370872/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",Daystar Television Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/265168
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329070
 #EXTINF:-1 tvg-logo="" group-title="Religious",3ABN
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",3ABN Proclaim!
@@ -2670,7 +2668,7 @@ http://lunar.pm:8080/mrjayp/Spectrum2/98704
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Family
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415114
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328686
+http://lunar.pm:8080/mrjayp/Spectrum2/18206
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Hits
 http://lunar.pm:8080/mrjayp/Spectrum2/98690
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Drive-In
@@ -4483,6 +4481,8 @@ http://lunar.pm:8080/mrjayp/Spectrum2/122962
 http://lunar.pm:8080/mrjayp/Spectrum2/122963
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TCM (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66242
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Daystar Television Network (Canada)
+http://lunar.pm:8080/mrjayp/Spectrum2/122956
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Game Show Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57430
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",3ABN (Canada)
