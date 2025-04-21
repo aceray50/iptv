@@ -8,9 +8,9 @@ https://v1.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KTLA-TV CW 5 (Los Angeles CA)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/416037
+http://lunar.pm:8080/mrjayp/Spectrum2/122965
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329124
+https://v1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
@@ -18,19 +18,19 @@ https://v1.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
 https://apollo.production-public.tubi.io/live/ac-kttv.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/416006
+https://v1.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WCBS-TV CBS 2 24/7 News (New York NY)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415602
+https://v1.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WNBC-TV NBC 4 24/7 News (New York NY)
 https://d2kowtvrzzi7ps.cloudfront.net/11602/88889709/hls/playlist.m3u8?ads.xumo_channelId=88889709
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329176
+https://v1.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WNYW-TV FOX 5 24/7 News (New York NY)
 https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WABC-TV ABC 7 (New York NY)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415882
+https://v1.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WABC-TV ABC 7 24/7 News (New York NY)
 https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",WWOR-TV MyNetworkTV 9 (New York NY)
@@ -474,7 +474,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329170
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WGRZ-TV NBC 2 (Buffalo NY)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415604
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WIVB-TV CBS 5 (Buffalo NY)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329008
+http://lunar.pm:8080/mrjayp/Spectrum2/122950
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WKBW-TV ABC 7 (Buffalo NY)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329010
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WUTV-TV FOX 29 (Buffalo NY)
@@ -590,7 +590,7 @@ http://195.181.163.243/COZI_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",H&I (Heroes & Icons)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414903
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Start TV
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414934
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",DABL
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414882
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",fetv (Family Entertainment Television)
@@ -1664,9 +1664,7 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 #EXTINF:-1 tvg-logo="" group-title="Weather News",Weather Spy
 https://dbrb49pjoymg4.cloudfront.net/10001/99991372/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991372
 
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon (West)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328786
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon (East)
+#EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon
 https://v1.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nick (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd630-7b2e-11ef-a94e-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebbf33a-e8f6-4c9f-91cc-df503deed9e8&userId=&serverSideAds=true
@@ -1690,9 +1688,7 @@ https://v1.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
 https://v1.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Disney Jr.
 https://v1.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (West)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328968
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (East)
+#EXTINF:-1 tvg-logo="" group-title="Children Channels",CN (Cartoon Network)
 https://v1.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Boomerang by Cartoon Network
 https://v1.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
@@ -1704,8 +1700,6 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/ase
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",MeTV Toons
 https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",ToonCast (i/e)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/311841
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Kartoon Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",No Parents Allowed (Pluto TV)
@@ -2086,7 +2080,7 @@ https://linear-744.frequency.stream/dist/dice/744/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Dove Channel
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Family
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414895
+http://lunar.pm:8080/mrjayp/Spectrum2/105641
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Faith & Living
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414896
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
@@ -4760,7 +4754,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53661
 #EXTINF:-1 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
 http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/150991
 #EXTINF:-1 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV Latin America
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35326
 #EXTINF:-1 tvg-logo="" group-title="Adults Only (XXX)",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Adults Only (XXX)",Miami TV Mexico
