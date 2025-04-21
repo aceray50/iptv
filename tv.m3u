@@ -10,7 +10,7 @@ https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KTLA-TV CW 5 (Los Angeles CA)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/416037
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
-https://v1.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v1a1/mono.m3u8
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329124
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
@@ -444,7 +444,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131181
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KFAA-TV ABC 8 (Ft. Worth/Dallas TX)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415843
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KTVT-TV CBS 11 (Ft. Worth/Dallas TX)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23688
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415912
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WWL-TV CBS 4 (New Orleans LA)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415967
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WDSU-TV NBC 6 (New Orleans LA)
@@ -490,7 +490,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131202
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WMTV-TV NBC 15 (Madison WI)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131203
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WTMJ-TV NBC 4 (Milwaukee WI)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23489
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415436
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WITI-TV FOX 6 (Milwaukee WI)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329115
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WVTV-TV CW 18 (Milwaukee WI)
@@ -498,7 +498,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/416018
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WISN-TV ABC 12 (Milwaukee WI)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329132
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WDJT-TV CBS 58 (Milwaukee WI)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23558
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329141
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KREM-TV CBS 2 (Spokane WA)
 https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/865666/5743360/media.m3u8?request_token=Z1-ZrI8l37vCBmH6YKlQZNFcvAXYiLJN8c0K9gQTvqeAS2QJAdKCNfJi781AV_GZ0FiNd9AuyH162KN25KKJ1iwvz5KrioIJ6D1yPHrvpZ68JmiHTY6U93wIgD_NiMxFXxR_tw_MCi_hka74r9ng6aLxngs2p8TTSlCW71SMmjHsk4wN7kcHLDtoRtcivA&CMCD=mtp%3D111600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ac2d9503-527a-4258-a660-a8841776bd7c%22
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KING-TV NBC 5 (Seattle WA)
@@ -606,7 +606,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17777
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Laff More!
 https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_channelId=99951232
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Catchy Comedy
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20189
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328890
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TBD
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Buzzr #1
@@ -1244,7 +1244,7 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KMEX-TV Univision 34 (Los Angeles CA)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334533
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTR-TV UniMás 46 (Los Angeles CA)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/311821
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415383
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334580
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
@@ -2241,7 +2241,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319515
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (Washington)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319518
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (North West)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23783
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328729
 #EXTINF:-1 tvg-logo="" group-title="Sports",Midatlantic Sports Network
 https://v1.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Monumental Sports Network
@@ -2517,9 +2517,9 @@ https://v1.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG 2
 https://v1.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG+
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131168
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415245
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG+ 2
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131167
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328910
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG+ 3
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsCISqZPjGRjkT1Nw0PV5Zg
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG SportsZone
@@ -2543,11 +2543,11 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Red Bull TV
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/us/en/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",MASN
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYpyphpkjJj93hfCZh5F2BAw
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329083
 #EXTINF:-1 tvg-logo="" group-title="Sports",NESN
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/46726
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415260
 #EXTINF:-1 tvg-logo="" group-title="Sports",NESN+
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140780
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415261
 #EXTINF:-1 tvg-logo="" group-title="Sports",Extreme+
 https://d3p1dbb9xrkmd5.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NuestraTV-MuxIP-ExtremePlus/276.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESR Gaming Network
@@ -4543,8 +4543,6 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130477
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57437
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",HBO 2 (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57438
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Fubo Movies (Canada)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsg5edX9qWg5rn8peKqe45A
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Movietime (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47331
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 1 (Canada)
@@ -4624,8 +4622,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53718
 http://fortv.cc:8080/gscQ3v/779460/53730
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",CBBC (UK)
 http://fortv.cc:8080/gscQ3v/779460/53720
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Zoo Moo (Australia)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYt591cd7OqseFyOnxc_1Bt8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",U&Drama (UK)
 http://fortv.cc:8080/gscQ3v/779460/53677
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",E4 (UK)
@@ -4707,9 +4703,9 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Racing.com (Austrailia)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Willow Cricket (UK)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYkqX10IJphykmerZdfhE1IQ
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415289
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Willow Cricket Xtra (UK)
-http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYlUG3FZBNR7t1B-G7kszzUw
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415290
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Willow Sports (Austrailia)
 https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",GOL TV (UK)
