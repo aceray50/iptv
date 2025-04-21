@@ -1511,7 +1511,7 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99991320/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",MST3K (Mystery Science Theater 3000)
-https://amg00163-shoutfactoryfast-amg00163c4-cw-us-2266.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-mst3k-cwus/playlist.m3u8
+https://mst3k-ts-zype.amagi.tv/hls/amagi_hls_data_shoutfact-mst3k-ts-zype/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",FilmRise Fprensic Files
 https://dtqutq7lmcchv.cloudfront.net/10001/99991367/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991367
 #EXTINF:-1 tvg-logo="" group-title="Documentary",FilmRise Untold Stories of the ER
@@ -1901,6 +1901,10 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbs
 https://v1.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",El Rey Rebel
 https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-elrey-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Crime Beat TV
+https://linear-940.frequency.stream/dist/vesper/940/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Hunter
+https://linear-914.frequency.stream/dist/dice/914/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Spike (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c5dfe-7b2e-11ef-8166-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=609775b2-41e9-4448-9930-83cdb66ebbbc&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount Network
@@ -1915,6 +1919,8 @@ https://v1.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FreeTV Fantasy
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engmystify-freetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Farscape
+https://linear-731.frequency.stream/dist/dice/731/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cooking",Food Network
 https://v1.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
@@ -1957,6 +1963,8 @@ https://circle-klowdtv.amagi.tv/playlist.m3u8
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122527
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Outlaw (The Western Channel)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Wild West TV
+https://linear-799.frequency.stream/dist/dice/799/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TVS Western Movie
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Ovation
@@ -2074,7 +2082,7 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",80's Sitcom Flashback
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Non-Stop 90's
-https://amg00163-amg00163c8-cw-us-2414.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-nonstop90stv-cwus/playlist.m3u8
+https://linear-744.frequency.stream/dist/dice/744/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Dove Channel
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Family
@@ -2750,9 +2758,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Pluto Trending Now
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673247127d5da5000817b4d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Shout! Factory TV
-https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+https://amg00163-shoutfactory-shoutfactorytv-zype-psuhs.amagi.tv/playlist/amg00163-shoutfactory-shoutfactorytv-zype/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Shout! Movies
+https://amg00163-amg00163c15-zype-international-7166.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutmovies-zypeinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Scream! Factory TV
-https://amg00163-amg00163c10-cw-us-2416.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutscreamfactorytv-cwus/playlist.m3u8
+https://linear-730.frequency.stream/dist/dice/730/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Horror by ALTER
 https://amg01312-cw-amg01312c19-cw-us-3284.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-alter-cwus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Electric Now
