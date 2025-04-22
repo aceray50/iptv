@@ -2529,7 +2529,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsCISqZPjGRjkT1Nw0PV5Zg
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG SportsZone
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 tvg-logo="" group-title="Sports",WWE Network
-http://fl2.moveonjoy.com/WWE/index.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34716
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fightbox
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145482
 #EXTINF:-1 tvg-logo="" group-title="Sports",TNA Wrestling Channel
@@ -3524,12 +3524,10 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302733
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302734
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",USA en Español
 http://181.188.234.21:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",USA (i/e)
-http://170.254.18.106/USA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TBS (i/e)
 http://170.254.18.106/TBS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Paramount Network en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302716
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34984
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",MTV en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35015
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",MTV en Español (Pluto TV)
@@ -3560,6 +3558,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302621
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312751
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Toon Cast
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313161
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Adult Swim en Español
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302736
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Baby First en Español
