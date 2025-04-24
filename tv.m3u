@@ -2595,6 +2595,67 @@ https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",TVS Women Sports
 https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 1
+https://v1.thetvapp.to/hls/mlb-01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 2
+https://v1.thetvapp.to/hls/mlb-02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 3
+https://v1.thetvapp.to/hls/mlb-03/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 4
+https://v1.thetvapp.to/hls/mlb-04/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 5
+https://v1.thetvapp.to/hls/mlb-05/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 6
+https://v1.thetvapp.to/hls/mlb-06/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 7
+https://v1.thetvapp.to/hls/mlb-07/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 8
+https://v1.thetvapp.to/hls/mlb-08/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 9
+https://v1.thetvapp.to/hls/mlb-09/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10
+https://v1.thetvapp.to/hls/mlb-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11
+https://v1.thetvapp.to/hls/mlb-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 12
+https://v1.thetvapp.to/hls/mlb-12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13
+https://v1.thetvapp.to/hls/mlb-13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14
+https://v1.thetvapp.to/hls/mlb-14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15
+https://v1.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 16
+https://v1.thetvapp.to/hls/mlb-16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 17
+https://v1.thetvapp.to/hls/mlb-17/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 18
+https://v1.thetvapp.to/hls/mlb-18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 19
+https://v1.thetvapp.to/hls/mlb-19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 20
+https://v1.thetvapp.to/hls/mlb-20/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 21
+https://v1.thetvapp.to/hls/mlb-21/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 22
+https://v1.thetvapp.to/hls/mlb-22/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 23
+https://v1.thetvapp.to/hls/mlb-23/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 24
+https://v1.thetvapp.to/hls/mlb-24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 25
+https://v1.thetvapp.to/hls/mlb-25/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 26
+https://v1.thetvapp.to/hls/mlb-26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 27
+https://v1.thetvapp.to/hls/mlb-27/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 28
+https://v1.thetvapp.to/hls/mlb-28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 29
+https://v1.thetvapp.to/hls/mlb-29/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 30
+https://v1.thetvapp.to/hls/mlb-30/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO
 https://v1.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO 2
