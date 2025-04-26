@@ -1653,6 +1653,8 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 http://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Weather News",The Weather Channel
 https://v1.thetvapp.to/hls/TheWeatherChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Weather News",The Weather Channel+
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Weather News",FOX Weather
 http://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Weather News",AccuWeather
@@ -1771,8 +1773,6 @@ https://v1.thetvapp.to/hls/BETEast/tracks-v1a1/mono.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c83d8-7b2e-11ef-badc-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2283f01b-889a-488b-88cb-244fd4bd914f&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Her
 https://v1.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Her (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c846e-7b2e-11ef-be38-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcf09099-9489-47b3-a6f1-93c341c215be&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Jams
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319446
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Soul
@@ -1951,8 +1951,10 @@ https://v1.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
 https://v1.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",CMT (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a04-7b2e-11ef-adb4-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=09f1e2ea-743c-4fc9-99e7-f481a057bd47&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Circle Country
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Circle Country #1
 https://circle-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Circle Country #2
+https://amg00432-amg00432c1-circle-worldwide-2821.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-circleworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",The Cowboy Channel
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122527
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Outlaw (The Western Channel)
@@ -4747,10 +4749,28 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53705
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53704
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sports Racing (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53741
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",SKY Sports Main Event (UK)
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sports Main Event (UK)
 https://a1xs.vip/2000001
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",SKY Sports MIX (UK)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145813
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport (UK)
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport 1 (UK)
+https://donelfantastic.github.io/live/skysportsNz1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport 2 (UK)
+https://donelfantastic.github.io/live/skysportsNz2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport 3 (UK)
+https://donelfantastic.github.io/live/skysportsNz3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport 4 (UK)
+https://donelfantastic.github.io/live/skysportsNz4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport 5 (UK)
+https://donelfantastic.github.io/live/skysportsNz5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport 6 (UK)
+]https://donelfantastic.github.io/live/skysportsNz6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport 7 (UK)
+https://donelfantastic.github.io/live/skysportsNz7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport 9 (UK)
+https://donelfantastic.github.io/live/skysportsNz9.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",EuroSports 1 (UK)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145473
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",EuroSports 2 (UK)
