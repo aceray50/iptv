@@ -90,13 +90,13 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415666
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WFOR-TV CBS 4 (Miami FL)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415985
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WTVJ-TV NBC 6 (Miami FL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415575
+http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WSVN-TV FOX 7 (Miami FL)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329174
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WPLG-TV ABC 10 (Miami FL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329216
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WTSP-DT CBS 10 (Tampa FL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/416008
+http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WTVT-TV FOX 13 (Tampa Bay FL)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415728
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WFTS-TV ABC 28 (Tampa Bay FL)
@@ -394,6 +394,8 @@ https://content-ause1.uplynk.com/channel/553fe1231b83487383a725f2da8433f5.m3u8
 https://apollo.production-public.tubi.io/live/ac-wfld.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",WJBK-TV FOX 2 24/7 News (Detroit MI)
 https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WDIV-TV NBC 4 "Local 4+" 24/7 News (Detroit MI)
+http://dai.google.com/linear/hls/event/-2ZiaXcPRBaDmq0dLLnpOQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WXYZ-TV ABC 7 24/7 News (Detroit MI)
 https://content.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WWJ-TV CBS 62 24/7 News (Detroit MI)
@@ -1902,7 +1904,7 @@ https://linear-914.frequency.stream/dist/dice/914/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Spike (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c5dfe-7b2e-11ef-8166-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=609775b2-41e9-4448-9930-83cdb66ebbbc&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount Network
-http://lunar.pm:8080/mrjayp/Spectrum2/9158
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131323
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount+ Picks (Pluto TV)
@@ -4332,20 +4334,18 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57470
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130388
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Court TV (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/229643
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",PBS Kids (Canada) 
-http://lunar.pm:8080/mrjayp/Spectrum2/122976
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Family (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122960
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238360
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Family Jr. (Canada) 
-http://lunar.pm:8080/mrjayp/Spectrum2/67155
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57346
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Nickelodeon (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67102
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47349
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Treehouse (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67053
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57371
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",YTV (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/94962
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/63850
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Disney Channel (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67166
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/2206
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Disney XD (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57420
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Disney Junior (Canada)
@@ -4365,39 +4365,37 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57320
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",USA Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57252
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",A&E (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122941
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57264
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ABC Spark (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122943
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57375
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Dejaview (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122001
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",BBC America (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130385
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238357
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",AMC (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122946
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57376
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Vision (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122988
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57468
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Home Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57273
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Magnolia Network (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67163
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47258
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Wild (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67169
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57377
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Discovery Science (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67167
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57418
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Speed
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/46212
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",National Geographic (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67106
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47338
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",National Geographic Wild (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/94882
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57280
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",History Channel (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67131
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",H2 (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67136
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47302
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",H2 (History Channel 2) (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/210450
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",BBC Earth (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/99621
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",WILD TV (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67032
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100456
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Love Nature (Canada)
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Documentary (Canada)
@@ -4407,7 +4405,7 @@ http://lunar.pm:8080/mrjayp/Spectrum2/67123
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Oxygen True Crime (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57442
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crime & Investigation (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67182
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57256
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CSTAR French (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130438
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TV Ontario (Canada)
@@ -4415,13 +4413,13 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57369
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",W Network (Canada)
 http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",YES TV (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122991
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57472
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Super Channel Heart & Home (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122982
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100460
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Silver Screen (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/107190
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Travel Escape (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122985
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108136
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",HPItv East (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/173131
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV (Canada)
@@ -4433,7 +4431,7 @@ http://tvmate.icu:8080/live/7686199/9576982/116506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Sci-Fi Channel (Canada)
 http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Makeful (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122967
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57270
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",(ZH) NTD (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58023
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",NTV St. John`s (Canada)
@@ -4443,33 +4441,33 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57366
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Prase 2 (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238365
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Lifetime (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122966
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57271
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Lifetime Movie Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57444
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",OMNI 1 (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122972
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57365
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",OMNI 2 (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122973
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130460
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",OWN (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122975
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57277
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Peachtree TV (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67093
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47362
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Showcase (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47366
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Slice TV (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122980
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57274
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TFO French (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57291
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TLC (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122984
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57290
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Smithsonian Channel (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67081
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47369
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CHCH (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122951
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130406
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Charge! (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75653
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CMT (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122953
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57258
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Cottage Life (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47217
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CP24 (Canada)
@@ -4484,8 +4482,6 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130429
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/229638
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Canal Vie French (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/229639
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Super Ecran 2 French (Canada)
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/445485
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",PRISE 2 (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238365
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",DTOUR (Canada)
@@ -4501,9 +4497,9 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130437
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",The Cooking Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/107960
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",FX (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122962
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57268
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",FXX (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122963
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57429
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TCM (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66242
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Daystar Television Network (Canada)
