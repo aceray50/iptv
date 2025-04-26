@@ -1904,7 +1904,7 @@ https://linear-914.frequency.stream/dist/dice/914/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Spike (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c5dfe-7b2e-11ef-8166-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=609775b2-41e9-4448-9930-83cdb66ebbbc&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount Network
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131323
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount+ Picks (Pluto TV)
@@ -4369,7 +4369,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57264
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ABC Spark (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57375
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Dejaview (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238357
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122001
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",AMC (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57376
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Vision (Canada)
