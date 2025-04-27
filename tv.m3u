@@ -88,7 +88,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329031
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WTIC-CD TV FOX 61 (Hartford CT)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415666
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WFOR-TV CBS 4 (Miami FL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415985
+http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WTVJ-TV NBC 6 (Miami FL)
 http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WSVN-TV FOX 7 (Miami FL)
@@ -96,7 +96,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329174
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WPLG-TV ABC 10 (Miami FL)
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WTSP-DT CBS 10 (Tampa FL)
-http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415985
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WTVT-TV FOX 13 (Tampa Bay FL)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415728
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WFTS-TV ABC 28 (Tampa Bay FL)
@@ -2038,7 +2038,7 @@ https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Motor Trend
 https://v1.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",World Fishing Network
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319582
+http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FYI
 https://v1.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Fuse
@@ -2078,7 +2078,7 @@ https://v1.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",80's Sitcom Flashback
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=undETypMzF-zrXqwwtnZ
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Non-Stop 90's
 https://linear-744.frequency.stream/dist/dice/744/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Dove Channel
@@ -2086,7 +2086,7 @@ https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainMan
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Family
 http://lunar.pm:8080/mrjayp/Spectrum2/105641
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Faith & Living
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414896
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75654
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Holiday Plus
@@ -2248,6 +2248,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319515
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319518
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (North West)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328729
+#EXTINF:-1 tvg-logo="" group-title="Sports",NBC Team USA
+https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Midatlantic Sports Network
 https://v1.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Monumental Sports Network
@@ -2692,8 +2694,6 @@ https://v1.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Beyond
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328690
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase)
 http://lunar.pm:8080/mrjayp/Spectrum2/18182
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Women
@@ -2750,6 +2750,8 @@ http://lunar.pm:8080/mrjayp/Spectrum2/44026
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16265
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",PixL
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/21648
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Free Movies+
@@ -3890,19 +3892,9 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34996
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",STAR Channel
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302645
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Filmex Peliculas
-https://live1009.delivery.roku.com/945088aa-1621-45a8-a1bd-3d40f3701e0c/t2-origin/out/v1/live.m3u8
+https://live1009.delivery.roku.com/c1f16607-abcf-4fb1-9bdb-469c8d3d1466/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Filmex Clasico Peliculas
 https://live1009.delivery.roku.com/dee94bdd-c128-4649-95eb-e2cc1e557527/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FilmRise Peliculas Gratis
-https://live1009.delivery.roku.com/dc30fb2f-92fd-4ea0-a810-bcf45ffb34ae/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FilmRise Crímenes Verdaderos
-https://live1009.delivery.roku.com/c2a45163-8533-481a-b2bf-e4174affaf6b/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FilmRise Autopista al Cielo
-https://live1009.delivery.roku.com/10c9b07f-b0d5-4d25-8e23-8de18a48ce71/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FilmRise Series Gratis
-https://live1009.delivery.roku.com/3ccdcc7e-fe70-4829-9001-e99019afeaad/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",SparkTV Luz & Amor
-https://live1009.delivery.roku.com/ed0fc38d-8885-4413-ad40-a6fb99dab94b/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",CineCanal
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34994
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cine Romantico
@@ -4533,19 +4525,19 @@ http://netlevel.online:8080/MARIO630/GWPRM/479263
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",World Fishing Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57471
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Sportsnet 360 (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57299
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/2219
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Sportsnet West (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57300
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Sportsnet East (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57298
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Sportsnet One (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47379
+https://a1xs.vip/6000012
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Sportsnet Ontario (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57463
+https://a1xs.vip/6000011
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Sportsnet Pacific (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47387
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Sportsnet World (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130468
+https://a1xs.vip/6000013
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Fight Network (Canada)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Hard Knocks (Canada)
@@ -4622,7 +4614,7 @@ http://92.114.85.81:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 5 Action (UK)
 http://92.114.85.81:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",CNBC (UK)
-http://92.114.85.77:8000/play/a0b6
+http://92.114.85.77:8000/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Bloomberg (UK)
 https://www.bloomberg.com/media-manifest/videos/android/WiFi/c0fd1f87-6441-4321-a85c-d4594ab762b2.m3u8?idType=BMMP
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Bloomberg (Austrailia)
