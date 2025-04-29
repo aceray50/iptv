@@ -26,7 +26,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415557
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WLS-TV ABC 7 (Chicago IL)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23665
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WGN-TV CW 9 (Chicago IL)
-http://fl2.moveonjoy.com/WGN/index.m3u8
+http://fl3.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 tvg-logo="https://wljc.com/wp-content/uploads/2024/03/story_black_green.png" group-title="Local Channels",WCIU-TV 26.5 The Story (Chicago IL)
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WFLD-TV FOX 32 (Chicago IL)
@@ -594,9 +594,9 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/414882
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",fetv (Family Entertainment Television)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/172481
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Get TV
-http://fl2.moveonjoy.com/GET_TV/index.m3u8
+http://fl3.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Grit TV
-http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
+http://fl3.moveonjoy.com/GRIT_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Grit Xtra
 https://amg01438-ewscripps-amg01438c46-cw-us-2390.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsgritxtra-cwus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Laff
@@ -1413,7 +1413,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelengl
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Travel Channel
 https://v14.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",ID (Investigation Discovery)
-http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+http://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery Life
 https://v14.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery Science
@@ -1558,7 +1558,7 @@ https://v14.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CNN
 https://v14.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CNN International
-http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CNN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/cnn.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CNN Originals
@@ -1596,7 +1596,7 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Newsmax 2
 https://n2ctsota.akamaized.net/hls/live/2113130/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",News Nation
-http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",C-SPAN
 https://v14.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",C-SPAN 2
@@ -1756,11 +1756,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV 2
 https://v14.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV Classic
-http://143.244.60.97/MTV_CLASSIC/index.m3u8
+http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV Live
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV U
-http://fl2.moveonjoy.com/MTV_U/index.m3u8
+http://fl3.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LGBT",Logo
 https://v14.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LGBT",Logo (Pluto TV)
@@ -1780,7 +1780,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319446
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Soul
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319447
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Gospel
-http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FOX Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Pluto Black Classics
@@ -1792,7 +1792,7 @@ https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TV One
 https://v14.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Revolt
-http://fl2.moveonjoy.com/REVOLT/index.m3u8
+http://fl3.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Cleo TV
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Shades of Black
@@ -1904,7 +1904,7 @@ https://linear-914.frequency.stream/dist/dice/914/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Spike (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c5dfe-7b2e-11ef-8166-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=609775b2-41e9-4448-9930-83cdb66ebbbc&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount Network
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount+ Picks (Pluto TV)
@@ -1970,7 +1970,7 @@ http://fl3.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",INSP
 http://fortv.cc:8080/0n8u9R/169324/16262
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Smithsonian Channel
-http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Smithsonian Channel (Pluto)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Aspire
@@ -2022,7 +2022,7 @@ https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",HGTV (Home and Garden Television)
 https://v14.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Magnolia Network
-http://fl2.moveonjoy.com/DIY/index.m3u8
+http://fl3.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",NBC LX Home
 http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",The Design Network
@@ -2038,7 +2038,7 @@ https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Motor Trend
 https://v14.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",World Fishing Network
-http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FYI
 https://v14.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Fuse
@@ -2257,7 +2257,7 @@ https://v14.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",New England Sports Network
 https://v14.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports XL
 https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports 5
@@ -2439,7 +2439,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162127
 #EXTINF:-1 tvg-logo="" group-title="Sports",Monster Jams
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
 #EXTINF:-1 tvg-logo="" group-title="Sports",MAV TV
-http://fl2.moveonjoy.com/MAV_TV/index.m3u8
+http://fl3.moveonjoy.com/MAV_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",MAV TV Select
 https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NHRA TV
@@ -2681,7 +2681,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13381
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Movie Max
 https://v14.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Outer Max
-http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Thriller Max
 http://lunar.pm:8080/mrjayp/Spectrum2/98686
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Action Max
@@ -2691,13 +2691,13 @@ https://v14.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime 2
 https://v14.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Extreme
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+http://fl3.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Next
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+http://fl5.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase)
 http://lunar.pm:8080/mrjayp/Spectrum2/18182
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Women
-http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Family Zone
 http://lunar.pm:8080/mrjayp/Spectrum2/98720
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET)
@@ -4403,7 +4403,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130438
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TV Ontario (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57369
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",W Network (Canada)
-http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
+http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",YES TV (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57472
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Super Channel Heart & Home (Canada)
