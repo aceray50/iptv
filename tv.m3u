@@ -1841,7 +1841,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951244/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Pluto TV Comedy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9ed92f1-1fa3-4a05-abd8-e6b077ed35c4
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Hit Sitcoms by WB
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e71g8trPgy6qosPP_ofs
 #EXTINF:-1 tvg-logo="" group-title="Comedy",More TV Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=62d7dbcd-04ab-4ca8-ae91-0bf98c68d0d2
 #EXTINF:-1 tvg-logo="" group-title="Comedy",RiffTrax
@@ -2351,11 +2351,11 @@ https://v2.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",T2 Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Tennis+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e71g8trPgy6qosPP_ofs
 #EXTINF:-1 tvg-logo="" group-title="Sports",Court Sports Network
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e71g8trPgy6qosPP_ofs
 #EXTINF:-1 tvg-logo="" group-title="Sports",PickleTV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e71g8trPgy6qosPP_ofs
 #EXTINF:-1 tvg-logo="" group-title="Sports",PBTV Pickleball TV
 https://amg01444-tennischannel-amg01444c3-tennischannel-us-1912.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-tennischannelus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Golf Channel
@@ -4390,7 +4390,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100456
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Documentary (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/148610
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels", ID (Investigation Discovery) (Canada)
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ID (Investigation Discovery) (Canada)
 http://lunar.pm:8080/mrjayp/Spectrum2/67123
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Oxygen True Crime (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57442
