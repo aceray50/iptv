@@ -528,16 +528,12 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 ("Hudson Valley" West Nyack NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ (New York NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ (Long Island NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ ("New Jersey" Edison NJ)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ ("Westchester" Yonkers NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ (Bronx NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ (Brooklyn NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ ("Connecticut" Norwalk CT)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ ("Hudson Valley" West Nyack NY)
@@ -1995,12 +1991,14 @@ https://v2.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=17d6d310-246c-4678-a980-a3043d16f2a3&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LGBT",Revry LGBT TV
-https://revry-revry-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LGBT",Revry One
+https://f4e3f8fe72d345e8b2de999d3f5cb5c3.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-BRIGHTCOVE/mt/brightcove/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LGBT",Revry 3
+https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LGBT",Revry Her
 https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LGBT",Revry News
-https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",WE TV (Women Entertainment Television)
 https://v2.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",WE Absolute Reality
@@ -3627,7 +3625,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302736
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Baby First en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34792
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Baby TV
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Baby TV en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312755
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Comedy Central en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302692
@@ -3645,7 +3643,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302693
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/2029
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery Theater en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34819
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery World
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery World en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302630
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Investigation Discovery en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302674
