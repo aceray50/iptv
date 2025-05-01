@@ -1457,7 +1457,7 @@ http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",AHC (American Heroes Channel)
 https://v2.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Documentary+
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
+https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DOC+
 https://dbrb49pjoymg4.cloudfront.net/10001/99991638/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991638
 #EXTINF:-1 tvg-logo="" group-title="Documentary",True History
@@ -2213,11 +2213,11 @@ https://v2.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN U
 https://v2.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",PAC 12 Insider
-http://pac12-roku-us.amagi.tv/playlist.m3u8
+https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACC Network ESPN
 https://v2.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACCDN
-https://dbrb49pjoymg4.cloudfront.net/10001/99951364/hls/playlist.m3u8?ads.xumo_channelId=99951364
+https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",SEC Network ESPN
 https://v2.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",CBS Sports Network
@@ -2351,9 +2351,9 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Tennis+
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e71g8trPgy6qosPP_ofs
 #EXTINF:-1 tvg-logo="" group-title="Sports",Court Sports Network
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e71g8trPgy6qosPP_ofs
+https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",PickleTV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e71g8trPgy6qosPP_ofs
+https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",PBTV Pickleball TV
 https://amg01444-tennischannel-amg01444c3-tennischannel-us-1912.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-tennischannelus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Golf Channel
@@ -2533,7 +2533,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34716
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fightbox
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145482
 #EXTINF:-1 tvg-logo="" group-title="Sports",TNA Wrestling Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Impact Plus!
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",AXS-TV Fight Network
@@ -4713,6 +4713,8 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Racing.com (Austrailia)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Willow Sports (UK)
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Willow Cricket (UK)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415289
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Willow Cricket Xtra (UK)
