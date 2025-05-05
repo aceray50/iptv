@@ -321,10 +321,10 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23534
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415424
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WEWS-TV ABC 5 (Cleveland OH)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415842
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WLIO-TV NBC 8 (Lima OH)
-https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WJW-TV FOX 8 (Cleveland OH)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415638
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WLIO-TV NBC 8 (Lima OH)
+https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WRTV-TV ABC 6 (Indianapolis IN)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415845
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WTHR-TV NBC 13 (Indianapolis IN)
@@ -1473,7 +1473,7 @@ https://v2.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",REELZ Famous and Infamous
 https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Infamous TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
+https://amg01324-infamous-amg01324c1-cineverse-us-1102.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Oxygen True Crime
 https://v2.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Oxygen True Crime Archives
@@ -1862,6 +1862,8 @@ https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f174-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbaba395-2ecd-414c-971c-2d705e4b67d5
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Humor Mill
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Dynamics
+https://cineverse.g-mana.live/media/398ffc79-3077-465f-9243-dc339de96212/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Comedy",TVS Comedy Network
 https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Comedy",TVS Flashback Network
@@ -1905,6 +1907,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://v2.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BBC Sci-Fi
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Midnight Pulp
+https://cineverse.g-mana.live/media/579fa853-ff49-426e-bc2d-d16ce9b1bdf6/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FreeTV Fantasy
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engmystify-freetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Farscape
@@ -1955,6 +1959,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122527
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Wild West TV
 https://linear-799.frequency.stream/dist/dice/799/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Lone Star
+https://cineverse.g-mana.live/media/ffc88f2b-a62d-4f2f-b9b5-5068b2d86440/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TVS Western Movie
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Ovation
@@ -2063,6 +2069,8 @@ https://v2.thetvapp.to/hls/TCMEast/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TCM+ (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmeast.us.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro Crush
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",NOST (The Nostalgia Network)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nost-the-nostalgia-network/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Hallmark Channel
@@ -2769,7 +2777,7 @@ https://live-manifest.production-public.tubi.io/live/6386e065-6010-4fd3-b438-407
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineLife
 https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Film Detective
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+https://cineverse.g-mana.live/media/241999a9-fa38-4111-aa00-ee1f3293bca1/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Encore+
 https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineVault
@@ -2828,6 +2836,8 @@ https://amg00163-amg00163c15-zype-international-7166.playouts.now.amagi.tv/playl
 https://linear-730.frequency.stream/dist/dice/730/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Horror by ALTER
 https://amg01312-cw-amg01312c19-cw-us-3284.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-alter-cwus/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Scream Box TV
+https://cineverse.g-mana.live/media/1d38c3be-9216-40e7-8b4d-7c51a882e002/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Electric Now
 https://amg01705-electric-amg01705c1-cw-us-2376.playouts.now.amagi.tv/playlist/amg01705-electricentertainmentfast-electricnow-cwus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",CrimeFlix
