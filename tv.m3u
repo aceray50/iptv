@@ -321,6 +321,8 @@ http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23534
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415424
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WEWS-TV ABC 5 (Cleveland OH)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415842
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WLIO-TV NBC 8 (Lima OH)
+https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WJW-TV FOX 8 (Cleveland OH)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415638
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WRTV-TV ABC 6 (Indianapolis IN)
@@ -568,7 +570,7 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro TV #1
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro TV #2
-http://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/VldAwIdWKJ5WmkcXqmjWhQ/1744680219/media_mpegts_0.m3u8
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278952/TdoLyyylQfSszL3GdC9WZQ/1746548594/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #1
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20180
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #2
@@ -599,7 +601,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17777
 https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_channelId=99951232
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Catchy Comedy
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20189
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",TBD
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Buzzr #1
 https://dbrb49pjoymg4.cloudfront.net/10001/99951124/hls/playlist.m3u8?ads.xumo_channelId=99951124
