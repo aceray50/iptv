@@ -506,10 +506,9 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",WTTG-TV FOX 5 24/7 News (Washington DC)
 https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WJLA-TV ABC 7 24/7 News (Washington DC)
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1740793891&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6788546eafc349fbe405c619
+https://dai.google.com/linear/hls/event/LLS6t9zvTkOq8pXtpMVx4A/master.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WUSA-TV CBS 9 24/7 News (Washington DC)
 https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
-b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (New York NY)
 https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8
