@@ -17,6 +17,8 @@ https://v2.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
 https://v2.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WABC-TV ABC 7 (New York NY)
 https://v2.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",WWOR-TV MyNetworkTV 9 (New York NY)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/135
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
 https://v2.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WBBM-TV CBS 2 (Chicago IL)
@@ -30,7 +32,7 @@ http://fl3.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 tvg-logo="https://wljc.com/wp-content/uploads/2024/03/story_black_green.png" group-title="Local Channels",WCIU-TV 26.5 The Story (Chicago IL)
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WFLD-TV FOX 32 (Chicago IL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415636
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1525
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WJBK-TV FOX 2 (Detroit MI)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415648
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WDIV-TV NBC 4 (Detroit MI)
@@ -44,9 +46,9 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415958
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WCCO-TV CBS 4 (Minneapolis/St. Paul MN)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415956
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KSTP-TV ABC 5 (Minneapolis/St. Paul MN)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23447
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/211
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KMSP-TV FOX 9 (Minneapolis/St. Paul MN)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415690
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/2162
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KARE-TV NBC 11 (Minneapolis/St. Paul MN)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415526
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KYW-TV CBS 3 (Philadelphia PA)
@@ -618,7 +620,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991366/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Confess by Nosey
 https://dbrb49pjoymg4.cloudfront.net/10001/99991388/hls/playlist.m3u8?ads.xumo_channelId=99991388
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Judge Nosey
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ukYQGfmjaVjMjmoUbyR6
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 
 #EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Public Broadcast",Create
 https://create.lls.pbs.org/index_1080p.m3u8
@@ -642,8 +644,6 @@ http://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
 http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1315484/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKLE-TV KET KY 46.3 (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_132/amlst%3a200914-1315486/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",WKLE-TV KET 46.4 PBS Kids (Lexington KY)
-http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKMJ-TV KET 2 68.1 PBS (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKMJ-TV KET 2 68.4 KET World (Louisville KY)
@@ -676,8 +676,6 @@ https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",PBS National (East)
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids (Eastern & Central)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="Public Broadcast",PBS Retro
@@ -1398,6 +1396,8 @@ https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 https://v2.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Animal Planet
 https://v2.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",AKC TV
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DogTV
 http://fortv.cc:8080/0n8u9R/169324/53539
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Rovr Pets
@@ -1427,9 +1427,9 @@ https://v2.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Nat Geo Wild
 https://v2.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",History Hit
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=evK7iYKm-ixSYzFakeKo
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Outside TV
-http://fortv.cc:8080/0n8u9R/169324/20865
+http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Outside TV+
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Xplore #1
@@ -1475,7 +1475,7 @@ https://v2.thetvapp.to/hls/Reelz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",REELZ Famous and Infamous
 https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Infamous TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fb10e8fe90430654c57530.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Oxygen True Crime
 https://v2.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Oxygen True Crime Archives
@@ -1556,9 +1556,9 @@ http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CNN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/cnn.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CNN Originals
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="News",CNN Headlines
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="News",HLN (CNN Headline News)
 https://v2.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",HLN+
@@ -1596,7 +1596,7 @@ https://v2.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",C-SPAN 2
 https://v2.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",C-SPAN 3
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328956
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1186
 #EXTINF:-1 tvg-logo="" group-title="News",USA Today News
 https://dbrb49pjoymg4.cloudfront.net/10001/99991287/hls/playlist.m3u8?ads.xumo_channelId=99991287
 #EXTINF:-1 tvg-logo="" group-title="News",OAN News (One America News Network)
@@ -1679,7 +1679,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd7de-7b2e-11ef-9bf8-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4e94404-1332-11f0-8694-3a1fbadd5755&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nick Music
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319521
+http://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Disney Channel
 https://v2.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Disney XD
@@ -1733,11 +1733,11 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319417
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Brat TV
 https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",FilmRise Kids
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",FilmRise Anime
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",RetroCrush
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TV Land
 https://v2.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
@@ -1770,9 +1770,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Her
 https://v2.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Jams
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319446
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Soul
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319447
+http://fl3.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Gospel
 http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FOX Soul
@@ -1792,9 +1792,9 @@ http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Shades of Black
 https://fuse-beats-oando.amagi.tv/hls/amagi_hls_data_fuseAAAAA-fusebeats-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BlackPix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",365BLK
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6745dca72832b870acf53220.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6745dca72832b870acf53220.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",The BLK Effect
 https://amg01312-cw-amg01312c39-cw-us-6681.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-theblkeffect-cwus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Backstage
@@ -1819,9 +1819,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Pluto TV Comedy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67882c1c7b11714b795c2008/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1df8-7b2e-11ef-951a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=575bd0af-08fa-11f0-bed2-86d507b84126&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Animation+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-674f6a6cf44561420465f9f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-674f6a6cf44561420465f9f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Comedy",BBC Comedy
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Pluto TV Pranks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f86f539f03cd00070c503a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c208c-7b2e-11ef-9ac1-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=57f8ada0-9a60-40de-afcf-1a3a80463d81&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Kevin Hart’s LOL! Network
@@ -1837,7 +1837,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951244/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Pluto TV Comedy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9ed92f1-1fa3-4a05-abd8-e6b077ed35c4
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Hit Sitcoms by WB
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e71g8trPgy6qosPP_ofs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Comedy",More TV Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=62d7dbcd-04ab-4ca8-ae91-0bf98c68d0d2
 #EXTINF:-1 tvg-logo="" group-title="Comedy",RiffTrax
@@ -1855,7 +1855,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991176/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Just for Laughs Gags
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Funny Or Die, Inc.
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Camera Smile TV
 https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Comedy",FailArmy
@@ -1906,7 +1906,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",SYFY
 https://v2.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BBC Sci-Fi
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FreeTV Fantasy
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engmystify-freetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Farscape
@@ -1954,7 +1954,7 @@ https://amg00432-amg00432c1-circle-worldwide-2821.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",The Cowboy Channel
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122527
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Outlaw (The Western Channel)
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Wild West TV
 https://linear-799.frequency.stream/dist/dice/799/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TVS Western Movie
@@ -1978,7 +1978,7 @@ http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Vice
 https://v2.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Vice News
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635ff8bb66f96b46951ab7f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635ff8bb66f96b46951ab7f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",YouToo America
 https://thegateway.app/YouToocdn/YTamerica/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",WPS TV
@@ -2035,6 +2035,8 @@ https://cloudflare.tv/hls/live.m3u8
 https://v2.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",World Fishing Network
 http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Reel Life
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/382
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FYI
 https://v2.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Fuse
@@ -2046,7 +2048,7 @@ https://v2.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Game Show Central
 https://dbrb49pjoymg4.cloudfront.net/10001/99991750/hls/playlist.m3u8?ads.xumo_channelId=99991750
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BBC Game Shows
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",OWN (Oprah Winfrey Network)
 https://v2.thetvapp.to/hls/OWNEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Ebony TV by Lionsgate
@@ -2074,19 +2076,19 @@ https://v2.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",80's Sitcom Flashback
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=undETypMzF-zrXqwwtnZ
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Non-Stop 90's
 https://linear-744.frequency.stream/dist/dice/744/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Dove Channel
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Family
-http://lunar.pm:8080/mrjayp/Spectrum2/105641
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/104877
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Faith & Living
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75654
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Holiday Plus
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-634700569d64afa6830d1521.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-634700569d64afa6830d1521.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 
 #EXTINF:-1 tvg-logo="" group-title="Religious",Scientology Network
 https://stream6.scientology.org/master.m3u8
@@ -2349,7 +2351,7 @@ https://v2.thetvapp.to/hls/TennisChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",T2 Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Tennis+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=e71g8trPgy6qosPP_ofs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Sports",Court Sports Network
 https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",PickleTV
@@ -2373,7 +2375,7 @@ https://fhdinternationalhermes.live.clipmyhorse.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",TVG Racebook
 https://d3my5j6o8w4ud5.cloudfront.net/out/v1/84a40d370d6e456cad17143ad8ff1671/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel TV (Formerly TVG)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140778
+http://fl3.moveonjoy.com/TVG/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel TV+
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel 2 Racing
@@ -2428,12 +2430,14 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951360/hls/live.m3u8?ads.xumo_chann
 https://dbrb49pjoymg4.cloudfront.net/10001/99951361/hls/live.m3u8?ads.xumo_channelId=99951361
 #EXTINF:-1 tvg-logo="" group-title="Sports",PHNX Sports
 https://dbrb49pjoymg4.cloudfront.net/10001/99951363/hls/live.m3u8?ads.xumo_channelId=99951363
+#EXTINF:-1 tvg-logo="" group-title="Sports",Racer
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/965
 #EXTINF:-1 tvg-logo="" group-title="Sports",NASCAR
 https://aegis-cloudfront-1.tubi.video/4e6d2330-f93e-4068-b795-9f8585640b13/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsman Channel
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162127
 #EXTINF:-1 tvg-logo="" group-title="Sports",Monster Jams
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Sports",MAV TV
 http://fl3.moveonjoy.com/MAV_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",MAV TV Select
@@ -2486,6 +2490,8 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/168530
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131321
 #EXTINF:-1 tvg-logo="" group-title="Sports",Strongman Champions League
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/190839
+#EXTINF:-1 tvg-logo="" group-title="Sports",DAZN
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/392
 #EXTINF:-1 tvg-logo="" group-title="Sports",DAZN 1
 http://fl4.moveonjoy.com/DAZN_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",DAZN 2
@@ -2504,6 +2510,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145481
 #EXTINF:-1 tvg-logo="" group-title="Sports",FN (Fight Network)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140799
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fight Sports
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1616
 #EXTINF:-1 tvg-logo="" group-title="Sports",HBO Boxing by WB
 https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fite 24/7
@@ -2520,14 +2528,16 @@ https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 https://v2.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG 2
 https://v2.thetvapp.to/hls/msg-plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",MSGSN
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1617
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG+
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415245
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/333
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG+ 2
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/328910
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG+ 3
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsCISqZPjGRjkT1Nw0PV5Zg
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG SportsZone
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Sports",WWE Network
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34716
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fightbox
@@ -2549,7 +2559,7 @@ https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/us
 #EXTINF:-1 tvg-logo="" group-title="Sports",MASN
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329083
 #EXTINF:-1 tvg-logo="" group-title="Sports",NESN
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415260
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/890
 #EXTINF:-1 tvg-logo="" group-title="Sports",NESN+
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415261
 #EXTINF:-1 tvg-logo="" group-title="Sports",Extreme+
@@ -2751,9 +2761,9 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Free Movies+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Samuel Goldwyn Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=BSnukHHsjp_mKfCizoTj
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cowboy Movie Channel
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1740795097&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6746dc61d1615e1ba20ac5ef
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cineview
@@ -2827,15 +2837,15 @@ https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MovieSphere by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",National Lampoon Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fcbcf414d94009d1206ee.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fcbcf414d94009d1206ee.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Miramax Movie Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",At the Movies by WB
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Classic Cinema by WB
 https://apollo.production-public.tubi.io/live/wbd-classic-cinema.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",IFC Film Picks
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=tLGyUstEuyuQzjpLthMi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",70s Cinema (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c138a-7b2e-11ef-88c3-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9203004-be26-4bca-9a44-58b4d81c73f6&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",80s Rewind (Pluto TV)
@@ -3532,7 +3542,7 @@ https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Aliento Visión
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nosey Escándalos
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TVP Culiacán
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TVP Los Mochis
@@ -3696,7 +3706,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302678
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Universal Reality
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302743
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Always Funny en Español
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=XFS46cy4dysF9DttxYif&_gl=1*uxq749*_gcl_au*ODM2NzY4ODIuMTczNzg1NTIwOQ..*_ga*MjIwNTAxMTIwLjE3Mzc4NTUyMDk.*_ga_G6FQWNSENB*MTczODA5MzUzOC41LjAuMTczODA5MzUzOC42MC4wLjA
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Más Risas
 https://univtec.g-mana.live/media/f1536f9d-b9b2-49c1-a9df-963fcc43dcd4/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Más Retos
@@ -3794,7 +3804,7 @@ https://amg00658-amg00658c22-canelatv-international-5047.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Canela.TV Todo Novelas Más Pasiones
 https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Canela.TV Pasión Latina
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ViX Grandes Parejas
 https://live1009.delivery.roku.com/fb245b6d-09b4-420b-9732-dfcd80c377b2/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ViX JaJaJa
@@ -3814,15 +3824,15 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Sony Movies en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304509
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cine EstrellaTV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eGs3t2cJbE1bT8BRagWV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cine en Español
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cine Latino
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34998
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Caracol Internacional
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304247
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Todo Cine
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VmceKrYsjHEH5AhQufak
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",AXN en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302611
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cine AXN (Mexico)
@@ -3830,7 +3840,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3704
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Universal Premier
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302742
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FLOU Detonación
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-673675909564224797d5b598.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-673675909564224797d5b598.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FreeTV Live
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FreeTV Hits
@@ -3852,7 +3862,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playli
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FreeTV Banda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Electric Now en Español
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=h-pe63SuWd4bxWxbxqfs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6434540bf43c8cfbfdc6e600.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ViX Cine Club
 https://live1009.delivery.roku.com/0f232fec-f2cc-45e0-8876-af34537103d4/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Canela.TV
@@ -4032,7 +4042,7 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",CNÑ en Español
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57619
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",CNÑ Xpress
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c246e572427bfa1eb7ed5.m3u8?X-Plex-Session-Identifier=84br40oiy8966gq03mjfb4go&X-Plex-Product=Plex%20Web&X-Plex-Version=4.144.1&X-Plex-Client-Identifier=6y5fglvgth3q0tdua1knbsz9&X-Plex-Platform=Chrome&X-Plex-Platform-Version=132.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1366x599%2C1366x768&X-Plex-Token=4yFaXrUbzNEEVEE8_QVH&X-Plex-Language=en&Accept-Language=en&X-Plex-Session-Id=704d597b-e748-479c-87de-c29560aff292&X-Plex-Playback-Session-Id=130f2a0a-d253-49af-821c-2def75af01ff
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c246e572427bfa1eb7ed5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",France 24 en Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Euronews en Español
@@ -4148,7 +4158,7 @@ http://tv.proyectox.vip:8080/carsalazar1/4ANqaenRM5/9607
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Claro Sports
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",DAZN FI
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/237789
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1442
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Eventos TyC Play 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Eventos TyC Play 2
