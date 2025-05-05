@@ -453,15 +453,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvweather-ono
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KENS-TV CBS 5 24/7 News (San Antonio TX)
 https://video.tegnaone.com/kens/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KENS-Production/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KTVK-TV/KPHO-TV 3TV & CBS 5 24/7 News (Phoenix AZ)
-https://zeam-playlist.aws.syncbak.com/cpl/20128185/dai2v6/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjcyMywiY2lkIjoyMDY5NywibWlkIjoyMDEyODE4NSwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI3NS45OC4yMjAuMjYiLCJ1aXAiOiI3NS45OC4yMjAuMjYiLCJkbWEiOjY3OCwic3NpZCI6IjYyZmJhNzhmNGYxMDQ0YTBiNWM5ZjAyMjk4Njk0NmMzIiwic24iOiJXZWIgMTZlNGJlZjc2ZCAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6IjgwMzdkMjlmYjlkZDRlYjBmODEzZDkxNDkyM2NiMTE3IiwiaWF0IjoxNzM4NTQ1MDQyLCJleHAiOjE3Mzg1NDUzNDIsImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6ImZPeGJ1TkdPWDRzZUt2VTA5Y21iYktoMFp3Y2xHLVdGNlVLbVpkWC1IdG5UbkpENG1pIn0.lgxEq7Nf3W-a6LemX7rUgYdbDVo4hsOfM4X3pfqcUms
+https://zeam-playlist.aws.syncbak.com/cpl/18563081/dai2v6/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MTczMzUsIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6ImQyZDAyMjE5ODhjNjQyMGY4N2E3MjMzZjI4Y2EwYzQzIiwiaXAiOiI1NC4yMDkuODcuMTQyIiwidWlwIjoiNDcuMTU5LjE4My40MiIsImRtYSI6ODAzLCJzbiI6IldlYiAxNDhhOTcyMDBmICIsInVpZCI6bnVsbCwiY3NiIjpmYWxzZSwibWlkIjoiMTg1NjMwODEiLCJtZDUiOiJkYTFiYTUyNjgzNzBiODcxNGQ2MTQxMDQwMTYwYzEzYiIsImlhdCI6MTc0NjQxMTA2MSwiZXhwIjoxNzQ2NDExMTUxLCJpc3MiOiJXTFMiLCJzdWIiOiI1MDk1Y2I1Yi04NmQ1LTQwYTctOTk1Ny0yMWNmYjgyMTQ1NzIifQ.a047bApFEcORxyONvmXuuexswNLa_SbjinQy0H16LcU
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KPNX-TV NBC 12 24/7 News (Phoenix AZ)
 https://video.tegnaone.com/kpnx/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KPNX-Production/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",KNXV-TV ABC 15 24/7 News (Phoenix AZ)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KSNV-TV NBC 3 24/7 News (Las Vegas NV)
-https://dai.google.com/linear/hls/event/YcE09LgRSh2G7pJgYFIiag/master.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KLAS-TV CBS 8 24/7 News (Las Vegas NV)
-https://dcs-live-ue1.mp.lura.live/server/play/5AwdN6JC4mdxcDQj/rendition.m3u8?track=video-1&anvsid=m177618727-n2885e068b9fbe4f5477249e4c5f939d0&ts=1739598499&anvtrid=f511213a51e66e94c100760ea59a495c
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",KTNV-TV ABC 13 24/7 News (Las Vegas NV)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KNSD-TV NBC 7/39 24/7 News (San Diego CA)
@@ -489,9 +485,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WXIA-TV NBC 11 24/7 News (Atlanta GA)
 https://video.tegnaone.com/wxia/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WXIA-Production/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WGCL-TV CBS 46 24/7 News (Atlanta GA)
-https://zeam-playlist.aws.syncbak.com/cpl/20010010/dai2v6/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjcxMSwiY2lkIjoyMDQ3MSwibWlkIjoyMDAxMDAxMCwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI3NS45OC4yMjAuMjYiLCJ1aXAiOiI3NS45OC4yMjAuMjYiLCJkbWEiOjY3OCwic3NpZCI6IjBjZDZmNjcyMGE1NzQ5OTdhNWU0ZTc3OTU2ZDU5ODFmIiwic24iOiJXZWIgNTE3ZDVlNTM4OSAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6ImVkNjJiNDhhYTI3NWVmMzFmZDNmMWYzM2UyMzI4NmE2IiwiaWF0IjoxNzM4NTQxNzA1LCJleHAiOjE3Mzg1NDIwMDUsImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6IkF6LWxrdkZnRkhxRC1WWFhaM3ZGbFpoMDdTTHNwdXY1NmNURkJMMU1IU1ZHbEcwaTFEIn0.ETVhj3hzHIigXWEcIps2MW52MIXxb-7B_TT6OJDN9b4
+https://zeam-playlist.aws.syncbak.com/cpl/20010010/dai2v6/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjcxMSwiY2lkIjoyMDQ3MSwibWlkIjoyMDAxMDAxMCwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI0Ny4xNTkuMTgzLjQyIiwidWlwIjoiNDcuMTU5LjE4My40MiIsImRtYSI6ODAzLCJzc2lkIjoiY2Q5YWRhZmQ1YjE2NDM3MGI5OWViOWNhZjRmNGU0N2YiLCJzbiI6IldlYiA1MTdkNWU1Mzg5ICggbnVsbCApIiwidWlkIjpudWxsLCJhcHN0IjpudWxsLCJzYmVwIjpmYWxzZSwiY3NiIjpmYWxzZSwibWQ1IjoiZWQ2MmI0OGFhMjc1ZWYzMWZkM2YxZjMzZTIzMjg2YTYiLCJpYXQiOjE3NDY0MTE2NDEsImV4cCI6MTc0NjQxMTk0MSwiYXVkIjoiaHR0cHM6Ly9wbGF5bGlzdHNlcnZlci5hd3Muc3luY2Jhay5jb20iLCJpc3MiOiJTeW5jYmFrIEdyYXBoUUwgQVBJIiwic3ViIjoiR24tcVF2ODdBN1NjQjB4bDBpeHRsNVJvenUwQ3l3Zzd6Mm9rUVJRNEJsS3FsVHVZdHUifQ.xG0mRaGN2xKH0UckTTUw-MEwkxumO7jXBfTL2zE1BMY
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WBTV-TV CBS 3 24/7 News (Charlotte NC)
-https://dai2-playlistserver.aws.syncbak.com/cpl/18497259/dai2v5/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjc1MCwiY2lkIjoxNzA1MCwibWlkIjoxODQ5NzI1OSwibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiI3NS45OC4yMjAuMjYiLCJ1aXAiOiI3NS45OC4yMjAuMjYiLCJkbWEiOjY3OCwic3NpZCI6ImMxNTVhYjUyZDc1NzQwNzA4NzI4ODMwNDY2Yjk0ZGExIiwic24iOiJXZWIgN2FmMzk0Zjc0NCAoIG51bGwgKSIsInVpZCI6bnVsbCwiYXBzdCI6bnVsbCwic2JlcCI6ZmFsc2UsImNzYiI6ZmFsc2UsIm1kNSI6ImZiNDUzZmYxYWMyMjAxZTE1NGIzZTVlOGJjMzQ5MDE4IiwiaWF0IjoxNzM4NTQyMjU2LCJleHAiOjE3Mzg1NDI1NTYsImF1ZCI6Imh0dHBzOi8vcGxheWxpc3RzZXJ2ZXIuYXdzLnN5bmNiYWsuY29tIiwiaXNzIjoiU3luY2JhayBHcmFwaFFMIEFQSSIsInN1YiI6IlI0MkdIYjBURlM1VzlUc2phc3RiLS1Xd1JxVmtKWnpFMVhOYnlCMTN1cmEwN0Z0dV9QIn0.KBiJySjGMYOtfYhqkpD7Ke5KN9je4aTg3cbVQcSknvo
+https://zeam-playlist.aws.syncbak.com/cpl/17186466/dai2v6/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MTU5ODIsIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6IjhmNzVmNjlmYWY0NjQzMTY4ZmY0NzM1NzgxZDg1OTg5IiwiaXAiOiIzNC4yMjguMjE4LjUzIiwidWlwIjoiNDcuMTU5LjE4My40MiIsImRtYSI6ODAzLCJzbiI6IldlYiAxNDhhOTcyMDBmICIsInVpZCI6bnVsbCwiY3NiIjpmYWxzZSwibWlkIjoiMTcxODY0NjYiLCJtZDUiOiI3YWRhNDA5ZjY5MjgxMjhmNjM0MTFjMTE4NGYxN2Y0NiIsImlhdCI6MTc0NjQxMjAwOSwiZXhwIjoxNzQ2NDEyMDk5LCJpc3MiOiJXTFMiLCJzdWIiOiI1MDk1Y2I1Yi04NmQ1LTQwYTctOTk1Ny0yMWNmYjgyMTQ1NzIifQ.sDYNZPYKTS6MVudEcivLw8rlC2sIbhjkfJpwVqK0CY0
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WSOC-TV ABC 9 24/7 News (Charlotte NC)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocnow-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",KERO-TV ABC 23 24/7 News (Bakersfield CA)
@@ -499,7 +495,8 @@ http://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WCNC-TV NBC 36 24/7 News (Charlotte NC)
 https://video.tegnaone.com/wcnc/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WCNC-Production/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KCNC-TV CBS 4 24/7 News (Denver CO)
-https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/9bfae0d2-0a19-468c-90c9-08c8c9dac0c7:CBF2/master.m3u8
+http://dai.google.com/linear/hls/event/E9CkyheTSKeGiOiICU_JBQ/master.m3u8
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",KMGH-TV ABC 7 24/7 News (Denver CO)
 https://content.uplynk.com/channel/4608c2dc86a14e3db517ef7e5042a915.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KUSA-TV NBC 9 24/7 News (Denver CO)
@@ -511,7 +508,7 @@ https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WJLA-TV ABC 7 24/7 News (Washington DC)
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1740793891&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6788546eafc349fbe405c619
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WUSA-TV CBS 9 24/7 News (Washington DC)
-https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86
+https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
 b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (New York NY)
@@ -676,7 +673,7 @@ https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",PBS National (East)
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids (Eastern & Central)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="Public Broadcast",PBS Retro
 https://live1009.delivery.roku.com/2af92247-9fb2-430d-bc45-f066023092f6/t2-origin/out/v1/live.m3u8
@@ -4030,7 +4027,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Milenio
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302702
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302620
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3748
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",N+ Noticieros
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index_5.m3u8&redirect=true
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ADN 40
