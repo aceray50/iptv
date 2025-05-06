@@ -2743,11 +2743,11 @@ http://lunar.pm:8080/mrjayp/Spectrum2/98704
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Family
 http://lunar.pm:8080/mrjayp/Spectrum2/98708
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+
-http://lunar.pm:8080/mrjayp/Spectrum2/18206
+http://fl3.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Hits
-http://lunar.pm:8080/mrjayp/Spectrum2/98690
+http://fl3.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Drive-In
-http://lunar.pm:8080/mrjayp/Spectrum2/98691
+http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
 http://lunar.pm:8080/mrjayp/Spectrum2/18205
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MoviePlex
@@ -4262,14 +4262,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57316
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77165
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Barrie Ontario (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57373
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Calgary (Canada)
-https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Toronto (Canada)
-https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Vancouver (Canada)
-https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Winnipeg (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100631
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global Durham (CHEX-DT-2) (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100453
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global Peterborough News (Canada)
@@ -4308,9 +4300,15 @@ https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b
 https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global News Lithbridge (Canada)
 https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Calgary (Canada)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Toronto (Canada)
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Vancouver (Canada)
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Winnipeg (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100631
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CityNews Toronto ON (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216100
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CityNews Toronto (Canada)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CityNews Calgary (Canada)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
