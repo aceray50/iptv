@@ -2684,7 +2684,9 @@ https://v2.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
 https://v2.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Family
 https://v2.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax (West)
+http://fl3.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax (East)
 https://v2.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",More Max
 https://v2.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
@@ -2698,7 +2700,9 @@ http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 http://lunar.pm:8080/mrjayp/Spectrum2/98686
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Action Max
 http://lunar.pm:8080/mrjayp/Spectrum2/18211
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (West)
+http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (East)
 https://v2.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime 2
 https://v2.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
@@ -2716,7 +2720,9 @@ http://lunar.pm:8080/mrjayp/Spectrum2/98720
 http://lunar.pm:8080/mrjayp/Spectrum2/98717
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Movie Channel
 https://v2.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (West)
+http://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (East)
 https://v2.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Cinema
 http://lunar.pm:8080/mrjayp/Spectrum2/115159
