@@ -123,6 +123,8 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415699
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WOGX-TV FOX 51 (Ocala/Gainsville FL)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/902
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WWSB-TV ABC 7 (Sarasota FL)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/3250
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",KCWX-TV MyNetworkTV 2 (San Antonio TX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WOAI-TV NBC 4 (San Antonio TX)
@@ -148,7 +150,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415679
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KLAS-TV CBS 8 (Las Vegas NV)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1651
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KTNV-TV ABC 13 (Las Vegas NV)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329003
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1657
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KVCW-TV CW 33 (Las Vegas NV)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/416028
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KSWB-TV FOX 5/69 (San Diego CA)
@@ -265,7 +267,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415949
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415776
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WCNC-TV NBC 36 (Charlotte NC)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131177
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WJZY-TV FOX 46(Charlotte NC)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WJZY-TV FOX 46 (Charlotte NC)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415633
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KCNC-TV CBS 4 (Denver CO)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/907
@@ -336,7 +338,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415424
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WEWS-TV ABC 5 (Cleveland OH)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/975
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WJW-TV FOX 8 (Cleveland OH)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415638
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/976
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WLIO-TV NBC 8 (Lima OH)
 https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WRTV-TV ABC 6 (Indianapolis IN)
@@ -385,10 +387,10 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1669 WFRV-TV CBS 5
 http://cbsplaylistserver.aws.syncbak.com/mpl/20160401/865666/5743360/media.m3u8?request_token=Z1-ZrI8l37vCBmH6YKlQZNFcvAXYiLJN8c0K9gQTvqeAS2QJAdKCNfJi781AV_GZ0FiNd9AuyH162KN25KKJ1iwvz5KrioIJ6D1yPHrvpZ68JmiHTY6U93wIgD_NiMxFXxR_tw_MCi_hka74r9ng6aLxngs2p8TTSlCW71SMmjHsk4wN7kcHLDtoRtcivA&CMCD=mtp%3D111600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ac2d9503-527a-4258-a660-a8841776bd7c%22
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KING-TV NBC 5 (Seattle WA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/237256
-#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KCPQ-TV FOX 13 (Seattle WA)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415727
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KIRO-TV CBS 7 (Seattle WA)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1255
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KCPQ-TV FOX 13 (Seattle WA)
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1256
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KRGV-TV ABC 5 (Weslaco TX)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/264111
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WPMT-TV FOX 43 (Harrisburg PA)
