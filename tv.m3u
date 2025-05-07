@@ -114,11 +114,11 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131201
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WKMG-TV CBS 6 (Orlando FL)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1041
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WFTV-TV ABC 9 (Orlando FL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415811
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1042
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WFTV-TV ABC 9 Now (Orlando FL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvnow-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WOFL-TV FOX 35 (Orlando FL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415699
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1040
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SuperChannel_2021.png" group-title="Local Channels",WACX-TV 55.1 SuperChannel Orlando (Orlando FL)
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WOGX-TV FOX 51 (Ocala/Gainsville FL)
@@ -254,7 +254,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415713
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WSB-TV ABC 2 (Atlanta GA)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1443
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WAGA-TV FOX 5 (Atlanta GA)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415617
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1445
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WXIA-TV NBC 11 (Atlanta GA)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1446
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WGCL-TV CBS 46 (Atlanta GA)
@@ -1980,7 +1980,7 @@ https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Circle Country #2
 https://amg00432-amg00432c1-circle-worldwide-2821.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-circleworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",The Cowboy Channel
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122527
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1460
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Outlaw (The Western Channel)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Wild West TV
