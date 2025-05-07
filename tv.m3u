@@ -98,7 +98,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/876
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WSVN-TV FOX 7 (Miami FL)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/269
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WPLG-TV ABC 10 (Miami FL)
-http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/987
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WFLA-TV NBC 8 (Tampa FL)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1327
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WTSP-DT CBS 10 (Tampa FL)
@@ -106,7 +106,7 @@ http://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WTVT-TV FOX 13 (Tampa Bay FL)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415728
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WFTS-TV ABC 28 (Tampa Bay FL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329011
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1032
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/08/tampa-bay-44-logo-768x434.jpg" group-title="Local Channels",WTOG-TV Ind. 44 (Tampa Bay FL)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131041
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WESH-TV NBC 2 (Orlando FL)
