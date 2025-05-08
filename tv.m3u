@@ -48,7 +48,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415958
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WCCO-TV CBS 4 (Minneapolis/St. Paul MN)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415956
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KSTP-TV ABC 5 (Minneapolis/St. Paul MN)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/211
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415747
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KMSP-TV FOX 9 (Minneapolis/St. Paul MN)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/2162
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KARE-TV NBC 11 (Minneapolis/St. Paul MN)
@@ -68,7 +68,7 @@ https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WBZ-TV CBS 4 (Boston MA)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1852
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WCVB-TV ABC 5 (Boston MA)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415747
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/211
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WBTS-CD NBC 10 (Boston MA)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1851
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WFXT-CD FOX 25 (Boston MA)
@@ -2723,13 +2723,13 @@ https://v2.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",More Max
 https://v2.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",5 Star Max
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13381
+http://supersonictv.live:8080/live/144264/661943/22878.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Movie Max
 https://v2.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Outer Max
-http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22884.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Thriller Max
-http://lunar.pm:8080/mrjayp/Spectrum2/98686
+http://supersonictv.live:8080/live/144264/661943/22885.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Action Max
 http://lunar.pm:8080/mrjayp/Spectrum2/18211
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (West)
@@ -2739,17 +2739,17 @@ https://v2.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime 2
 https://v2.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Extreme
-http://fl3.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22912.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Next
-http://fl5.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22914.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase)
-http://lunar.pm:8080/mrjayp/Spectrum2/18182
+http://supersonictv.live:8080/live/144264/661943/22915.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Women
-http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22916.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Family Zone
-http://lunar.pm:8080/mrjayp/Spectrum2/98720
+http://supersonictv.live:8080/live/144264/661943/22913.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET)
-http://lunar.pm:8080/mrjayp/Spectrum2/98717
+http://supersonictv.live:8080/live/144264/661943/22911.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Movie Channel
 https://v2.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (West)
@@ -2759,41 +2759,41 @@ https://v2.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Cinema
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1250
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Comedy
-http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22921.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz In Black
-http://lunar.pm:8080/mrjayp/Spectrum2/58536
+http://supersonictv.live:8080/live/144264/661943/22923.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Edge
-http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22922.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Kids & Family
-http://lunar.pm:8080/mrjayp/Spectrum2/58535
+http://supersonictv.live:8080/live/144264/661943/22924.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319549
+http://supersonictv.live:8080/live/144264/661943/22925.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Classic
-http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22929.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense
-http://lunar.pm:8080/mrjayp/Spectrum2/98710
+http://supersonictv.live:8080/live/144264/661943/22931.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Action
-http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22927.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns
-http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22932.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Black
-http://lunar.pm:8080/mrjayp/Spectrum2/98704
+http://supersonictv.live:8080/live/144264/661943/22928.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Family
-http://lunar.pm:8080/mrjayp/Spectrum2/98708
+http://supersonictv.live:8080/live/144264/661943/22930.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+
-http://fl3.moveonjoy.com/EPIX/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22886.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Hits
-http://fl3.moveonjoy.com/EPIX_HITS/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22887.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Drive-In
-http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+http://supersonictv.live:8080/live/144264/661943/22888.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
-http://lunar.pm:8080/mrjayp/Spectrum2/18205
+http://supersonictv.live:8080/live/144264/661943/22889.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MoviePlex
-http://lunar.pm:8080/mrjayp/Spectrum2/98730
+http://supersonictv.live:8080/live/144264/661943/22905.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",IndiePlex
-http://lunar.pm:8080/mrjayp/Spectrum2/98727
+http://supersonictv.live:8080/live/144264/661943/22903.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",RetroPlex
-http://lunar.pm:8080/mrjayp/Spectrum2/98732
+http://supersonictv.live:8080/live/144264/661943/47746.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Sony Movie Channel
 http://lunar.pm:8080/mrjayp/Spectrum2/44026
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HDNET Movies
