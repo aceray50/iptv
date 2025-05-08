@@ -2705,17 +2705,17 @@ https://v2.thetvapp.to/hls/mlb-29/tracks-v1a1/mono.m3u8
 https://v2.thetvapp.to/hls/mlb-30/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO
-https://v2.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
+http://supersonictv.live:8080/live/144264/661943/22894.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO 2
-https://v2.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Comedy
-https://v2.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
+http://supersonictv.live:8080/live/144264/661943/22896.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Signature
-https://v2.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
+http://supersonictv.live:8080/live/144264/661943/22900.ts
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Comedy
+http://supersonictv.live:8080/live/144264/661943/22897.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Zone
-https://v2.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
+http://supersonictv.live:8080/live/144264/661943/22901.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Family
-https://v2.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
+http://supersonictv.live:8080/live/144264/661943/22898.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax
 https://v2.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",More Max
