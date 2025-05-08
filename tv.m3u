@@ -382,7 +382,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329132
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WDJT-TV CBS 58 (Milwaukee WI)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329141
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WFRV-TV CBS 5 (Green Bay WI)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1669 WFRV-TV CBS 5
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1669
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KREM-TV CBS 2 (Spokane WA)
 http://cbsplaylistserver.aws.syncbak.com/mpl/20160401/865666/5743360/media.m3u8?request_token=Z1-ZrI8l37vCBmH6YKlQZNFcvAXYiLJN8c0K9gQTvqeAS2QJAdKCNfJi781AV_GZ0FiNd9AuyH162KN25KKJ1iwvz5KrioIJ6D1yPHrvpZ68JmiHTY6U93wIgD_NiMxFXxR_tw_MCi_hka74r9ng6aLxngs2p8TTSlCW71SMmjHsk4wN7kcHLDtoRtcivA&CMCD=mtp%3D111600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ac2d9503-527a-4258-a660-a8841776bd7c%22
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KING-TV NBC 5 (Seattle WA)
@@ -2751,7 +2751,7 @@ http://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (East)
 https://v2.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Cinema
-http://lunar.pm:8080/mrjayp/Spectrum2/115159
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1250
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Comedy
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz In Black
