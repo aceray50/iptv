@@ -2781,11 +2781,11 @@ http://supersonictv.live:8080/live/144264/661943/22928.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Family
 http://supersonictv.live:8080/live/144264/661943/22930.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+
-http://supersonictv.live:8080/live/144264/661943/22886.ts
+http://fl3.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Hits
-http://supersonictv.live:8080/live/144264/661943/22887.ts
+http://fl3.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Drive-In
-http://supersonictv.live:8080/live/144264/661943/22888.ts
+http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
 http://supersonictv.live:8080/live/144264/661943/22889.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MoviePlex
@@ -2914,6 +2914,20 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a17c90d1-090b-11f0-92c8-3e7f6cb12bba&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Pluto TV Black Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=575bd0af-08fa-11f0-bed2-86d507b84126&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Action Movie
+http://supersonictv.live:8080/live/144264/661943/40480.ts
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Comedy Movie
+http://supersonictv.live:8080/live/144264/661943/40484.ts
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Crime Movie
+http://supersonictv.live:8080/live/144264/661943/40486.ts
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Horror Movie
+http://supersonictv.live:8080/live/144264/661943/40492.ts
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Horror Movie 2
+http://supersonictv.live:8080/live/144264/661943/40493.ts
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Kungfu
+http://supersonictv.live:8080/live/144264/661943/40495.ts
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Western Movie
+http://supersonictv.live:8080/live/144264/661943/40507.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 01
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34477
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 02
