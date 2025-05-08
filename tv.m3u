@@ -1816,7 +1816,7 @@ https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TV One
 https://v2.thetvapp.to/hls/TVOne/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Revolt
-http://fl3.moveonjoy.com/REVOLT/index.m3u8
+http://fl5.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Cleo TV
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Shades of Black
@@ -2716,9 +2716,7 @@ https://v2.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
 https://v2.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Family
 https://v2.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax (West)
-http://fl3.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax (East)
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax
 https://v2.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",More Max
 https://v2.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
@@ -2732,9 +2730,7 @@ http://supersonictv.live:8080/live/144264/661943/22884.ts
 http://supersonictv.live:8080/live/144264/661943/22885.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Action Max
 http://lunar.pm:8080/mrjayp/Spectrum2/18211
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (West)
-http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (East)
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime
 https://v2.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime 2
 https://v2.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
