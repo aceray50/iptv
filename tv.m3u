@@ -135,6 +135,8 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1490
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23445
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KABB-TV FOX 29 (San Antonio TX)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1491
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
+http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415644
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KXAS-TV NBC 5 (Ft. Worth/Dallas TX)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131181
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KFAA-TV ABC 8 (Ft. Worth/Dallas TX)
@@ -149,6 +151,8 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/718
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/2157
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KRIV-TV FOX 26 (Houston TX)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/720
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KRGV-TV ABC 5 (Weslaco TX)
+http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/264111
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WWL-TV CBS 4 (New Orleans LA)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/995
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WDSU-TV NBC 6 (New Orleans LA)
@@ -325,8 +329,6 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415788
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329113
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KSTU-TV FOX 13 (Salt Lake City UT)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415715
-#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415644
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KOKH-TV FOX 25 (Oklahoma City OK)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131096
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WBNS-TV CBS 10 (Columbus OH)
@@ -395,8 +397,6 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/237256
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1255
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KCPQ-TV FOX 13 (Seattle WA)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1256
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KRGV-TV ABC 5 (Weslaco TX)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/264111
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WPMT-TV FOX 43 (Harrisburg PA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131063
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WHAS-TV ABC 11 (Louisville KY)
@@ -4823,15 +4823,27 @@ https://a1xs.vip/2000021
 https://a1xs.vip/2000022
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TNT Sports 3 (UK)
 https://a1xs.vip/2000023
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Action (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35254
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Drama (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35251
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Action (UK)
+http://supersonictv.live:8080/live/144264/661943/77462.ts
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Comedy (UK)
+http://supersonictv.live:8080/live/144264/661943/77463.ts
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Hits (UK)
+http://supersonictv.live:8080/live/144264/661943/77464.ts
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Drama (UK)
+http://supersonictv.live:8080/live/144264/661943/77465.ts
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Family (UK)
+http://supersonictv.live:8080/live/144264/661943/77466.ts
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Greats (UK)
+http://supersonictv.live:8080/live/144264/661943/77467.ts
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Premiere (UK)
+http://supersonictv.live:8080/live/144264/661943/77468.ts
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Sci-Fi & Horror (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35248
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Comedy (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53661
+http://supersonictv.live:8080/live/144264/661943/77469.ts
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Select (UK)
+http://supersonictv.live:8080/live/144264/661943/77470.ts
 
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
+http://supersonictv.live:8080/live/144264/661943/77471.ts
 #EXTINF:-1 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
 http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/150991
 #EXTINF:-1 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV Latin America
