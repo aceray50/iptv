@@ -1790,11 +1790,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV 2
 https://v2.thetvapp.to/hls/mtv-2-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV Classic
-http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV Live
-http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+http://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV U
-http://fl3.moveonjoy.com/MTV_U/index.m3u8
+http://fl5.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LGBT",Logo
 https://v2.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LGBT",Logo (Pluto TV)
@@ -1810,11 +1810,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Her
 https://v2.thetvapp.to/hls/BETHerEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Jams
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+http://fl5.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Soul
-http://fl3.moveonjoy.com/BET_SOUL/index.m3u8
+http://fl5.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Gospel
-http://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8
+http://fl5.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FOX Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Pluto Black Classics
@@ -2259,17 +2259,17 @@ https://v2.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2
 https://v2.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN News
-https://v2.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
+http://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN U
 https://v2.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",PAC 12 Insider
 https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACC Network ESPN
-https://v2.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8
+http://fl5.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACCDN
 https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",SEC Network ESPN
-https://v2.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
+http://fl5.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",CBS Sports Network
 https://v2.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",CBS Sports HQ
@@ -2303,7 +2303,7 @@ https://v2.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",New England Sports Network
 https://v2.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports
-http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+http://fl5.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports XL
 https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports 5
@@ -2725,81 +2725,81 @@ https://v2.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Zone
 https://v2.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Family
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/157
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax
 https://v2.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",More Max
 https://v2.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",5 Star Max
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1605
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/13381
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Movie Max
-https://v2.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Outer Max
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1606
+http://fl5.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Thriller Max
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1607
+http://lunar.pm:8080/mrjayp/Spectrum2/98686
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Action Max
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1604
+http://lunar.pm:8080/mrjayp/Spectrum2/18211
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime
 https://v2.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime 2
 https://v2.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Extreme
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/385
+http://fl3.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Next
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1187
+http://fl5.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1465
+http://lunar.pm:8080/mrjayp/Spectrum2/1818265
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Women
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1251
+http://fl5.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Family Zone
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1464
+http://lunar.pm:8080/mrjayp/Spectrum2/98720
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1619
+http://lunar.pm:8080/mrjayp/Spectrum2/98717
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Movie Channel
 https://v2.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (West)
-http://fl3.moveonjoy.com/STARZ_WEST/index.m3u8
+http://fl5.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (East)
 https://v2.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Cinema
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1250
+http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Comedy
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1653
+http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz In Black
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/397
+http://lunar.pm:8080/mrjayp/Spectrum2/58536
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Edge
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/444
+http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Kids & Family
 http://lunar.pm:8080/mrjayp/Spectrum2/58535
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1468
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319549
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Classic
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1471
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1249
+http://lunar.pm:8080/mrjayp/Spectrum2/98710
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Action
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1469
+http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/649
+http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Black
 http://lunar.pm:8080/mrjayp/Spectrum2/98704
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Family
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1472
+http://lunar.pm:8080/mrjayp/Spectrum2/98708
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+
-http://fl3.moveonjoy.com/EPIX/index.m3u8
+http://fl5.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Hits
-http://fl3.moveonjoy.com/EPIX_HITS/index.m3u8
+http://fl5.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Drive-In
-http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+http://fl5.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
 http://lunar.pm:8080/mrjayp/Spectrum2/18205
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MoviePlex
-http://supersonictv.live:8080/live/144264/661943/22905.ts
+http://lunar.pm:8080/mrjayp/Spectrum2/98730
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",IndiePlex
-http://supersonictv.live:8080/live/144264/661943/22903.ts
+http://lunar.pm:8080/mrjayp/Spectrum2/98727
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",RetroPlex
-http://supersonictv.live:8080/live/144264/661943/47746.ts
+http://lunar.pm:8080/mrjayp/Spectrum2/98732
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Sony Movie Channel
 http://lunar.pm:8080/mrjayp/Spectrum2/44026
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HDNET Movies
