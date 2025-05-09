@@ -454,9 +454,9 @@ https://apollo.production-public.tubi.io/live/ac-wtxf.m3u8
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WCVB-TV ABC 5 24/7 News (Boston MA)
 https://pubads.g.doubleclick.net/ssai/event/Yo0UqqfJQp2EXhFEfrdDGQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WBTS-CD TV NBC 10 24/7 News (Boston MA)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WBTS-CD NBC 10 24/7 News (Boston MA)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/playlist.m3u8?ads.xumo_channelId=99951168
-#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",WFXT-CD TV FOX 25 24/7 News (Boston MA)
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",WFXT-CD FOX 25 24/7 News (Boston MA)
 https://dbrb49pjoymg4.cloudfront.net/10001/9995108/hls/playlist.m3u8?ads.xumo_channelId=9995108
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KDKA-TV CBS 2 24/7 News (Pittsburg PA)
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
@@ -484,6 +484,18 @@ https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvweather-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KENS-TV CBS 5 24/7 News (San Antonio TX)
 https://video.tegnaone.com/kens/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KENS-Production/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KXAS-TV NBC 5 24/7 News (Ft. Worth/Dallas TX)
+https://d2kowtvrzzi7ps.cloudfront.net/11602/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WFFA-TV ABC 8 24/7 News (Ft. Worth/Dallas TX)
+https://video.tegnaone.com/wfaa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA-Production/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KTVT-TV CBS 11 24/7 News (Ft. Worth/Dallas TX)
+http://dai.google.com/linear/hls/event/ogzLhRCkRbG3lFHHJwqaNw/master.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KPRC-TV NBC 2 24/7 News (Houston TX)
+https://pubads.g.doubleclick.net/ssai/event/jHV2RfV4QQuU2swXQUVHsA/master.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KHOU-TV CBS 11 24/7 News (Houston TX)
+https://video.tegnaone.com/khou/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU-Production/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",KTRK-TV ABC 13 24/7 News (Houston TX)
+https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KTVK-TV/KPHO-TV 3TV & CBS 5 24/7 News (Phoenix AZ)
 https://zeam-playlist.aws.syncbak.com/cpl/18563081/dai2v6/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MTczMzUsIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6ImQyZDAyMjE5ODhjNjQyMGY4N2E3MjMzZjI4Y2EwYzQzIiwiaXAiOiI1NC4yMDkuODcuMTQyIiwidWlwIjoiNDcuMTU5LjE4My40MiIsImRtYSI6ODAzLCJzbiI6IldlYiAxNDhhOTcyMDBmICIsInVpZCI6bnVsbCwiY3NiIjpmYWxzZSwibWlkIjoiMTg1NjMwODEiLCJtZDUiOiJkYTFiYTUyNjgzNzBiODcxNGQ2MTQxMDQwMTYwYzEzYiIsImlhdCI6MTc0NjQxMTA2MSwiZXhwIjoxNzQ2NDExMTUxLCJpc3MiOiJXTFMiLCJzdWIiOiI1MDk1Y2I1Yi04NmQ1LTQwYTctOTk1Ny0yMWNmYjgyMTQ1NzIifQ.a047bApFEcORxyONvmXuuexswNLa_SbjinQy0H16LcU
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KPNX-TV NBC 12 24/7 News (Phoenix AZ)
@@ -1319,8 +1331,6 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334581
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334518
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WUVG-TV UniMás 34.2 (Atlanta GA)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334558
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUTH-TV Univision 32 (Salt Lake UT)
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334524
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WKAQ-TV Telemundo 2.1 (San Juan PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://dishcaribbean.com/img/upload/punto2-color-logo.png" group-title="Latino (Spanish)",WKAQ-TV Punto 2 2.2 (San Juan PR)
