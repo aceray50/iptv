@@ -1293,8 +1293,6 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334530
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334594
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KSTR-TV UniMás 49 (Ft. Worth/Dallas TX)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35114
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KAKW-TV Univision 62 (Austin TX)
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334519
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KXLN-TV Univision 45 (Houston TX)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334532
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTMD-TV Telemundo 47 (Houston TX)
@@ -2258,18 +2256,18 @@ https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/liv
 https://v2.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2
 https://v2.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN News
-http://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN U
 https://v2.thetvapp.to/hls/ESPNU/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",PAC 12 Insider
-https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN News
+https://v2.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",SEC Network ESPN
+https://v2.thetvapp.to/hls/SECN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACC Network ESPN
-http://fl5.moveonjoy.com/ACC_NETWORK/index.m3u8
+https://v2.thetvapp.to/hls/ACCNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACCDN
 https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SEC Network ESPN
-http://fl5.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",PAC 12 Insider
+https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",CBS Sports Network
 https://v2.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",CBS Sports HQ
@@ -2725,7 +2723,7 @@ https://v2.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Zone
 https://v2.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Family
-http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+https://v2.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax
 https://v2.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",More Max
