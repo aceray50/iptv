@@ -1868,8 +1868,6 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://dbrb49pjoymg4.cloudfront.net/10001/99951297/hls/master.m3u8?ads.xumo_channelId=99951297
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Xumo Free Comedy TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991105/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991105
-#EXTINF:-1 tvg-logo="" group-title="Comedy",Xumo Comedy Movies
-https://live-content.xumo.com/2462/content/XM0EKWEZLVHK68/26725111/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Comedy",NBC Comedy Vault
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951244/hls/master.m3u8?ads.xumo_channelId=99951244
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Pluto TV Comedy
@@ -2814,12 +2812,12 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d46934ea1
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cowboy Movie Channel
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1740795097&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6746dc61d1615e1ba20ac5ef
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineLife
-https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Film Detective
 https://cineverse.g-mana.live/media/241999a9-fa38-4111-aa00-ee1f3293bca1/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Encore+
 https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineLife
+https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineVault
 https://live-manifest.production-public.tubi.io/live/6386e065-6010-4fd3-b438-407dbb63eb23/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineVault Classics
@@ -2876,10 +2874,10 @@ https://amg00163-shoutfactory-shoutfactorytv-zype-psuhs.amagi.tv/playlist/amg001
 https://amg00163-amg00163c15-zype-international-7166.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutmovies-zypeinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Scream! Factory TV
 https://linear-730.frequency.stream/dist/dice/730/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Horror by ALTER
-https://amg01312-cw-amg01312c19-cw-us-3284.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-alter-cwus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Scream Box TV
 https://cineverse.g-mana.live/media/1d38c3be-9216-40e7-8b4d-7c51a882e002/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Horror by ALTER
+https://amg01312-cw-amg01312c19-cw-us-3284.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-alter-cwus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Electric Now
 https://amg01705-electric-amg01705c1-cw-us-2376.playouts.now.amagi.tv/playlist/amg01705-electricentertainmentfast-electricnow-cwus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",CrimeFlix
