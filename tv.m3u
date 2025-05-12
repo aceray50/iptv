@@ -31,8 +31,6 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/3253
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23665
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WGN-TV CW 9 (Chicago IL)
 http://fl3.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 tvg-logo="https://wljc.com/wp-content/uploads/2024/03/story_black_green.png" group-title="Local Channels",WCIU-TV 26.5 The Story (Chicago IL)
-https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WFLD-TV FOX 32 (Chicago IL)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1525
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WJBK-TV FOX 2 (Detroit MI)
@@ -645,6 +643,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_c
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20189
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 tvg-logo="https://wljc.com/wp-content/uploads/2024/03/story_black_green.png" group-title="Network Channels",The Story
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Buzzr #1
 https://dbrb49pjoymg4.cloudfront.net/10001/99951124/hls/playlist.m3u8?ads.xumo_channelId=99951124
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Buzzr #2
@@ -1354,9 +1354,11 @@ https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunkl
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",WJAN-CD América TeVé 41 (Miami FL)
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Latin Hola TV
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/139757
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1696
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",WSBS-TV Mega TV 22 (Key West FL)
 http://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Mega TV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/124
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",KDOC-TV 56.5 Majestad Televisión
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",LATV #1
@@ -2733,9 +2735,9 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Outer Max
 http://fl5.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Thriller Max
-http://lunar.pm:8080/mrjayp/Spectrum2/98686
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1607
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Action Max
-http://lunar.pm:8080/mrjayp/Spectrum2/18211
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1604
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime
 https://v2.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime 2
@@ -2745,13 +2747,13 @@ http://fl3.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Next
 http://fl5.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase)
-http://lunar.pm:8080/mrjayp/Spectrum2/18182
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1465
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Women
 http://fl5.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Family Zone
-http://lunar.pm:8080/mrjayp/Spectrum2/98720
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1464
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET)
-http://lunar.pm:8080/mrjayp/Spectrum2/98717
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1619
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Movie Channel
 https://v2.thetvapp.to/hls/TheMovieChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (West)
@@ -2773,7 +2775,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1468
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Classic
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense
-http://lunar.pm:8080/mrjayp/Spectrum2/98710
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1249
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Action
 http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns
@@ -2781,7 +2783,7 @@ http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Black
 http://lunar.pm:8080/mrjayp/Spectrum2/98704
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Family
-http://lunar.pm:8080/mrjayp/Spectrum2/98708
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1472
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+
 http://fl5.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Hits
