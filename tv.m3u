@@ -2,23 +2,23 @@
 #EXTINF:-1 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KNBC-TV NBC 4 (Los Angeles CA)
-https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/986
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KTLA-TV CW 5 (Los Angeles CA)
 http://lunar.pm:8080/mrjayp/Spectrum2/122965
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
-https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/210
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/985
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
-https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/721
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
-https://tvpass.org/live/WCBSDT1/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/719
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
 https://tvpass.org/live/WNBCDT1/hd
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
-https://tvpass.org/live/WNYWDT1/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/728
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WABC-TV ABC 7 (New York NY)
-https://tvpass.org/live/WABCDT1/hd
+http://fl5.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",WWOR-TV MyNetworkTV 9 (New York NY)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/135
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
@@ -94,7 +94,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/877
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WTVJ-TV NBC 6 (Miami FL)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/876
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WSVN-TV FOX 7 (Miami FL)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/269
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/879
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WPLG-TV ABC 10 (Miami FL)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/987
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WFLA-TV NBC 8 (Tampa FL)
@@ -594,7 +594,7 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MeTV
-https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/744
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",ION
 https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",ION Plus
@@ -632,7 +632,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/172481
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Get TV
 http://fl3.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Grit TV
-http://fl3.moveonjoy.com/GRIT_TV/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/734
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Grit Xtra
 https://amg01438-ewscripps-amg01438c46-cw-us-2390.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsgritxtra-cwus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Laff
@@ -1256,7 +1256,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1656
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
 https://tvpass.org/live/UnivisionEast/hd
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNJU-TV Telemundo 47 (New York NY)
-https://tvpass.org/live/TelemundoEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/281
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WFTY-TV UniMás 67 (New York NY)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334570
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WLTV-TV Univision 23 (Miami FL)
@@ -1431,9 +1431,9 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery Channel
-https://tvpass.org/live/DiscoveryChannelEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/184
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Animal Planet
-https://tvpass.org/live/AnimalPlanetEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/207
 #EXTINF:-1 tvg-logo="" group-title="Documentary",AKC TV
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DogTV
@@ -1443,15 +1443,15 @@ https://amg00111-amg00111c3-cw-us-3035.playouts.now.amagi.tv/playlist/amg00111-h
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Taste Made Travel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelenglish24i-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Travel Channel
-https://tvpass.org/live/TravelChannelEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/239
 #EXTINF:-1 tvg-logo="" group-title="Documentary",ID (Investigation Discovery)
-http://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+http://fl5.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery Life
-https://tvpass.org/live/DiscoveryLife/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/182
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery Science
-https://tvpass.org/live/Science/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/181
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Destination America
-https://tvpass.org/live/DestinationAmerica/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/185
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Pluto TV History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cbb5a-7b2e-11ef-bb34-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=490827a6-31b6-461a-964f-bf7a48ab583d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Documentary",History Channel
@@ -1461,13 +1461,13 @@ http://lunar.pm:8080/mrjayp/Spectrum2/110783
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Military History
 http://lunar.pm:8080/mrjayp/Spectrum2/110786
 #EXTINF:-1 tvg-logo="" group-title="Documentary",National Geographic
-https://tvpass.org/live/NationalGeographicEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/141
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Nat Geo Wild
-https://tvpass.org/live/NationalGeographicWildEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/140
 #EXTINF:-1 tvg-logo="" group-title="Documentary",History Hit
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Outside TV
-http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/357
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Outside TV+
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Xplore #1
@@ -1493,7 +1493,7 @@ https://3649884182d1462a9cada0264c1a0d57.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Pursuit Channel
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",AHC (American Heroes Channel)
-https://tvpass.org/live/AmericanHeroesChannel/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/208
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Documentary+
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",DOC+
@@ -1509,13 +1509,13 @@ http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",REELZ (West)
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",REELZ (East)
-https://tvpass.org/live/Reelz/hd
+http://fl5.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",REELZ Famous and Infamous
 https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Infamous TV
 https://amg01324-infamous-amg01324c1-cineverse-us-1102.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Oxygen True Crime
-https://tvpass.org/live/OxygenEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/228
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Oxygen True Crime Archives
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951234/hls/master.m3u8?ads.xumo_channelId=99951234
 #EXTINF:-1 tvg-logo="" group-title="Documentary",True Crime Network+
@@ -1531,7 +1531,7 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Court TV Legendary Trials
 https://content.uplynk.com/channel/6adc980a399d4d0e9b923213b50e34ea.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",truTV
-https://tvpass.org/live/truTVEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1204
 #EXTINF:-1 tvg-logo="" group-title="Documentary",truTV+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/trutvwest.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",truTV+ (East)
@@ -1539,7 +1539,7 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tru
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Investigation
 https://dbrb49pjoymg4.cloudfront.net/10001/99951285/hls/master.m3u8?ads.xumo_channelId=99951285
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Crime & Investigation
-https://tvpass.org/live/CrimePlusInvestigation/hd
+http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Law & Crime
 https://dtqutq7lmcchv.cloudfront.net/10001/99991320/hls/playlist.m3u8?ads.xumo_channelId=99991320
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Choppertown
@@ -1572,23 +1572,23 @@ http://dai.google.com/linear/hls/event/nrb-l85CR7SIr-rGXqz4zA/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",LiveNOW from FOX
 https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",FOX News Channel
-https://tvpass.org/live/FoxNewsChannel/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/267
 #EXTINF:-1 tvg-logo="" group-title="News",FOX Business
-https://tvpass.org/live/FoxBusiness/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/268
 #EXTINF:-1 tvg-logo="" group-title="News",NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",NBC Dateline 24/7
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991626/hls/master.m3u8?ads.xumo_channelId=99991626
 #EXTINF:-1 tvg-logo="" group-title="News",CNBC
-https://tvpass.org/live/CNBC/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/192
 #EXTINF:-1 tvg-logo="" group-title="News",CNBC World
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319455
 #EXTINF:-1 tvg-logo="" group-title="News",CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",MSNBC
-https://tvpass.org/live/MSNBC/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/143
 #EXTINF:-1 tvg-logo="" group-title="News",CNN
-https://tvpass.org/live/CNN/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/191
 #EXTINF:-1 tvg-logo="" group-title="News",CNN International
 http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CNN+
@@ -1598,7 +1598,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ad6025cb5d
 #EXTINF:-1 tvg-logo="" group-title="News",CNN Headlines
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66b4fcc2530e39ea2ee79545.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="News",HLN (CNN Headline News)
-https://tvpass.org/live/HLN/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/152
 #EXTINF:-1 tvg-logo="" group-title="News",HLN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/hln.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Bloomberg TV
@@ -1612,7 +1612,7 @@ https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Bloomberg Quicktake
 https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",BBC News North America
-https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/764
 #EXTINF:-1 tvg-logo="" group-title="News",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Yahoo! Finance
@@ -1632,9 +1632,9 @@ http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Blaze TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1275
 #EXTINF:-1 tvg-logo="" group-title="News",C-SPAN
-https://tvpass.org/live/CSPAN/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1184
 #EXTINF:-1 tvg-logo="" group-title="News",C-SPAN 2
-https://tvpass.org/live/CSPAN2/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1185
 #EXTINF:-1 tvg-logo="" group-title="News",C-SPAN 3
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1186
 #EXTINF:-1 tvg-logo="" group-title="News",USA Today News
@@ -1688,7 +1688,7 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CGTN America
 http://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Weather News",The Weather Channel
-https://tvpass.org/live/TheWeatherChannel/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/301
 #EXTINF:-1 tvg-logo="" group-title="Weather News",The Weather Channel+
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Weather News",FOX Weather
@@ -1703,11 +1703,11 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 https://dbrb49pjoymg4.cloudfront.net/10001/99991372/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991372
 
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon
-https://tvpass.org/live/NickelodeonEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/327
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nick (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd630-7b2e-11ef-a94e-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebbf33a-e8f6-4c9f-91cc-df503deed9e8&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nick Jr.
-https://tvpass.org/live/NickJrEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/351
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nick Jr. (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nicktoons
@@ -1719,17 +1719,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd7de-7b2e-11ef-9bf8-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4e94404-1332-11f0-8694-3a1fbadd5755&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nick Music
-http://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/47
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Disney Channel
-https://tvpass.org/live/DisneyChannelEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/180
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Disney XD
-https://tvpass.org/live/DisneyXDEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/178
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Disney Jr.
-https://tvpass.org/live/DisneyJuniorEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/179
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",CN (Cartoon Network)
-https://tvpass.org/live/CartoonNetworkEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/199
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Boomerang by Cartoon Network
-https://tvpass.org/live/Boomerang/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/130
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Adult Swim+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Adult Swim+ (East)
@@ -1761,9 +1761,9 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Toonami Aftermath (East)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",FreeForm
-https://tvpass.org/live/FreeformEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/170
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Discovery Family
-https://tvpass.org/live/DiscoveryFamily/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/183
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Baby First #1
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319416
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Baby First #2
@@ -1780,15 +1780,15 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TV Land
-https://tvpass.org/live/tv-land-eastern/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/300
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Pluto Classic TV Family
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61325d18f5166c00081b84e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV
-https://tvpass.org/live/MTVEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/142
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV 2
-https://tvpass.org/live/mtv-2-east/hd
+http://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV Classic
 http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV Live
@@ -1796,23 +1796,23 @@ http://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV U
 http://fl5.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LGBT",Logo
-https://tvpass.org/live/LogoEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/952
 #EXTINF:-1 tvg-logo="" group-title="LGBT",Logo (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a9a-7b2e-11ef-8b51-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bbba5747-a534-474e-b169-1d3ce211896e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",OUTtv Proud
 https://amg00375-fusemedia-outtv-ono-fpk2m.amagi.tv/playlist/amg00375-fusemedia-outtv-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",VH1
-https://tvpass.org/live/VH1East/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/395
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET
-https://tvpass.org/live/BETEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/204
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c83d8-7b2e-11ef-badc-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2283f01b-889a-488b-88cb-244fd4bd914f&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Her
-https://tvpass.org/live/BETHerEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/203
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Jams
-http://fl5.moveonjoy.com/BET_Jams/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/950
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Soul
-http://fl5.moveonjoy.com/BET_SOUL/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/951
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Gospel
 http://fl5.moveonjoy.com/BET_GOSPEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FOX Soul
@@ -1824,7 +1824,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/176811
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",theGrio+
 https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TV One
-https://tvpass.org/live/TVOne/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/384
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Revolt
 http://fl5.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Cleo TV
@@ -1840,14 +1840,14 @@ https://amg01312-cw-amg01312c39-cw-us-6681.playouts.now.amagi.tv/playlist/amg013
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Backstage
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusexl/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",E! (Entertainment Television)
-https://tvpass.org/live/EEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/176
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",AXS-TV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/48324
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",AXS-TV Now
 https://amg00966-amg00966c9-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c9-amgplt0081/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Central
-https://tvpass.org/live/ComedyCentralEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/190
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Central (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy.tv
@@ -1910,25 +1910,25 @@ https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FX
-https://tvpass.org/live/FXEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/167
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FXX
-https://tvpass.org/live/FXXEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/165
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FXM (FOX Movie Channel)
-https://tvpass.org/live/FXMovieChannel/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/166
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TNT
-https://tvpass.org/live/TNTEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/240
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TNT+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tntwest.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TNT+ (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tnteast.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TBS
-https://tvpass.org/live/TBSEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/213
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TBS+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbswest.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TBS+ (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbseast.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",USA Network
-https://tvpass.org/live/USANetworkEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/251
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",El Rey Rebel
 https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-elrey-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Crime Beat TV
@@ -1938,13 +1938,13 @@ https://linear-914.frequency.stream/dist/dice/914/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Spike (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c5dfe-7b2e-11ef-8166-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=609775b2-41e9-4448-9930-83cdb66ebbbc&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount Network
-http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/221
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Paramount+ Picks (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",SYFY
-https://tvpass.org/live/SyfyEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/214
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BBC Sci-Fi
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Midnight Pulp
@@ -1955,9 +1955,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engmystify-freetv/p
 https://linear-731.frequency.stream/dist/dice/731/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cooking",Food Network
-https://tvpass.org/live/FoodNetworkEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/171
 #EXTINF:-1 tvg-logo="" group-title="Cooking",Cooking Channel
-https://tvpass.org/live/CookingChannel/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/189
 #EXTINF:-1 tvg-logo="" group-title="Cooking",Gusto TV
 https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cooking",Bon Appétit
@@ -1976,17 +1976,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv1624
 https://bozztv.com/gusa/gusa-chefrock/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TLC (The Learning Channel)
-https://tvpass.org/live/TLCEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/241
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Bravo
-https://tvpass.org/live/BravoEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/200
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",IFC (Independent Film Channel)
-https://tvpass.org/live/IFCEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/151
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",SundanceTV
-https://tvpass.org/live/SundanceTVEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/215
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",A&E (Arts & Entertainment)
-https://tvpass.org/live/AEEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/212
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",CMT (Country Music Television)
-https://tvpass.org/live/CMTEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/355
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",CMT (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a04-7b2e-11ef-adb4-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=09f1e2ea-743c-4fc9-99e7-f481a057bd47&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Circle Country #1
@@ -2006,21 +2006,21 @@ https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Ovation
 http://fl3.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",INSP
-http://fortv.cc:8080/0n8u9R/169324/16262
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/895
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Smithsonian Channel
-http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/518
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Smithsonian Channel (Pluto)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Aspire
-http://fl3.moveonjoy.com/Aspire/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/2156
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BBC America
-https://tvpass.org/live/BBCAmericaEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/206
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",OuterSphere by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951250/hls/playlist.m3u8?ads.xumo_channelId=99951250
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Pop TV
-http://fl3.moveonjoy.com/Pop_TV/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Vice
-https://tvpass.org/live/VICETV/hd
+http://fl5.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Vice News
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635ff8bb66f96b46951ab7f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",YouToo America
@@ -2028,9 +2028,9 @@ https://thegateway.app/YouToocdn/YTamerica/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",WPS TV
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",LifeTime
-https://tvpass.org/live/LifetimeEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/148
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",LMN (LifeTime Movie Network)
-https://tvpass.org/live/LifetimeMoviesEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/147
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Movie Favorites By Lifetime (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=17d6d310-246c-4678-a980-a3043d16f2a3&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MyTime Movie Network
@@ -2044,7 +2044,7 @@ https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LGBT",Revry News
 https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",WE TV (Women Entertainment Television)
-https://tvpass.org/live/WeTVEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/247
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",WE Absolute Reality
 http://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",HerSphere by Lionsgate
@@ -2060,9 +2060,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Smart Lifestyle TV
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",HGTV (Home and Garden Television)
-https://tvpass.org/live/HGTVEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/154
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Magnolia Network
-http://fl3.moveonjoy.com/DIY/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/177
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",NBC LX Home
 http://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",The Design Network
@@ -2076,15 +2076,15 @@ https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Motor Trend
-https://tvpass.org/live/Motortrend/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/250
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",World Fishing Network
 http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Reel Life
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/382
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FYI
-https://tvpass.org/live/FYIEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/164
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Fuse
-https://tvpass.org/live/FuseEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/169
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",UpTV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/10525
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GSN (Game Show Network)
@@ -2094,17 +2094,17 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991750/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BBC Game Shows
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",OWN (Oprah Winfrey Network)
-https://tvpass.org/live/OWNEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/229
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Ebony TV by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951293/hls/playlist.m3u8?ads.xumo_channelId=99951293
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",AMC (American Movie Classics)
-https://tvpass.org/live/AMCEast/hd
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",AMC+
 http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",AMC Thriller
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66243
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TCM (Turner Classic Movies)
-https://tvpass.org/live/TCMEast/hd
+http://fl5.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TCM+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TCM+ (East)
@@ -2118,7 +2118,7 @@ https://tvpass.org/live/HallmarkChannelEast/hd
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Hallmark Family
 https://tvpass.org/live/HallmarkDrama/hd
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Hallmark Mystery
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/161
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",80's Sitcom Flashback
@@ -2253,23 +2253,23 @@ http://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN
-https://tvpass.org/live/ESPN/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2
-https://tvpass.org/live/ESPN2/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/173
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN U
-https://tvpass.org/live/ESPNU/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/172
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN News
-https://tvpass.org/live/ESPNews/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/134
 #EXTINF:-1 tvg-logo="" group-title="Sports",SEC Network ESPN
-https://tvpass.org/live/SECN/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/295
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACC Network ESPN
-https://tvpass.org/live/ACCNetwork/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/296
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACCDN
 https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",PAC 12 Insider
 https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",CBS Sports Network
-https://tvpass.org/live/CBSSportsNetworkUSA/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/197
 #EXTINF:-1 tvg-logo="" group-title="Sports",CBS Sports HQ
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",CBS Sports Golazo Network
@@ -2279,13 +2279,13 @@ http://dai.google.com/linear/hls/event/ydKcHHYQSt27vbSP38xMVw/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (Boston)
-https://tvpass.org/live/nbc-sports-boston/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/590
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (Bay Area)
-https://tvpass.org/live/nbc-sports-bay-area/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/591
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (California)
-https://tvpass.org/live/nbc-sports-california/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/589
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (Philadelphia)
-https://tvpass.org/live/nbc-sports-philadelphia/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/586
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (Chicago)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319515
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Sports (Washington)
@@ -2301,7 +2301,7 @@ https://tvpass.org/live/monumental-sports-network/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",New England Sports Network
 https://tvpass.org/live/new-england-sports-network/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports
-http://fl5.moveonjoy.com/BEIN_SPORTS/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/205
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports XL
 https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports 5
@@ -2321,15 +2321,15 @@ https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Spo
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX Sports on Tubi
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FSN 1
-https://tvpass.org/live/FoxSports1/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/263
 #EXTINF:-1 tvg-logo="" group-title="Sports",FSN 2
-https://tvpass.org/live/FoxSports2/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX Sports Racing
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162830
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX Soccer Plus
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319479
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV
-https://tvpass.org/live/NBATV/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/136
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBA Channel
 https://apollo.production-public.tubi.io/live/nba-xveaQ4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBA G League TV
@@ -2339,21 +2339,19 @@ https://lockedonsports-nba-live.sports.tv/v1/master/758627660e995d43cdf594915ca6
 #EXTINF:-1 tvg-logo="" group-title="Sports",The Original Globetrotters
 https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8?ads.wurl_channel=1909
 #EXTINF:-1 tvg-logo="" group-title="Sports",NFL Network
-https://tvpass.org/live/NFLNetwork/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/234
 #EXTINF:-1 tvg-logo="" group-title="Sports",NFL Channel
 https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NFL Red Zone
-https://tvpass.org/live/NFLRedZone/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/260
 #EXTINF:-1 tvg-logo="" group-title="Sports",Locked on NFL
 https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5a5e6d0c3a5f3ad07b6d4_lockedonsports-nfl-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",MLB Network
-https://tvpass.org/live/MLBNetwork/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/145
 #EXTINF:-1 tvg-logo="" group-title="Sports",MLB Channel
 https://apollo.production-public.tubi.io/live/mlb2-RR0NCJ.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",MLB Network Strike Zone
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329093
 #EXTINF:-1 tvg-logo="" group-title="Sports",NHL Network
-https://tvpass.org/live/NHLNetwork/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/299
 #EXTINF:-1 tvg-logo="" group-title="Sports",NHL Channel
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Big Play Sports Network
@@ -2367,7 +2365,7 @@ https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Space City Home Network
 https://tvpass.org/live/space-city-home-network/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Spectrum SportsNet LA
-https://tvpass.org/live/spectrum-sportsnet-la/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/873
 #EXTINF:-1 tvg-logo="" group-title="Sports",Spectrum Sportsnet Lakers
 https://tvpass.org/live/spectrum-sportsnet/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet West
@@ -2393,7 +2391,7 @@ https://6788041e31d84d16a8543d7183a2dd42.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sports Grid Live
 https://sportsgrid-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_60d4f2ce961d1109be12f573_sportsgrid-live-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Tennis Channel
-https://tvpass.org/live/TennisChannel/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/244
 #EXTINF:-1 tvg-logo="" group-title="Sports",T2 Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Tennis+
@@ -2405,7 +2403,7 @@ https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 #EXTINF:-1 tvg-logo="" group-title="Sports",PBTV Pickleball TV
 https://amg01444-tennischannel-amg01444c3-tennischannel-us-1912.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-tennischannelus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Golf Channel
-https://tvpass.org/live/GolfChannel/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/138
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBC Golf Pass
 https://d4whmvwm0rdvi.cloudfront.net/10001/99991660/hls/master.m3u8?ads.xumo_channelId=99991660
 #EXTINF:-1 tvg-logo="" group-title="Sports",PGA Tour
@@ -2421,7 +2419,7 @@ https://fhdinternationalhermes.live.clipmyhorse.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",TVG Racebook
 https://d3my5j6o8w4ud5.cloudfront.net/out/v1/84a40d370d6e456cad17143ad8ff1671/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel TV (Formerly TVG)
-http://fl3.moveonjoy.com/TVG/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/332
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel TV+
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel 2 Racing
@@ -2493,7 +2491,7 @@ https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Speed Vision
 https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",The Outdoor Channel
-https://tvpass.org/live/OutdoorChannel/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/292
 #EXTINF:-1 tvg-logo="" group-title="Sports",Outdoor TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Outdoor America
@@ -2519,9 +2517,9 @@ https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",WPT (World Poker Tour)
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",YES Network
-https://tvpass.org/live/yes-network/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
 #EXTINF:-1 tvg-logo="" group-title="Sports",Big Ten Network
-https://tvpass.org/live/BTN/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/202
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sports Grid
 http://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Unbeaten
@@ -2571,7 +2569,7 @@ https://fight-network-3-live.sports.tv/v1/master/758627660e995d43cdf594915ca608e
 #EXTINF:-1 tvg-logo="" group-title="Sports",Swerve Sports
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG Network
-https://tvpass.org/live/msg-madison-square-gardens/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/287
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG 2
 https://tvpass.org/live/msg-plus/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSGSN
@@ -2585,7 +2583,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsCISqZPjGRjkT1Nw0PV5Zg
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG SportsZone
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Sports",WWE Network
-http://fl5.moveonjoy.com/WWE/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/398
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fightbox
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145482
 #EXTINF:-1 tvg-logo="" group-title="Sports",TNA Wrestling Channel
@@ -2713,19 +2711,19 @@ https://tvpass.org/live/mlb-29/hd
 https://tvpass.org/live/mlb-30/hd
 
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO
-https://tvpass.org/live/HBOEast/hd
+http://fl5.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO 2
-https://tvpass.org/live/HBO2East/hd
+http://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Signature
-https://tvpass.org/live/HBOSignatureEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/156
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Comedy
-https://tvpass.org/live/HBOComedyEast/hd
+http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Zone
-https://tvpass.org/live/HBOZoneEast/hd
+http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Family
-https://tvpass.org/live/HBOFamilyEast/hd
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax
-https://tvpass.org/live/CinemaxEast/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/196
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",More Max
 https://tvpass.org/live/MoreMaxEast/hd
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",5 Star Max
@@ -2759,7 +2757,7 @@ https://tvpass.org/live/TheMovieChannelEast/hd
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (West)
 http://fl5.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (East)
-https://tvpass.org/live/StarzEast/hd
+http://fl5.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Cinema
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17775
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Comedy
@@ -3570,9 +3568,9 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302683
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TV Azteca GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cinema Azteca (Mexico)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3706
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/72
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Azteca Corazón
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302681
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/29
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Buena Televisión
@@ -3644,27 +3642,27 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302605
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",SYFY en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/150105
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",WB TV en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302746
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/17
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Universal Channel en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302739
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Universal TV
-http://200.229.147.142:8000/play/a04d
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/18
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Studio Universal
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302721
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",E! Entertainment en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302636
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/30
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TNT en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302733
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/74
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TNT Series
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302734
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",USA en Español
-http://181.188.234.21:8000/play/a03i/index.m3u8
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/31
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TBS (i/e)
 http://170.254.18.106/TBS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Paramount Network en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34984
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",MTV en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35015
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/620
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",MTV en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",VH1 en Español
@@ -3678,23 +3676,23 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302710
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nick en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd6bc-7b2e-11ef-a935-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1602d877-b320-408c-baba-bd38374c2743&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nick Jr. en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302712
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/45
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nicktoons en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3665
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TeenNick en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313028
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Disney Channel en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302631
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/46
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Disney Jr. en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302632
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/44
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cartoon Network en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302621
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cartoonito en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312751
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/52
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Toon Cast
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313161
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/36
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Adult Swim en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302736
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/22
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Baby First en Español
@@ -3702,27 +3700,27 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34792
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Baby TV en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312755
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Comedy Central en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302692
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/23
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Comedy Central en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery Kids en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302625
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/43
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302627
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/60
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery Turbo en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302629
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery Home and Health en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302693
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/62
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery Familia
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/2029
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery Theater en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34819
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/56
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery World en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302630
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Investigation Discovery en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302674
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/32
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Discovery Science en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302628
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/110
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Animal Planet en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302606
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",History Channel en Español 
@@ -3730,7 +3728,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302673
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",H2 (History Channel 2) en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302662
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nat Geo en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302706
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/63
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Wild en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/2012
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Taste Made en Español
@@ -3752,17 +3750,17 @@ https://amg00235-amg00235c3-estrellamedia-us-4154.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",MyTime Movie Network en Español
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Food Network en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302644
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/27
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Gusto TV en Español
 https://amg01077-gustofast-amg01077c8-freetv-us-2222.playouts.now.amagi.tv/playlist/amg01077-gusto-gustoesp-freetvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",A&E en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302612
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/20
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Universal Crime
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302741
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Paramount Network en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302716
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FX en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302655
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/19
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Bravo (i/e)
 http://170.254.18.106/BRAVO/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",LifeTime
@@ -3807,6 +3805,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302616
 http://200.229.147.142:8000/play/a07o
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TeleHit Musica
 http://200.229.147.142:8000/play/a07e
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Wapa
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/127
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Wapa+
 https://live1009.delivery.roku.com/48f0cc45-b8ca-4d04-9d2a-7995b62cbd38/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",MVStv
@@ -3820,7 +3820,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Teleamazonas
 http://181.188.234.21:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Unicable
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302738
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/24
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Latin Zone
@@ -3832,13 +3832,14 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35057
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Somos Novelas
 https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TNT Novelas
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312798
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/39
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Televisa Novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Univision TL Novelas
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312987
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/40
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TL Novelas (México)
 http://200.229.147.142:8000/play/a03w
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/40
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d5d9e-7b2e-11ef-9e52-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3879f173-1091-4b31-a197-b44138458061&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Novelas Channel
@@ -3876,11 +3877,11 @@ https://live1009.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origi
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Distrito Comedia
-https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=lCw3g91xgIJQuJqZz07aMg:szYxz14P6wqAsyhtLLdWNbcB0c1IKL0lxx-PLfD0v4GixoETyC05b6d6LytvV_kzpIIfQO3MYtrqRbZFiPQGsqtObPRp74lLh9FClMV5kM_AZNDBdWhqVW6ewQN_dBH0pLHVuddp8XFY7cUuJ9OXZIXlN7mmdieY5WoARG6QUKDDWYK98Dw8UeQoJAHAOlTYwe4KvhmLDLTJLJfhpWeCVClNOH1OAkbXSIN6hyNYSuhV1tPqw1hwkk4IdH5taHz0aE4AHsHfs_Zv7WeKlQcj7V1ssE1jkYXMgaTHGPrOn1y0d82iaoi9DtB1NBxGdUng5xrfEDSSct7iACTFSlgFEYEWooLbS70Ijn8NT7Si7a3ei_I8cC2TNcQ9N-yqUZx-vfC3kAajiIcuAPaEe5FqHlcnN4-tnOrdckus3wqOzuHkeYWWC_PkyxcPyuRxiWi8z-VM36YW7cOvDisoSXvl8oFm5eUo9KhWMDA8S-L4E9kGhql22LToY_1jpmXR8SBVJGJfjRHMlayGviw6fEwSs4xDO7D-Ufu6MNwo5PjJPliyVZt5Hz6B6lx7VyNHYIvrc1htPHd0fY3Ag_IWArpRE9GiQ7OOxUpmd2PFix5Oy-F9pF9jSfLlGGucGI7s-espvi9dcpL3IrFyaZaDo0ksiR2IBga2SVeN2qNjG89nk50LiMwpHh1F1Hv7gm3wVFUwQvOwZLwCHxRAsY1EdZCdB_Pfz6sGfmgzz3aeVPH3j7Gs1izHz3uWhrsTHHz8p4-Jk7f69IBfKGYHEv69LnybkEkvDPqpHLkEAk_NFp0YNRMUSMjAu2vHEfYyX4yUtFmqIY1yfzRv7WaXD3VVq7irBxXlVgvPgofVKN95UNm4n-HsovzoCVpi5kAXeydML8Gzmk-5DhcOBTV9ZKBd5YcE1lMq32vUJpawTKSr5m_hhCdzFHWFnOk8cOLU7Soc7txdKAYuB-eiK14WOneLaWaMXf1cC7gPuBfghHsdN-66Qo0KZnU2nT_FzuAqkxXP6RTThjESLzthFiGaK109_86gVHouhMIVHI_Fq7BJM0reygWiG4ChTDEh00x2zRXDXqAsUp_WSqsM4hsKmzZKurjSzS-pif8U4W01QH8BEX0kxFUuTb6mIS7vOsX3yV1EqnP8Fv2k31AhY2QDq5u7-v-u-g&anvtrid=5200026ff5f8893ab93c69f6185f5e4f&anvauth=tb=0~te=1740108096~sgn=51c4e27adf1873df40d37fb07da93a62fecf8f711ede5b299905e4be6a5ed421&t=1740108006
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/38
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",RCN Más
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Sony Channel en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34938
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/166
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Sony Cine
@@ -3898,7 +3899,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304247
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Todo Cine
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472b186783f359e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",AXN en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302611
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/21
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cine AXN (Mexico)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3704
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Universal Premier
@@ -3939,6 +3940,12 @@ https://live1009.delivery.roku.com/a1d79c89-6586-4a31-94eb-7ac7fd56577f/t2-origi
 https://live1009.delivery.roku.com/6db7c87c-7e4b-4de4-bb6e-70efaac30d60/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Canela.TV Pasión Latina
 https://live1009.delivery.roku.com/15a389c6-1b0d-4f8b-93d9-7a6ea0254e7f/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",G Plus
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/75
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",G Premier
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/83
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",G Edge
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/84
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",HBO
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302664
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",HBO 2
@@ -3958,11 +3965,13 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302666
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",HBO en Español
 http://181.188.234.21:8000/play/a04e
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cinemax en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34996
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/82
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Starz Encore en Español
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/651
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",STAR Channel
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302645
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/15
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cine Canal
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/73
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Filmex Peliculas
 https://live1009.delivery.roku.com/c1f16607-abcf-4fb1-9bdb-469c8d3d1466/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Filmex Clasico Peliculas
@@ -4104,7 +4113,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131281
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TN Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",CNÑ en Español
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57619
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/105
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",CNÑ Xpress
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c246e572427bfa1eb7ed5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",France 24 en Español
@@ -4174,23 +4183,23 @@ https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN Premium en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304554
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN 1 en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302652
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/92
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN 2 en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34624
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/93
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN 3 en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302698
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/100
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN Deportes
-https://tvpass.org/live/espn-deportes/hd
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/528
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN Premium en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4951
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34653
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/97
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 2 en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302639
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 3 en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302640
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/91
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 4 en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302637
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/90
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 5 en Español
 http://200.229.147.142:8000/play/a05y
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 6 en Español
@@ -4199,6 +4208,8 @@ http://200.229.147.142:8000/play/a04v
 http://181.188.234.21:8000/play/a045
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TNT Sports Premium en Español
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145439
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Wapa Deportes
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/128
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Lucha Libre AAA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d5e2a-7b2e-11ef-9cb3-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f25e2041-12d2-4c2a-b102-39f6685f2b9c&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FUTV
