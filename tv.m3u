@@ -1771,7 +1771,7 @@ http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Baby TV
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319417
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Brat TV
-https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
+https://amg00350-bratstudio-amg00350c1-ottstudios-northamerica-783.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",FilmRise Kids
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",FilmRise Anime
@@ -1845,6 +1845,8 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/176
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/48324
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",AXS-TV Now
 https://amg00966-amg00966c9-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c9-amgplt0081/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Crime Thriller
+https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy Central
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/190
@@ -1852,6 +1854,8 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/190
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Comedy.tv
 http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Comedy",WITZ Comedy TV
+https://wurlbesteverchannels.global.transmit.live/hls/67a3a1377796545fc40611c5/v1/bec_witz_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Sketchy AF (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67882c1c7b11714b795c2008/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1df8-7b2e-11ef-951a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba2cd391-08f6-11f0-a196-2e4264ece789&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Comedy",Pluto Classic TV Comedy
@@ -2809,7 +2813,21 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Free Movies+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
+https://amg02042-ottstudio-amg02042c1-ottstudios-northamerica-1678.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",VHS+
+https://amg02042-ottstudio-amg02042c9-ottstudios-northamerica-1894.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-vhsplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Horror+
+https://amg02042-ottstudio-amg02042c12-ottstudios-northamerica-1908.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-horrorplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Action+
+https://amg02042-ottstudio-amg02042c4-ottstudios-northamerica-1765.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-actionplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Black Movies+
+https://amg02042-ottstudio-amg02042c6-ottstudios-northamerica-1898.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-blackvoicesplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Romance+
+https://amg02042-ottstudio-amg02042c10-ottstudios-northamerica-1893.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-romanceplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Western+
+https://amg02042-ottstudio-amg02042c8-ottstudios-northamerica-1896.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-westernsplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Family Flix+
+https://amg02042-ottstudio-amg02042c10-ottstudios-northamerica-1893.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-romanceplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Samuel Goldwyn Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cowboy Movie Channel
@@ -2894,6 +2912,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-661fca34414d
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Classic Cinema by WB
 https://apollo.production-public.tubi.io/live/wbd-classic-cinema.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",50 Cent Action
+https://amg00353-amg00353c49-lg-us-7640.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-50centaction-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",IFC Film Picks
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",70s Cinema (Pluto TV)
