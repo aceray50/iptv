@@ -1455,7 +1455,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/185
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Pluto TV History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cbb5a-7b2e-11ef-bb34-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=490827a6-31b6-461a-964f-bf7a48ab583d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Documentary",History Channel
-https://tvpass.org/live/HistoryEast/hd
+http://1tv41.icu:8080/live/95135258/95135258/46724.ts
 #EXTINF:-1 tvg-logo="" group-title="Documentary",H2 (History Channel 2)
 http://lunar.pm:8080/mrjayp/Spectrum2/110783
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Military History
@@ -1713,7 +1713,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nicktoons
 http://lunar.pm:8080/mrjayp/Spectrum2/8868
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",TeenNick
-https://tvpass.org/live/TeenNickEast/hd
+http://1tv41.icu:8080/live/95135258/95135258/140004.ts
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd748-7b2e-11ef-9deb-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1aa79af-a440-4286-a333-28de4fa58ebb&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
@@ -2092,7 +2092,7 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/169
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",UpTV
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/10525
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GSN (Game Show Network)
-https://tvpass.org/live/game-show-network-east/hd
+http://1tv41.icu:8080/live/95135258/95135258/120633.ts
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Game Show Central
 https://dbrb49pjoymg4.cloudfront.net/10001/99991750/hls/playlist.m3u8?ads.xumo_channelId=99991750
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BBC Game Shows
@@ -2717,45 +2717,45 @@ https://tvpass.org/live/mlb-30/hd
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO
 http://1tv41.icu:8080/live/95135258/95135258/46713.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO 2
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552122&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/9816.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Signature
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552116&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/9266.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Comedy
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552120&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/17773.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Zone
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552114&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/9265.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO Family
-http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+http://1tv41.icu:8080/live/95135258/95135258/17772.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Cinemax
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134091&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/13380.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",More Max
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134092&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/17776.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",5 Star Max
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134088&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/13381.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Movie Max
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134144&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/13480.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Outer Max
 http://1tv41.icu:8080/live/95135258/95135258/21012.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Thriller Max
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552056&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/17774.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Action Max
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134089&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/21013.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552110&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/46214.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime 2
 http://1tv41.icu:8080/live/95135258/95135258/13219.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Extreme
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552104&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/13220.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Next
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552100&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/9316.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552098&extension=ts
+http://supersonictv.live:8080/live/Sheila/Sheila1/22915.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Women
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552096&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/17778.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Family Zone
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1464
+http://1tv41.icu:8080/live/95135258/95135258/13481.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552106&extension=ts
+http://supersonictv.live:8080/live/Sheila/Sheila1/22911.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Movie Channel
 https://tvpass.org/live/TheMovieChannelEast/hd
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (West)
@@ -2763,47 +2763,47 @@ http://fl5.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (East)
 http://supersonictv.live:8080/live/Sheila/Sheila1/22918.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Cinema
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552086&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/17775.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Comedy
 http://supersonictv.live:8080/live/Sheila/Sheila1/22921.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz In Black
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134170&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/17779.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Edge
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134174&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/16143.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Kids & Family
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134179&extension=ts
+http://supersonictv.live:8080/live/Sheila/Sheila1/22924.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134176&extension=ts
+http://supersonictv.live:8080/live/Sheila/Sheila1/22925.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Classic
 http://supersonictv.live:8080/live/Sheila/Sheila1/22929.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense
 http://supersonictv.live:8080/live/Sheila/Sheila1/22931.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Action
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552078&extension=ts
+http://supersonictv.live:8080/live/Sheila/Sheila1/22927.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134178&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/16263.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Black
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552076&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/16141.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Family
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552072&extension=ts
+http://supersonictv.live:8080/live/Sheila/Sheila1/22930.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+
-http://fortv.cc:8080/live/q8KuDU/354945/13214.ts
+http://1tv41.icu:8080/live/95135258/95135258/13214.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Hits
-http://fortv.cc:8080/live/q8KuDU/354945/12744.ts
+http://1tv41.icu:8080/live/95135258/95135258/12744.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Drive-In
-http://fl5.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+http://1tv41.icu:8080/live/95135258/95135258/14193.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
-http://cord-cutter.net:8080/live/drmajones@gmail.com/J2cg4hzx4s/12730.m3u8
+http://1tv41.icu:8080/live/95135258/95135258/12730.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MoviePlex
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134145&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/1829.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",IndiePlex
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134138&extension=ts
+http://supersonictv.live:8080/live/Sheila/Sheila1/22903.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",RetroPlex
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134144&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/66379.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Sony Movie Channel
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552037&extension=ts
+http://1tv41.icu:8080/live/95135258/95135258/2214.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HDNET Movies
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552040&extension=ts
+http://cord-cutter.net:8080/live/JoanP@112/443@112/16265.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",PixL
 http://cord-cutter.net:8080/live/JoanP@112/443@112/21648.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Toonami Aftermath Movies
@@ -4460,9 +4460,9 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57320
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",USA Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57252
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",A&E (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122941
+http://1tv41.icu:8080/live/95135258/95135258/57476.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ABC Spark (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122943
+http://cord-cutter.net:8080/live/JoanP@112/443@112/57375.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Dejaview (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122001
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",AMC (Canada)
@@ -4551,6 +4551,8 @@ http://lunar.pm:8080/mrjayp/Spectrum2/67093
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47366
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Slice TV (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57274
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CityTV TV (Canada)
+http://cord-cutter.net:8080/live/JoanP@112/443@112/57307.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TFO French (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57291
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TLC (Canada)
@@ -4582,7 +4584,7 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238365
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",DTOUR (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57250
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",E! (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57249
+http://cord-cutter.net:8080/live/JoanP@112/443@112/57422.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Comedy (Canada)
 http://lunar.pm:8080/mrjayp/Spectrum2/122954
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Comedy Central (Canada)
@@ -4600,7 +4602,9 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66242
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Daystar Television Network (Canada)
 http://lunar.pm:8080/mrjayp/Spectrum2/122956
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Game Show Network (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57430
+http://1tv41.icu:8080/live/95135258/95135258/57430.ts
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Game TV
+http://supersonictv.live:8080/live/Sheila/Sheila1/21924.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",3ABN (Canada)
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TSC (The Shopping Channel) (Canada)
@@ -4877,21 +4881,25 @@ https://a1xs.vip/2000022
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TNT Sports 3 (UK)
 https://a1xs.vip/2000023
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Action (UK)
-http://supersonictv.live:8080/live/144264/661943/77462.ts
+http://1tv41.icu:8080/live/95135258/95135258/35254.ts
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Comedy (UK)
-http://supersonictv.live:8080/live/144264/661943/77463.ts
+http://1tv41.icu:8080/live/95135258/95135258/35253.ts
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Hits (UK)
-http://supersonictv.live:8080/live/144264/661943/77464.ts
+http://supersonictv.live:8080/live/Sheila/Sheila1/77464.ts
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Drama (UK)
-http://supersonictv.live:8080/live/144264/661943/77465.ts
+http://1tv41.icu:8080/live/95135258/95135258/35251.ts
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Family (UK)
+http://supersonictv.live:8080/live/Sheila/Sheila1/77466.ts
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Greats (UK)
-http://supersonictv.live:8080/live/144264/661943/77467.ts
+http://1tv41.icu:8080/live/95135258/95135258/35249.ts
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Premiere (UK)
-http://supersonictv.live:8080/live/144264/661943/77468.ts
+http://supersonictv.live:8080/live/Sheila/Sheila1/77468.ts
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Sci-Fi & Horror (UK)
-http://supersonictv.live:8080/live/144264/661943/77469.ts
+http://1tv41.icu:8080/live/95135258/95135258/35248.ts
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Select (UK)
-http://supersonictv.live:8080/live/144264/661943/77470.ts
+http://supersonictv.live:8080/live/Sheila/Sheila1/77470.ts
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Thriller (UK)
+http://1tv41.icu:8080/live/95135258/95135258/35252.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
 http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/150991
