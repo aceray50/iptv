@@ -730,7 +730,7 @@ https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Calabasas Channel (Calabasas CA)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",El Segundo Media (El Segundo CA)
-https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/elsegundo/G0014_002/playlist.m3u8
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/elsegundo/G0014_007/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",West Hollywood WeHoTV (West Hollywood CA)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Lakewood CityTV (Lakewood CA)
@@ -750,7 +750,7 @@ https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Anaheim TV (Anaheim CA)
 https://reflect-city-of-anaheim.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",City of Huntington Beach CA
-https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/huntingtonbeach/G0088_005/playlist.m3u8
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/huntingtonbeach/G0088_006/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Buena Park Television (Buena Park CA)
 https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Costa Mesa's Municipal Access Channel CMTV 3 (Costa Mesa CA)
@@ -2785,7 +2785,7 @@ http://1tv41.icu:8080/live/95135258/95135258/16263.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Black
 http://1tv41.icu:8080/live/95135258/95135258/16141.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Family
-http://supersonictv.live:8080/live/Sheila/Sheila1/22930.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552072&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+
 http://1tv41.icu:8080/live/95135258/95135258/13214.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MGM+ Hits
