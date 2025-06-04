@@ -10,13 +10,13 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/715
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/985
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/721
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/719
+https://fl3.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
-https://tvpass.org/live/WNBCDT1/hd
+https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/728
+https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WABC-TV ABC 7 (New York NY)
 http://fl5.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",WWOR-TV MyNetworkTV 9 (New York NY)
@@ -1711,9 +1711,9 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/351
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nick Jr. (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nicktoons
-http://lunar.pm:8080/mrjayp/Spectrum2/8868
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=479231&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",TeenNick
-http://1tv41.icu:8080/live/95135258/95135258/140004.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=479234&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd748-7b2e-11ef-9deb-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1aa79af-a440-4286-a333-28de4fa58ebb&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
@@ -2257,17 +2257,17 @@ http://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
+http://1tv41.icu:8080/live/95135258/95135258/14197.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/173
+http://1tv41.icu:8080/live/95135258/95135258/2210.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN U
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/172
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN News
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/134
+http://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",SEC Network ESPN
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/295
+http://fl5.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACC Network ESPN
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/296
+http://fl5.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ACCDN
 https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",PAC 12 Insider
@@ -2529,7 +2529,7 @@ http://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Marquee Sports Network
-https://tvpass.org/live/marquee-sports-network/hd
+http://1tv41.icu:8080/live/95135258/95135258/13379.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports",Swerve Sports
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",VSIN Sports
@@ -2587,7 +2587,7 @@ http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYsCISqZPjGRjkT1Nw0PV5Zg
 #EXTINF:-1 tvg-logo="" group-title="Sports",MSG SportsZone
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Sports",WWE Network
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/398
+http://1tv41.icu:8080/live/95135258/95135258/11645.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fightbox
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145482
 #EXTINF:-1 tvg-logo="" group-title="Sports",TNA Wrestling Channel
@@ -2749,37 +2749,37 @@ http://1tv41.icu:8080/live/95135258/95135258/13220.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Next
 http://1tv41.icu:8080/live/95135258/95135258/9316.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase)
-http://supersonictv.live:8080/live/Sheila/Sheila1/22915.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552098&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Women
 http://1tv41.icu:8080/live/95135258/95135258/17778.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Family Zone
 http://1tv41.icu:8080/live/95135258/95135258/13481.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET)
-http://supersonictv.live:8080/live/Sheila/Sheila1/22911.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552106&extension=m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Movie Channel
 https://tvpass.org/live/TheMovieChannelEast/hd
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (West)
 http://fl5.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (East)
-http://supersonictv.live:8080/live/Sheila/Sheila1/22918.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552088&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Cinema
 http://1tv41.icu:8080/live/95135258/95135258/17775.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Comedy
-http://supersonictv.live:8080/live/Sheila/Sheila1/22921.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552084&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz In Black
 http://1tv41.icu:8080/live/95135258/95135258/17779.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Edge
 http://1tv41.icu:8080/live/95135258/95135258/16143.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Kids & Family
-http://supersonictv.live:8080/live/Sheila/Sheila1/22924.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552064&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore
-http://supersonictv.live:8080/live/Sheila/Sheila1/22925.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552080&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Classic
-http://supersonictv.live:8080/live/Sheila/Sheila1/22929.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552074&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense
-http://supersonictv.live:8080/live/Sheila/Sheila1/22931.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552070&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Action
-http://supersonictv.live:8080/live/Sheila/Sheila1/22927.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552078&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns
 http://1tv41.icu:8080/live/95135258/95135258/16263.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz Encore Black
@@ -2797,7 +2797,7 @@ http://1tv41.icu:8080/live/95135258/95135258/12730.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",MoviePlex
 http://1tv41.icu:8080/live/95135258/95135258/1829.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",IndiePlex
-http://supersonictv.live:8080/live/Sheila/Sheila1/22903.ts
+http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=469486&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",RetroPlex
 http://1tv41.icu:8080/live/95135258/95135258/66379.ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Sony Movie Channel
