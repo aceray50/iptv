@@ -2259,9 +2259,9 @@ https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/liv
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN
 http://1tv41.icu:8080/live/95135258/95135258/14197.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2
-http://1tv41.icu:8080/live/95135258/95135258/2210.ts
+http://fl5.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN U
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+http://fl5.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN News
 http://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",SEC Network ESPN
@@ -2529,7 +2529,7 @@ http://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Marquee Sports Network
-http://1tv41.icu:8080/live/95135258/95135258/13379.ts
+https://tvpass.org/live/marquee-sports-network/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Swerve Sports
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",VSIN Sports
