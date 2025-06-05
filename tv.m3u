@@ -4152,6 +4152,8 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/2155
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1703
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ADN 40
 https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",24h Noticias
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_P511PDS00161521.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",NTN24
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131281
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TN Noticias
