@@ -263,7 +263,7 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329142
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329120
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTVU-TV FOX 2 (San Francisco CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9996
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KPIX-TV CBS 4 (San Francisco CA)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KPIX-TV CBS 5 (San Francisco CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9868
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KGO-TV ABC 7 (San Francisco CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9777
@@ -3731,106 +3731,151 @@ http://rfcm.streamguys1.com/sailingpremium-mp3
 #EXTINF:-1 tvg-logo="" group-title="Music",TuneIn Smooth Jazz
 http://rfcm.streamguys1.com/smoothjazzpremium-mp3
 
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 01 | Hit List
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Hit List
 http://hardcoremedia.xyz:80/BG992263/38692743/237622
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 02 | Music Choice Max
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Music Choice Max
 http://hardcoremedia.xyz:80/BG992263/38692743/237623
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 03 | Dance EDM
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Dance EDM
 http://hardcoremedia.xyz:80/BG992263/38692743/237624
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 04 | Indie
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Indie
 http://hardcoremedia.xyz:80/BG992263/38692743/237625
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 05 | Hip-Hop And R&B
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop And R&B
 http://hardcoremedia.xyz:80/BG992263/38692743/237626
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 06 | Rap
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Rap
 http://hardcoremedia.xyz:80/BG992263/38692743/237627
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 07 | Hip-Hop Classics
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop Classics
 http://hardcoremedia.xyz:80/BG992263/38692743/237628
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 08 | Throwback Jams
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Throwback Jams
 http://hardcoremedia.xyz:80/BG992263/38692743/237629
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 09 | RANDB Classics
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | RANDB Classics
 http://hardcoremedia.xyz:80/BG992263/38692743/237630
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 10 | RANDB Soul
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | RANDB Soul
 http://hardcoremedia.xyz:80/BG992263/38692743/237631
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 11 | Gospel
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Gospel
 http://hardcoremedia.xyz:80/BG992263/38692743/237632
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 12 | Reggae
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Reggae
 http://hardcoremedia.xyz:80/BG992263/38692743/237633
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 13 | Rock
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Rock
 http://hardcoremedia.xyz:80/BG992263/38692743/237634
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 14 | Metal
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Metal
 http://hardcoremedia.xyz:80/BG992263/38692743/237635
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 15 | Alternative
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Alternative
 http://hardcoremedia.xyz:80/BG992263/38692743/237636
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 16 | Adult Alternative
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Adult Alternative
 http://hardcoremedia.xyz:80/BG992263/38692743/237637
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 17 | Rock Hits
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Rock Hits
 http://hardcoremedia.xyz:80/BG992263/38692743/237638
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 18 | Classic Rock
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Rock
 http://hardcoremedia.xyz:80/BG992263/38692743/237639
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 19 | Soft Rock
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Soft Rock
 http://hardcoremedia.xyz:80/BG992263/38692743/237640
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 20 | Love Songs
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Love Songs
 http://hardcoremedia.xyz:80/BG992263/38692743/237641
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 21 | Pop Hits
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Pop Hits
 http://hardcoremedia.xyz:80/BG992263/38692743/237642
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 22 | Party Favorites
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Party Favorites
 http://hardcoremedia.xyz:80/BG992263/38692743/237643
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 23 | Teen Beats
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Teen Beats
 http://hardcoremedia.xyz:80/BG992263/38692743/237644
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 24 | Kids Only
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Kids Only
 http://hardcoremedia.xyz:80/BG992263/38692743/237645
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 25 | Toddler Tunes
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Toddler Tunes
 http://hardcoremedia.xyz:80/BG992263/38692743/237646
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 30 | Solid Gold Oldies
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Solid Gold Oldies
 http://hardcoremedia.xyz:80/BG992263/38692743/237651
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 29 | 70's
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | '70s
 http://hardcoremedia.xyz:80/BG992263/38692743/237650
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 28 | 80's
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | '80s
 http://hardcoremedia.xyz:80/BG992263/38692743/237649
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 27 | 90's
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | '90s
 http://hardcoremedia.xyz:80/BG992263/38692743/237648
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 26 | Y2K
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Y2K
 http://hardcoremedia.xyz:80/BG992263/38692743/237647
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 31 | Pop And Country
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Pop And Country
 http://hardcoremedia.xyz:80/BG992263/38692743/237652
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 32 | Todays Country
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Today's Country
 http://hardcoremedia.xyz:80/BG992263/38692743/237653
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 33 | Country Hits
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Country Hits
 http://hardcoremedia.xyz:80/BG992263/38692743/237654
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 34 | Classic Country
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Country
 http://hardcoremedia.xyz:80/BG992263/38692743/237655
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 35 | Contemporary Christian
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Contemporary Christian
 http://hardcoremedia.xyz:80/BG992263/38692743/237656
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 36 | Pop Latino
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Pop Latino
 http://hardcoremedia.xyz:80/BG992263/38692743/237657
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 37 | Musica Urbana
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Musica Urbana
 http://hardcoremedia.xyz:80/BG992263/38692743/237658
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 38 | Mexicana
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Mexicana
 http://hardcoremedia.xyz:80/BG992263/38692743/237659
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 39 | Tropicales
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Tropicales
 http://hardcoremedia.xyz:80/BG992263/38692743/237660
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 40 | Romances
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Romances
 http://hardcoremedia.xyz:80/BG992263/38692743/237661
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 41 | Sounds of The Seasons
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Sounds of The Seasons
 http://hardcoremedia.xyz:80/BG992263/38692743/237662
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 42 | Stage And Screen
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Stage And Screen
 http://hardcoremedia.xyz:80/BG992263/38692743/237663
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 43 | Soundscapes
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Soundscapes
 http://hardcoremedia.xyz:80/BG992263/38692743/237664
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 44 | Smooth Jazz
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Smooth Jazz
 http://hardcoremedia.xyz:80/BG992263/38692743/237665
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 45 | Choice Jazz
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Choice Jazz
 http://hardcoremedia.xyz:80/BG992263/38692743/237666
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 46 | Choice Blues
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Choice Blues
 http://hardcoremedia.xyz:80/BG992263/38692743/237667
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 47 | Singers And Swing
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Singers And Swing
 http://hardcoremedia.xyz:80/BG992263/38692743/237668
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 48 | Easy Listening
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Easy Listening
 http://hardcoremedia.xyz:80/BG992263/38692743/237669
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 49 | Classical Masterpieces
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Classical Masterpieces
 http://hardcoremedia.xyz:80/BG992263/38692743/237670
-#EXTINF:-1 tvg-logo="" group-title="Music",MC 50 | Light Classical
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Light Classical
 http://hardcoremedia.xyz:80/BG992263/38692743/237671
+
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Hit List
+http://hardcoremedia.xyz:80/BG992263/38692743/236598
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Dance/EDM
+http://hardcoremedia.xyz:80/BG992263/38692743/236596
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Brits + Hits
+http://hardcoremedia.xyz:80/BG992263/38692743/236595
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Kidz Only!
+http://hardcoremedia.xyz:80/BG992263/38692743/236599
+#EXTINF:-1 tvg-logo="" group-title="Music",MC | (Music Choice Videos) Tropicales
+http://hardcoremedia.xyz:80/BG992263/38692743/236613
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop Latino
+http://hardcoremedia.xyz:80/BG992263/38692743/236605
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Musica Urbana
+http://hardcoremedia.xyz:80/BG992263/38692743/236602
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Mexicana
+http://hardcoremedia.xyz:80/BG992263/38692743/236601
+#EXTINF:-1 tvg-logo="" group-title="Music",MC | (Music Choice Videos) Today's Country
+http://hardcoremedia.xyz:80/BG992263/38692743/236611
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop & Country
+http://hardcoremedia.xyz:80/BG992263/38692743/236603
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop Hits
+http://hardcoremedia.xyz:80/BG992263/38692743/236604
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Metal
+http://hardcoremedia.xyz:80/BG992263/38692743/236600
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Alternative
+http://hardcoremedia.xyz:80/BG992263/38692743/236594
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | R&B/Soul
+http://hardcoremedia.xyz:80/BG992263/38692743/236606
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Rap
+http://hardcoremedia.xyz:80/BG992263/38692743/236607
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Rap 2K
+http://hardcoremedia.xyz:80/BG992263/38692743/236608
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Throwback Jamz
+http://hardcoremedia.xyz:80/BG992263/38692743/236610
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Hip-Hop/R&B
+http://hardcoremedia.xyz:80/BG992263/38692743/236597
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Teen Beats
+http://hardcoremedia.xyz:80/BG992263/38692743/236609
+#EXTINF:-1 tvg-logo="" group-title="Music",MC | (Music Choice Videos) Toddler Tunes
+http://hardcoremedia.xyz:80/BG992263/38692743/236612
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice Videos) | 90's
+http://hardcoremedia.xyz:80/BG992263/38692743/236593
+#EXTINF:-1 tvg-logo="" group-title="Music",MC | (Music Choice Videos) Y2K
+http://hardcoremedia.xyz:80/BG992263/38692743/236614
 
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Galavisión (West)
 http://hardcoremedia.xyz:80/BG992263/38692743/249553
@@ -4031,9 +4076,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-lovenatureusspa-fre
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",TLC en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302730
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Sundance en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3033
+http://hardcoremedia.xyz:80/BG992263/38692743/239047
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Garage TV en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/136487
+http://hardcoremedia.xyz:80/BG992263/38692743/253208
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",HGTV en Español
@@ -4481,23 +4526,21 @@ https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN Premium en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304554
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN 1 en Español
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/92
+http://hardcoremedia.xyz:80/BG992263/38692743/253205
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN 2 en Español
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/93
+http://hardcoremedia.xyz:80/BG992263/38692743/253206
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",FSN 3 en Español
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/100
+http://hardcoremedia.xyz:80/BG992263/38692743/253207
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN Deportes
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/528
-#EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN Premium en Español
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/4951
+http://hardcoremedia.xyz:80/BG992263/38692743/136157
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN en Español
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/97
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 2 en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302639
+http://hardcoremedia.xyz:80/BG992263/38692743/253197
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 3 en Español
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/91
+http://hardcoremedia.xyz:80/BG992263/38692743/253198
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 4 en Español
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/90
+http://hardcoremedia.xyz:80/BG992263/38692743/253199
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 5 en Español
 http://200.229.147.142:8000/play/a05y
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ESPN 6 en Español
@@ -4687,8 +4730,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57401
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47281
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CNN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47213
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CNN International (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130411
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",HLN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57441
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",MSNBC (Canada)
@@ -4699,10 +4740,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57358
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/139752
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Weather Network Toronto (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57470
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",GTN (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130388
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Court TV (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/229643
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Family (Canada)
 http://lunar.pm:8080/mrjayp/Spectrum2/122960
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Family Jr. (Canada) 
@@ -4726,19 +4763,19 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57380
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Adult Swim (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11644
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Télétoon French (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130470
+http://hardcoremedia.xyz:80/BG992263/38692743/243596
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Much (Canada)
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",APTN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57320
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",USA Network (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57252
+http://hardcoremedia.xyz:80/BG992263/38692743/256986
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",A&E (Canada)
 http://1tv41.icu:8080/live/95135258/95135258/57476.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ABC Spark (Canada)
 http://cord-cutter.net:8080/live/JoanP@112/443@112/57375.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Dejaview (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122001
+http://hardcoremedia.xyz:80/BG992263/38692743/256972
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",AMC (Canada)
 http://lunar.pm:8080/mrjayp/Spectrum2/122946
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Vision (Canada)
@@ -4807,16 +4844,14 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58023
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57478
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Bravo (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57366
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Prase 2 (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238365
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Lifetime (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57271
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Lifetime Movie Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57444
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",OMNI 1 (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57365
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",OMNI (Canada)
+http://hardcoremedia.xyz:80/BG992263/38692743/129740
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",OMNI 2 (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130460
+http://hardcoremedia.xyz:80/BG992263/38692743/129741
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",OWN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57277
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Peachtree TV (Canada)
@@ -4835,10 +4870,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57290
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47369
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CHCH (Canada)
 http://lunar.pm:8080/mrjayp/Spectrum2/122951
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Charge! (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75653
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CMT (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57258
+http://hardcoremedia.xyz:80/BG992263/38692743/256976
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Cottage Life (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47217
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CP24 (Canada)
@@ -4848,15 +4881,15 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57352
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CPAC (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57351
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ZESTE French (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130429
+http://hardcoremedia.xyz:80/BG992263/38692743/243606
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Z-TELE French (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/229638
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Canal Vie French (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/229639
+http://hardcoremedia.xyz:80/BG992263/38692743/243568
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",PRISE 2 (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238365
+http://hardcoremedia.xyz:80/BG992263/38692743/243583
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",DTOUR (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57250
+http://hardcoremedia.xyz:80/BG992263/38692743/256977
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",E! (Canada)
 http://cord-cutter.net:8080/live/JoanP@112/443@112/57422.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Comedy (Canada)
@@ -4864,7 +4897,7 @@ http://lunar.pm:8080/mrjayp/Spectrum2/122954
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Comedy Central (Canada)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130413
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Flavour Network (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130437
+http://hardcoremedia.xyz:80/BG992263/38692743/256978
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",The Cooking Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/107960
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",FX (Canada)
@@ -4929,12 +4962,8 @@ https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57431
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",NBC Golf Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57362
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",FOX Sports Racing (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/238361
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",One Soccer (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162775
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TVO (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130477
+http://hardcoremedia.xyz:80/BG992263/38692743/129769
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",HBO (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57437
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",HBO 2 (Canada)
@@ -4942,20 +4971,20 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57438
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Movietime (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47331
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 1 (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/144463
+http://hardcoremedia.xyz:80/BG992263/38692743/129643
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 2 (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/144464
+http://hardcoremedia.xyz:80/BG992263/38692743/129644
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 3 (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130422
+http://hardcoremedia.xyz:80/BG992263/38692743/129645
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 4 (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130423
+http://hardcoremedia.xyz:80/BG992263/38692743/129646
 
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",BBC One (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53649
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",BBC TWO (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53650
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",BBC One Scotland (UK)
-http://fortv.cc:8080/gscQ3v/779460/53755
+http://hardcoremedia.xyz:80/BG992263/38692743/241950
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",BBC 1 (UK)
 http://fortv.cc:8080/gscQ3v/779460/53649
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",BBC 2 (UK)
@@ -4965,15 +4994,13 @@ http://92.114.85.81:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",BBC 4 (UK)
 http://92.114.85.81:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",ITV 1 (UK)
-http://fortv.cc:8080/gscQ3v/779460/53651
+http://hardcoremedia.xyz:80/BG992263/38692743/241991
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",ITV 2 (UK)
-http://fortv.cc:8080/gscQ3v/779460/53671
+http://hardcoremedia.xyz:80/BG992263/38692743/241992
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",ITV 3 (UK)
-http://fortv.cc:8080/gscQ3v/779460/53665
+http://hardcoremedia.xyz:80/BG992263/38692743/241990
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",More4 (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53673
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel More4 (UK)
-http://fortv.cc:8080/gscQ3v/779460/53673
+http://hardcoremedia.xyz:80/BG992263/38692743/241998
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 4 (UK)
 http://fortv.cc:8080/gscQ3v/779460/99138
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 4 Seven (UK)
@@ -5034,40 +5061,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
 http://fortv.cc:8080/gscQ3v/779460/53754
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Quest (UK)
 http://fortv.cc:8080/gscQ3v/779460/53682
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",CBS Justice (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/134942
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",CBS True Crime (UK)
-http://92.114.85.81:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",True Crime +1 (UK)
-http://92.114.85.81:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",True Crime Xtra (UK)
-http://92.114.85.81:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Legend (UK)
-http://92.114.85.81:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Legend Xtra+ (UK)
-http://92.114.85.81:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Great! TV (UK)
-http://92.114.85.81:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Great! TV +1 (UK)
-http://92.114.85.81:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Great! Movies (UK)
-http://92.114.85.81:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Great! Movies+ (UK)
-http://92.114.85.81:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Great! Action (UK)
-http://92.114.85.81:8000/play/a00e/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Great! Romance (UK)
-http://92.114.85.81:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",RealityXtra (UK)
-http://92.114.85.81:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",HorrorXtra (UK)
-http://92.114.85.81:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",That's 2 (UK)
-http://92.114.85.81:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",That's Melody (UK)
-http://92.114.85.81:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",PBS America (UK)
-http://92.114.85.81:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Horse & Country TV (UK)
 https://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TBN (UK)
@@ -5101,15 +5094,13 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Willow Sports (UK)
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Willow Cricket (UK)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415289
+http://hardcoremedia.xyz:80/BG992263/38692743/257331
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Willow Cricket Xtra (UK)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415290
+http://hardcoremedia.xyz:80/BG992263/38692743/141506
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Willow Sports (Austrailia)
 https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",GOL TV (UK)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319489
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Motor Sports (UK)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/237596
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sports Football (UK)
 https://a1xs.vip/2000003
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sports Premier League (UK)
@@ -5148,12 +5139,16 @@ http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145473
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYoIU9vxyY1Pv1yWlDMe-aZs
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",FOX Soccer+ (UK)
 http://tvvip.us:8880/play/NgdoXdiy-Yx1c0RQYgoiYk-P0xYL6HjbJgm8vxqgFoQ
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",TNT Sports Ultimate 4K (UK)
+http://hardcoremedia.xyz:80/BG992263/38692743/258594
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TNT Sports 1 (UK)
 https://a1xs.vip/2000021
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TNT Sports 2 (UK)
 https://a1xs.vip/2000022
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TNT Sports 3 (UK)
 https://a1xs.vip/2000023
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",TNT Sports 4 (UK)
+http://hardcoremedia.xyz:80/BG992263/38692743/258613
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Action (UK)
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577372&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Comedy (UK)
