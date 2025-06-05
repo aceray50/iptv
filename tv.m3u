@@ -2607,9 +2607,9 @@ https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",WPT (World Poker Tour)
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",YES Network
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/245
+http://hardcoremedia.xyz:80/BG992263/38692743/2244
 #EXTINF:-1 tvg-logo="" group-title="Sports",Big Ten Network
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/202
+http://hardcoremedia.xyz:80/BG992263/38692743/141454
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sports Grid
 http://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Unbeaten
@@ -2943,7 +2943,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/130020
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HDNET Movies
 http://hardcoremedia.xyz:80/BG992263/38692743/130055
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",PixL
-http://cord-cutter.net:8080/live/JoanP@112/443@112/21648.ts
+http://hardcoremedia.xyz:80/BG992263/38692743/11642
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Universal Movies
