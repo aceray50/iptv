@@ -691,6 +691,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrm
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro TV
 http://hardcoremedia.xyz:80/BG992263/38692743/129949
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Rewind TV
+http://hardcoremedia.xyz:80/BG992263/38692743/129951
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #1
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20180
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #2
@@ -2374,7 +2376,7 @@ http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shopping",Shop HQ
 http://live.shophq.com/evine/cleanfeed/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shopping",Shop LC
-http://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+http://hardcoremedia.xyz:80/BG992263/38692743/257266
 #EXTINF:-1 tvg-logo="" group-title="Shopping",JTV (Jewelry Television)
 http://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shopping",JTV 2
