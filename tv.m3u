@@ -75,13 +75,13 @@ http://hardcoremedia.xyz:80/BG992263/38692743/10182
 http://hardcoremedia.xyz:80/BG992263/38692743/10034
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",WSBK-TV MyNetworkTV 38 (Boston MA)
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131243
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KDKA-TV CBS 2 (Pittsburg PA)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KDKA-TV CBS 2 (Pittsburgh PA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9951
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WTAE-TV ABC 4 (Pittsburg PA)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WTAE-TV ABC 4 (Pittsburgh PA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9835
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WPXI-TV NBC 11 (Pittsburg PA)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WPXI-TV NBC 11 (Pittsburgh PA)
 http://hardcoremedia.xyz:80/BG992263/38692743/10253
-#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WPGH-CD TV FOX 53 News (Pittsburg PA)
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WPGH-CD TV FOX 53 (Pittsburgh PA)
 http://hardcoremedia.xyz:80/BG992263/38692743/229658
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WFSB-TV CBS 3 (Hartford CT)
 http://hardcoremedia.xyz:80/BG992263/38692743/9873
@@ -196,19 +196,21 @@ https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/WJXT_Logo_2014.png" group-title="Local Channels",WJXT-TV 4 Ind. (Jacksonville FL)
 http://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WTLV-TV NBC 12 (Jacksonville FL)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/903
+http://hardcoremedia.xyz:80/BG992263/38692743/10136
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WJXX-TV ABC 25 (Jacksonville FL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415862
+http://hardcoremedia.xyz:80/BG992263/38692743/9783
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WFOX-TV FOX 30 (Jacksonville FL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329171
+http://hardcoremedia.xyz:80/BG992263/38692743/10007
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WJAX-TV CBS 47 (Jacksonville FL)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415986
+http://hardcoremedia.xyz:80/BG992263/38692743/9876
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTVI-TV FOX 2 (St. Louis MO)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415726
+http://hardcoremedia.xyz:80/BG992263/38692743/10045
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KMOV-TV CBS 4 (St. Louis MO)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329152
+http://hardcoremedia.xyz:80/BG992263/38692743/9919
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KSDK-TV NBC 5 (St. Louis MO)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329196
+http://hardcoremedia.xyz:80/BG992263/38692743/10199
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KDNL-TV ABC 30 (St. Louis MO)
+http://hardcoremedia.xyz:80/BG992263/38692743/9812
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KOMU-TV NBC 8.1 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KOMU-TV CW+ 8.3 (Jefferson City MO)
@@ -251,16 +253,40 @@ https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/700754-all-sports-logo-300x142.png" group-title="Local Channels",W14DK-D-TV 14.5 All Sports Television Network (Dagsboro DE)
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WREG-TV CBS 3 (Memphis TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/9962
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WMC-TV NBC 5 (Memphis TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/10267
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WHBQ-TV FOX 13 (Memphis TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/10078
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/WYPL_Memphis_20018.png" group-title="Local Channels",WYPL-TV 18 (Memphis TN)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WATN-TV ABC 24 (Memphis TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/9838
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WKRN-TV ABC 2 (Nashville TN)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329133
+http://hardcoremedia.xyz:80/BG992263/38692743/9839
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WSMV-TV NBC 4 (Nashville TN)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415463
+http://hardcoremedia.xyz:80/BG992263/38692743/10268
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WTVF-TV CBS 5 (Nashville TN)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329142
+http://hardcoremedia.xyz:80/BG992263/38692743/9963
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KZTV-TV FOX 17 (Nashville TN)
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329120
+http://hardcoremedia.xyz:80/BG992263/38692743/10079
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WATE-TV ABC 6 (Knoxville TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/14763
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WVLT-TV CBS 8 (Knoxville TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/9961
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WBIR-TV NBC 10 (Knoxville TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/10266
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WTNZ-TV FOX 43 (Knoxville TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/10077
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WRCB-TV NBC 3 (Chattanooga TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/10264
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WTVC-TV ABC 9.1 (Chattanooga TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/9837
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WTVC-TV 9.2 (Chattanooga TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/10076
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WDEF-TV CBS 12 (Chattanooga TN)
+http://hardcoremedia.xyz:80/BG992263/38692743/9960
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTVU-TV FOX 2 (San Francisco CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9996
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KPIX-TV CBS 5 (San Francisco CA)
@@ -359,6 +385,12 @@ http://hardcoremedia.xyz:80/BG992263/38692743/9827
 http://hardcoremedia.xyz:80/BG992263/38692743/10059
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WOIO CBS 19 (Cleveland OH)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/875
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WLWT-TV NBC 5 (Cincinnati OH)
+http://hardcoremedia.xyz:80/BG992263/38692743/10233
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WCPO-TV ABC 9 (Cincinnati OH)
+http://hardcoremedia.xyz:80/BG992263/38692743/9826
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WKRC-TV CBS 12 (Cincinnati OH)
+http://hardcoremedia.xyz:80/BG992263/38692743/9938
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WLIO-TV NBC 8 (Lima OH)
 https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WTTV-TV CBS 4 (Indianapolis IN)
@@ -506,11 +538,11 @@ https://pubads.g.doubleclick.net/ssai/event/Yo0UqqfJQp2EXhFEfrdDGQ/master.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/playlist.m3u8?ads.xumo_channelId=99951168
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",WFXT-CD FOX 25 24/7 News (Boston MA)
 https://dbrb49pjoymg4.cloudfront.net/10001/9995108/hls/playlist.m3u8?ads.xumo_channelId=9995108
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KDKA-TV CBS 2 24/7 News (Pittsburg PA)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KDKA-TV CBS 2 24/7 News (Pittsburgh PA)
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WTAE-TV ABC 4 24/7 News (Pittsburg PA)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WTAE-TV ABC 4 24/7 News (Pittsburgh PA)
 https://apollo.production-public.tubi.io/live/ac-wtae.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WPXI-TV NBC 11 24/7 News (Pittsburg PA)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WPXI-TV NBC 11 24/7 News (Pittsburgh PA)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WFOR-TV CBS 4 24/7 News (Miami FL)
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
@@ -2729,66 +2761,66 @@ https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",TVS Women Sports
 https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 1
-https://tvpass.org/live/mlb-01/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 2
-https://tvpass.org/live/mlb-02/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 3
-https://tvpass.org/live/mlb-03/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 4
-https://tvpass.org/live/mlb-04/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 5
-https://tvpass.org/live/mlb-05/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 6
-https://tvpass.org/live/mlb-06/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 7
-https://tvpass.org/live/mlb-07/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 8
-https://tvpass.org/live/mlb-08/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 9
-https://tvpass.org/live/mlb-09/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 10
-https://tvpass.org/live/mlb-10/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 11
-https://tvpass.org/live/mlb-11/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 12
-https://tvpass.org/live/mlb-12/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 13
-https://tvpass.org/live/mlb-13/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 14
-https://tvpass.org/live/mlb-14/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 15
-https://tvpass.org/live/mlb-15/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 16
-https://tvpass.org/live/mlb-16/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 17
-https://tvpass.org/live/mlb-17/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 18
-https://tvpass.org/live/mlb-18/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 19
-https://tvpass.org/live/mlb-19/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 20
-https://tvpass.org/live/mlb-20/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 21
-https://tvpass.org/live/mlb-21/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 22
-https://tvpass.org/live/mlb-22/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 23
-https://tvpass.org/live/mlb-23/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 24
-https://tvpass.org/live/mlb-24/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 25
-https://tvpass.org/live/mlb-25/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 26
-https://tvpass.org/live/mlb-26/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 27
-https://tvpass.org/live/mlb-27/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 28
-https://tvpass.org/live/mlb-28/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 29
-https://tvpass.org/live/mlb-29/hd
-#EXTINF:-1 tvg-logo="" group-title="MLB",MLB 30
-https://tvpass.org/live/mlb-30/hd
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Arizona Diamondbacks
+http://hardcoremedia.xyz:80/BG992263/38692743/126925
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Atlanta Braves
+http://hardcoremedia.xyz:80/BG992263/38692743/126926
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Baltimore Orioles
+http://hardcoremedia.xyz:80/BG992263/38692743/126927
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Boston Red Sox
+http://hardcoremedia.xyz:80/BG992263/38692743/126928
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Chicago Cubs
+http://hardcoremedia.xyz:80/BG992263/38692743/126929
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Chicago White Sox
+http://hardcoremedia.xyz:80/BG992263/38692743/126930
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Cincinnati Reds
+http://hardcoremedia.xyz:80/BG992263/38692743/126931
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Cleveland Guardians
+http://hardcoremedia.xyz:80/BG992263/38692743/126932
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Colorado Rockies
+http://hardcoremedia.xyz:80/BG992263/38692743/126933
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Detroit Tigers
+http://hardcoremedia.xyz:80/BG992263/38692743/126934
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Houston Astros
+http://hardcoremedia.xyz:80/BG992263/38692743/126935
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Kansas City Royals
+http://hardcoremedia.xyz:80/BG992263/38692743/126936
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Los Angeles Angels
+http://hardcoremedia.xyz:80/BG992263/38692743/126937
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Los Angeles Dodgers
+http://hardcoremedia.xyz:80/BG992263/38692743/126938
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Miami Marlins
+http://hardcoremedia.xyz:80/BG992263/38692743/126939
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Milwaukee Brewers
+http://hardcoremedia.xyz:80/BG992263/38692743/126940
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Minnesota Twins
+http://hardcoremedia.xyz:80/BG992263/38692743/126941
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | New York Mets
+http://hardcoremedia.xyz:80/BG992263/38692743/126942
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | New York Yankees
+http://hardcoremedia.xyz:80/BG992263/38692743/126943
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Oakland Athletics
+http://hardcoremedia.xyz:80/BG992263/38692743/126944
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Philadelphia Phillies
+http://hardcoremedia.xyz:80/BG992263/38692743/126945
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Pittsburgh Pirates
+http://hardcoremedia.xyz:80/BG992263/38692743/126946
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | San Diego Padres
+http://hardcoremedia.xyz:80/BG992263/38692743/126947
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | San Francisco Giants
+http://hardcoremedia.xyz:80/BG992263/38692743/126948
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Seattle Mariners
+http://hardcoremedia.xyz:80/BG992263/38692743/126949
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | St. Louis Cardinals
+http://hardcoremedia.xyz:80/BG992263/38692743/126950
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Tampa Bay Rays
+http://hardcoremedia.xyz:80/BG992263/38692743/126951
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Texas Rangers
+http://hardcoremedia.xyz:80/BG992263/38692743/126952
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Toronto Blue Jays
+http://hardcoremedia.xyz:80/BG992263/38692743/126953
+#EXTINF:-1 tvg-logo="" group-title="MLB",MLB | Washington Nations
+http://hardcoremedia.xyz:80/BG992263/38692743/126954
 
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",HBO (West)
 http://hardcoremedia.xyz:80/BG992263/38692743/129994
