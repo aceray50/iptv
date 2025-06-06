@@ -1,24 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/9865
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/121234
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KNBC-TV NBC 4 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/10121
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120656
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KTLA-TV CW 5 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/117093
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120889
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/9774
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120857
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/9864
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120654
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/9995
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120655
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",KCOP-TV MyNetworkTV 13 "FOX 11+"
+http://5startv.xyz:8080/DerrickD23/4HYdWHXhvmwq/64701
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/9934
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120749
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/10227
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120751
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/10056
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120750
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WABC-TV ABC 7 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/142490
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/121139
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",WWOR-TV MyNetworkTV 9 (New York NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/117216
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
@@ -2110,7 +2112,7 @@ https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Circle Country #2
 https://amg00432-amg00432c1-circle-worldwide-2821.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-circleworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",The Cowboy Channel
-http://hardcoremedia.xyz:80/BG992263/38692743/129857
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1460
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Outlaw (The Western Channel)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Wild West TV
