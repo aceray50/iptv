@@ -3769,8 +3769,6 @@ http://hardcoremedia.xyz:80/BG992263/38692743/237622
 http://hardcoremedia.xyz:80/BG992263/38692743/237623
 #EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Dance EDM
 http://hardcoremedia.xyz:80/BG992263/38692743/237624
-#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Indie
-http://hardcoremedia.xyz:80/BG992263/38692743/237625
 #EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop And R&B
 http://hardcoremedia.xyz:80/BG992263/38692743/237626
 #EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Rap
@@ -3815,6 +3813,8 @@ http://hardcoremedia.xyz:80/BG992263/38692743/237645
 http://hardcoremedia.xyz:80/BG992263/38692743/237646
 #EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | Solid Gold Oldies
 http://hardcoremedia.xyz:80/BG992263/38692743/237651
+#EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | '60s
+http://hardcoremedia.xyz:80/BG992263/38692743/237625
 #EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | '70s
 http://hardcoremedia.xyz:80/BG992263/38692743/237650
 #EXTINF:-1 tvg-logo="" group-title="Music",MC (Music Choice) | '80s
