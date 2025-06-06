@@ -2149,6 +2149,8 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 http://hardcoremedia.xyz:80/BG992263/38692743/241996
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",LMN (LifeTime Movie Network)
 http://hardcoremedia.xyz:80/BG992263/38692743/129723
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",LRW (LifeTime Real Women)
+http://hardcoremedia.xyz:80/BG992263/38692743/16840
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Movie Favorites By Lifetime (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=17d6d310-246c-4678-a980-a3043d16f2a3&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MyTime Movie Network
@@ -2233,6 +2235,8 @@ http://fl5.moveonjoy.com/TCM/index.m3u8
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TCM+ (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmeast.us.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",FMC (Family Movie Classics)
+http://hardcoremedia.xyz:80/BG992263/38692743/257115
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro Crush
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",NOST (The Nostalgia Network)
@@ -2245,18 +2249,20 @@ http://hardcoremedia.xyz:80/BG992263/38692743/129887
 http://hardcoremedia.xyz:80/BG992263/38692743/129888
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Shorts TV
+http://hardcoremedia.xyz:80/BG992263/38692743/257267
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",80's Sitcom Flashback
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Non-Stop 90's
 https://linear-744.frequency.stream/dist/dice/744/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Dove Channel
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Adventures
+http://hardcoremedia.xyz:80/BG992263/38692743/256729
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Family
 http://hardcoremedia.xyz:80/BG992263/38692743/129882
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Faith & Living
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75654
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",GAC Great American Adventures
-http://hardcoremedia.xyz:80/BG992263/38692743/256729
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Holiday Plus
@@ -2312,8 +2318,6 @@ https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",CFN (Catholic Faith Network)
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",Salt + Light Channel
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/140649
 #EXTINF:-1 tvg-logo="" group-title="Religious",Hope Channel
 https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/720p/main.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",GBN (Gospel Broadcasting Network)
