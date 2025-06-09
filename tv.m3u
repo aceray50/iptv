@@ -131,6 +131,12 @@ http://hardcoremedia.xyz:80/BG992263/38692743/10010
 http://hardcoremedia.xyz:80/BG992263/38692743/9788
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",KCWX-TV MyNetworkTV 2 (San Antonio TX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KDBC-TV CBS 4 (El Paso TX)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120807
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KVIA-TV ABC 7 (El Paso TX)
+http://hardcoremedia.xyz:80/BG992263/38692743/9843
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KTSM-TV NBC 9 (El Paso TX)
+http://hardcoremedia.xyz:80/BG992263/38692743/10275
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WOAI-TV NBC 4 (San Antonio TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/10283
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KENS-TV CBS 5 (San Antonio TX)
@@ -298,9 +304,9 @@ http://hardcoremedia.xyz:80/BG992263/38692743/9960
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTVU-TV FOX 2 (San Francisco CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9996
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KPIX-TV CBS 5 (San Francisco CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/9868
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120657
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KGO-TV ABC 7 (San Francisco CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/9777
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120865
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KNTV-TV NBC 10 (San Francisco CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/10126
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KCRA-TV NBC 3 (Sacramento CA)
@@ -309,6 +315,14 @@ http://hardcoremedia.xyz:80/BG992263/38692743/10123
 http://hardcoremedia.xyz:80/BG992263/38692743/9775
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KOVR-TV CBS 13 (Sacramento CA)
 http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23550
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KSEE-TV NBC 24 (Fresno CA)
+http://tv14s.xyz:8080/JVSh9ft29E/M7hwSTAUwd/120653
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KMPH-TV 26 (Fresno CA)
+http://hardcoremedia.xyz:80/BG992263/38692743/237672
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KFSN-TV ABC 30 (Fresno CA)
+http://hardcoremedia.xyz:80/BG992263/38692743/9773
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KGPE-TV CBS 47 (Fresno CA)
+http://tv14s.xyz:8080/JVSh9ft29E/M7hwSTAUwd/137682
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTXL-TV FOX 40 (Sacramento CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9997
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WSB-TV ABC 2 (Atlanta GA)
