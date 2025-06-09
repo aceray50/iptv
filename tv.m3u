@@ -193,6 +193,10 @@ http://hardcoremedia.xyz:80/BG992263/38692743/9867
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KGTV-TV ABC 10 (San Diego CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9776
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KESQ-TV ABC 3 (Palm Springs CA)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/121235
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KMIR-TV NBC 36 (Palm Springs CA)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/121237
 #EXTINF:-1 tvg-logo="" group-title="Local Channels",W14DK-TV 14.4 WX Channel
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels",WCOT-TV Ind. 13 (Tallahassee FL)
@@ -477,13 +481,13 @@ http://hardcoremedia.xyz:80/BG992263/38692743/9799
 http://hardcoremedia.xyz:80/BG992263/38692743/9900
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WDRB-TV FOX 41 (Louisville KY)
 http://hardcoremedia.xyz:80/BG992263/38692743/10028
-#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KHON FOX 2 (Honolulu HI)
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KHON-TV FOX 2 (Honolulu HI)
 http://hardcoremedia.xyz:80/BG992263/38692743/10018
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KITV-TV ABC 4 (Honolulu HI)
 http://hardcoremedia.xyz:80/BG992263/38692743/9793
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KGMB CBS 5 (Honolulu HI)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KGMB-TV CBS 5 (Honolulu HI)
 http://hardcoremedia.xyz:80/BG992263/38692743/9887
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KHNL NBC 13 (Honolulu HI)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KHNL-TV NBC 13 (Honolulu HI)
 http://hardcoremedia.xyz:80/BG992263/38692743/10150
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
