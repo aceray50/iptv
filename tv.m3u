@@ -331,6 +331,8 @@ http://hardcoremedia.xyz:80/BG992263/38692743/9791
 http://hardcoremedia.xyz:80/BG992263/38692743/10015
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WXIA-TV NBC 11 (Atlanta GA)
 http://hardcoremedia.xyz:80/BG992263/38692743/10145
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WPCH-TV CW 17 (Atlanta GA)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/47362
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WANF-TV CBS 46 (Atlanta GA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9882
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WUPA-TV CW 69 (Atlanta GA)
@@ -757,9 +759,7 @@ https://buzzrota-ono.amagi.tv/playlist.m3u8
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/10001/9999613/hls/playlist.m3u8?ads.xumo_channelId=9999613
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Nosey #1
-http://fl3.moveonjoy.com/Newsy/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Nosey #2
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Nosey
 https://dbrb49pjoymg4.cloudfront.net/10001/99991366/hls/playlist.m3u8?ads.xumo_channelId=99991366
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Confess by Nosey
 https://dbrb49pjoymg4.cloudfront.net/10001/99991388/hls/playlist.m3u8?ads.xumo_channelId=99991388
@@ -801,7 +801,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/243542
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WNJT-TV PBS 52 (Trenton NJ)
 http://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WNED-TV PBS 17 (Buffalo NY/Toronto ON)
-http://hardcoremedia.xyz:80/BG992263/38692743/243541
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57276
 #EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Public Broadcast",WETA-TV WETA UK 26.2 (Washington DC)
 https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8
 #EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-metro_1900x1900.png" group-title="Public Broadcast",WETA-TV PBS Metro 26.5 (Washington DC)
@@ -4819,9 +4819,9 @@ http://lunar.pm:8080/mrjayp/Spectrum2/122960
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Family Jr. (Canada) 
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57346
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Nickelodeon (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67102
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/47349
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Treehouse (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67053
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57371
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",YTV (Canada)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/63850
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Disney Channel (Canada)
@@ -4840,6 +4840,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11644
 http://hardcoremedia.xyz:80/BG992263/38692743/243596
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Much (Canada)
 http://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",MTV (Canada)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57368
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",APTN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57320
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",USA Network (Canada)
@@ -4865,11 +4867,11 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57418
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Speed
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/46212
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",National Geographic (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67106
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/47338
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",National Geographic Wild (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57280
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57450
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",History Channel (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67131
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57272
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",H2 (History Channel 2) (Canada)
 http://lunar.pm:8080/mrjayp/Spectrum2/67136
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",BBC Earth (Canada)
@@ -4881,7 +4883,7 @@ http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Documentary (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/148610
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ID (Investigation Discovery) (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67123
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57442
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Oxygen True Crime (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57442
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crime & Investigation (Canada)
@@ -4968,8 +4970,6 @@ http://hardcoremedia.xyz:80/BG992263/38692743/256977
 http://cord-cutter.net:8080/live/JoanP@112/443@112/57422.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Comedy (Canada)
 http://lunar.pm:8080/mrjayp/Spectrum2/122954
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Comedy Central (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130413
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Flavour Network (Canada)
 http://hardcoremedia.xyz:80/BG992263/38692743/256978
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",The Cooking Channel (Canada)
@@ -4984,8 +4984,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66242
 http://lunar.pm:8080/mrjayp/Spectrum2/122956
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Game Show Network (Canada)
 http://1tv41.icu:8080/live/95135258/95135258/57430.ts
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Game TV
-http://supersonictv.live:8080/live/Sheila/Sheila1/21924.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",3ABN (Canada)
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TSC (The Shopping Channel) (Canada)
@@ -5073,6 +5071,8 @@ http://hardcoremedia.xyz:80/BG992263/38692743/241991
 http://hardcoremedia.xyz:80/BG992263/38692743/241992
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",ITV 3 (UK)
 http://hardcoremedia.xyz:80/BG992263/38692743/241990
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",ITV Be (UK)
+http://lunar.pm:8080/mrjayp/Spectrum2/20805
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",More4 (UK)
 http://hardcoremedia.xyz:80/BG992263/38692743/241998
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 4 (UK)
@@ -5084,17 +5084,9 @@ http://fortv.cc:8080/gscQ3v/779460/53653
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 5+ (UK)
 http://92.114.85.81:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 5 USA (UK)
-http://92.114.85.81:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 5 USA+ (UK)
-http://92.114.85.81:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 5 Star (UK)
-http://92.114.85.81:8000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 5 Star+ (UK)
-http://92.114.85.81:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 5 Select (UK)
-http://92.114.85.81:8000/play/a01d/index.m3u8
+http://lunar.pm:8080/mrjayp/Spectrum2/20871
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 5 Action (UK)
-http://92.114.85.81:8000/play/a01h/index.m3u8
+http://lunar.pm:8080/mrjayp/Spectrum2/110305
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",CNBC (UK)
 http://92.114.85.77:8000/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Bloomberg (UK)
@@ -5112,25 +5104,41 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53686
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Nickelodeon (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53728
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Cartoon Network (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53719
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53719
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Boomerang (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53718
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53718
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Pop (UK)
 http://fortv.cc:8080/gscQ3v/779460/53730
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",CBBC (UK)
 http://fortv.cc:8080/gscQ3v/779460/53720
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",U&Alibi (UK)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/59030
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",U&Drama (UK)
 http://fortv.cc:8080/gscQ3v/779460/53677
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",E4 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53672
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Discovery Channel (UK)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53684
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Discovery History (UK)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53694
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Discovery Science (UK)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53695
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Investigation Discovery (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53687
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53689
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",History Channel (UK)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53686
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",H2 (History Channel 2) (UK)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53692
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",MTV (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53737
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",MTV Live (UK)
-http://190.102.246.93:9005/play/a01p
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53737
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",MTV Hits (UK)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53735
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",MTV 80's (UK)
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Comedy Central (UK)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53660
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",TLC (The Learning Channel) (UK)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53681
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Blaze (UK)
 http://fortv.cc:8080/gscQ3v/779460/53754
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Quest (UK)
@@ -5223,6 +5231,8 @@ https://a1xs.vip/2000022
 https://a1xs.vip/2000023
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TNT Sports 4 (UK)
 http://hardcoremedia.xyz:80/BG992263/38692743/258613
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Film4 (UK)
+http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53702
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Action (UK)
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577372&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Comedy (UK)
