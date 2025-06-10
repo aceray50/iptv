@@ -1879,7 +1879,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd7de-7b2e-11ef-9bf8-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4e94404-1332-11f0-8694-3a1fbadd5755&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nick Music
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/47
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319521
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Disney Channel (West)
 http://hardcoremedia.xyz:80/BG992263/38692743/137678
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Disney Channel (East)
@@ -1945,7 +1945,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",FilmRise Anime
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",RetroCrush
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/mainManifest.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TV Land
 http://hardcoremedia.xyz:80/BG992263/38692743/129970
@@ -2311,8 +2311,6 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcm
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmeast.us.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FMC (Family Movie Classics)
 http://hardcoremedia.xyz:80/BG992263/38692743/257115
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro Crush
-https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/mainManifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",NOST (The Nostalgia Network)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nost-the-nostalgia-network/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Hallmark Channel
@@ -4873,7 +4871,7 @@ http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57346
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Nickelodeon (Canada)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/47349
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Treehouse (Canada)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57371
+http://lunar.pm:8080/mrjayp/Spectrum2/67053
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",YTV (Canada)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/63850
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",WildBrain TV (Canada)
