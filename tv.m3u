@@ -881,6 +881,8 @@ http://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 http://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Public Access",Santa Monica City TV 20 (Santa Monica CA)
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Public Access",BHTV10 (Beverly Hills Television) (Beverly Hills CA)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Public Access",Whittier CityTV (Whittier CA)
 https://whittier.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Public Access",Long Beach Television (Long Beach CA)
@@ -913,6 +915,14 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
 https://reflect-cityofrc.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Public Access",KFON TV Fontana Community Television (Fontana CA)
 https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Public Access",TV3 (San Bernardino CA)
+https://reflect-sanbernardino.cablecast.tv/live-2/live/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Public Access",IEMG (Inland Empire Media Group) (San Bernardino CA)
+https://reflect-sanbernardino.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Public Access",Regional Channel (San Bernardino CA)
+https://reflect-sanbernardino.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Public Access",RivCo (Riverside CA)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/rivcotv/live/ch1/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Public Access",Temecula TV (Temecula CA)
 http://reflect-temecula.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Public Access",KVVB-TV 33 (Victorville CA)
@@ -1057,6 +1067,8 @@ https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Public Access",Public Access Channel 3 (San Dimas CA)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/sandimas/live/ch1/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Public Access",City of Las Vegas (Las Vegas NV)
+https://d1iiqllagryue9.cloudfront.net/kclv/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Public Access",Seattle Channel (Seattle WA)
 https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Public Access",Anne Arundel County Government (Annapolis MN)
@@ -2332,6 +2344,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-634700569d64
 
 #EXTINF:-1 tvg-logo="" group-title="Religious",Scientology Network
 https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",The World Network
+https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",Victory Channel
 https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",Positiv
@@ -2349,7 +2363,7 @@ https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/7345
 #EXTINF:-1 tvg-logo="" group-title="Religious",CTN (Christian Television Network)
 https://hls-live-stream-gc.cdn01.net/mpegts/232076_1523529/O6p-4mH33dtcHl-XqILgDw/1740370872/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",Daystar Television Network
-http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329070
+http://hardcoremedia.xyz:80/BG992263/38692743/129673
 #EXTINF:-1 tvg-logo="" group-title="Religious",3ABN
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",3ABN Proclaim!
