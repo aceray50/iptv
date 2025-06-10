@@ -845,8 +845,6 @@ http://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 http://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Santa Monica City TV 20 (Santa Monica CA)
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Access",Carlsbad City TV Channel (Carlsbad CA)
-https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Whittier CityTV (Whittier CA)
 https://whittier.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Long Beach Television (Long Beach CA)
@@ -861,12 +859,14 @@ https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Orange TV (Orange County CA)
 https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Public Access",Carlsbad City TV Channel (Carlsbad CA)
+https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",City TV San Diego (San Diego CA)
 http://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",KOCT-TV 18 (San Diego CA)
-https://securestream6.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8?dt=1738212670677
+https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8?dt=1749521028612
 #EXTINF:-1 tvg-logo="" group-title="Public Access",KOCT-TV 19 (San Diego CA)
-https://securestream6.champds.com/hlssstc/KOCTCALIVE2/KOCTCALIVE2.m3u8?dt=1738212717899
+https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8?dt=1749520937749
 #EXTINF:-1 tvg-logo="" group-title="Public Access",CNC TV (County News Center) (San Diego CA)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Pomona Internet Streaming Channel (Pomona CA)
@@ -1019,6 +1019,8 @@ https://livestream.telvue.com/concordtvnh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/
 https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Access Sacramento Channel 18
 https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Public Access",Public Access Channel 3 (San Dimas CA)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/sandimas/live/ch1/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Seattle Channel (Seattle WA)
 https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Public Access",Anne Arundel County Government (Annapolis MN)
