@@ -324,9 +324,9 @@ http://hardcoremedia.xyz:80/BG992263/38692743/9960
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTVU-TV FOX 2 (San Francisco CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9996
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KPIX-TV CBS 5 (San Francisco CA)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120657
+http://hardcoremedia.xyz:80/BG992263/38692743/9868
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KGO-TV ABC 7 (San Francisco CA)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120865
+http://hardcoremedia.xyz:80/BG992263/38692743/9777
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KNTV-TV NBC 10 (San Francisco CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/10126
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KCRA-TV NBC 3 (Sacramento CA)
@@ -334,15 +334,17 @@ http://hardcoremedia.xyz:80/BG992263/38692743/10123
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KXTV-TV ABC 10 (Sacramento CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9775
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KOVR-TV CBS 13 (Sacramento CA)
-http://fastream.xyz:8080/72ge9hPFGZNs/cdQ8YVktcY5T/23550
+http://hardcoremedia.xyz:80/BG992263/38692743/259360
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTXL-TV FOX 40 (Sacramento CA)
+http://hardcoremedia.xyz:80/BG992263/38692743/9997
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KSEE-TV NBC 24 (Fresno CA)
-http://tv14s.xyz:8080/JVSh9ft29E/M7hwSTAUwd/120653
+http://hardcoremedia.xyz:80/BG992263/38692743/10120
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KMPH-TV FOX 26 (Fresno CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/237672
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KFSN-TV ABC 30 (Fresno CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9773
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KGPE-TV CBS 47 (Fresno CA)
-http://tv14s.xyz:8080/JVSh9ft29E/M7hwSTAUwd/137682
+http://hardcoremedia.xyz:80/BG992263/38692743/9863
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTXL-TV FOX 40 (Sacramento CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9997
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WSB-TV ABC 2 (Atlanta GA)
@@ -1477,6 +1479,8 @@ http://hardcoremedia.xyz:80/BG992263/38692743/135385
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334559
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUVS-TV Univision 19 (Modesto/Sacramento CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/135416
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFK-DT UniMás 64 (Sacramento CA)
+http://hardcoremedia.xyz:80/BG992263/38692743/135416
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WTMO-TV Telemundo 31 (Orlando FL)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334583
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WRMD-CD Telemundo 49 (Tampa FL)
@@ -2503,7 +2507,9 @@ https://tvpass.org/live/midatlantic-sports-network/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Monumental Sports Network
 https://tvpass.org/live/monumental-sports-network/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",NESN (New England Sports Network)
-https://tvpass.org/live/new-england-sports-network/hd
+http://hardcoremedia.xyz:80/BG992263/38692743/141484
+#EXTINF:-1 tvg-logo="" group-title="Sports",NESN+
+http://hardcoremedia.xyz:80/BG992263/38692743/141485
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports
 http://hardcoremedia.xyz:80/BG992263/38692743/254375
 #EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports XL
@@ -2524,10 +2530,6 @@ https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 http://hardcoremedia.xyz:80/BG992263/38692743/141466
 #EXTINF:-1 tvg-logo="" group-title="Sports",FSN 2
 http://hardcoremedia.xyz:80/BG992263/38692743/141467
-#EXTINF:-1 tvg-logo="" group-title="Sports",FOX Sports Racing
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162830
-#EXTINF:-1 tvg-logo="" group-title="Sports",FOX Racing America
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/162128
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX Soccer Plus
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319479
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV
@@ -2558,6 +2560,8 @@ http://hardcoremedia.xyz:80/BG992263/38692743/257189
 http://hardcoremedia.xyz:80/BG992263/38692743/167982
 #EXTINF:-1 tvg-logo="" group-title="Sports",NHL Channel
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eleven Sports Network
+http://hardcoremedia.xyz:80/BG992263/38692743/141456
 #EXTINF:-1 tvg-logo="" group-title="Sports",Big Play Sports Network
 http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131097
 #EXTINF:-1 tvg-logo="" group-title="Sports",Altitude Sports Denver
@@ -2573,19 +2577,19 @@ http://hardcoremedia.xyz:80/BG992263/38692743/141497
 #EXTINF:-1 tvg-logo="" group-title="Sports",Spectrum Sportsnet Lakers
 http://hardcoremedia.xyz:80/BG992263/38692743/141498
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet West
-https://tvpass.org/live/sportsnet-west/hd
+http://hardcoremedia.xyz:80/BG992263/38692743/142481
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet East
-https://tvpass.org/live/sportsnet-east/hd
+http://hardcoremedia.xyz:80/BG992263/38692743/142480
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet World
 https://a1xs.vip/6000013
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet 360
-https://tvpass.org/live/sportsnet-360/hd
+http://hardcoremedia.xyz:80/BG992263/38692743/256959
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet One
-https://tvpass.org/live/sportsnet-one/hd
+http://hardcoremedia.xyz:80/BG992263/38692743/142482
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet Ontario
-https://tvpass.org/live/sportsnet-ontario/hd
+http://hardcoremedia.xyz:80/BG992263/38692743/142483
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet Pacific
-https://tvpass.org/live/sportsnet-pacific/hd
+http://hardcoremedia.xyz:80/BG992263/38692743/142484
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet Pittsburgh
 https://tvpass.org/live/sportsnet-pittsburgh/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sportsnet New York
@@ -2627,15 +2631,15 @@ https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TV
 #EXTINF:-1 tvg-logo="" group-title="Sports",FanDuel Extra
 https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_FanDuelTVChannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network West
-https://tvpass.org/live/fanduel-sports-network-west/hd
+http://lunar.pm:8080/mrjayp/Spectrum2/35446
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network Detroit
-https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319419
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network Florida
-https://tvpass.org/live/fanduel-sports-network-florida/hd
+http://lunar.pm:8080/mrjayp/Spectrum2/35462
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network Great Lakes
 https://tvpass.org/live/fanduel-sports-network-great-lakes/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network North
-https://tvpass.org/live/fanduel-sports-network-north/hd
+http://lunar.pm:8080/mrjayp/Spectrum2/35457
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network Cleveland
 https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network Indiana
@@ -2643,7 +2647,7 @@ https://tvpass.org/live/fanduel-sports-indiana/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network New Orleans
 https://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network Oklahoma
-https://tvpass.org/live/fanduel-sports-network-oklahoma/hd
+http://lunar.pm:8080/mrjayp/Spectrum2/108581
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network San Diego
 https://tvpass.org/live/fanduel-sports-network-san-diego/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Network Socal
@@ -2663,7 +2667,7 @@ https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Southeast Nashville
 https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Sun
-https://tvpass.org/live/fanduel-sports-sun/hd
+http://lunar.pm:8080/mrjayp/Spectrum2/35448
 #EXTINF:-1 tvg-logo="" group-title="Sports",Fanduel Sports Tennessee East
 https://tvpass.org/live/fanduel-sports-tennessee-east/hd
 #EXTINF:-1 tvg-logo="" group-title="Sports",PHLY Sports
@@ -2729,9 +2733,9 @@ http://hardcoremedia.xyz:80/BG992263/38692743/141475
 #EXTINF:-1 tvg-logo="" group-title="Sports",Swerve Sports
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",VSIN Sports
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/168530
+http://hardcoremedia.xyz:80/BG992263/38692743/141505
 #EXTINF:-1 tvg-logo="" group-title="Sports",Ginx.tv
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131321
+https://vod.ginx.tv/static/streaming-playlists/hls/0d57d0c4-7e25-4640-922b-35d6f9486f53/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",DAZN
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/392
 #EXTINF:-1 tvg-logo="" group-title="Sports",DAZN 1
@@ -3232,6 +3236,46 @@ http://hardcoremedia.xyz:80/BG992263/38692743/129716
 http://hardcoremedia.xyz:80/BG992263/38692743/129717
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Hollywood Suite 00's Movies
 http://hardcoremedia.xyz:80/BG992263/38692743/129714
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Action
+http://hardcoremedia.xyz:80/BG992263/38692743/254181
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Animation
+http://hardcoremedia.xyz:80/BG992263/38692743/256028
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Blockbusters
+http://hardcoremedia.xyz:80/BG992263/38692743/256029
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Classic
+http://hardcoremedia.xyz:80/BG992263/38692743/254164
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Comedy
+http://hardcoremedia.xyz:80/BG992263/38692743/256031
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Cult
+http://hardcoremedia.xyz:80/BG992263/38692743/254166
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Family
+http://hardcoremedia.xyz:80/BG992263/38692743/254167
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Greats
+http://hardcoremedia.xyz:80/BG992263/38692743/254168
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Greats 2
+http://hardcoremedia.xyz:80/BG992263/38692743/254169
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Historical
+http://hardcoremedia.xyz:80/BG992263/38692743/256036
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Hits
+http://hardcoremedia.xyz:80/BG992263/38692743/254178
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Horror
+http://hardcoremedia.xyz:80/BG992263/38692743/254171
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Musical
+http://hardcoremedia.xyz:80/BG992263/38692743/256038
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Mystery
+http://hardcoremedia.xyz:80/BG992263/38692743/254173
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Premier
+http://hardcoremedia.xyz:80/BG992263/38692743/254174
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Romance
+http://hardcoremedia.xyz:80/BG992263/38692743/256041
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Sci-Fi
+http://hardcoremedia.xyz:80/BG992263/38692743/254176
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Thriller
+http://hardcoremedia.xyz:80/BG992263/38692743/254179
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | War
+http://hardcoremedia.xyz:80/BG992263/38692743/254180
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Western
+http://hardcoremedia.xyz:80/BG992263/38692743/254177
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 01
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34477
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",PPV Cinema 02
@@ -5192,9 +5236,9 @@ http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53660
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TLC (The Learning Channel) (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53681
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Blaze (UK)
-http://fortv.cc:8080/gscQ3v/779460/53754
+http://hardcoremedia.xyz:80/BG992263/38692743/241954
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Quest (UK)
-http://fortv.cc:8080/gscQ3v/779460/53682
+http://hardcoremedia.xyz:80/BG992263/38692743/242014
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Horse & Country TV (UK)
 https://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TBN (UK)
