@@ -1843,20 +1843,12 @@ http://hardcoremedia.xyz:80/BG992263/38692743/137676
 http://hardcoremedia.xyz:80/BG992263/38692743/137675
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Boomerang by Cartoon Network
 http://hardcoremedia.xyz:80/BG992263/38692743/137674
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Adult Swim+ (West)
-https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Adult Swim+ (East)
-https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aseast.us.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Adult Swim 24/7
-https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",MeTV Toons
 http://hardcoremedia.xyz:80/BG992263/38692743/239352
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Kartoon Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",No Parents Allowed (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d538a-7b2e-11ef-9d89-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3a45869-717e-45df-924b-df7f8f212859&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",Forever Kids (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=76cdc847-bc01-40b7-a0b3-beef54986292&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Kids Movie Club (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba2cd391-08f6-11f0-a196-2e4264ece789&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Go-Go Gadget (Pluto TV)
@@ -1995,6 +1987,12 @@ http://hardcoremedia.xyz:80/BG992263/38692743/129911
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a9a-7b2e-11ef-8b51-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bbba5747-a534-474e-b169-1d3ce211896e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",OUTtv Proud
 https://amg00375-fusemedia-outtv-ono-fpk2m.amagi.tv/playlist/amg00375-fusemedia-outtv-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Adult Swim+ (West)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Adult Swim+ (East)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aseast.us.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Adult Swim 24/7
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",VH1
 http://hardcoremedia.xyz:80/BG992263/38692743/129975
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET
