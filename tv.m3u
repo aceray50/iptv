@@ -121,12 +121,14 @@ http://hardcoremedia.xyz:80/BG992263/38692743/10139
 http://hardcoremedia.xyz:80/BG992263/38692743/9879
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WFTV-TV ABC 9 (Orlando FL)
 http://hardcoremedia.xyz:80/BG992263/38692743/9786
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WFTV-TV ABC 9 Now (Orlando FL)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvnow-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WKCF-TV CW 13 (Orlando FL)
+http://hardcoremedia.xyz:80/BG992263/38692743/117129
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WOFL-TV FOX 35 (Orlando FL)
 http://hardcoremedia.xyz:80/BG992263/38692743/10011
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SuperChannel_2021.png" group-title="Local Channels",WACX-TV 55.1 SuperChannel Orlando (Orlando FL)
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL)
+http://hardcoremedia.xyz:80/BG992263/38692743/117130
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WOGX-TV FOX 51 (Ocala/Gainsville FL)
 http://hardcoremedia.xyz:80/BG992263/38692743/10010
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WWSB-TV ABC 7 (Sarasota FL)
@@ -137,6 +139,14 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120807
 http://hardcoremedia.xyz:80/BG992263/38692743/9843
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KTSM-TV NBC 9 (El Paso TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/10275
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KCBD-TV NBC 11 (Lubbock TX)
+http://hardcoremedia.xyz:80/BG992263/38692743/10280
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KLBK-TV CBS 13 (Lubbock TX)
+http://hardcoremedia.xyz:80/BG992263/38692743/9971
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KAMC-TV ABC 28 (Lubbock TX)
+http://hardcoremedia.xyz:80/BG992263/38692743/9845
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KJTV-TV FOX 34 (Lubbock TX)
+http://hardcoremedia.xyz:80/BG992263/38692743/10086
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",KCWX-TV MyNetworkTV 2 (San Antonio TX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WOAI-TV NBC 4 (San Antonio TX)
@@ -213,7 +223,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/9776
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/121235
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KMIR-TV NBC 36 (Palm Springs CA)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/121237
-#EXTINF:-1 tvg-logo="" group-title="Local Channels",W14DK-TV 14.4 WX Channel
+#EXTINF:-1 tvg-logo="" group-title="Local Channels",W14DK-TV 14.4 WX Channel (Dagsboro DE)
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels",WCOT-TV Ind. 13 (Tallahassee FL)
 https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
@@ -237,6 +247,14 @@ http://hardcoremedia.xyz:80/BG992263/38692743/9790
 http://hardcoremedia.xyz:80/BG992263/38692743/10013
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WTVX-TV CW 34 (West Palm Beach FL)
 http://hardcoremedia.xyz:80/BG992263/38692743/117137
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WFTX-TV FOX 4 (Naples FL)
+http://hardcoremedia.xyz:80/BG992263/38692743/10009
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WVZN-TV ABC 7 (Naples FL)
+http://hardcoremedia.xyz:80/BG992263/38692743/9785
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WINK-TV CBS 11 (Naples FL)
+http://hardcoremedia.xyz:80/BG992263/38692743/9878
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WBBH-TV NBC 20 (Naples FL)
+http://hardcoremedia.xyz:80/BG992263/38692743/10138
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTVI-TV FOX 2 (St. Louis MO)
 http://hardcoremedia.xyz:80/BG992263/38692743/10045
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KMOV-TV CBS 4 (St. Louis MO)
@@ -620,6 +638,8 @@ https://content.uplynk.com/channel/5bfc0bb9d2be47448fb2c1aaaa2dfd0a.m3u8
 https://content.uplynk.com/channel/21cc54a6fc484e6ba580befaadf83502.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WFTV-TV ABC 9 24/7 News (Orlando FL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvnow-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WFTV-TV ABC 9 Now (Orlando FL)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvnow-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WFTV-TV ABC 9 Breaking News 24/7 (Orlando FL)
 https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WFTV-TV ABC 9 Weather 24/7 (Orlando FL)
@@ -696,171 +716,59 @@ https://dai.google.com/linear/hls/event/LLS6t9zvTkOq8pXtpMVx4A/master.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WUSA-TV CBS 9 24/7 News (Washington DC)
 https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (New York NY)
-https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (Long Island NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 ("New Jersey" Edison NJ)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 ("Westchester" Yonkers NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (Bronx NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (Brooklyn NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 ("Connecticut" Norwalk CT)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 ("Hudson Valley" West Nyack NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ (New York NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ (Long Island NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ ("New Jersey" Edison NJ)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ ("Connecticut" Norwalk CT)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ ("Hudson Valley" West Nyack NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Preview Channel
-https://amg00364-amg00364c2-thepreviewchannel-us-3407.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",FreeCast Sneak Preview
-https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Made In Hollywood by Movie Fone
-https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",REV'N
-http://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/vpwM2si7O4I8SmEgGc6yIA/1744747151/media_mpegts_0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Power Nation
-https://amg01258-amg01258c5-circle-worldwide-2862.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationroku-circleworldwide/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",AWE
-https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",AWE Encore
-https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",MeTV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/744
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",ION
-https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",ION Plus
-https://raw.githubusercontent.com/mystery75/m3u8/main/IONPLUS.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",ION Mystery
-https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",CW Forever
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",CW Gold
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",The Nest
-https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro TV
-http://hardcoremedia.xyz:80/BG992263/38692743/129949
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Rewind TV
-http://hardcoremedia.xyz:80/BG992263/38692743/129951
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #1
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20180
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #2
-http://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Comet
-https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Charge!
-https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",COZI TV
-http://195.181.163.243/COZI_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",H&I (Heroes & Icons)
-http://hardcoremedia.xyz:80/BG992263/38692743/129889
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Start TV
-http://hardcoremedia.xyz:80/BG992263/38692743/129955
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",DABL
-http://hardcoremedia.xyz:80/BG992263/38692743/251081
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",fetv (Family Entertainment Television)
-http://hardcoremedia.xyz:80/BG992263/38692743/130098
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Get TV
-http://fl3.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Grit TV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/734
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Grit Xtra
-https://amg01438-ewscripps-amg01438c46-cw-us-2390.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsgritxtra-cwus/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Laff
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17777
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Laff More!
-https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_channelId=99951232
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Catchy Comedy
-http://hardcoremedia.xyz:80/BG992263/38692743/129845
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Roar
-https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:-1 tvg-logo="https://wljc.com/wp-content/uploads/2024/03/story_black_green.png" group-title="Network Channels",The Story
-https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Buzzr #1
-https://dbrb49pjoymg4.cloudfront.net/10001/99951124/hls/playlist.m3u8?ads.xumo_channelId=99951124
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Buzzr #2
-https://buzzrota-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Bounce TV
-http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Bounce XL
-https://dbrb49pjoymg4.cloudfront.net/10001/9999613/hls/playlist.m3u8?ads.xumo_channelId=9999613
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Nosey
-https://dbrb49pjoymg4.cloudfront.net/10001/99991366/hls/playlist.m3u8?ads.xumo_channelId=99991366
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Confess by Nosey
-https://dbrb49pjoymg4.cloudfront.net/10001/99991388/hls/playlist.m3u8?ads.xumo_channelId=99991388
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Judge Nosey
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
-
-#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Public Broadcast",Create
+#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",Create
 https://create.lls.pbs.org/index_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png" group-title="Public Broadcast",NHK World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png" group-title="Local Public Broadcast",NHK World
 https://nhk.lls.pbs.org/index_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="Public Broadcast",PBS World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="Local Public Broadcast",PBS World
 https://world.lls.pbs.org/index_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://lptv.org/wp-content/uploads/2015/03/fnx-logo.png" group-title="Public Broadcast",FNX
+#EXTINF:-1 tvg-logo="https://lptv.org/wp-content/uploads/2015/03/fnx-logo.png" group-title="Local Public Broadcast",FNX
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WVIZ-TV 25.2 The Ohio Channel (Cleveland OH)
+#EXTINF:-1 tvg-logo="" group-title="Local Public Broadcast",WVIZ-TV 25.2 The Ohio Channel (Cleveland OH)
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8?player_version=1.18.0
-#EXTINF:-1 tvg-logo="" group-title="Public Broadcast",WTVS-TV 56.6 Michigan Learning Channel
+#EXTINF:-1 tvg-logo="" group-title="Local Public Broadcast",WTVS-TV 56.6 Michigan Learning Channel
 https://d2jalth387y2js.cloudfront.net/test.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",KMOS-TV PBS 6 (Columbia MO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KMOS-TV PBS 6 (Columbia MO)
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",KCPT-TV PBS 19 (Kansas City MO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KCPT-TV PBS 19 (Kansas City MO)
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKLE-TV KET-TV PBS 46.1 (Lexington KY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKLE-TV KET-TV PBS 46.1 (Lexington KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Public Broadcast",WKLE-TV KET 2 46.2 Create (Lexington KY)
+#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",WKLE-TV KET 2 46.2 Create (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1315484/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKLE-TV KET KY 46.3 (Lexington KY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKLE-TV KET KY 46.3 (Lexington KY)
 http://2-fss-2.streamhoster.com/pl_132/amlst%3a200914-1315486/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKMJ-TV KET 2 68.1 PBS (Louisville KY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKMJ-TV KET 2 68.1 PBS (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WKMJ-TV KET 2 68.4 KET World (Louisville KY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKMJ-TV KET 2 68.4 KET World (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",KMOS-TV PBS 6 (Sedalia/Jefferson City MO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KMOS-TV PBS 6 (Sedalia/Jefferson City MO)
 http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",KETS-TV PBS 2 (Conway AR)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETS-TV PBS 2 (Conway AR)
 http://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WNET-TV PBS 13 (New York NY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNET-TV PBS 13 (New York NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/243542
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WNJT-TV PBS 52 (Trenton NJ)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNJT-TV PBS 52 (Trenton NJ)
 http://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WNED-TV PBS 17 (Buffalo NY/Toronto ON)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNED-TV PBS 17 (Buffalo NY/Toronto ON)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57276
-#EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Public Broadcast",WETA-TV WETA UK 26.2 (Washington DC)
+#EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Local Public Broadcast",WETA-TV WETA UK 26.2 (Washington DC)
 https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8
-#EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-metro_1900x1900.png" group-title="Public Broadcast",WETA-TV PBS Metro 26.5 (Washington DC)
+#EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-metro_1900x1900.png" group-title="Local Public Broadcast",WETA-TV PBS Metro 26.5 (Washington DC)
 https://wetadt5.lls.pbs.org/wetadt5-cmaf-hls.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WMPB-TV PBS 67.1 (Baltimore MD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMPB-TV PBS 67.1 (Baltimore MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst%3a201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Public Broadcast",WMPB-TV PBS 67.2 Create (Baltimore MD)
+#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",WMPB-TV PBS 67.2 Create (Baltimore MD)
 http://2-fss-1.streamhoster.com/pl_122/amlst%3a201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",WMPT-TV PBS 22 (Annapolis MD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMPT-TV PBS 22 (Annapolis MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Public Broadcast",KUON-TV PBS 12 Create (Lincoln NE)
+#EXTINF:-1 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",KUON-TV PBS 12 Create (Lincoln NE)
 https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",PBS National (West)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (West)
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Public Broadcast",PBS National (East)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (East)
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids #1
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids #2
-https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="Public Broadcast",PBS Retro
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="Local Public Broadcast",PBS Retro
 https://live1009.delivery.roku.com/2af92247-9fb2-430d-bc45-f066023092f6/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local Public Access",SCTV (Santa Clarita CA)
@@ -1713,6 +1621,33 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99991367/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-logo="" group-title="Documentary",FilmRise Untold Stories of the ER
 https://dbrb49pjoymg4.cloudfront.net/10001/99951341/hls/master.m3u8?ads.xumo_channelId=99951341
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (New York NY)
+https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (Long Island NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 ("New Jersey" Edison NJ)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 ("Westchester" Yonkers NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (Bronx NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (Brooklyn NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 ("Connecticut" Norwalk CT)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 ("Hudson Valley" West Nyack NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ (New York NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ (Long Island NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ ("New Jersey" Edison NJ)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ ("Connecticut" Norwalk CT)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ ("Hudson Valley" West Nyack NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="News",Today All Day
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245
 #EXTINF:-1 tvg-logo="" group-title="News",Spectrum News+
@@ -1864,6 +1799,10 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 #EXTINF:-1 tvg-logo="" group-title="Weather News",Weather Spy
 https://dbrb49pjoymg4.cloudfront.net/10001/99991372/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991372
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids #1
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids #2
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon (West)
 http://hardcoremedia.xyz:80/BG992263/38692743/137689
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Nickelodeon (East)
@@ -1952,6 +1891,87 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",RetroCrush
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/mainManifest.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Preview Channel
+https://amg00364-amg00364c2-thepreviewchannel-us-3407.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",FreeCast Sneak Preview
+https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Made In Hollywood by Movie Fone
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",REV'N
+http://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/vpwM2si7O4I8SmEgGc6yIA/1744747151/media_mpegts_0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Power Nation
+https://amg01258-amg01258c5-circle-worldwide-2862.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationroku-circleworldwide/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",AWE
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",AWE Encore
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",MeTV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/744
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",ION
+https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",ION Plus
+https://raw.githubusercontent.com/mystery75/m3u8/main/IONPLUS.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",ION Mystery
+https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",CW Forever
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",CW Gold
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Retro TV
+http://hardcoremedia.xyz:80/BG992263/38692743/129949
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Rewind TV
+http://hardcoremedia.xyz:80/BG992263/38692743/129951
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #1
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/20180
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Antenna TV #2
+http://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",COZI TV
+http://195.181.163.243/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",H&I (Heroes & Icons)
+http://hardcoremedia.xyz:80/BG992263/38692743/129889
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Start TV
+http://hardcoremedia.xyz:80/BG992263/38692743/129955
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",DABL
+http://hardcoremedia.xyz:80/BG992263/38692743/251081
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",fetv (Family Entertainment Television)
+http://hardcoremedia.xyz:80/BG992263/38692743/130098
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Get TV
+http://fl3.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Grit TV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/734
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Grit Xtra
+https://amg01438-ewscripps-amg01438c46-cw-us-2390.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsgritxtra-cwus/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Laff
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/17777
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Laff More!
+https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_channelId=99951232
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Catchy Comedy
+http://hardcoremedia.xyz:80/BG992263/38692743/129845
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Roar
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 tvg-logo="https://wljc.com/wp-content/uploads/2024/03/story_black_green.png" group-title="Network Channels",The Story
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Buzzr #1
+https://dbrb49pjoymg4.cloudfront.net/10001/99951124/hls/playlist.m3u8?ads.xumo_channelId=99951124
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Buzzr #2
+https://buzzrota-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Bounce TV
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Bounce XL
+https://dbrb49pjoymg4.cloudfront.net/10001/9999613/hls/playlist.m3u8?ads.xumo_channelId=9999613
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Nosey
+https://dbrb49pjoymg4.cloudfront.net/10001/99991366/hls/playlist.m3u8?ads.xumo_channelId=99991366
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Confess by Nosey
+https://dbrb49pjoymg4.cloudfront.net/10001/99991388/hls/playlist.m3u8?ads.xumo_channelId=99991388
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",Judge Nosey
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",TV Land
 http://hardcoremedia.xyz:80/BG992263/38692743/129970
