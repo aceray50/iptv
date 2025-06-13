@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9865
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KNBC-TV NBC 4 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/10121
+http://fortv.cc:8080/q8KuDU/354945/120656
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KTLA-TV CW 5 (Los Angeles CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/117093
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/9774
+http://fortv.cc:8080/q8KuDU/354945/120857
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9864
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
@@ -20,11 +20,11 @@ http://hardcoremedia.xyz:80/BG992263/38692743/129930
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/10056
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WABC-TV ABC 7 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/129817
+http://fortv.cc:8080/q8KuDU/354945/121139
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",WWOR-TV MyNetworkTV 9 (New York NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/117216
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/129862
+http://fortv.cc:8080/q8KuDU/354945/120897
 #EXTINF:-1 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WLNY-TV CBS/Ind. 10/55 (New York NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/117221
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WBBM-TV CBS 2 (Chicago IL)
@@ -44,7 +44,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/10038
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WDIV-TV NBC 4 (Detroit MI)
 http://hardcoremedia.xyz:80/BG992263/38692743/10188
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WXYZ-TV ABC 7 (Detroit MI)
-http://hardcoremedia.xyz:80/BG992263/38692743/9806
+http://fortv.cc:8080/q8KuDU/354945/120855
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WKBD-TV CW 50 (Detroit MI)
 http://lunar.pm:8080/mrjayp/Spectrum2/64583
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WWJ-TV CBS 62 (Detroit MI)
@@ -87,6 +87,8 @@ http://hardcoremedia.xyz:80/BG992263/38692743/9951
 http://hardcoremedia.xyz:80/BG992263/38692743/9835
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WPXI-TV NBC 11 (Pittsburgh PA)
 http://hardcoremedia.xyz:80/BG992263/38692743/10253
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WPCW-TV CW 19 (Pittsburgh PA)
+http://fortv.cc:8080/q8KuDU/354945/121170
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WPGH-CD FOX 53 (Pittsburgh PA)
 http://hardcoremedia.xyz:80/BG992263/38692743/229658
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WFSB-TV CBS 3 (Hartford CT)
@@ -175,6 +177,14 @@ http://hardcoremedia.xyz:80/BG992263/38692743/9844
 http://hardcoremedia.xyz:80/BG992263/38692743/117266
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KRIV-TV FOX 26 (Houston TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/10084
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTBC-TV FOX 7 (Austin TX)
+http://hardcoremedia.xyz:80/BG992263/38692743/10081
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KVUE-TV ABC 24 (Austin TX)
+http://hardcoremedia.xyz:80/BG992263/38692743/9840
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KXAN-TV NBC 36 (Houston TX)
+http://hardcoremedia.xyz:80/BG992263/38692743/10271
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KEYE-TV CBS 42 (Austin TX)
+http://hardcoremedia.xyz:80/BG992263/38692743/9964
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WWL-TV CBS 4 (New Orleans LA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9903
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WDSU-TV NBC 6 (New Orleans LA)
@@ -261,6 +271,8 @@ http://hardcoremedia.xyz:80/BG992263/38692743/10045
 http://hardcoremedia.xyz:80/BG992263/38692743/9919
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KSDK-TV NBC 5 (St. Louis MO)
 http://hardcoremedia.xyz:80/BG992263/38692743/10199
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KPLR-TV CW 11 (St. Louis MO)
+http://fortv.cc:8080/q8KuDU/354945/120887
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KDNL-TV ABC 30 (St. Louis MO)
 http://hardcoremedia.xyz:80/BG992263/38692743/9812
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KOMU-TV NBC 8.1 (Jefferson City MO)
@@ -321,8 +333,10 @@ http://hardcoremedia.xyz:80/BG992263/38692743/9839
 http://hardcoremedia.xyz:80/BG992263/38692743/10268
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WTVF-TV CBS 5 (Nashville TN)
 http://hardcoremedia.xyz:80/BG992263/38692743/9963
-#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KZTV-TV FOX 17 (Nashville TN)
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KZTV-TV FOX 17.1 (Nashville TN)
 http://hardcoremedia.xyz:80/BG992263/38692743/10079
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KZTV-TV CW 17.2 (Nashville TN)
+http://fortv.cc:8080/q8KuDU/354945/120901
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WATE-TV ABC 6 (Knoxville TN)
 http://hardcoremedia.xyz:80/BG992263/38692743/14763
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WVLT-TV CBS 8 (Knoxville TN)
@@ -493,6 +507,8 @@ http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/329165
 http://hardcoremedia.xyz:80/BG992263/38692743/9822
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WNYT-TV NBC 13 (Albany NY)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/139
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WCWN-TV CW 15 (Albany NY)
+http://fortv.cc:8080/q8KuDU/354945/120892
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WXXA-TV FOX 23 (Albany NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/10055
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WCSH-TV NBC 6 (Portland ME)
@@ -1367,8 +1383,10 @@ http://hardcoremedia.xyz:80/BG992263/38692743/135430
 http://hardcoremedia.xyz:80/BG992263/38692743/135387
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTH-DT UniMás 67 (Houston TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/135409
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFO-CD UniMás 31 (Austin TX)
+http://hardcoremedia.xyz:80/BG992263/38692743/135404
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KAKW-TV Univision 62 (Austin TX)
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334519
+http://hardcoremedia.xyz:80/BG992263/38692743/135423
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KTVW-TV Univision 33 (Phoenix AZ)
 http://hardcoremedia.xyz:80/BG992263/38692743/135436
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTAZ-TV Telemundo 39 (Phoenix AZ)
