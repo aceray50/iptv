@@ -152,13 +152,15 @@ http://hardcoremedia.xyz:80/BG992263/38692743/10086
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",KCWX-TV MyNetworkTV 2 (San Antonio TX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WOAI-TV NBC 4 (San Antonio TX)
-http://hardcoremedia.xyz:80/BG992263/38692743/10283
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/121157
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KENS-TV CBS 5 (San Antonio TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/9973
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KSAT-TV ABC 12 (San Antonio TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/9846
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KABB-TV FOX 29 (San Antonio TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/10088
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KMYS-TV CW 35 (San Antonio TX)
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/121158
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/10082
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KXAS-TV NBC 5 (Ft. Worth/Dallas TX)
@@ -181,7 +183,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/10084
 http://hardcoremedia.xyz:80/BG992263/38692743/10081
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KVUE-TV ABC 24 (Austin TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/9840
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KXAN-TV NBC 36 (Houston TX)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KXAN-TV NBC 36 (Austin TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/10271
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KEYE-TV CBS 42 (Austin TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/9964
