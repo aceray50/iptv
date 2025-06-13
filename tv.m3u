@@ -767,7 +767,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/243542
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNJT-TV PBS 52 (Trenton NJ)
 http://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNED-TV PBS 17 (Buffalo NY/Toronto ON)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57276
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/139756
 #EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Local Public Broadcast",WETA-TV WETA UK 26.2 (Washington DC)
 https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8
 #EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-metro_1900x1900.png" group-title="Local Public Broadcast",WETA-TV PBS Metro 26.5 (Washington DC)
@@ -1902,8 +1902,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",RetroCrush
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/mainManifest.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",Preview Channel
-https://amg00364-amg00364c2-thepreviewchannel-us-3407.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FreeCast Sneak Preview
 https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Made In Hollywood by Movie Fone
@@ -1917,7 +1915,7 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MeTV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/744
+http://fl3.moveonjoy.com/ME_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",ION
 https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",ION Plus
@@ -2026,7 +2024,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/129835
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",BET Gospel
 http://hardcoremedia.xyz:80/BG992263/38692743/251080
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FOX Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+https://foxsoul-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Pluto Black Classics
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c83d8-7b2e-11ef-badc-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",theGrio
@@ -2354,7 +2352,7 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcm
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FMC (Family Movie Classics)
 http://hardcoremedia.xyz:80/BG992263/38692743/257115
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",NOST (The Nostalgia Network)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nost-the-nostalgia-network/stream.m3u8
+https://api-ott.watchnost.com/loggingmediaurlpassthrough/b.m3u8?version=12&id=12&partner=freecast
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Hallmark Channel
 http://hardcoremedia.xyz:80/BG992263/38692743/129886
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Hallmark Family
@@ -3268,14 +3266,6 @@ http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552035&extensi
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552036&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",ScreenPix Westerns
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552034&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Hollywood Suite 70's Movies
-http://hardcoremedia.xyz:80/BG992263/38692743/129715
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Hollywood Suite 80's Movies
-http://hardcoremedia.xyz:80/BG992263/38692743/129716
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Hollywood Suite 90's Movies
-http://hardcoremedia.xyz:80/BG992263/38692743/129717
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Hollywood Suite 00's Movies
-http://hardcoremedia.xyz:80/BG992263/38692743/129714
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Action
 http://hardcoremedia.xyz:80/BG992263/38692743/254181
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",CineBox | Animation
@@ -4977,7 +4967,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/243596
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Much (Canada)
 http://hardcoremedia.xyz:80/BG992263/38692743/129733
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",MTV (Canada)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57368
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57368
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",APTN (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57320
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",USA Network (Canada)
@@ -5103,7 +5093,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/243583
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",DTOUR (Canada)
 http://hardcoremedia.xyz:80/BG992263/38692743/256977
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",E! (Canada)
-http://cord-cutter.net:8080/live/JoanP@112/443@112/57422.ts
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57249
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Comedy (Canada)
 http://hardcoremedia.xyz:80/BG992263/38692743/129652
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Flavour Network (Canada)
@@ -5179,13 +5169,21 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57438
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Movietime (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47331
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 1 (Canada)
-http://hardcoremedia.xyz:80/BG992263/38692743/129643
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57309
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 2 (Canada)
 http://fl6.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 3 (Canada)
-http://hardcoremedia.xyz:80/BG992263/38692743/129645
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57322
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 4 (Canada)
-http://fl6.moveonjoy.com/CRAVE_4/index.m3u8
+http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57311
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Hollywood Suite 70's Movies (Canada)
+http://hardcoremedia.xyz:80/BG992263/38692743/129715
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Hollywood Suite 80's Movies (Canada)
+http://hardcoremedia.xyz:80/BG992263/38692743/129716
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Hollywood Suite 90's Movies (Canada)
+http://hardcoremedia.xyz:80/BG992263/38692743/129717
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Hollywood Suite 00's Movies (Canada)
+http://hardcoremedia.xyz:80/BG992263/38692743/129714
 
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",BBC One (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53649
