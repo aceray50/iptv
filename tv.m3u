@@ -1348,19 +1348,22 @@ http://hardcoremedia.xyz:80/BG992263/38692743/135432
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WSCV-TV Telemundo 51 (Miami FL)
 http://hardcoremedia.xyz:80/BG992263/38692743/135392
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WSNS-TV Telemundo 44 (Chicago IL)
-http://hardcoremedia.xyz:80/BG992263/38692743/135382
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/443
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WBGO-TV Univision 66 (Chicago IL)
 http://hardcoremedia.xyz:80/BG992263/38692743/135424
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WQHS-TV Univision 61.1 (Cleveland OH)
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WQHS-TV UniMás 61.2 (Cleveland OH)
 http://hardcoremedia.xyz:80/BG992263/38692743/135406
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNEU-TV Telemundo 60 (Boston MA)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334595
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/84390
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WFPA-DT UniMás 28 (Philadelphia PA)
 http://hardcoremedia.xyz:80/BG992263/38692743/135413
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WUVP-TV Univision 65 (Philadelphia PA)
 http://hardcoremedia.xyz:80/BG992263/38692743/135435
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WWSI-TV Telemundo 62 (Philadelphia PA)
-http://hardcoremedia.xyz:80/BG992263/38692743/135394
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/6898
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WZDC-CD Telemundo 44 (Washington DC)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334584
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KELV-TV UniMás 27 (Las Vegas NV)
@@ -2568,8 +2571,10 @@ https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 http://hardcoremedia.xyz:80/BG992263/38692743/141466
 #EXTINF:-1 tvg-logo="" group-title="Sports",FSN 2
 http://hardcoremedia.xyz:80/BG992263/38692743/141467
+#EXTINF:-1 tvg-logo="" group-title="Sports",FOX Sports Racing
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/8430
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX Soccer Plus
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319479
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/265
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV
 http://hardcoremedia.xyz:80/BG992263/38692743/136816
 #EXTINF:-1 tvg-logo="" group-title="Sports",NBA Channel
@@ -4650,13 +4655,13 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",CGTN en Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Cubavisión
-http://200.229.147.142:8000/play/a05h
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1689
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Milenio
-http://hardcoremedia.xyz:80/BG992263/38692743/253231
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/2155
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
-http://hardcoremedia.xyz:80/BG992263/38692743/253204
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1703
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",N+ Media
 http://hardcoremedia.xyz:80/BG992263/38692743/257684
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",ADN 40
@@ -4967,7 +4972,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11644
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Télétoon French (Canada)
 http://hardcoremedia.xyz:80/BG992263/38692743/243596
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Much (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122970
+http://fortv.cc:8080/0n8u9R/169324/215268
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",MTV (Canada)
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57368
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",APTN (Canada)
@@ -4979,11 +4984,11 @@ http://1tv41.icu:8080/live/95135258/95135258/57476.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ABC Spark (Canada)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57375
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Dejaview (Canada)
-http://hardcoremedia.xyz:80/BG992263/38692743/256972
+http://fortv.cc:8080/0n8u9R/169324/122001
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",AMC (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122946
+http://fortv.cc:8080/0n8u9R/169324/57376
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Vision (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122988
+http://fortv.cc:8080/0n8u9R/169324/57468
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Home Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57273
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Magnolia Network (Canada)
