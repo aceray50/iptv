@@ -1,30 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KCBS-TV CBS 2 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/9865
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71611
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KNBC-TV NBC 4 (Los Angeles CA)
-http://fortv.cc:8080/q8KuDU/354945/120656
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71613
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KTLA-TV CW 5 (Los Angeles CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/117093
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KABC-TV ABC 7 (Los Angeles CA)
-http://fortv.cc:8080/q8KuDU/354945/120857
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71609
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/9864
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71610
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTTV-TV FOX 11 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/9995
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71612
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
-http://5startv.xyz:8080/DerrickD23/4HYdWHXhvmwq/64701
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71615
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WCBS-TV CBS 2 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/9934
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71677
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",WNBC-TV NBC 4 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/129930
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71679
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WNYW-TV FOX 5 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/10056
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71678
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WABC-TV ABC 7 (New York NY)
-http://fortv.cc:8080/q8KuDU/354945/121139
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71676
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",WWOR-TV MyNetworkTV 9 (New York NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/117216
 #EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WPIX-TV CW PIX+ 11 (New York NY)
-http://fortv.cc:8080/q8KuDU/354945/120897
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71682
 #EXTINF:-1 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WLNY-TV CBS/Ind. 10/55 (New York NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/117221
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WBBM-TV CBS 2 (Chicago IL)
@@ -379,8 +379,6 @@ http://hardcoremedia.xyz:80/BG992263/38692743/237672
 http://hardcoremedia.xyz:80/BG992263/38692743/9773
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KGPE-TV CBS 47 (Fresno CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9863
-#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KTXL-TV FOX 40 (Sacramento CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/9997
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WSB-TV ABC 2 (Atlanta GA)
 http://hardcoremedia.xyz:80/BG992263/38692743/9791
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WAGA-TV FOX 5 (Atlanta GA)
@@ -764,8 +762,12 @@ http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETS-TV PBS 2 (Conway AR)
 http://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOCE-TV PBS 50 (Huntington Beach/Los Angeles CA)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78431
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNET-TV PBS 13 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/243542
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78527
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WLIW-TV PBS 21 (New York NY)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78489
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNJT-TV PBS 52 (Trenton NJ)
 http://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNED-TV PBS 17 (Buffalo NY/Toronto ON)
@@ -1332,15 +1334,15 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/99951228/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias Florida
 https://nbcu-Telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KMEX-TV Univision 34 (Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/135431
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10592
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTR-TV UniMás 46 (Los Angeles CA)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1079
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/135391
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10578
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/135434
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNJU-TV Telemundo 47 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/135393
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10564
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WFTY-TV UniMás 67 (New York NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/135412
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WLTV-TV Univision 23 (Miami FL)
@@ -1348,24 +1350,23 @@ http://hardcoremedia.xyz:80/BG992263/38692743/135432
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WSCV-TV Telemundo 51 (Miami FL)
 http://hardcoremedia.xyz:80/BG992263/38692743/135392
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WSNS-TV Telemundo 44 (Chicago IL)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/443
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10560
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WBGO-TV Univision 66 (Chicago IL)
 http://hardcoremedia.xyz:80/BG992263/38692743/135424
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WQHS-TV Univision 61.1 (Cleveland OH)
-
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10597
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WQHS-TV UniMás 61.2 (Cleveland OH)
 http://hardcoremedia.xyz:80/BG992263/38692743/135406
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNEU-TV Telemundo 60 (Boston MA)
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334595
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/84390
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10571
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WFPA-DT UniMás 28 (Philadelphia PA)
 http://hardcoremedia.xyz:80/BG992263/38692743/135413
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WUVP-TV Univision 65 (Philadelphia PA)
 http://hardcoremedia.xyz:80/BG992263/38692743/135435
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WWSI-TV Telemundo 62 (Philadelphia PA)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/6898
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10570
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WZDC-CD Telemundo 44 (Washington DC)
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334584
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10561
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KELV-TV UniMás 27 (Las Vegas NV)
 http://hardcoremedia.xyz:80/BG992263/38692743/135410
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KBLR-TV Telemundo 39 (Las Vegas NV)
@@ -1412,6 +1413,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334559
 http://hardcoremedia.xyz:80/BG992263/38692743/135416
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFK-DT UniMás 64 (Sacramento CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/135416
+#EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KUAN-TV Telemundo 20 (San Diego CA)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10581
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WTMO-TV Telemundo 31 (Orlando FL)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334583
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WRMD-CD Telemundo 49 (Tampa FL)
@@ -1948,15 +1951,15 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",COZI TV
 http://195.181.163.243/COZI_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",H&I (Heroes & Icons)
-http://hardcoremedia.xyz:80/BG992263/38692743/129889
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/22102
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Start TV
-http://hardcoremedia.xyz:80/BG992263/38692743/129955
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/86401
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",DABL
-http://hardcoremedia.xyz:80/BG992263/38692743/251081
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/77556
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",fetv (Family Entertainment Television)
-http://hardcoremedia.xyz:80/BG992263/38692743/130098
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/86404
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Get TV
-http://fl3.moveonjoy.com/GET_TV/index.m3u8
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/22099
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Grit TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/734
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Grit Xtra
@@ -2758,7 +2761,9 @@ https://glorykickboxing.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e
 #EXTINF:-1 tvg-logo="" group-title="Sports",Bally Sports (Banana Ball)
 https://bananas.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/BananaBall-41b3db2a-4b11-45c2-ae9e-ffe26cbef8ca/index_dvr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Bally Sports (Poker)
-https://casinogames.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/CasinoGames-559fb3c4-483a-492b-bacf-d00e40538156/index_dvr.m3u8
+http://dai.google.com/linear/hls/event/70ov0oU2T2uHSWSxvcGSrA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bally Sports (Chicago)
+https://linear30.channels.ballys.tv/abr_default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",PokerGo
 https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",WPT (World Poker Tour)
@@ -4095,7 +4100,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/249553
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Galavisión (East)
 http://hardcoremedia.xyz:80/BG992263/38692743/249552
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",NBC Universo
-http://hardcoremedia.xyz:80/BG992263/38692743/135379
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/22171
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Telemundo Internacional
 http://hardcoremedia.xyz:80/BG992263/38692743/135389
 #EXTINF:-1 tvg-logo="" group-title="Latino (Spanish)",Telemundo Al Día
@@ -4946,19 +4951,19 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/139752
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Weather Network Toronto (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57470
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Family (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122960
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21916
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Family Jr. (Canada) 
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57346
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Nickelodeon (Canada)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/47349
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Treehouse (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57371
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/22007
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",YTV (Canada)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/63850
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",WildBrain TV (Canada)
-http://hardcoremedia.xyz:80/BG992263/38692743/129686
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21917
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Disney Channel (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67166
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21908
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Disney XD (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57420
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Disney Junior (Canada)
@@ -5090,7 +5095,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57352
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CPAC (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57351
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ZESTE French (Canada)
-http://hardcoremedia.xyz:80/BG992263/38692743/243606
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/22033
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Z-TELE French (Canada)
 http://hardcoremedia.xyz:80/BG992263/38692743/243605
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Canal Vie French (Canada)
@@ -5173,16 +5178,20 @@ http://hardcoremedia.xyz:80/BG992263/38692743/129769
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57437
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",HBO 2 (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57438
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Starz (Canada)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21994
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Starz 2 (Canada)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21995
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Movietime (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47331
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 1 (Canada)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57309
+http://fortv.cc:8080/0n8u9R/169324/57309
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 2 (Canada)
-http://fl6.moveonjoy.com/CRAVE_2/index.m3u8
+http://fortv.cc:8080/0n8u9R/169324/57310
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 3 (Canada)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57322
+http://fortv.cc:8080/0n8u9R/169324/57322
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 4 (Canada)
-http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57311
+http://fortv.cc:8080/0n8u9R/169324/57311
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Hollywood Suite 70's Movies (Canada)
 http://hardcoremedia.xyz:80/BG992263/38692743/129715
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Hollywood Suite 80's Movies (Canada)
@@ -5229,7 +5238,7 @@ http://lunar.pm:8080/mrjayp/Spectrum2/20871
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 5 Action (UK)
 http://lunar.pm:8080/mrjayp/Spectrum2/110305
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",CNBC (UK)
-http://92.114.85.77:8000/play/a0b6/index.m3u8
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12215
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Bloomberg (UK)
 https://www.bloomberg.com/media-manifest/videos/android/WiFi/c0fd1f87-6441-4321-a85c-d4594ab762b2.m3u8?idType=BMMP
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Bloomberg (Austrailia)
@@ -5244,6 +5253,8 @@ https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53686
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Nickelodeon (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53728
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Nicktoons (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12270
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Cartoon Network (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53719
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Boomerang (UK)
@@ -5256,34 +5267,58 @@ http://fortv.cc:8080/gscQ3v/779460/53720
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/59030
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",U&Drama (UK)
 http://fortv.cc:8080/gscQ3v/779460/53677
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",U&Dave (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12222
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",E4 (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53672
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Animal Planet (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12175
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Discovery Channel (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53684
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Discovery History (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53694
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Discovery Science (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53695
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Discovery Turbo (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12228
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Investigation Discovery (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53689
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",History Channel (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53686
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",H2 (History Channel 2) (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53692
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",National Geographic Channel (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12266
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",NatGeo Wild (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12267
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",MTV (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53737
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",MTV Music (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/13758
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",MTV Hits (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53735
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",MTV 80's (UK)
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/13759
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",MTV 00's (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/13762
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",MTV Base (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/13755
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Comedy Central (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53660
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Comedy Central Extra (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12219
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Food Network (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12241
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TLC (The Learning Channel) (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53681
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Blaze (UK)
 http://hardcoremedia.xyz:80/BG992263/38692743/241954
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Quest (UK)
 http://hardcoremedia.xyz:80/BG992263/38692743/242014
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",True Crime (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12208
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",TCM (UK)
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12309
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Horse & Country TV (UK)
 https://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TBN (UK)
