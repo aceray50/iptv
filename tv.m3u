@@ -123,7 +123,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71696
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71694
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WFTV-TV ABC 9 (Orlando FL)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71693
-#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WKCF-TV CW 13 (Orlando FL)
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",WKCF-TV CW 18 (Orlando FL)
 http://hardcoremedia.xyz:80/BG992263/38692743/117129
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WOFL-TV FOX 35 (Orlando FL)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71695
@@ -1385,7 +1385,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10578
 http://hardcoremedia.xyz:80/BG992263/38692743/135434
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNJU-TV Telemundo 47 (New York NY)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10564
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WFUT-TV/WFTY-DT  UniMás 67 (New York NY)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WFUT-TV/WFTY-DT UniMás 67 (New York NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/135412
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WLTV-TV Univision 23 (Miami FL)
 http://hardcoremedia.xyz:80/BG992263/38692743/135432
@@ -1408,7 +1408,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10574
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFF-TV UniMás 61 (Fresno CA)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334559
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUVS-TV Univision 19 (Modesto/Sacramento CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/135416
+http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10586
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFK-DT UniMás 64 (Sacramento CA)
 http://hardcoremedia.xyz:80/BG992263/38692743/135416
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WQHS-TV Univision 61.1 (Cleveland OH)
@@ -1921,7 +1921,12 @@ http://hardcoremedia.xyz:80/BG992263/38692743/137675
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Boomerang by Cartoon Network
 http://hardcoremedia.xyz:80/BG992263/38692743/137674
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",MeTV Toons
-http://hardcoremedia.xyz:80/BG992263/38692743/239352
+http://hardcoremedia.xyz:80/BG992263/38692743/239352#EXTINF:-1 tvg-logo="" group-title="Children Channels",Cartoon Classics
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Children Channels",Toonami Aftermath (West)
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Children Channels",Toonami Aftermath (East)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Kartoon Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",No Parents Allowed (Pluto TV)
@@ -1932,16 +1937,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/667f3852efa2a10008e1e514/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4d59fbb0-084a-11f0-903e-4ee1b17a5297&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Super Mario Bros. Channel
 https://live1009.delivery.roku.com/4c394a43-2ae4-493b-acce-7dd7700495ef/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",Cartoon Classics
-https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Q Toons
 https://janya-qtoonz.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fe1720c6-2efd-48ad-b61f-a3edaed6130b/main.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Toons Goggles
 https://otteraaaa-toon-goggles-samsungin-ygvcl.amagi.tv/playlist/otteraAAA-toon-goggles-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",Toonami Aftermath (West)
-http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Children Channels",Toonami Aftermath (East)
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",FreeForm (West)
 http://hardcoremedia.xyz:80/BG992263/38692743/129875
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",FreeForm (East)
@@ -5022,7 +5021,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11644
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Télétoon French (Canada)
 http://hardcoremedia.xyz:80/BG992263/38692743/243596
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Much (Canada)
-http://fortv.cc:8080/0n8u9R/169324/215268
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/215268
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",MTV (Canada)
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/57368
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",APTN (Canada)
@@ -5034,7 +5033,7 @@ http://1tv41.icu:8080/live/95135258/95135258/57476.ts
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ABC Spark (Canada)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/57375
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Dejaview (Canada)
-http://fortv.cc:8080/0n8u9R/169324/122001
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/122001
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",AMC (Canada)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21819
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Vision (Canada)
@@ -5184,13 +5183,11 @@ https://a1xs.vip/6000005
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TSN The Ocho (Canada)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",RDS Info (Canada)
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/445466
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",beIN Sports (Canada)
-http://visualservice.xyz:8080/Ita/Sf2ZqPD/445335
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57491
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",NBA TV (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/22995
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",NHL TV (Canada)
-http://netlevel.online:8080/MARIO630/GWPRM/479263
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",NFL TV (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47346
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",World Fishing Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57471
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Sportsnet 360 (Canada)
@@ -5389,7 +5386,7 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(HDTJCBeauty)/i
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Jewellery Maker (UK)
 https://la1.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Hobby Maker (UK)
-https://la1.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",TVSN (Austrailia)
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",MUTV (UK)
@@ -5420,10 +5417,14 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53704
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53741
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sports Main Event (UK)
 https://a1xs.vip/2000001
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",SKY Sports MIX (UK)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/145813
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sports Live+ (UK)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35238
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sports MIX (UK)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53706
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sports Golf (UK)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35240
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport (UK)
-https://donelfantastic.github.io/live/skysportsNz8.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35244
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport 1 (UK)
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Sport 2 (UK)
@@ -5460,40 +5461,22 @@ http://hardcoremedia.xyz:80/BG992263/38692743/2255
 http://hardcoremedia.xyz:80/BG992263/38692743/2256
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Film4 (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53702
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Action (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577372&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Comedy (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577362&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Action (UK)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35254
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Comedy (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577371&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Hits (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577366&extension=ts
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53661
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Drama (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577369&extension=ts
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35251
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Family (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577368&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Disney (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577370&extension=ts
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53699
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Animation (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=758988&extension=ts
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53698
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Greats (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577367&extension=ts
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35249
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Premiere (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577365&extension=ts
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35256
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Sci-Fi & Horror (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577364&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Cinema Select (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577377&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Thriller (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577363&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Crime (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577375&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Atlantic (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577512&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Witness (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577511&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="UK Channels",Sky Showcase (UK)
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=851517&extension=ts
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35248
 
 #EXTINF:-1 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
 http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/150991
