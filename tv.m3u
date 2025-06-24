@@ -474,7 +474,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71775
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KSL-TV NBC 5 (Salt Lake City UT)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71778
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KSTU-TV FOX 13 (Salt Lake City UT)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71777
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120821
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KFOR-TV NBC 4 (Oklahoma City OK)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71701
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KOCO-TV ABC 5 (Oklahoma City OK)
@@ -1933,7 +1933,8 @@ http://hardcoremedia.xyz:80/BG992263/38692743/137675
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Boomerang by Cartoon Network
 http://hardcoremedia.xyz:80/BG992263/38692743/137674
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",MeTV Toons
-http://hardcoremedia.xyz:80/BG992263/38692743/239352#EXTINF:-1 tvg-logo="" group-title="Children Channels",Cartoon Classics
+http://hardcoremedia.xyz:80/BG992263/38692743/239352
+#EXTINF:-1 tvg-logo="" group-title="Children Channels",Cartoon Classics
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Children Channels",Toonami Aftermath (West)
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
@@ -5026,8 +5027,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57420
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/41960
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Cartoon Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57372
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Boomerang (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57380
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Adult Swim (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/11644
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Télétoon French (Canada)
@@ -5069,7 +5068,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57280
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",History Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47302
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",H2 (History Channel 2) (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/67136
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/210450
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",BBC Earth (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/99621
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",WILD TV (Canada)
