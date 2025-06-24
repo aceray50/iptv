@@ -141,6 +141,14 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71465
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71464
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KTSM-TV NBC 9 (El Paso TX)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71466
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KVIA-TV ABC 3 (Corpus Christi TX)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216621
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KIII-TV NBC 6 (Corpus Christi TX)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120804
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KZTV-TV CBS 10 (Corpus Christi TX)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216550
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KSCC-TV FOX 38 (Corpus Christi TX)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216549
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KCBD-TV NBC 11 (Lubbock TX)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71629
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KLBK-TV CBS 13 (Lubbock TX)
@@ -159,7 +167,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71783
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71782
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KABB-TV FOX 29 (San Antonio TX)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71785
-#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KMYS-TV CW 35 & WOAI-TV 4.2 (San Antonio TX)
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71784
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71439
@@ -205,7 +213,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71845
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71843
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KMSS-TV FOX 33 (Shreveport LA)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71844
-#EXTINF:-1 tvg-logo="" group-title="Local Channels",KTVK-TV 3TV (Phoenix AZ)
+#EXTINF:-1 tvg-logo="" group-title="Local Channels",KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71740
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KPHO-TV CBS 5 (Phoenix AZ)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71737
@@ -231,7 +239,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71791
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71792
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KFMB-TV CBS 8.1 (San Diego CA)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71790
-#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KFMB-TV CW 8.2 (San Diego CA)
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KFMB-DT CW 8.2 (San Diego CA)
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KGTV-TV ABC 10 (San Diego CA)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71789
@@ -283,13 +291,13 @@ http://fortv.cc:8080/q8KuDU/354945/120887
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71829
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KOMU-TV NBC 8.1 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KOMU-TV CW+ 8.3 (Jefferson City MO)
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KOMU-DT CW+ 8.3 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KRCG-TV CBS 13 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KMIZ-TV ABC 17.1 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",KMIZ-TV MyNetworkTV 17.3 (Jefferson City MO)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels",KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KQFX-TV FOX 22 (Jefferson City MO)
 http://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
@@ -309,13 +317,13 @@ http://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
 http://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",KTVO-TV ABC 3.1 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KTVO-TV CBS 3.2 (Ottumwa IA)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",KTVO-DT CBS 3.2 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KYOU-TV FOX 15.1 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KYOU-TV NBC 15.2 (Ottumwa IA)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels",KYOU-DT NBC 15.2 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KYOU-TV CW+ 15.4 (Ottumwa IA)
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KYOU-DT CW+ 15.4 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 #EXTINF:-1 tvg-logo="https://www.beach-fun.com/media/zoo/images/TVD_Logo_Black_07ad723e109227c715c35635684f219a.png" group-title="Local Channels",W14DK-D-TV 14.1 Delmarva (Dagsboro DE)
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
@@ -341,7 +349,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71673
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71670
 #EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",KZTV-TV FOX 17.1 (Nashville TN)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71672
-#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KZTV-TV CW 17.2 (Nashville TN)
+#EXTINF:-1 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels",KZTV-DT CW 17.2 (Nashville TN)
 http://fortv.cc:8080/q8KuDU/354945/120901
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WATE-TV ABC 6 (Knoxville TN)
 http://hardcoremedia.xyz:80/BG992263/38692743/14763
@@ -355,7 +363,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71583
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71395
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels",WTVC-TV ABC 9.1 (Chattanooga TN)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71392
-#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WTVC-TV FOX 9.2 (Chattanooga TN)
+#EXTINF:-1 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels",WTVC-DT FOX 9.2 (Chattanooga TN)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71394
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels",WDEF-TV CBS 12 (Chattanooga TN)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71393
@@ -1413,7 +1421,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10586
 http://hardcoremedia.xyz:80/BG992263/38692743/135416
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WQHS-TV Univision 61.1 (Cleveland OH)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10597
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WQHS-TV UniMás 61.2 (Cleveland OH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WQHS-DT UniMás 61.2 (Cleveland OH)
 http://hardcoremedia.xyz:80/BG992263/38692743/135406
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNEU-TV Telemundo 60 (Boston MA)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10571
@@ -1469,11 +1477,11 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334583
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334581
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WUVG-TV Univision 34.1 (Atlanta GA)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334518
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WUVG-TV UniMás 34.2 (Atlanta GA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WUVG-DT UniMás 34.2 (Atlanta GA)
 http://hardcoremedia.xyz:80/BG992263/38692743/135403
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WKAQ-TV Telemundo 2.1 (San Juan PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://dishcaribbean.com/img/upload/punto2-color-logo.png" group-title="Latino (Spanish)",WKAQ-TV Punto 2 2.2 (San Juan PR)
+#EXTINF:-1 tvg-logo="https://dishcaribbean.com/img/upload/punto2-color-logo.png" group-title="Latino (Spanish)",WKAQ-DT Punto 2 2.2 (San Juan PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/WIPR_2015_blue.svg/1200px-WIPR_2015_blue.svg.png" group-title="Latino (Spanish)",WIPR-TV 6 (San Juan PR)
 http://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
