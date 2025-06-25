@@ -4893,12 +4893,12 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57391
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100628
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CBC Windsor (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/86749
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CBC New Brunswick/Fredericton (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/217655
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Sudbury Ontario (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100454
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Timmins Ontario (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100455
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV 2 Vancouver Island (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/136612
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Halifax Nova Scotia (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/188776
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Halifax (Canada)
@@ -4909,22 +4909,14 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100630
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/79547
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Calgary (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57964
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Comedy Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57408
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Drama Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57254
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Edmonton Alberta (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58725
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Halifax Nova Scotia (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57410
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Kitchener (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58557
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV 2 London (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58546
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Montreal (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47234
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV News Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57350
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Ottawa (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47237
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Regina Saskatchewan (Canada)
@@ -4933,22 +4925,32 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66381
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66382
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Toronto (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47296
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV2 Vancouver (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57316
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV2 Windsor (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77165
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Barrie Ontario (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57373
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV 2 Vancouver Island (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/136612
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV 2 London (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58546
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV 2 Vancouver (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57316
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV 2 Windsor (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77165
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV News Channel (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57350
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global Durham (CHEX-DT-2) (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100453
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global Peterborough News (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/85269
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global Montreal (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/136640
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global Calgary (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/115349
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global Maritimes (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/171954
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global Edmonton (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/132271
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global Saskatoon (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66383
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global Toronto (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57435
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global News National (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global News B.C (Canada)
@@ -4977,14 +4979,20 @@ https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b
 https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global News Lithbridge (Canada)
 https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Calgary (Canada)
-https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Toronto (Canada)
-https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Vancouver (Canada)
-https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Winnipeg (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100631
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Calgary (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75652
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Toronto (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57394
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Vancouver (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57395
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV News Calgary (Canada)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV News Toronto (Canada)
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV News Vancouver (Canada)
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CityNews Toronto ON (Canada)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CityNews Calgary (Canada)
@@ -5099,8 +5107,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108136
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/173131
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV (Canada)
 http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV 2 (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58546
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Drama Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57254
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Life Channel (Canada)
@@ -5145,10 +5151,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57258
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47217
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CP24 (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47218
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CPAC English (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57352
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CPAC (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57351
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57352
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",ZESTE French (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57502
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Z-TELE French (Canada)
