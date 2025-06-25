@@ -2459,6 +2459,10 @@ https://stream6.scientology.org/master.m3u8
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",Victory Channel
 https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",NRBTV
+https://tgn2.bozztv.com/nrbtv/nrbtv-live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religious",ULFN (Universal Living Faith Network)
+https://live-ak.vimeocdn.com/exp=1750861405~acl=%2F8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4%2F%2A~hmac=bf56f78d314e426d9b0af11821a223284f8b0ba4f46123f697bd5a09217ad44e/8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4/hls.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",Positiv
 https://cdn.jwplayer.com/v2/sites/fGLyccP5/media/FoWynVnP/ssai.m3u8?ad_config_id=wrVOL0T1&content_id=FoWynVnP&content_title=Positiv+TV&app_domain=https%3A%2F%2Fwatch.positiv.tv&app_bundle=PostivTV.web&custom_10=web&user_id=&site_id=38571&app_name=PostivTV&min_ad_duration=6&max_ad_duration=60&format=vast&ssai_enabled=1&ssai_vendor=jwplayer&livestream=1&content_genre=Entertainment&content_channel=PostivTV&content_network=PostivTV&height=1080&width=1920&content_cat=IAB1&page_url=https%3A%2F%2Fwatch.positiv.tv%2Fp%2FYVBF54l8%3Fchannel%3DFoWynVnP%26play%3D1&device_type=2
 #EXTINF:-1 tvg-logo="" group-title="Religious",GLC (God's Learning Channel)
@@ -2471,8 +2475,6 @@ https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",CBN Family
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",CTN (Christian Television Network)
-https://hls-live-stream-gc.cdn01.net/mpegts/232076_1523529/O6p-4mH33dtcHl-XqILgDw/1740370872/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",Daystar Television Network
 http://hardcoremedia.xyz:80/BG992263/38692743/129673
 #EXTINF:-1 tvg-logo="" group-title="Religious",3ABN
@@ -2491,7 +2493,7 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",CTVN
 https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Religious",Impact TV
+#EXTINF:-1 tvg-logo="" group-title="Religious",Impact Network
 https://edge1.lifestreamcdn.com/live/impactroku1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religious",The Word Network
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
