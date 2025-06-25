@@ -4905,8 +4905,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/188776
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/188777
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Winnipeg (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100630
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Two Atlantic (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/79547
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Calgary (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57964
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Edmonton Alberta (Canada)
@@ -4935,6 +4933,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58546
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57316
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV 2 Windsor (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77165
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV 2 Atlantic (Canada)
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/79547
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV News Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57350
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Global Durham (CHEX-DT-2) (Canada)
@@ -4984,7 +4984,7 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100631
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Calgary (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75652
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Toronto (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57394
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57307
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV Vancouver (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57395
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",City TV News Calgary (Canada)
@@ -5042,7 +5042,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/243596
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TFO French (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57291
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Much (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/215268
+http://hardcoremedia.xyz:80/BG992263/38692743/129733
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",MTV (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57446
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",APTN (Canada)
@@ -5108,11 +5108,11 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/173131
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV (Canada)
 http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Drama Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57254
+http://tvmate.icu:8080/live/7686199/9576982/57254.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Life Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/116506
+http://tvmate.icu:8080/live/7686199/9576982/116506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Sci-Fi Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57464
+http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Makeful (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57270
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",(ZH) NTD (Canada)
@@ -5137,8 +5137,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47362
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47366
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Slice TV (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57274
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CityTV (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57307
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",TLC (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57290
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Smithsonian Channel (Canada)
