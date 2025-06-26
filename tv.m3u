@@ -1766,14 +1766,16 @@ https://apollo.production-public.tubi.io/live/ac-localish.m3u8
 http://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CBS News
 http://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",CBS ET (Entertainment Tonight)
-http://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",CBS Inside Edition
-http://dai.google.com/linear/hls/event/Y2DMgfclT3S2nNxANeIawA/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CBS 48 Hours
 http://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",CBS 60 Minutes
 http://dai.google.com/linear/hls/event/nrb-l85CR7SIr-rGXqz4zA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",CBS ET (Entertainment Tonight)
+http://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",CBS Inside Edition
+http://dai.google.com/linear/hls/event/Y2DMgfclT3S2nNxANeIawA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",TMZ Live
+https://d2dimalv43j51f.cloudfront.net/out/v1/52d3048e53eb42a7959dc347d2f810e2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",LiveNOW from FOX
 https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",FOX News Channel
@@ -2007,6 +2009,8 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MeTV
 http://fl3.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",MeTV+
+http://hardcoremedia.xyz:80/BG992263/38692743/129915
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",ION
 https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",ION Plus
@@ -3105,7 +3109,9 @@ http://hardcoremedia.xyz:80/BG992263/38692743/130002
 http://hardcoremedia.xyz:80/BG992263/38692743/130024
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime Family Zone (East)
 http://hardcoremedia.xyz:80/BG992263/38692743/130000
-#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET)
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET) (West)
+http://hardcoremedia.xyz:80/BG992263/38692743/130027
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET) (East)
 http://hardcoremedia.xyz:80/BG992263/38692743/130016
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Movie Channel
 http://hardcoremedia.xyz:80/BG992263/38692743/130063
@@ -3187,6 +3193,14 @@ http://hardcoremedia.xyz:80/BG992263/38692743/130020
 http://hardcoremedia.xyz:80/BG992263/38692743/130055
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",PixL
 http://hardcoremedia.xyz:80/BG992263/38692743/11642
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",ScreenPix 
+http://hardcoremedia.xyz:80/BG992263/38692743/130052
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",ScreenPix Action
+http://hardcoremedia.xyz:80/BG992263/38692743/130051
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",ScreenPix Voices
+http://hardcoremedia.xyz:80/BG992263/38692743/130053
+#EXTINF:-1 tvg-logo="" group-title="Premium Channels",ScreenPix Western
+http://hardcoremedia.xyz:80/BG992263/38692743/130054
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Universal Movies
@@ -5261,6 +5275,12 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21994
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21995
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Movietime (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47331
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Super Channel Fuse (Canada)
+http://hardcoremedia.xyz:80/BG992263/38692743/129756
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Super Channel Heart & Home (Canada)
+http://hardcoremedia.xyz:80/BG992263/38692743/129757
+#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Super Channel Vault (Canada)
+http://hardcoremedia.xyz:80/BG992263/38692743/129758
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 1 (Canada)
 http://fortv.cc:8080/0n8u9R/169324/57309
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Crave 2 (Canada)
@@ -5316,6 +5336,8 @@ http://92.114.85.81:8000/play/a01f/index.m3u8
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12169
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 5 Action (UK)
 http://lunar.pm:8080/mrjayp/Spectrum2/110305
+#EXTINF:-1 tvg-logo="" group-title="UK Channels",Channel 5 Select (UK)
+http://hardcoremedia.xyz:80/BG992263/38692743/241940
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",CNBC (UK)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12215
 #EXTINF:-1 tvg-logo="" group-title="UK Channels",Bloomberg (UK)
