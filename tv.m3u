@@ -2083,7 +2083,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/129970
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Pluto Classic TV Family
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61325d18f5166c00081b84e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/142
+http://hardcoremedia.xyz:80/BG992263/38692743/129919
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",MTV 2
@@ -2222,8 +2222,10 @@ https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Comedy",TVS Flashback Network
 https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Network Channels",FX
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",FX (West)
 http://hardcoremedia.xyz:80/BG992263/38692743/129691
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",FX (East)
+http://hardcoremedia.xyz:80/BG992263/38692743/129877
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FXX (West)
 http://hardcoremedia.xyz:80/BG992263/38692743/129880
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",FXX (East)
@@ -2305,7 +2307,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/129843
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",Bravo (East)
 http://hardcoremedia.xyz:80/BG992263/38692743/129842
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",IFC (Independent Film Channel)
-http://hardcoremedia.xyz:80/BG992263/38692743/129718
+http://hardcoremedia.xyz:80/BG992263/38692743/129897
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",SundanceTV
 http://hardcoremedia.xyz:80/BG992263/38692743/129957
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",A&E (Arts & Entertainment)
@@ -2376,6 +2378,8 @@ https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
 https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",WE TV (Women Entertainment Television)
 http://hardcoremedia.xyz:80/BG992263/38692743/129977
+#EXTINF:-1 tvg-logo="" group-title="Network Channels",WE TV+
+http://hardcoremedia.xyz:80/BG992263/38692743/129978
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",WE Absolute Reality
 http://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Network Channels",HerSphere by Lionsgate
@@ -2915,6 +2919,10 @@ http://hardcoremedia.xyz:80/BG992263/38692743/141482
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:-1 tvg-logo="" group-title="Sports",WWE Network
 http://hardcoremedia.xyz:80/BG992263/38692743/141507
+#EXTINF:-1 tvg-logo="" group-title="Sports",WWE HD DSTV
+http://hardcoremedia.xyz:80/BG992263/38692743/33410
+#EXTINF:-1 tvg-logo="" group-title="Sports",WWE Survivor
+http://hardcoremedia.xyz:80/BG992263/38692743/252744
 #EXTINF:-1 tvg-logo="" group-title="Sports",TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Impact Plus!
