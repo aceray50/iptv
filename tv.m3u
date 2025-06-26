@@ -796,6 +796,8 @@ http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETS-TV PBS 2 (Conway AR)
 http://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KNPB-TV PBS 5 (Reno NV)
+http://hardcoremedia.xyz:80/BG992263/38692743/243539
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOCE-TV PBS 50 (Huntington Beach/Los Angeles CA)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78431
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNET-TV PBS 13 (New York NY)
@@ -808,9 +810,11 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/224557
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/139756
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WEDH-TV PBS 24 (Hartfort CT)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78465
-#EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Local Public Broadcast",WETA-TV WETA UK 26.2 (Washington DC)
+#EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Local Public Broadcast",WETA-TV WETA PBS 26.1 (Washington DC)
+http://hardcoremedia.xyz:80/BG992263/38692743/243522
+#EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Local Public Broadcast",WETA-DT WETA UK 26.2 (Washington DC)
 https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8
-#EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-metro_1900x1900.png" group-title="Local Public Broadcast",WETA-TV PBS Metro 26.5 (Washington DC)
+#EXTINF:-1 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-metro_1900x1900.png" group-title="Local Public Broadcast",WETA-DT PBS Metro 26.5 (Washington DC)
 https://wetadt5.lls.pbs.org/wetadt5-cmaf-hls.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WHUT-TV PBS 32 (Washington DC)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78545
@@ -838,6 +842,10 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78451
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78447
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KSPS-TV PBS 7 (Spokane WA)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216622
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WQED-TV PBS 13 (Pittsburgh PA)
+http://hardcoremedia.xyz:80/BG992263/38692743/243553
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WHYY-TV PBS 12 (Philadelphia PA)
+http://hardcoremedia.xyz:80/BG992263/38692743/243552
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (West)
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (East)
@@ -3090,7 +3098,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/130016
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Movie Channel
 http://hardcoremedia.xyz:80/BG992263/38692743/130063
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",The Movie Channel Xtra
-http://hardcoremedia.xyz:80/BG992263/38692743/130066
+http://hardcoremedia.xyz:80/BG992263/38692743/130064
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (West)
 http://hardcoremedia.xyz:80/BG992263/38692743/130005
 #EXTINF:-1 tvg-logo="" group-title="Premium Channels",Starz (East)
@@ -5107,14 +5115,12 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/107190
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108136
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",HPItv East (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/173131
-#EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV (Canada)
-http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Drama Channel (Canada)
-http://tvmate.icu:8080/live/7686199/9576982/57254.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57254
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Life Channel (Canada)
-http://tvmate.icu:8080/live/7686199/9576982/116506.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/116506
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",CTV Sci-Fi Channel (Canada)
-http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8
+http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57464
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",Makeful (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57270
 #EXTINF:-1 tvg-logo="" group-title="Canadian Channels",(ZH) NTD (Canada)
