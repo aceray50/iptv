@@ -37,7 +37,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48872.m3u8
 http://kstv.us:8080/live/tH300gvHff/8606073792/40668.m3u8
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFLD-TV FOX 32 (Chicago IL)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48874.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WPWR-TV MyNetworkTV 50 (Chicago IL)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WPWR-TV FOX+/MyNetworkTV 50 (Chicago IL)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48875.m3u8
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WJBK-TV FOX 2 (Detroit MI)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48929.m3u8
@@ -3994,11 +3994,11 @@ http://rfcm.streamguys1.com/smoothjazzpremium-mp3
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hit List
 http://kstv.us:8080/live/tH300gvHff/8606073792/47978.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Music Choice Max
-http://kstv.us:8080/live/tH300gvHff/8606073792/47887.m3u8
+http://kstv.us:8080/live/tH300gvHff/8606073792/48002.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Dance EDM
-http://kstv.us:8080/live/tH300gvHff/8606073792/47879.m3u8
+http://kstv.us:8080/live/tH300gvHff/8606073792/47958.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop And R&B
-http://kstv.us:8080/live/tH300gvHff/8606073792/47881.m3u8
+http://kstv.us:8080/live/tH300gvHff/8606073792/47975.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rap
 http://kstv.us:8080/live/tH300gvHff/8606073792/48014.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop Classics
