@@ -543,6 +543,24 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/49019.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/49015.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WKRC-TV CBS 12 (Cincinnati OH)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49016.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WDTN-TV NBC 2 (Dayton OH)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49031.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WHIO-TV CBS 7 (Dayton OH)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49029.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WKEF-TV ABC 22 (Dayton OH)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49028.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WKEF-TV ABC 22 (Dayton OH)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49028.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WRGT-TV FOX 45 (Dayton OH)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49030.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTOL-TV CBS 7 (Toledo OH)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49033.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVG-TV ABC 13 (Toledo OH)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49032.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNWO-TV NBC 24 (Toledo OH)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49035.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WUPW-TV FOX 36 (Toledo OH)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49034.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WLIO-TV NBC 8 (Lima OH)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71625
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTTV-TV CBS 4 (Indianapolis IN)
