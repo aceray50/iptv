@@ -143,6 +143,12 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48835.ts
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71707
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WWSB-TV ABC 7 (Sarasota FL)
 http://hardcoremedia.xyz:80/BG992263/38692743/9788
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOB-TV NBC 4 (Albuquerque NM)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48981.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KOAT-TV ABC 7 (Albuquerque NM)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48979.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KRQE-TV CBS 13 (Albuquerque NM)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48980.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KDBC-TV CBS 4 (El Paso TX)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49108.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KVIA-TV ABC 7 (El Paso TX)
@@ -307,6 +313,30 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48831.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48815.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBBH-TV NBC 20 (Naples FL)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48816.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KARK-TV NBC 4 (Litlle Rock AR)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48772.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KATV-TV ABC 7 (Litlle Rock AR)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48769.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTHV-TV CBS 11 (Litlle Rock AR)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48770.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KLRT-TV FOX 16 (Litlle Rock AR)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48771.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WBRC-TV FOX 6 (Birmingham AL)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48756.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WVTM-TV NBC 13 (Birmingham AL)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48757.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WIAT-TV CBS 42 (Birmingham AL)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48755.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WABM-TV ABC 68 (Birmingham AL)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48754.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WHNT-TV CBS 19 (Huntsville AL)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48759.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WAAY-TV ABC 31 (Huntsville AL)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48758.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WAFF-TV NBC 48 (Huntsville AL)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48761.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WZDX-TV FOX 54 (Huntsville AL)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48760.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTVI-TV FOX 2 (St. Louis MO)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48955.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KMOV-TV CBS 4 (St. Louis MO)
@@ -473,6 +503,14 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48803.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48806.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KDVR-TV FOX 31 (Denver CO)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48805.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KMTV-TV CBS 3 (Omaha NE)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48976.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KUSA-TV NBC 6 (Omaha NE)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48978.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KMGH-TV ABC 13 (Omaha NE)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48975.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KPTM-TV FOX 42 (Omaha NE)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48977.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WRIC-TV ABC 8 (Richmond VA)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71762
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WUPV-TV CW 11 (Richmond VA)
@@ -587,6 +625,14 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48989.ts
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71303
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WXXA-TV FOX 23 (Albany NY)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48988.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WSTM-TV NBC 3 (Syracuse NY)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49013.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVH-TV CBS 5 (Syracuse NY)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49009.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WSYR-TV ABC 9 (Syracuse  NY)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49008.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WSYT-TV FOX 68 (Syracuse NY)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49012.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCSH-TV NBC 6 (Portland ME)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48923.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WGME-TV CBS 13 (Portland ME)
@@ -4011,6 +4057,10 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47944.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47975.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rap
 http://kstv.us:8080/live/tH300gvHff/8606073792/48014.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Mainstream Rap
+http://kstv.us:8080/live/tH300gvHff/8606073792/47995.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Underground Hip-Hop
+http://kstv.us:8080/live/tH300gvHff/8606073792/48049.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop Classics
 http://kstv.us:8080/live/tH300gvHff/8606073792/47976.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Throwback Jams
@@ -4025,6 +4075,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48020.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48019.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Classics
 http://kstv.us:8080/live/tH300gvHff/8606073792/48017.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | ALT R&B
+http://kstv.us:8080/live/tH300gvHff/8606073792/47926.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Freestyle
 http://kstv.us:8080/live/tH300gvHff/8606073792/47969.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Gospel
@@ -4041,6 +4093,8 @@ http://hardcoremedia.xyz:80/BG992263/38692743/237635
 http://kstv.us:8080/live/tH300gvHff/8606073792/47998.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Adult Alternative
 http://kstv.us:8080/live/tH300gvHff/8606073792/47925.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Alternative
+http://kstv.us:8080/live/tH300gvHff/8606073792/47941.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rock Hits
 http://kstv.us:8080/live/tH300gvHff/8606073792/48026.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Rock
@@ -4289,6 +4343,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46690.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/23238.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Studio Universal
 http://kstv.us:8080/live/tH300gvHff/8606073792/46675.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal+
+http://kstv.us:8080/live/tH300gvHff/8606073792/46597.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",E! Entertainment en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46593.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TNT en Español
@@ -4316,7 +4372,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nick Jr. en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46925.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TeenNick en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313028
+http://179.61.31.142:8000/play/a0eh/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Disney Channel en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46916.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Disney Jr. en Español
@@ -4326,7 +4382,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46914.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cartoonito en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312751
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Toon Cast
-http://hardcoremedia.xyz:80/BG992263/38692743/135489
+http://103.111.40.242:9999/play/a02y/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Adult Swim en Español
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/22
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Retro Cartoon
@@ -4339,6 +4395,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312755
 http://kstv.us:8080/live/tH300gvHff/8606073792/46575.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Comedy Central en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Comedy
+http://kstv.us:8080/live/tH300gvHff/8606073792/46602.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Kids en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46915.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery en Español
@@ -4392,7 +4450,7 @@ https://amg01077-gustofast-amg01077c8-freetv-us-2222.playouts.now.amagi.tv/playl
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",A&E en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46526.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Crime
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302741
+http://kstv.us:8080/live/tH300gvHff/8606073792/46603.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FX en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46620.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Bravo (i/e)
@@ -4400,7 +4458,7 @@ http://170.254.18.106/BRAVO/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",LifeTime
 http://kstv.us:8080/live/tH300gvHff/8606073792/46643.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Reality
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302743
+http://kstv.us:8080/live/tH300gvHff/8606073792/46598.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Always Funny en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Más Risas
@@ -4530,9 +4588,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214c
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine Mexicano
-http://hardcoremedia.xyz:80/BG992263/38692743/129282
+http://103.111.40.242:9999/play/a00w/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine Latino
-http://hardcoremedia.xyz:80/BG992263/38692743/249543
+http://103.111.40.242:9999/play/a02s/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Caracol Internacional
 http://kstv.us:8080/live/tH300gvHff/8606073792/46774.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Todo Cine
@@ -4540,9 +4598,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c446d7472
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",AXN en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46535.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine AXN (Mexico)
-http://hardcoremedia.xyz:80/BG992263/38692743/129253
+http://179.61.31.142:8000/play/a01h/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Premier
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302742
+http://103.111.40.242:9999/play/a03q/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FLOU Detonación
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-673675909564224797d5b598.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FreeTV Live
@@ -4746,7 +4804,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Milenio
 http://kstv.us:8080/live/tH300gvHff/8606073792/46960.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
-http://kstv.us:8080/live/tH300gvHff/8606073792/46948.m3u8
+http://kstv.us:8080/live/tH300gvHff/8606073792/46948.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Media
 http://hardcoremedia.xyz:80/BG992263/38692743/257684
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ADN 40
@@ -4830,7 +4888,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47098.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 3 en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/47102.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 4 en Español
-http://hardcoremedia.xyz:80/BG992263/38692743/253199
+http://103.111.40.242:9999/play/a01a/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 5 en Español
 http://200.229.147.142:8000/play/a05y
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 6 en Español
@@ -5032,6 +5090,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/40740.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/40708.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CNN (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40748.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",CNN International (Canada)
+http://kstv.us:8080/live/tH300gvHff/8606073792/40747.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",HLN (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40692.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",MSNBC (Canada)
@@ -5108,6 +5168,8 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47302
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/210450
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Historia (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40694.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",AHC (American Heroes Channel) (Canada)
+http://kstv.us:8080/live/tH300gvHff/8606073792/40777.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",BBC Earth (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/99621
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",WILD TV (Canada)
@@ -5597,7 +5659,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47823.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
 http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/150991
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV Latin America
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35326
+http://179.61.31.142:8000/play/a01w/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV Europe
 http://kstv.us:8080/live/tH300gvHff/8606073792/47170.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Miami TV Jenny Live
