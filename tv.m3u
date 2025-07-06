@@ -4890,17 +4890,17 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47123.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN Deportes
 http://kstv.us:8080/live/tH300gvHff/8606073792/47105.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN en Español
-http://103.111.40.242:9999/play/a017/index.m3u8
+http://179.61.31.142:8000/play/a0h6/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 2 en Español
-http://103.111.40.242:9999/play/a018/index.m3u8
+http://179.61.31.142:8000/play/a0h7/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 3 en Español
-http://103.111.40.242:9999/play/a019/index.m3u8
+http://179.61.31.142:8000/play/a0h8/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 4 en Español
-http://103.111.40.242:9999/play/a01a/index.m3u8
+http://179.61.31.142:8000/play/a0ho/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 5 en Español
-http://103.111.40.242:9999/play/a01b/index.m3u8
+http://179.61.31.142:8000/play/a0ha/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 6 en Español
-http://103.111.40.242:9999/play/a01c/index.m3u8
+http://179.61.31.142:8000/play/a0h9/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 7 en Español
 http://181.188.234.21:8000/play/a045
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Wapa Deportes
