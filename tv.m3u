@@ -3999,6 +3999,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48014.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47976.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Throwback Jams
 http://kstv.us:8080/live/tH300gvHff/8606073792/48044.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Funk
+http://kstv.us:8080/live/tH300gvHff/8606073792/47970.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Groove
 http://kstv.us:8080/live/tH300gvHff/8606073792/48018.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Soul
@@ -4015,6 +4017,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47971.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48021.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rock
 http://kstv.us:8080/live/tH300gvHff/8606073792/48025.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hard Rock
+http://kstv.us:8080/live/tH300gvHff/8606073792/47973.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Metal
 http://hardcoremedia.xyz:80/BG992263/38692743/237635
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Alternative
@@ -4027,6 +4031,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48026.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47946.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Soft Rock
 http://kstv.us:8080/live/tH300gvHff/8606073792/48033.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Yacht Rock
+http://kstv.us:8080/live/tH300gvHff/8606073792/48057.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Love Songs
 http://kstv.us:8080/live/tH300gvHff/8606073792/47993.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop Hits
@@ -4047,12 +4053,14 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48034.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47907.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '60s Rock
 http://kstv.us:8080/live/tH300gvHff/8606073792/47906.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '60s British Invasion
+http://kstv.us:8080/live/tH300gvHff/8606073792/47905.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s
 http://kstv.us:8080/live/tH300gvHff/8606073792/47908.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s Rock
 http://kstv.us:8080/live/tH300gvHff/8606073792/47909.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s
-http://kstv.us:8080/live/tH300gvHff/8606073792/47909.ts
+http://kstv.us:8080/live/tH300gvHff/8606073792/47912.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s One Hit Wonders
 http://kstv.us:8080/live/tH300gvHff/8606073792/47914.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s Rock
@@ -4073,6 +4081,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48056.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48015.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Y2K R&B
 http://kstv.us:8080/live/tH300gvHff/8606073792/48016.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | 2010s
+http://kstv.us:8080/live/tH300gvHff/8606073792/47904.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Christmas
 http://kstv.us:8080/live/tH300gvHff/8606073792/47942.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop And Country
@@ -4118,8 +4128,6 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47882.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47879.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Kidz Only!
 http://kstv.us:8080/live/tH300gvHff/8606073792/47883.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Disney Hits
-http://kstv.us:8080/live/tH300gvHff/8606073792/47961.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC | (Music Choice Videos) Tropicales
 http://kstv.us:8080/live/tH300gvHff/8606073792/47901.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop Latino
