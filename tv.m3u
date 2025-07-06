@@ -2060,10 +2060,6 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Kartoon Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327
-#EXTINF:0 tvg-logo="" group-title="Children Channels",No Parents Allowed (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d538a-7b2e-11ef-9d89-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b3a45869-717e-45df-924b-df7f8f212859&userId=&serverSideAds=true
-#EXTINF:0 tvg-logo="" group-title="Children Channels",Kids Movie Club (Pluto TV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba2cd391-08f6-11f0-a196-2e4264ece789&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Go-Go Gadget (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/667f3852efa2a10008e1e514/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4d59fbb0-084a-11f0-903e-4ee1b17a5297&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Super Mario Bros. Channel
@@ -2509,7 +2505,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/15923.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC+
 http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC Thriller
-http://hardcoremedia.xyz:80/BG992263/38692743/7416
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?ads.xumo_channelId=99951377
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TCM (Turner Classic Movies)
 http://kstv.us:8080/live/tH300gvHff/8606073792/23249.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TCM+ (West)
@@ -3124,7 +3120,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/23342.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",5 Star Max
 http://kstv.us:8080/live/tH300gvHff/8606073792/48357.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Movie Max
-http://hardcoremedia.xyz:80/BG992263/38692743/130056
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/22883.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Outer Max
 http://kstv.us:8080/live/tH300gvHff/8606073792/23344.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Thriller Max
@@ -3140,7 +3136,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/23257.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Next
 http://fl6.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase)
-http://hardcoremedia.xyz:80/BG992263/38692743/129998
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/22915.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Women
 http://fl6.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Family Zone
@@ -3154,7 +3150,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48239.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz
 http://kstv.us:8080/live/tH300gvHff/8606073792/15906.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Cinema
-http://hardcoremedia.xyz:80/BG992263/38692743/130003
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/22920.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Comedy
 http://kstv.us:8080/live/tH300gvHff/8606073792/23252.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz In Black
@@ -3168,13 +3164,13 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/49164.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Classic
 http://kstv.us:8080/live/tH300gvHff/8606073792/48360.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense
-http://hardcoremedia.xyz:80/BG992263/38692743/130012
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/22931.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Action
-http://hardcoremedia.xyz:80/BG992263/38692743/130009
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/22927.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns
 http://kstv.us:8080/live/tH300gvHff/8606073792/25068.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Black
-http://hardcoremedia.xyz:80/BG992263/38692743/130062
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/22928.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Family
 http://kstv.us:8080/live/tH300gvHff/8606073792/48361.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+
@@ -3184,15 +3180,15 @@ http://fl6.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ Drive-In
 http://fl6.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
-http://hardcoremedia.xyz:80/BG992263/38692743/129989
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/22889.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MoviePlex
-http://hardcoremedia.xyz:80/BG992263/38692743/130058
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/22905.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",IndiePlex
-http://hardcoremedia.xyz:80/BG992263/38692743/130057
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/22903.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",RetroPlex
-http://hardcoremedia.xyz:80/BG992263/38692743/130014
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/47746.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Sony Movie Channel
-http://179.61.31.142:8000/play/a0er/index.m3u8
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/22917.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HDNET Movies
 http://kstv.us:8080/live/tH300gvHff/8606073792/48244.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",PixL
