@@ -59,7 +59,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48940.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48942.ts
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WUCW-TV CW 23 (Minneapolis/St. Paul MN)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48939.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WFTC-TV MyNetworkTV 29 (Minneapolis/St. Paul MN)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WFTC-TV FOX 9+/MyNetworkTV 29 (Minneapolis/St. Paul MN)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48941.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KYW-TV CBS 3 (Philadelphia PA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49054.ts
@@ -4997,6 +4997,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/40652.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/40663.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",WildBrain TV (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40605.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",TVO Kids (Canada)
+http://kstv.us:8080/live/tH300gvHff/8606073792/40644.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Disney Channel (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40725.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Disney Channel French (Canada)
@@ -5032,57 +5034,59 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/40672.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Home Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57273
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Magnolia Network (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47258
+http://kstv.us:8080/live/tH300gvHff/8606073792/40722.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Wild (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57377
+http://kstv.us:8080/live/tH300gvHff/8606073792/40775.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Discovery Science (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57418
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Speed
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/46212
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",National Geographic (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57450
+http://kstv.us:8080/live/tH300gvHff/8606073792/40674.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",National Geographic Wild (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57280
+http://kstv.us:8080/live/tH300gvHff/8606073792/48380.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",History Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47302
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",H2 (History Channel 2) (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/210450
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Historia (Canada)
+http://kstv.us:8080/live/tH300gvHff/8606073792/40694.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",BBC Earth (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/99621
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",WILD TV (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100456
+http://kstv.us:8080/live/tH300gvHff/8606073792/40667.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Love Nature (Canada)
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Nature
+http://kstv.us:8080/live/tH300gvHff/8606073792/40726.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Documentary (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/148610
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Oxygen True Crime (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57442
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Crime & Investigation (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57256
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",CSTAR French (Canada)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/130438
+http://kstv.us:8080/live/tH300gvHff/8606073792/40737.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TV Ontario (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57369
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",W Network (Canada)
 http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",YES TV (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57472
+http://kstv.us:8080/live/tH300gvHff/8606073792/40665.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Super Channel Heart & Home (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100460
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Silver Screen (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/107190
+http://kstv.us:8080/live/tH300gvHff/8606073792/40623.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Travel Escape (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/108136
+http://kstv.us:8080/live/tH300gvHff/8606073792/40580.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",HPItv East (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/173131
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Drama Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57254
+http://kstv.us:8080/live/tH300gvHff/8606073792/40766.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Life Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/116506
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Sci-Fi Channel (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57464
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Makeful (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57270
+http://kstv.us:8080/live/tH300gvHff/8606073792/40597.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",(ZH) NTD (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58023
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",NTV St. John`s (Canada)
@@ -5090,99 +5094,105 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57478
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Bravo (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57366
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Lifetime (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57271
+http://kstv.us:8080/live/tH300gvHff/8606073792/40684.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Lifetime Movie Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57444
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",OMNI (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57365
+http://kstv.us:8080/live/tH300gvHff/8606073792/40641.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",OMNI 2 (Canada)
-http://hardcoremedia.xyz:80/BG992263/38692743/129741
+http://kstv.us:8080/live/tH300gvHff/8606073792/40640.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",OWN (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57277
+http://kstv.us:8080/live/tH300gvHff/8606073792/40635.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Peachtree TV (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47362
+http://kstv.us:8080/live/tH300gvHff/8606073792/40632.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Showcase (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47366
+http://kstv.us:8080/live/tH300gvHff/8606073792/40624.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Slice TV (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57274
+http://kstv.us:8080/live/tH300gvHff/8606073792/40622.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TLC (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57290
+http://kstv.us:8080/live/tH300gvHff/8606073792/40657.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Smithsonian Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47369
+http://kstv.us:8080/live/tH300gvHff/8606073792/40621.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CHCH (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57393
+http://kstv.us:8080/live/tH300gvHff/8606073792/40754.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CMT (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57258
+http://kstv.us:8080/live/tH300gvHff/8606073792/40750.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Cottage Life (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47217
+http://kstv.us:8080/live/tH300gvHff/8606073792/40741.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CP24 (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47218
+http://kstv.us:8080/live/tH300gvHff/8606073792/40740.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CPAC (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57352
+http://kstv.us:8080/live/tH300gvHff/8606073792/40739.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",ZESTE French (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57502
+http://kstv.us:8080/live/tH300gvHff/8606073792/40660.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Z-TELE French (Canada)
-http://hardcoremedia.xyz:80/BG992263/38692743/243605
+http://kstv.us:8080/live/tH300gvHff/8606073792/40661.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Canal Vie French (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/116947
+http://kstv.us:8080/live/tH300gvHff/8606073792/40673.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",PRISE 2 (Canada)
-http://hardcoremedia.xyz:80/BG992263/38692743/243583
+http://kstv.us:8080/live/tH300gvHff/8606073792/40631.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",DTOUR (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57250
+http://kstv.us:8080/live/tH300gvHff/8606073792/40720.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",E! (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57249
+http://kstv.us:8080/live/tH300gvHff/8606073792/40719.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Comedy (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57408
+http://kstv.us:8080/live/tH300gvHff/8606073792/40746.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Flavour Network (Canada)
 http://hardcoremedia.xyz:80/BG992263/38692743/256978
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",The Cooking Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/107960
+http://kstv.us:8080/live/tH300gvHff/8606073792/40743.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",FX (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57268
+http://kstv.us:8080/live/tH300gvHff/8606073792/48378.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",FXX (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57429
+http://kstv.us:8080/live/tH300gvHff/8606073792/48379.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TCM (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66242
+http://kstv.us:8080/live/tH300gvHff/8606073792/40608.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Daystar Television Network (Canada)
-http://lunar.pm:8080/mrjayp/Spectrum2/122956
+http://kstv.us:8080/live/tH300gvHff/8606073792/40729.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Game Show Network (Canada)
-http://1tv41.icu:8080/live/95135258/95135258/57430.ts
+http://kstv.us:8080/live/tH300gvHff/8606073792/40700.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Game TV (Canada)
+http://kstv.us:8080/live/tH300gvHff/8606073792/40704.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",3ABN (Canada)
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSC (The Shopping Channel) (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57370
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 1 (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47440
+http://kstv.us:8080/live/tH300gvHff/8606073792/40651.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 2 (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/16129
+http://kstv.us:8080/live/tH300gvHff/8606073792/40650.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 3 (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47444
+http://kstv.us:8080/live/tH300gvHff/8606073792/40649.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 4 (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66783
+http://kstv.us:8080/live/tH300gvHff/8606073792/40648.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 5 (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57467
+http://kstv.us:8080/live/tH300gvHff/8606073792/40647.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN The Ocho (Canada)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",RDS Info (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57491
+http://kstv.us:8080/live/tH300gvHff/8606073792/40627.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",RDS (Canada)
+http://kstv.us:8080/live/tH300gvHff/8606073792/40629.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",RDS 2 (Canada)
+http://kstv.us:8080/live/tH300gvHff/8606073792/40628.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",NBA TV (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/22995
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",NFL TV (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47346
+http://kstv.us:8080/live/tH300gvHff/8606073792/40601.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",NFL Network (Canada)
+http://kstv.us:8080/live/tH300gvHff/8606073792/40584.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",World Fishing Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57471
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Sportsnet 360 (Canada)
-http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/2219
+http://kstv.us:8080/live/tH300gvHff/8606073792/40618.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Sportsnet West (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57300
+http://kstv.us:8080/live/tH300gvHff/8606073792/40613.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Sportsnet East (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57298
+http://kstv.us:8080/live/tH300gvHff/8606073792/40617.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Sportsnet One (Canada)
-https://a1xs.vip/6000012
+http://kstv.us:8080/live/tH300gvHff/8606073792/40616.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Sportsnet Ontario (Canada)
-https://a1xs.vip/6000011
+http://kstv.us:8080/live/tH300gvHff/8606073792/40615.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Sportsnet Pacific (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47387
+http://kstv.us:8080/live/tH300gvHff/8606073792/40614.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Sportsnet World (Canada)
 https://a1xs.vip/6000013
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Fight Network (Canada)
@@ -5196,13 +5206,11 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57431
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",One Soccer (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/135810
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",NBC Golf Channel (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57362
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",TVO (Canada)
-http://hardcoremedia.xyz:80/BG992263/38692743/129769
+http://kstv.us:8080/live/tH300gvHff/8606073792/40701.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",HBO (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57437
+http://kstv.us:8080/live/tH300gvHff/8606073792/40697.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",HBO 2 (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57438
+http://kstv.us:8080/live/tH300gvHff/8606073792/40696.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Starz (Canada)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21994
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Starz 2 (Canada)
@@ -5216,13 +5224,13 @@ http://hardcoremedia.xyz:80/BG992263/38692743/129757
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Super Channel Vault (Canada)
 http://hardcoremedia.xyz:80/BG992263/38692743/129758
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Crave 1 (Canada)
-http://fortv.cc:8080/0n8u9R/169324/57309
+http://kstv.us:8080/live/tH300gvHff/8606073792/40656.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Crave 2 (Canada)
-http://fortv.cc:8080/0n8u9R/169324/57310
+http://kstv.us:8080/live/tH300gvHff/8606073792/40655.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Crave 3 (Canada)
-http://fortv.cc:8080/0n8u9R/169324/57322
+http://kstv.us:8080/live/tH300gvHff/8606073792/40654.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Crave 4 (Canada)
-http://fortv.cc:8080/0n8u9R/169324/57311
+http://kstv.us:8080/live/tH300gvHff/8606073792/40653.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Hollywood Suite 70's Movies (Canada)
 http://hardcoremedia.xyz:80/BG992263/38692743/129715
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Hollywood Suite 80's Movies (Canada)
@@ -5233,37 +5241,31 @@ http://hardcoremedia.xyz:80/BG992263/38692743/129717
 http://hardcoremedia.xyz:80/BG992263/38692743/129714
 
 #EXTINF:0 tvg-logo="" group-title="UK Channels",BBC One (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12181
+http://kstv.us:8080/live/tH300gvHff/8606073792/47744.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",BBC Two (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12182
-#EXTINF:0 tvg-logo="" group-title="UK Channels",BBC One Scotland (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/241950
-#EXTINF:0 tvg-logo="" group-title="UK Channels",BBC 1 (UK)
-http://fortv.cc:8080/gscQ3v/779460/53649
-#EXTINF:0 tvg-logo="" group-title="UK Channels",BBC 2 (UK)
-http://fortv.cc:8080/gscQ3v/779460/53755
+http://kstv.us:8080/live/tH300gvHff/8606073792/47745.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",BBC 3 (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12183
+http://kstv.us:8080/live/tH300gvHff/8606073792/47751.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",BBC 4 (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12184
+http://kstv.us:8080/live/tH300gvHff/8606073792/47742.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",ITV 1 (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/241991
+http://kstv.us:8080/live/tH300gvHff/8606073792/47784.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",ITV 2 (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12254
+http://kstv.us:8080/live/tH300gvHff/8606073792/47786.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",ITV 3 (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12255
+http://kstv.us:8080/live/tH300gvHff/8606073792/47787.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",ITV 4 (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12256
+http://kstv.us:8080/live/tH300gvHff/8606073792/47785.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",ITV Be (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12257
+http://kstv.us:8080/live/tH300gvHff/8606073792/47788.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",More4 (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/241998
+http://kstv.us:8080/live/tH300gvHff/8606073792/47790.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Channel 4 (UK)
-http://fortv.cc:8080/gscQ3v/779460/99138
+http://kstv.us:8080/live/tH300gvHff/8606073792/47758.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Channel 4 Seven (UK)
 https://livetvde.net/4seven/index.m3u8?token=5f5b5ba498257e261f0671e12fb9af3cf201db44-d16a3e62ca9bc18d2cd36418de24fa1b-1739998779-1739987979
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Channel 5 (UK)
-http://fortv.cc:8080/gscQ3v/779460/53653
+http://kstv.us:8080/live/tH300gvHff/8606073792/47759.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Channel 5+ (UK)
 http://92.114.85.81:8000/play/a01f/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Channel 5 USA (UK)
@@ -5272,6 +5274,16 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12169
 http://lunar.pm:8080/mrjayp/Spectrum2/110305
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Channel 5 Select (UK)
 http://hardcoremedia.xyz:80/BG992263/38692743/241940
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Virgin Media One (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47843.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Virgin Media Two (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47845.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Virgin Media Three (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47844.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PBS America (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47800.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",CNN (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47760.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",CNBC (UK)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12215
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Bloomberg (UK)
@@ -5279,55 +5291,85 @@ https://www.bloomberg.com/media-manifest/videos/android/WiFi/c0fd1f87-6441-4321-
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Bloomberg (Austrailia)
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",BBC World News
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53757
+http://kstv.us:8080/live/tH300gvHff/8606073792/40770.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky News (UK)
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",GB News (UK)
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="UK Channels",History Channel (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53686
+#EXTINF:0 tvg-logo="" group-title="UK Channels",STV (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47837.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",SYFY (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47838.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Watch (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47846.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Yesturday (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47847.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Really (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47805.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Nickelodeon (UK)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Nicktoons (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12270
+http://kstv.us:8080/live/tH300gvHff/8606073792/47799.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Cartoon Network (UK)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53719
+http://kstv.us:8080/live/tH300gvHff/8606073792/47749.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Boomerang (UK)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53718
+http://kstv.us:8080/live/tH300gvHff/8606073792/47748.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Pop (UK)
-http://fortv.cc:8080/gscQ3v/779460/53730
+http://kstv.us:8080/live/tH300gvHff/8606073792/47802.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Pop Max (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47803.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",CBBC (UK)
 http://fortv.cc:8080/gscQ3v/779460/53720
 #EXTINF:0 tvg-logo="" group-title="UK Channels",U&Alibi (UK)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/59030
+http://kstv.us:8080/live/tH300gvHff/8606073792/47739.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",U&Drama (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12232
+http://kstv.us:8080/live/tH300gvHff/8606073792/47770.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",U&Dave (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12222
+http://kstv.us:8080/live/tH300gvHff/8606073792/47764.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",U&Eden (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47773.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",U&Gold (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47777.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Horror Channel (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47781.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",E4 (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53672
+http://kstv.us:8080/live/tH300gvHff/8606073792/47772.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Animal Planet (UK)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12175
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Discovery Channel (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53684
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Discovery History (UK)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53694
+http://kstv.us:8080/live/tH300gvHff/8606073792/47766.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Discovery Science (UK)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53695
+http://kstv.us:8080/live/tH300gvHff/8606073792/47767.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Discovery Turbo (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12228
+http://kstv.us:8080/live/tH300gvHff/8606073792/47768.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Investigation Discovery (UK)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53689
+http://kstv.us:8080/live/tH300gvHff/8606073792/47782.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Investigation Discovery+ (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47783.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Crime (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47826.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Witness (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47833.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Documentaries (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47827.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Max (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47829.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Nature (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47830.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Showcase (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47832.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",History Channel (UK)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53686
+http://kstv.us:8080/live/tH300gvHff/8606073792/47780.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",H2 (History Channel 2) (UK)
 http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53692
 #EXTINF:0 tvg-logo="" group-title="UK Channels",National Geographic Channel (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12266
+http://kstv.us:8080/live/tH300gvHff/8606073792/47794.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",NatGeo Wild (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12267
+http://kstv.us:8080/live/tH300gvHff/8606073792/47795.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",MTV (UK)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53737
+http://kstv.us:8080/live/tH300gvHff/8606073792/47792.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",MTV Music (UK)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/13758
 #EXTINF:0 tvg-logo="" group-title="UK Channels",MTV Hits (UK)
@@ -5341,21 +5383,29 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/13755
 #EXTINF:0 tvg-logo="" group-title="UK Channels",BET (UK)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12196
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Comedy Central (UK)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53660
+http://kstv.us:8080/live/tH300gvHff/8606073792/47761.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Comedy Central Extra (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12219
+http://kstv.us:8080/live/tH300gvHff/8606073792/47762.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Comedy (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47825.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Food Network (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12241
+http://kstv.us:8080/live/tH300gvHff/8606073792/47775.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",TLC (The Learning Channel) (UK)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53681
+http://kstv.us:8080/live/tH300gvHff/8606073792/47840.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Blaze (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/241954
+http://kstv.us:8080/live/tH300gvHff/8606073792/47746.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Quest (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/242014
+http://kstv.us:8080/live/tH300gvHff/8606073792/47804.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",True Crime (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12208
+http://kstv.us:8080/live/tH300gvHff/8606073792/47754.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",True Crime +1 (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47755.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Arts (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47811.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Atlantic (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47812.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",TCM (UK)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12309
+http://kstv.us:8080/live/tH300gvHff/8606073792/47824.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Horse & Country TV (UK)
 https://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",TBN (UK)
@@ -5386,6 +5436,8 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Racing.com (Austrailia)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Racing TV (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47860.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Willow Sports (UK)
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Willow Cricket (UK)
@@ -5397,25 +5449,27 @@ https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:0 tvg-logo="" group-title="UK Channels",GOL TV (UK)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319489
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports Football (UK)
-https://a1xs.vip/2000003
+http://kstv.us:8080/live/tH300gvHff/8606073792/47866.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports Premier League (UK)
-https://a1xs.vip/2000002
+http://kstv.us:8080/live/tH300gvHff/8606073792/47871.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports Action (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53705
+http://kstv.us:8080/live/tH300gvHff/8606073792/47862.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports F1 (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53704
+http://kstv.us:8080/live/tH300gvHff/8606073792/47865.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports Racing (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53741
+http://kstv.us:8080/live/tH300gvHff/8606073792/47872.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports Main Event (UK)
-https://a1xs.vip/2000001
+http://kstv.us:8080/live/tH300gvHff/8606073792/47868.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports Live+ (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35238
+http://kstv.us:8080/live/tH300gvHff/8606073792/47863.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports MIX (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53706
+http://kstv.us:8080/live/tH300gvHff/8606073792/47869.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports Golf (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35240
+http://kstv.us:8080/live/tH300gvHff/8606073792/47867.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sport (UK)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35244
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports News (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47870.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sport 1 (UK)
 https://donelfantastic.github.io/live/skysportsNz1.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sport 2 (UK)
@@ -5439,40 +5493,52 @@ http://hardcoremedia.xyz:80/BG992263/38692743/2251
 #EXTINF:0 tvg-logo="" group-title="UK Channels",TNT Sports Ultimate 4K (UK)
 http://hardcoremedia.xyz:80/BG992263/38692743/258594
 #EXTINF:0 tvg-logo="" group-title="UK Channels",TNT Sports 1 (UK)
-https://a1xs.vip/2000021
+http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",TNT Sports 2 (UK)
-https://a1xs.vip/2000022
+http://kstv.us:8080/live/tH300gvHff/8606073792/47851.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",TNT Sports 3 (UK)
-https://a1xs.vip/2000023
+http://kstv.us:8080/live/tH300gvHff/8606073792/47852.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",TNT Sports 4 (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/258613
+http://kstv.us:8080/live/tH300gvHff/8606073792/47853.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Premier Sports 1 (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/2255
+http://kstv.us:8080/live/tH300gvHff/8606073792/47858.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Premier Sports 2 (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/2256
+http://kstv.us:8080/live/tH300gvHff/8606073792/47859.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sony Channel (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47834.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sony Max (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47835.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Film4 (UK)
-http://xxip25.top:8080/7656691303/chrisbolden765@icloud.com/53702
+http://kstv.us:8080/live/tH300gvHff/8606073792/47774.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Action (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35254
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Comedy (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53661
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Drama (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35251
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Family (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53699
+http://kstv.us:8080/live/tH300gvHff/8606073792/47813.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Animation (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/53698
+http://kstv.us:8080/live/tH300gvHff/8606073792/47814.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Comedy (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47815.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Drama (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47816.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Family (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47817.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Greats (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35249
+http://kstv.us:8080/live/tH300gvHff/8606073792/47818.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Hits (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47819.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Premiere (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35256
+http://kstv.us:8080/live/tH300gvHff/8606073792/47820.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Sci-Fi & Horror (UK)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/35248
+http://kstv.us:8080/live/tH300gvHff/8606073792/47821.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Section (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47822.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Thriller (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47823.ts
 
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
 http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/150991
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV Latin America
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35326
+#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV Europe
+http://kstv.us:8080/live/tH300gvHff/8606073792/47170.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Miami TV Mexico
