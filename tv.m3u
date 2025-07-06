@@ -26,7 +26,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/23214.ts
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WPIX-TV CW PIX+ 11 (New York NY)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48998.ts
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WLNY-TV CBS/Ind. 10/55 (New York NY)
-http://hardcoremedia.xyz:80/BG992263/38692743/117221
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117221.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBBM-TV CBS 2 (Chicago IL)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48873.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WMAQ-TV NBC 5 (Chicago IL)
@@ -2487,9 +2487,9 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/23308.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Fuse
 http://kstv.us:8080/live/tH300gvHff/8606073792/23312.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Super Channel Fuse
-http://hardcoremedia.xyz:80/BG992263/38692743/129756
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129756.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",UpTV
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/10525
+http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/10525.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GSN (Game Show Network)
 http://kstv.us:8080/live/tH300gvHff/8606073792/23306.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Game Show Central
@@ -2501,7 +2501,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/23272.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Ebony TV by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951293/hls/playlist.m3u8?ads.xumo_channelId=99951293
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC (American Movie Classics)
-http://kstv.us:8080/live/tH300gvHff/8606073792/15923.ts
+http://kstv.us:8080/live/tH300gvHff/8606073792/22572.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC+
 http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC Thriller
@@ -2513,7 +2513,7 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcm
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TCM+ (East)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmeast.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FMC (Family Movie Classics)
-http://hardcoremedia.xyz:80/BG992263/38692743/257115
+http://hardcoremedia.xyz:80/live/BG992263/38692743/257115.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",NOST (The Nostalgia Network)
 https://api-ott.watchnost.com/loggingmediaurlpassthrough/b.m3u8?version=12&id=12&partner=freecast
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Channel
@@ -2525,7 +2525,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/22518.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Shorts TV
-http://hardcoremedia.xyz:80/BG992263/38692743/257267
+http://hardcoremedia.xyz:80/live/BG992263/38692743/257267.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",80's Sitcom Flashback
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Non-Stop 90's
