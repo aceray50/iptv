@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCBS-TV CBS 2 (Los Angeles CA)
-http://kstv.us:8080/live/tH300gvHff/8606073792/48785.ts
+http://kstv.us:8080/live/tH300gvHff/8606073792/40755.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNBC-TV NBC 4 (Los Angeles CA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48790.ts
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",KTLA-TV CW 5 (Los Angeles CA)
@@ -14,7 +14,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48788.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48789.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCBS-TV CBS 2 (New York NY)
-http://kstv.us:8080/live/tH300gvHff/8606073792/48997.ts
+http://kstv.us:8080/live/tH300gvHff/8606073792/15935.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNBC-TV NBC 4 (New York NY)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49000.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WNYW-TV FOX 5 (New York NY)
@@ -112,8 +112,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48827.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WPLG-TV ABC 10 (Miami FL)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48823.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WBFS-TV CW/MyNetworkTV 33 (Miami FL)
-http://kstv.us:8080/live/tH300gvHff/8606073792/48826.ts
-#EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WSFL-TV CW 39 (Miami FL)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48828.ts
+#EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WSFL-TV CW/Ind. 39 (Miami FL)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48826.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WFLA-TV NBC 8 (Tampa FL)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48842.ts
@@ -151,7 +151,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/49107.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/49110.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KFOX-TV FOX 14 (El Paso TX)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49109.ts
-#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KVIA-TV ABC 3 (Corpus Christi TX)
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KIII-TV ABC 3 (Corpus Christi TX)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216621
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KIII-TV NBC 6 (Corpus Christi TX)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120804
