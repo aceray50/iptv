@@ -1636,7 +1636,7 @@ https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunkl
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",WJAN-CD América TeVé 41 (Miami FL)
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Latin Hola TV
-http://hardcoremedia.xyz:80/BG992263/38692743/135369
+http://103.111.40.242:9999/play/a03z/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",WSBS-TV Mega TV 22 (Key West FL)
 http://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Mega TV
@@ -4252,7 +4252,7 @@ http://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Azteca Internacional adn 40
 https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Azteca Mundo
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/3708
+http://103.111.40.242:9999/play/a03l/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Azteca Uno
 http://kstv.us:8080/live/tH300gvHff/8606073792/46937.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Azteca Noticias
@@ -4260,11 +4260,11 @@ http://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Azteca 7
 http://kstv.us:8080/live/tH300gvHff/8606073792/46935.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TV Azteca GUATE
-https://ch1-tva.duin.dev/hls/stream.m3u8
+http://103.111.40.242:9999/play/a04a/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cinema Azteca (Mexico)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/72
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Azteca Corazón
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/29
+http://103.111.40.242:9999/play/a03e/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Buena Televisión
@@ -4336,31 +4336,33 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46529.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",SYFY en Español
 http://hardcoremedia.xyz:80/BG992263/38692743/129254
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",WB TV en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46691.ts
+http://103.111.40.242:9999/play/a02o/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Channel en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46690.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal TV
-http://kstv.us:8080/live/tH300gvHff/8606073792/23238.ts
+http://103.111.40.242:9999/play/a047/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Studio Universal
-http://kstv.us:8080/live/tH300gvHff/8606073792/46675.ts
+http://103.111.40.242:9999/play/a020/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal+
 http://kstv.us:8080/live/tH300gvHff/8606073792/46597.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",E! Entertainment en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46593.ts
+http://103.111.40.242:9999/play/a016/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TNT en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46680.ts
+http://103.111.40.242:9999/play/a02w/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TNT Series
-http://kstv.us:8080/live/tH300gvHff/8606073792/46683.ts
+http://103.111.40.242:9999/play/a02x/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",USA en Español
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/31
+http://103.111.40.242:9999/play/a04b/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TBS (i/e)
 http://170.254.18.106/TBS/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Paramount Network en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46654.ts
+http://103.111.40.242:9999/play/a01x/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",MTV en Español
-http://hardcoremedia.xyz:80/BG992263/38692743/253232
+http://103.111.40.242:9999/play/a01s/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",MTV en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",MTV 00s
+http://103.111.40.242:9999/play/a02z/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",BET (i/e)
 http://170.254.18.106/BET/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Amazon Kids en Español
@@ -4380,49 +4382,51 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46918.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cartoon Network en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46914.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cartoonito en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312751
+http://103.111.40.242:9999/play/a02r/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Toon Cast
 http://103.111.40.242:9999/play/a02y/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Dream Works en Español
+http://103.111.40.242:9999/play/a009/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Adult Swim en Español
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/22
+http://103.111.40.242:9999/play/a00c/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Baby First en Español
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34792
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Baby TV en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312755
+http://103.111.40.242:9999/play/a00r/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Comedy Central en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46575.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Comedy Central en Español (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Comedy
-http://kstv.us:8080/live/tH300gvHff/8606073792/46602.ts
+http://103.111.40.242:9999/play/a03o/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Kids en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46915.ts
+http://103.111.40.242:9999/play/a036/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46580.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Turbo en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46583.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Home and Health en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46582.ts
+http://103.111.40.242:9999/play/a03n/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Familia
 http://hardcoremedia.xyz:80/BG992263/38692743/135341
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Theater en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46587.ts
+http://103.111.40.242:9999/play/a03m/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery World en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46590.ts
+http://103.111.40.242:9999/play/a03t/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Investigation Discovery en Español
-http://hardcoremedia.xyz:80/BG992263/38692743/253225
+http://103.111.40.242:9999/play/a035/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Science en Español
-http://hardcoremedia.xyz:80/BG992263/38692743/253189
+http://103.111.40.242:9999/play/a035/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Animal Planet en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46531.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",History Channel en Español 
-http://hardcoremedia.xyz:80/BG992263/38692743/253221
+http://103.111.40.242:9999/play/a003/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",H2 (History Channel 2) en Español
-http://hardcoremedia.xyz:80/BG992263/38692743/253222
+http://103.111.40.242:9999/play/a001/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46650.ts
+http://103.111.40.242:9999/play/a01u/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Wild en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46651.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Taste Made en Español
@@ -4444,21 +4448,21 @@ https://amg00235-amg00235c3-estrellamedia-us-4154.playouts.now.amagi.tv/playlist
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",MyTime Movie Network en Español
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Food Network en Español
-http://hardcoremedia.xyz:80/BG992263/38692743/253203
+http://103.111.40.242:9999/play/a008/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Gusto TV en Español
 https://amg01077-gustofast-amg01077c8-freetv-us-2222.playouts.now.amagi.tv/playlist/amg01077-gusto-gustoesp-freetvus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",A&E en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46526.ts
+http://103.111.40.242:9999/play/a002/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Crime
-http://kstv.us:8080/live/tH300gvHff/8606073792/46603.ts
+http://103.111.40.242:9999/play/a03p/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FX en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46620.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Bravo (i/e)
 http://170.254.18.106/BRAVO/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",LifeTime
-http://kstv.us:8080/live/tH300gvHff/8606073792/46643.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",LifeTime en Español
+http://103.111.40.242:9999/play/a049/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Reality
-http://kstv.us:8080/live/tH300gvHff/8606073792/46598.ts
+http://103.111.40.242:9999/play/a03s/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Always Funny en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Más Risas
@@ -4492,11 +4496,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fuselatinovibes-ono
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Backstage en Español
 https://amg00375-fusemedia-backstageespanol-ono-espoe.amagi.tv/playlist/amg00375-fusemedia-backstageespanol-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Banda Max
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302616
+http://103.111.40.242:9999/play/a00s/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TeleHit
-http://200.229.147.142:8000/play/a07o
+http://103.111.40.242:9999/play/a023/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TeleHit Musica
-http://200.229.147.142:8000/play/a07e
+http://103.111.40.242:9999/play/a024/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Wapa
 http://kstv.us:8080/live/tH300gvHff/8606073792/47040.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Wapa 2
@@ -4526,13 +4530,13 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46644.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Somos Novelas
 https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TNT Novelas
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/312798
+http://103.111.40.242:9999/play/a02j/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Univision TL Novelas
 http://kstv.us:8080/live/tH300gvHff/8606073792/48364.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas (México)
-http://200.229.147.142:8000/play/a03w
+http://103.111.40.242:9999/play/a026/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telenovelas (México)
 http://hardcoremedia.xyz:80/BG992263/38692743/253250
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
@@ -4540,7 +4544,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Novelas Channel
 http://dai.google.com/linear/hls/event/4VaHBXfJSYihkeo7w_T0Qw/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",RCN Novelas
-http://200.229.147.142:8000/play/a02c
+http://103.111.40.242:9999/play/a03k/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Pasiones
 http://kstv.us:8080/live/tH300gvHff/8606073792/46655.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Novelisima
@@ -4601,6 +4605,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46535.ts
 http://179.61.31.142:8000/play/a01h/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Premier
 http://103.111.40.242:9999/play/a03q/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Premier 2
+http://103.111.40.242:9999/play/a03r/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FLOU Detonación
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-673675909564224797d5b598.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FreeTV Live
@@ -4658,7 +4664,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46633.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Pop
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302669
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Xtreme
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302666
+http://103.111.40.242:9999/play/a03b/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO en Español
 http://181.188.234.21:8000/play/a04e
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Latino
@@ -4670,19 +4676,21 @@ http://hardcoremedia.xyz:80/BG992263/38692743/257665
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Starz en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46674.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",STAR Channel
-http://hardcoremedia.xyz:80/BG992263/38692743/253265
+http://103.111.40.242:9999/play/a01z/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine Canal
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34994
+http://103.111.40.242:9999/play/a02f/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine Platino
+http://103.111.40.242:9999/play/a00x/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Films & Art
+http://103.111.40.242:9999/play/a01h/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Filmex Peliculas
 https://live1009.delivery.roku.com/c1f16607-abcf-4fb1-9bdb-469c8d3d1466/t2-origin/out/v1/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Filmex Clasico Peliculas
 https://live1009.delivery.roku.com/dee94bdd-c128-4649-95eb-e2cc1e557527/t2-origin/out/v1/live.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CineCanal
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34994
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine Romantico
 https://live1009.delivery.roku.com/7ee12862-2d8d-447d-9124-553bfec17e48/t2-origin/out/v1/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TCM
-http://kstv.us:8080/live/tH300gvHff/8606073792/46679.ts
+http://103.111.40.242:9999/play/a02v/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TC Television en Español
 http://181.188.234.21:8000/play/a04p/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TVOAI Channel
@@ -4784,7 +4792,7 @@ https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Canal 7.2 Deportes (Bolivia)
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+http://103.111.40.242:9999/play/a025/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CTV Internacional
@@ -4882,17 +4890,17 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47123.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN Deportes
 http://kstv.us:8080/live/tH300gvHff/8606073792/47105.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/47107.ts
+http://103.111.40.242:9999/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 2 en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/47098.ts
+http://103.111.40.242:9999/play/a018/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 3 en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/47102.ts
+http://103.111.40.242:9999/play/a019/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 4 en Español
 http://103.111.40.242:9999/play/a01a/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 5 en Español
-http://200.229.147.142:8000/play/a05y
+http://103.111.40.242:9999/play/a01b/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 6 en Español
-http://200.229.147.142:8000/play/a04v
+http://103.111.40.242:9999/play/a01c/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 7 en Español
 http://181.188.234.21:8000/play/a045
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Wapa Deportes
