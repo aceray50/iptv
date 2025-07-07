@@ -443,8 +443,8 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71796
 http://kstv.us:8080/live/tH300gvHff/8606073792/48794.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KXTV-TV ABC 10 (Sacramento CA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48791.ts
-#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOVR-TV CBS 13 (Sacramento CA)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71768
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOVR-TV CBS 13 (Stockton/Sacramento CA)
+http://kstv.us:8080/live/tH300gvHff/8606073792/48800.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTXL-TV FOX 40 (Sacramento CA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48793.ts
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",KMAX-TV CW 31 (Sacramento CA)
@@ -457,8 +457,6 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48782.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48780.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGPE-TV CBS 47 (Fresno CA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48781.ts
-#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOVR-TV CBS 13 (Fresno CA)
-http://kstv.us:8080/live/tH300gvHff/8606073792/48800.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WSB-TV ABC 2 (Atlanta GA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48847.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WAGA-TV FOX 5 (Atlanta GA)
