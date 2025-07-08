@@ -949,7 +949,7 @@ http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183569
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WPBT-TV South Florida PBS 2 (Miami FL)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78546
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WUCF-TV PBS 24 (Orlando FL)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183588
+http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183590
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WJCT-TV JAX PBS 9 (Jacksonville FL)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78485
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WEDU-TV PBS 3 (Tampa Bay FL)
@@ -2932,9 +2932,9 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48241.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Goal TV
 https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Stadium
-http://dai.google.com/linear/hls/event/iAH9i6raRVu1GzVMtKI7PA/master.m3u8
+http://dai.google.com/linear/hls/event/FH5OItUrSPquaZHqgVNNRg/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (MLB)
-http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
+http://dai.google.com/linear/hls/event/iAH9i6raRVu1GzVMtKI7PA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (Glory)
 https://glorykickboxing.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/GLORYKickBoxing-7a2ba2de-5648-4cea-a54e-c21246c76ef9/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (Banana Ball)
