@@ -23,7 +23,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48999.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48996.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)
 http://kstv.us:8080/live/tH300gvHff/8606073792/23214.ts
-#EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WPIX-TV CW PIX+ 11 (New York NY)
+#EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WPIX-TV CW 11 (PIX 11+) (New York NY)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48998.ts
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WLNY-TV CBS/Ind. 10/55 (New York NY)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/117221.ts
@@ -115,9 +115,9 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48823.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48828.ts
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WSFL-TV CW/Ind. 39 (Miami FL)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48826.ts
-#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WFLA-TV NBC 8 (Tampa FL)
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WFLA-TV NBC 8 (Tampa Bay FL)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48842.ts
-#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTSP-DT CBS 10 (Tampa FL)
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTSP-DT CBS 10 (Tampa Bay FL)
 http://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTVT-TV FOX 13 (Tampa Bay FL)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48841.ts
@@ -269,7 +269,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48984.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48798.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNSD-TV NBC 7/39 (San Diego CA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48799.ts
-#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KFMB-TV CBS 8.1 (San Diego CA)
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KFMB-TV CBS 8.1 (8+) (San Diego CA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48796.ts
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",KFMB-DT CW 8.2 (San Diego CA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48797.ts
@@ -493,6 +493,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48962.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48964.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WJZY-TV FOX 46 (Charlotte NC)
 http://covertv.lol:8080/uZbzPbqzdKPR/sKJMnv2FFeC9/415633
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WRAZ-TV FOX 50 (Raleigh NC)
+http://kstv.us:8080/live/tH300gvHff/8606073792/23321.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCNC-TV CBS 4 (Denver CO)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48804.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KMGH-TV ABC 7 (Denver CO)
@@ -579,6 +581,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/49019.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/49015.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WKRC-TV CBS 12 (Cincinnati OH)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49016.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WSTR-TV MyNetworkTV 64 (Cincinnati OH)
+http://kstv.us:8080/live/tH300gvHff/8606073792/49018.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WDTN-TV NBC 2 (Dayton OH)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49031.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WHIO-TV CBS 7 (Dayton OH)
@@ -2535,7 +2539,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/256729
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Family
 http://hardcoremedia.xyz:80/BG992263/38692743/129882
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Faith & Living
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75654
+http://kstv.us:8080/live/tH300gvHff/8606073792/48243.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Holiday Plus
@@ -2771,16 +2775,18 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47475.ts
 http://hardcoremedia.xyz:80/BG992263/38692743/141497
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sportsnet Lakers
 http://hardcoremedia.xyz:80/BG992263/38692743/141498
+#EXTINF:0 tvg-logo="" group-title="Sports",Root Sports
+http://kstv.us:8080/live/tH300gvHff/8606073792/48334.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsnet West
-http://hardcoremedia.xyz:80/BG992263/38692743/142481
+http://kstv.us:8080/live/tH300gvHff/8606073792/15903.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsnet East
 http://hardcoremedia.xyz:80/BG992263/38692743/142480
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsnet World
-https://a1xs.vip/6000013
+http://kstv.us:8080/live/tH300gvHff/8606073792/15936.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsnet 360
 http://hardcoremedia.xyz:80/BG992263/38692743/256959
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsnet One
-http://hardcoremedia.xyz:80/BG992263/38692743/142482
+http://kstv.us:8080/live/tH300gvHff/8606073792/15930.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsnet Ontario
 http://hardcoremedia.xyz:80/BG992263/38692743/142483
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsnet Pacific
@@ -5336,15 +5342,15 @@ https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSC (The Shopping Channel) (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57370
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 1 (Canada)
-https://a1xs.vip/6000001
+http://kstv.us:8080/live/tH300gvHff/8606073792/40651.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 2 (Canada)
-https://a1xs.vip/6000002
+http://kstv.us:8080/live/tH300gvHff/8606073792/40650.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 3 (Canada)
-https://a1xs.vip/6000003
+http://kstv.us:8080/live/tH300gvHff/8606073792/40649.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 4 (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40648.ts
+http://kstv.us:8080/live/tH300gvHff/8606073792/22518.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 5 (Canada)
-https://a1xs.vip/6000005
+http://kstv.us:8080/live/tH300gvHff/8606073792/40647.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN The Ocho (Canada)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",RDS Info (Canada)
@@ -5490,6 +5496,12 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47847.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47805.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Nickelodeon (UK)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Nick Jr. (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47796.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Nick Jr. 2 (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/23275.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Nick Jr. Too (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47797.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Nicktoons (UK)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47799.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Cartoon Network (UK)
