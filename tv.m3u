@@ -46,7 +46,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48930.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WXYZ-TV ABC 7 (Detroit MI)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48926.ts
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WKBD-TV CW 50 (Detroit MI)
-http://kstv.us:8080/live/tH300gvHff/8606073792/48928.ts
+http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183467
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WWJ-TV CBS 62 (Detroit MI)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48927.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCCO-TV CBS 4 (Minneapolis/St. Paul MN)
@@ -408,7 +408,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/49090.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WZTV-TV FOX 17.1 (Nashville TN)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49092.ts
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WZTV-DT CW 17.2 (Nashville TN)
-http://fortv.cc:8080/q8KuDU/354945/120901
+http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183472
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WUXP-TV MyNetworkTV 30 (Nashville TN)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49093.ts
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WNAB-TV CW 58 (Nashville TN)
@@ -457,6 +457,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48782.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48780.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGPE-TV CBS 47 (Fresno CA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48781.ts
+#EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WFRE-TV CW 59 (Fresno CA)
+http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183278
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WSB-TV ABC 2 (Atlanta GA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48847.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WAGA-TV FOX 5 (Atlanta GA)
@@ -892,12 +894,16 @@ http://hardcoremedia.xyz:80/BG992263/38692743/243548
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8?player_version=1.18.0
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WOSU-TV PBS 34 (Columbus OH)
 http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183573
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WCET-TV CET PBS 48 (Cincinnati OH)
+http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183309
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTVS-TV PBS 56.1 (Detroit MI)
 http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183576
 #EXTINF:0 tvg-logo="" group-title="Local Public Broadcast",WTVS-DT 56.6 Michigan Learning Channel (Detroit MI)
 https://d2jalth387y2js.cloudfront.net/test.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KMOS-TV PBS 6 (Columbia MO)
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETS-TV PBS 2 (Little Rock AR)
+http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183330
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KCPT-TV PBS 19 (Kansas City MO)
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKLE-TV KET PBS 46.1 (Lexington KY)
@@ -920,6 +926,8 @@ http://hardcoremedia.xyz:80/BG992263/38692743/243539
 http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183583
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78431
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KPBS-TV PBS 2 (San Diego CA)
+http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183329
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNET-TV PBS 13 (New York NY)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78527
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WLIW-TV PBS 21 (New York NY)
@@ -930,6 +938,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/23264.ts
 http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/139756
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WPBS-TV PBS 16 (Watertown NY)
 http://hardcoremedia.xyz:80/BG992263/38692743/243546
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WXXI-TV PBS 21 (Rochester NY)
+http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183289
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WEDH-TV P-CPTV PBS 24 (Hartfort CT)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78465
 #EXTINF:0 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Local Public Broadcast",WETA-TV WETA PBS 26.1 (Washington DC)
@@ -956,8 +966,12 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78485
 http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183594
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WABE-TV PBS 30 (Atlanta GA)
 http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183567
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTVI-TV PBS 42 (Charlotte NC)
+http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183573
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KAET-TV Arizona PBS 8 (Phoenix AZ)
 http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183591
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLRN-TV PBS 9 (San Antonio TX)
+http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183570
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KERA-TV PBS 13 (Ft. Worth/Dallas TX)
 http://hardcoremedia.xyz:80/BG992263/38692743/243559
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETC-TV Nine PBS 9 (St. Louis MO)
