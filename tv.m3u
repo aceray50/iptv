@@ -431,6 +431,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/49080.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/49079.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTVU-TV FOX 2 (San Francisco CA)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71797
+#EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",KRON-TV CW 4 (San Francisco CA)
+https://user.scalecdn.co:443/26725074/92867131/597171
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPIX-TV CBS 5 (San Francisco CA)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71795
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KGO-TV ABC 7 (San Francisco CA)
@@ -528,7 +530,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48812.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WUSA-TV CBS 9 (Washington DC)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71887
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WCDW-TV CW 50 (Washington DC)
-https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+https://user.scalecdn.co:443/26725074/92867131/630645
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WMAR-TV ABC 2 (Baltimore MD)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71329
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBAL-TV NBC 11 (Baltimore MD)
@@ -878,8 +880,6 @@ https://dai.google.com/linear/hls/event/LLS6t9zvTkOq8pXtpMVx4A/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WUSA-TV CBS 9 24/7 News (Washington DC)
 https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS-TV
-http://hardcoremedia.xyz:80/BG992263/38692743/129939
 #EXTINF:0 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",Create
 https://create.lls.pbs.org/index_1080p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png" group-title="Local Public Broadcast",NHK World
@@ -908,6 +908,8 @@ https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78421
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETS-TV PBS 2 (Little Rock AR)
 http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183330
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KTWU-TV PBS 11 (Topeka KS)
+http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183198
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKLE-TV KET PBS 46.1 (Lexington KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",WKLE-DT KET 2 Create 46.2 (Lexington KY)
