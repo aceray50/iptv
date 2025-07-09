@@ -432,7 +432,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/49079.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTVU-TV FOX 2 (San Francisco CA)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71797
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",KRON-TV CW 4 (San Francisco CA)
-https://user.scalecdn.co:443/26725074/92867131/597171
+http://user.scalecdn.co:8080/live/26725074/92867131/597171.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPIX-TV CBS 5 (San Francisco CA)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71795
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KGO-TV ABC 7 (San Francisco CA)
@@ -530,7 +530,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48812.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WUSA-TV CBS 9 (Washington DC)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71887
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WCDW-TV CW 50 (Washington DC)
-https://user.scalecdn.co:443/26725074/92867131/630645
+http://user.scalecdn.co:8080/live/26725074/92867131/630645.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WMAR-TV ABC 2 (Baltimore MD)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71329
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBAL-TV NBC 11 (Baltimore MD)
@@ -2136,7 +2136,7 @@ https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MeTV
 http://kstv.us:8080/live/tH300gvHff/8606073792/44205.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MeTV+
-http://hardcoremedia.xyz:80/BG992263/38692743/129915
+http://user.scalecdn.co:8080/live/26725074/92867131/607734.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION
 https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION Plus
