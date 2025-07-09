@@ -2956,7 +2956,7 @@ https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network West
 http://kstv.us:8080/live/tH300gvHff/8606073792/47471.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Detroit
-http://kstv.us:8080/live/tH300gvHff/8606073792/31589.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/663205.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Florida
 http://kstv.us:8080/live/tH300gvHff/8606073792/47468.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Great Lakes
@@ -2971,8 +2971,6 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/31585.ts
 https://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Oklahoma
 http://kstv.us:8080/live/tH300gvHff/8606073792/47469.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network San Diego
-https://tvpass.org/live/fanduel-sports-network-san-diego/hd
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Socal
 https://tvpass.org/live/fanduel-sports-network-socal/hd
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network South Carolinas
@@ -2980,15 +2978,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/31583.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network South Tennessee
 http://kstv.us:8080/live/tH300gvHff/8606073792/31581.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Wisconsin
-https://tvpass.org/live/fanduel-sports-network-wisconsin/hd
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Southeast Georgia
-https://tvpass.org/live/fanduel-sports-southeast-georgia/hd
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Southeast North Carolina
-https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Southeast South Carolina
-https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Southeast Nashville
-https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd
+http://user.scalecdn.co:8080/live/26725074/92867131/3787.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Sun
 http://kstv.us:8080/live/tH300gvHff/8606073792/47470.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Tennessee East
@@ -3169,65 +3159,65 @@ https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Arizona Diamondbacks
-http://hardcoremedia.xyz:80/BG992263/38692743/126925
+http://user.scalecdn.co:8080/live/26725074/92867131/390398.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Atlanta Braves
-http://hardcoremedia.xyz:80/BG992263/38692743/126926
+http://user.scalecdn.co:8080/live/26725074/92867131/390399.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Baltimore Orioles
-http://hardcoremedia.xyz:80/BG992263/38692743/126927
+http://user.scalecdn.co:8080/live/26725074/92867131/390400.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Boston Red Sox
-http://hardcoremedia.xyz:80/BG992263/38692743/126928
+http://user.scalecdn.co:8080/live/26725074/92867131/390401.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Chicago Cubs
-http://hardcoremedia.xyz:80/BG992263/38692743/126929
+http://user.scalecdn.co:8080/live/26725074/92867131/390402.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Chicago White Sox
-http://hardcoremedia.xyz:80/BG992263/38692743/126930
+http://user.scalecdn.co:8080/live/26725074/92867131/390406.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Cincinnati Reds
-http://hardcoremedia.xyz:80/BG992263/38692743/126931
+http://user.scalecdn.co:8080/live/26725074/92867131/390403.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Cleveland Guardians
-http://hardcoremedia.xyz:80/BG992263/38692743/126932
+http://user.scalecdn.co:8080/live/26725074/92867131/390404.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Colorado Rockies
-http://hardcoremedia.xyz:80/BG992263/38692743/126933
+http://user.scalecdn.co:8080/live/26725074/92867131/390405.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Detroit Tigers
-http://hardcoremedia.xyz:80/BG992263/38692743/126934
+http://user.scalecdn.co:8080/live/26725074/92867131/390407.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Houston Astros
-http://hardcoremedia.xyz:80/BG992263/38692743/126935
+http://user.scalecdn.co:8080/live/26725074/92867131/390408.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Kansas City Royals
-http://hardcoremedia.xyz:80/BG992263/38692743/126936
+http://user.scalecdn.co:8080/live/26725074/92867131/390409.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Los Angeles Angels
-http://hardcoremedia.xyz:80/BG992263/38692743/126937
+http://user.scalecdn.co:8080/live/26725074/92867131/390410.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Los Angeles Dodgers
-http://hardcoremedia.xyz:80/BG992263/38692743/126938
+http://user.scalecdn.co:8080/live/26725074/92867131/390411.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Miami Marlins
-http://hardcoremedia.xyz:80/BG992263/38692743/126939
+http://user.scalecdn.co:8080/live/26725074/92867131/390412.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Milwaukee Brewers
-http://hardcoremedia.xyz:80/BG992263/38692743/126940
+http://user.scalecdn.co:8080/live/26725074/92867131/390413.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Minnesota Twins
-http://hardcoremedia.xyz:80/BG992263/38692743/126941
+http://user.scalecdn.co:8080/live/26725074/92867131/390414.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | New York Mets
-http://hardcoremedia.xyz:80/BG992263/38692743/126942
+http://user.scalecdn.co:8080/live/26725074/92867131/390415.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | New York Yankees
-http://hardcoremedia.xyz:80/BG992263/38692743/126943
+http://user.scalecdn.co:8080/live/26725074/92867131/390416.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Oakland Athletics
-http://hardcoremedia.xyz:80/BG992263/38692743/126944
+http://user.scalecdn.co:8080/live/26725074/92867131/390417.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Philadelphia Phillies
-http://hardcoremedia.xyz:80/BG992263/38692743/126945
+http://user.scalecdn.co:8080/live/26725074/92867131/390418.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Pittsburgh Pirates
-http://hardcoremedia.xyz:80/BG992263/38692743/126946
+http://user.scalecdn.co:8080/live/26725074/92867131/390419.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | San Diego Padres
-http://hardcoremedia.xyz:80/BG992263/38692743/126947
+http://user.scalecdn.co:8080/live/26725074/92867131/390420.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | San Francisco Giants
-http://hardcoremedia.xyz:80/BG992263/38692743/126948
+http://user.scalecdn.co:8080/live/26725074/92867131/390422.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Seattle Mariners
-http://hardcoremedia.xyz:80/BG992263/38692743/126949
+http://user.scalecdn.co:8080/live/26725074/92867131/390421.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | St. Louis Cardinals
-http://hardcoremedia.xyz:80/BG992263/38692743/126950
+http://user.scalecdn.co:8080/live/26725074/92867131/390423.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Tampa Bay Rays
-http://hardcoremedia.xyz:80/BG992263/38692743/126951
+http://user.scalecdn.co:8080/live/26725074/92867131/390424.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Texas Rangers
-http://hardcoremedia.xyz:80/BG992263/38692743/126952
+http://user.scalecdn.co:8080/live/26725074/92867131/390425.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Toronto Blue Jays
-http://hardcoremedia.xyz:80/BG992263/38692743/126953
+http://user.scalecdn.co:8080/live/26725074/92867131/390426.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Washington Nations
-http://hardcoremedia.xyz:80/BG992263/38692743/126954
+http://user.scalecdn.co:8080/live/26725074/92867131/390427.ts
 
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/2490.ts
@@ -3336,7 +3326,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3961.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Kids & Family (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/649403.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Kids & Family (East)
-http://user.scalecdn.co:8080/26725074/live/92867131/3956.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/3956.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore
 http://kstv.us:8080/live/tH300gvHff/8606073792/49164.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Classic
@@ -4322,7 +4312,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48025.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hard Rock
 http://kstv.us:8080/live/tH300gvHff/8606073792/47973.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Metal
-http://hardcoremedia.xyz:80/BG992263/38692743/237635
+http://kstv.us:8080/live/tH300gvHff/8606073792/47998.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Alternative
 http://kstv.us:8080/live/tH300gvHff/8606073792/47998.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Adult Alternative
@@ -4818,14 +4808,13 @@ http://179.61.31.142:8000/play/a09h/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Sony Cine
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8ovie
-
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine EstrellaTV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine Mexicano
-http://103.111.40.242:9999/play/a00w/index.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/649410.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine Latino
 http://103.111.40.242:9999/play/a02s/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Caracol Internacional
@@ -4888,20 +4877,18 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46634.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/46631.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Plus
 http://kstv.us:8080/live/tH300gvHff/8606073792/46636.ts
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Mundi
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302663
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Signature
 http://kstv.us:8080/live/tH300gvHff/8606073792/46637.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Family
 http://kstv.us:8080/live/tH300gvHff/8606073792/46633.ts
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Pop
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302669
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Xtreme
 http://103.111.40.242:9999/play/a03b/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO en Español
 http://181.188.234.21:8000/play/a04e
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Latino
-http://kstv.us:8080/live/tH300gvHff/8606073792/48245.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Latino (West)
+http://user.scalecdn.co:8080/live/26725074/92867131/631875.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Latino (East)
+http://user.scalecdn.co:8080/live/26725074/92867131/648980.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cinemax en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46572.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cinemax (Max Latino)
@@ -5572,13 +5559,9 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/40697.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",HBO 2 (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40696.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Starz (Canada)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21994
+http://user.scalecdn.co:8080/live/26725074/92867131/3205.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Starz 2 (Canada)
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21995
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Encore (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40718.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Encore 2 (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40717.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/3206.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Movietime (Canada)
 http://user.scalecdn.co:8080/live/26725074/92867131/3056.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Super Channel Fuse (Canada)
