@@ -1555,6 +1555,8 @@ https://catram-packager-018.nextologies.com/33cf929f7996f7b4/588f14d9ef4317f1/pl
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (New Orleans LA)
 https://catram-packager-018.nextologies.com/0bbcf6d6a85c81ca/45a975efb871cd32/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Spectrum Noticias NY1
+http://user.scalecdn.co:8080/live/26725074/92867131/649407.ts
 #EXTINF:0 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png" group-title="Latino (Spanish)",Noticias Univision 24/7
 https://live1009.delivery.roku.com/10d99635-efe0-4a99-ab00-54cbc2d95cf6/t2-origin/out/v1/live.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Noticias Telemundo Ahora
@@ -1926,6 +1928,10 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A
 
 #EXTINF:0 tvg-logo="" group-title="News",Today All Day
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245
+#EXTINF:0 tvg-logo="" group-title="News",Spectrum News 1 (New York)
+http://user.scalecdn.co:8080/live/26725074/92867131/649404.ts
+#EXTINF:0 tvg-logo="" group-title="News",Spectrum News NY1
+http://user.scalecdn.co:8080/live/26725074/92867131/597114.ts
 #EXTINF:0 tvg-logo="" group-title="News",Spectrum News+
 https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.xumo_channelId=99951337
 #EXTINF:0 tvg-logo="" group-title="News",ABC Localish
@@ -2899,10 +2905,14 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/28741.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/46400.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Space City Home Network
 http://kstv.us:8080/live/tH300gvHff/8606073792/47475.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sports
+http://user.scalecdn.co:8080/live/26725074/92867131/649400.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum SportsNet LA
 http://user.scalecdn.co:8080/live/26725074/92867131/74683.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sportsnet Lakers
 http://user.scalecdn.co:8080/live/26725074/92867131/74684.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sportsnet OC16
+http://user.scalecdn.co:8080/live/26725074/92867131/649399.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Root Sports
 http://kstv.us:8080/live/tH300gvHff/8606073792/48334.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsnet West
@@ -3263,7 +3273,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/81381.ts
 http://user.scalecdn.co:8080/live/26725074/92867131/51554.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Action Max (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/81383.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",Action Max
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Action Max (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/51557.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/3840.ts
@@ -3398,7 +3408,7 @@ https://amg02042-ottstudio-amg02042c3-ottstudios-northamerica-1899.playouts.now.
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Christmas+
 https://moments.videobyte.com/api/livestreaming.m3u8?pid=41D2X70&msid=0001793&ads=vbx&url=https://amg02042-ottstudio-amg02042c13-ottstudios-northamerica-1909.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-holidayplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Samuel Goldwyn Channel
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cowboy Movie Channel
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1740795097&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6746dc61d1615e1ba20ac5ef
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Film Detective
