@@ -4714,7 +4714,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/23307.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",NBC Universo
 http://kstv.us:8080/live/tH300gvHff/8606073792/23281.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo Internacional
-http://hardcoremedia.xyz:80/live/BG992263/38692743/135389.ts
+http://tv.nstvlatino.com:8080/;ive/Mitv2462/I8G5FfZBMw/43189.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo Al Día
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo Acción
@@ -4726,7 +4726,7 @@ http://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Azteca Internacional adn 40
 https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Azteca Mundo
-http://103.111.40.242:9999/play/a03l/index.m3u8
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/4055.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Azteca Uno
 http://kstv.us:8080/live/tH300gvHff/8606073792/46937.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Azteca Noticias
@@ -5010,8 +5010,10 @@ http://103.111.40.242:9999/play/a02j/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Univision TL Novelas
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/1090591.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas 1 (México)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48364.ts
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas (México)
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas 2 (México)
 http://103.111.40.242:9999/play/a026/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telenovelas (México)
 http://hardcoremedia.xyz:80/BG992263/38692743/253250
@@ -5068,7 +5070,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a9
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine Mexicano
 http://user.scalecdn.co:8080/live/26725074/92867131/649410.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cine Latino
-http://hardcoremedia.xyz:80/live/BG992263/38692743/249543.ts
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/4136.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Caracol Internacional
 http://kstv.us:8080/live/tH300gvHff/8606073792/46774.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Todo Cine
@@ -5134,7 +5136,11 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46637.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Family
 http://kstv.us:8080/live/tH300gvHff/8606073792/46633.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Xtreme
-http://103.111.40.242:9999/play/a03b/index.m3u8
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/44341.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Pop
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/47445.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Mundi
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/1143815.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO en Español
 http://181.188.234.21:8000/play/a04e
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HBO Latino (West)
@@ -5640,8 +5646,6 @@ http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57273
 http://kstv.us:8080/live/tH300gvHff/8606073792/40722.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Wild (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40775.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Discovery Science (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3274.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Speed
 http://user.scalecdn.co:8080/live/26725074/92867131/59878.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",National Geographic (Canada)
