@@ -1788,8 +1788,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelengl
 http://user.scalecdn.co:8080/live/26725074/92867131/3845.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",Travel Channel (East)
 http://kstv.us:8080/live/tH300gvHff/8606073792/24856.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",ID (Investigation Discovery)
-http://kstv.us:8080/live/tH300gvHff/8606073792/15911.ts
+#EXTINF:0 tvg-logo="" group-title="Documentary",ID (Investigation Discovery) (West)
+http://user.scalecdn.co:8080/live/26725074/92867131/3837.ts
+#EXTINF:0 tvg-logo="" group-title="Documentary",ID (Investigation Discovery) (East)
+http://user.scalecdn.co:8080/live/26725074/92867131/3633.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",Discovery Life
 http://kstv.us:8080/live/tH300gvHff/8606073792/23333.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",Discovery Science
@@ -1971,7 +1973,7 @@ https://a1xs.vip/300008
 #EXTINF:0 tvg-logo="" group-title="News",CNN
 https://a1xs.vip/300007
 #EXTINF:0 tvg-logo="" group-title="News",CNN International
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/21765
+http://user.scalecdn.co:8080/live/26725074/92867131/88946.ts
 #EXTINF:0 tvg-logo="" group-title="News",CNN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/cnn.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",CNN Originals
@@ -2210,7 +2212,7 @@ http://fl6.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",H&I (Heroes & Icons)
 http://kstv.us:8080/live/tH300gvHff/8606073792/23225.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Start TV
-http://fl6.moveonjoy.com/Start_Tv/index.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/469939.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",DABL
 http://user.scalecdn.co:8080/live/26725074/92867131/333484.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",fetv (Family Entertainment Television)
@@ -2231,8 +2233,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_c
 http://user.scalecdn.co:8080/live/26725074/92867131/2603.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:0 tvg-logo="https://wljc.com/wp-content/uploads/2024/03/story_black_green.png" group-title="Network Channels",The Story
-https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://wljc.com/wp-content/uploads/2024/03/story_black_green.png" group-title="Network Channels",Story Television
+http://user.scalecdn.co:8080/26725074/92867131/647790
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Buzzr #1
 https://dbrb49pjoymg4.cloudfront.net/10001/99951124/hls/playlist.m3u8?ads.xumo_channelId=99951124
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Buzzr #2
@@ -2278,12 +2280,6 @@ http://user.scalecdn.co:8080/live/26725074/92867131/88970.ts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a9a-7b2e-11ef-8b51-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bbba5747-a534-474e-b169-1d3ce211896e&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",OUTtv Proud
 https://amg00375-fusemedia-outtv-ono-fpk2m.amagi.tv/playlist/amg00375-fusemedia-outtv-ono/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Network Channels",Adult Swim+ (West)
-https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
-#EXTINF:0 tvg-logo="" group-title="Network Channels",Adult Swim+ (East)
-https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aseast.us.m3u8
-#EXTINF:0 tvg-logo="" group-title="Network Channels",Adult Swim 24/7
-https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",VH1 (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/81588.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",VH1 (East)
@@ -2314,10 +2310,14 @@ http://user.scalecdn.co:8080/live/26725074/92867131/648960.ts
 https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TV One
 http://kstv.us:8080/live/tH300gvHff/8606073792/23240.ts
-#EXTINF:0 tvg-logo="" group-title="Network Channels",Revolt
-http://kstv.us:8080/live/tH300gvHff/8606073792/23260.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Cleo TV
 http://kstv.us:8080/live/tH300gvHff/8606073792/48164.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Revolt
+http://kstv.us:8080/live/tH300gvHff/8606073792/23260.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Afro
+http://user.scalecdn.co:8080/live/26725074/92867131/573315.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",The Africa Channel
+http://user.scalecdn.co:8080/live/26725074/92867131/647825.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Shades of Black
 https://fuse-beats-oando.amagi.tv/hls/amagi_hls_data_fuseAAAAA-fusebeats-oando/CDN/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BlackPix
@@ -2346,7 +2346,15 @@ http://user.scalecdn.co:8080/live/26725074/92867131/648957.ts
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy Central (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy.tv
-http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/77411.ts
+#EXTINF:0 tvg-logo="" group-title="Comedy",Adult Swim
+http://user.scalecdn.co:8080/live/26725074/92867131/52529.ts
+#EXTINF:0 tvg-logo="" group-title="Comedy",Adult Swim+ (West)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
+#EXTINF:0 tvg-logo="" group-title="Comedy",Adult Swim+ (East)
+https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aseast.us.m3u8
+#EXTINF:0 tvg-logo="" group-title="Comedy",Adult Swim 24/7
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",WITZ Comedy TV
 https://wurlbesteverchannels.global.transmit.live/hls/67a3a1377796545fc40611c5/v1/bec_witz_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",Sketchy AF (Pluto TV)
@@ -2538,8 +2546,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://kstv.us:8080/live/tH300gvHff/8606073792/48333.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BBC America
 http://user.scalecdn.co:8080/live/26725074/92867131/3610.ts
-#EXTINF:0 tvg-logo="" group-title="Network Channels",The Africa Channel
-http://user.scalecdn.co:8080/live/26725074/92867131/647825.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",OuterSphere by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951250/hls/playlist.m3u8?ads.xumo_channelId=99951250
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Pop TV (West)
@@ -3385,6 +3391,8 @@ http://user.scalecdn.co:8080/live/26725074/92867131/601155.ts
 http://user.scalecdn.co:8080/live/26725074/92867131/601154.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",The Asylum Movie Channel
+http://user.scalecdn.co:8080/live/26725074/92867131/709958.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Free Movies+
@@ -4590,7 +4598,7 @@ http://103.111.40.242:9999/play/a04b/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TBS (i/e)
 http://170.254.18.106/TBS/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Paramount Network en Español
-http://103.111.40.242:9999/play/a01x/index.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/50902.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",MTV en Español
 http://103.111.40.242:9999/play/a01s/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",MTV en Español (Pluto TV)
@@ -4638,7 +4646,7 @@ http://103.111.40.242:9999/play/a03o/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Kids en Español
 http://103.111.40.242:9999/play/a036/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46580.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/2600.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Turbo en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46583.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Home and Health en Español
@@ -4656,13 +4664,15 @@ http://103.111.40.242:9999/play/a035/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Animal Planet en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46531.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",History Channel en Español 
-http://103.111.40.242:9999/play/a003/index.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/649401.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",H2 (History Channel 2) en Español
 http://103.111.40.242:9999/play/a001/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo en Español
 http://103.111.40.242:9999/play/a01u/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Wild en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46651.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Mundo
+http://user.scalecdn.co:8080/live/26725074/92867131/40637.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Taste Made en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Love Nautre en Español
@@ -5054,7 +5064,7 @@ http://hardcoremedia.xyz:80/BG992263/38692743/249565
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TN Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CNÑ en Español
-http://kstv.us:8080/live/tH300gvHff/8606073792/46946.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/3857.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CNÑ Xpress
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c246e572427bfa1eb7ed5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8dznQ4ez-hXSxfssrfcs
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",France 24 en Español
@@ -5374,6 +5384,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/40763.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/40604.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TFO French (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40659.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Adult Swim (Canada)
+http://user.scalecdn.co:8080/live/26725074/92867131/3077.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Much (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40676.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",APTN (Canada)
@@ -5530,6 +5542,12 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/22518.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/40647.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN The Ocho (Canada)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",beIN Sports 1 (Canada)
+http://user.scalecdn.co:8080/live/26725074/92867131/88062.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",beIN Sports 2 (Canada)
+http://user.scalecdn.co:8080/live/26725074/92867131/3153.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",beIN Sports NBA (Canada)
+http://user.scalecdn.co:8080/live/26725074/92867131/659438.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",RDS Info (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40627.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",RDS (Canada)
@@ -5537,7 +5555,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/40629.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",RDS 2 (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40628.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",NBA TV (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/659482.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/3092.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",NFL Network (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40584.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Sportsnet 360 (Canada)
