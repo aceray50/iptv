@@ -1896,6 +1896,8 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99991320/hls/playlist.m3u8?ads.xumo_c
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",MST3K (Mystery Science Theater 3000)
 https://mst3k-ts-zype.amagi.tv/hls/amagi_hls_data_shoutfact-mst3k-ts-zype/CDN/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Documentary",TVS Hollywood History
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",FilmRise Fprensic Files
 https://dtqutq7lmcchv.cloudfront.net/10001/99991367/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991367
 #EXTINF:0 tvg-logo="" group-title="Documentary",FilmRise Untold Stories of the ER
@@ -2401,8 +2403,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991176/hls/master.m3u8?includeAsset
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204
 #EXTINF:0 tvg-logo="" group-title="Comedy",Funny Or Die, Inc.
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6p4G1WM2si1T2FyZUqse
-#EXTINF:0 tvg-logo="" group-title="Comedy",Camera Smile TV
-https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",FailArmy
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",Funny AF
@@ -2412,7 +2412,7 @@ https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy Dynamics
 https://cineverse.g-mana.live/media/398ffc79-3077-465f-9243-dc339de96212/mainManifest.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",TVS Comedy Network
-https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",TVS Flashback Network
 https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 
@@ -2457,7 +2457,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Network (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631839.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Network (East)
-http://kstv.us:8080/live/tH300gvHff/8606073792/15909.ts
+http://nonamevos.com:80/live/4500/4500/81940.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount+ Picks (Pluto TV)
@@ -2873,7 +2873,11 @@ https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/
 http://user.scalecdn.co:8080/live/26725074/92867131/3670.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Channel
 https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports",NFL Alt Channel
+http://user.scalecdn.co:8080/live/26725074/92867131/663903.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Red Zone
+http://nonamevos.com:80/live/4500/4500/28074.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",NFL Red Zone Now
 http://user.scalecdn.co:8080/live/26725074/92867131/3671.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Locked on NFL
 https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5a5e6d0c3a5f3ad07b6d4_lockedonsports-nfl-live/playlist.m3u8
@@ -3069,18 +3073,12 @@ https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 http://user.scalecdn.co:8080/live/26725074/92867131/563914.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Ginx.tv
 http://user.scalecdn.co:8080/live/26725074/92867131/88819.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",DAZN
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/392
-#EXTINF:0 tvg-logo="" group-title="Sports",DAZN 1
-http://fl4.moveonjoy.com/DAZN_1/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",DAZN 2
-http://fl4.moveonjoy.com/DAZN_2/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",DAZN Ringside
 https://apollo.production-public.tubi.io/live/dazn-ringside2.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",WSN (Women's Sports Network)
 https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",UFC Channel
-http://fl6.moveonjoy.com/UFC/index.m3u8
+http://user.scalecdn.co:8080/live/26725074/92867131/61769.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",UFC Channel 24/7
 http://kstv.us:8080/live/tH300gvHff/8606073792/47643.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",UFC TV
@@ -3089,8 +3087,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 http://user.scalecdn.co:8080/live/26725074/92867131/687460.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FN (Fight Network)
 http://user.scalecdn.co:8080/live/26725074/92867131/81589.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fight Sports
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1616
 #EXTINF:0 tvg-logo="" group-title="Sports",HBO Boxing by WB
 https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Fite 24/7
@@ -3121,8 +3117,6 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3701.ts
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Impact Plus!
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",AXS-TV Fight Network
-http://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",AXS-TV Fight Network Swerve Combat
 http://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Right Now TV
@@ -3132,15 +3126,11 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Red Bull TV
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/us/en/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MASN
-http://hardcoremedia.xyz:80/BG992263/38692743/141476
+http://hardcoremedia.xyz:80/live/BG992263/38692743/141476.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MASN 2
 http://hardcoremedia.xyz:80/BG992263/38692743/141477
 #EXTINF:0 tvg-logo="" group-title="Sports",Extreme+
 https://d3p1dbb9xrkmd5.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NuestraTV-MuxIP-ExtremePlus/276.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",ESR Gaming Network
-http://eyeonesports.com/ES2RA-628g.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",eSports Network
-http://eyeonesports.com/720/ESR-002SCTE35.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FTF Sports
 https://ssai.gumgum.com/gs/stream/master/For-the-Fans/content.m3u8?stream_url=https%3A%2F%2F1622862207.rsc.cdn77.org%2FHLS%2FFTF_SCTE.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FTF Next Live
@@ -3163,18 +3153,239 @@ https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
 https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",TVS All American
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",TVS Sports
-https://bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports",TVS TeleSports
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",TVS Sports Bureau
-https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",TVS Bowling Network
-https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",TVS Boxing
-https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",TVS Turbo
-https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports",TVS Turbo Network
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",TVS Women Sports
-https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 1
+http://nonamevos.com:80/live/live/4500/4500/13612.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 2
+http://nonamevos.com:80/live/live/4500/4500/82369.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 3
+http://nonamevos.com:80/live/live/4500/4500/100697.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 4
+http://nonamevos.com:80/live/live/4500/4500/80010.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 5
+http://nonamevos.com:80/live/live/4500/4500/58847.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 6
+http://nonamevos.com:80/live/live/4500/4500/64548.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 7
+http://nonamevos.com:80/live/live/4500/4500/42726.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 8
+http://nonamevos.com:80/live/live/4500/4500/6718.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 9
+http://nonamevos.com:80/live/live/4500/4500/49409.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 10
+http://nonamevos.com:80/live/live/4500/4500/73971.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 11
+http://nonamevos.com:80/live/live/4500/4500/86778.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 12
+http://nonamevos.com:80/live/live/4500/4500/86802.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 13
+http://nonamevos.com:80/live/live/4500/4500/80491.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 14
+http://nonamevos.com:80/live/live/4500/4500/12824.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 15
+http://nonamevos.com:80/live/live/4500/4500/38203.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 16
+http://nonamevos.com:80/live/live/4500/4500/87341.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 17
+http://nonamevos.com:80/live/live/4500/4500/18011.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 18
+http://nonamevos.com:80/live/live/4500/4500/74390.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 19
+http://nonamevos.com:80/live/live/4500/4500/2357.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 20
+http://nonamevos.com:80/live/live/4500/4500/70517.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 21
+http://nonamevos.com:80/live/live/4500/4500/11136.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 22
+http://nonamevos.com:80/live/live/4500/4500/37091.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 23
+http://nonamevos.com:80/live/live/4500/4500/83889.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 24
+http://nonamevos.com:80/live/live/4500/4500/24763.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 25
+http://nonamevos.com:80/live/live/4500/4500/111401.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 26
+http://nonamevos.com:80/live/live/4500/4500/12444.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 27
+http://nonamevos.com:80/live/live/4500/4500/81256.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 28
+http://nonamevos.com:80/live/live/4500/4500/81013.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 29
+http://nonamevos.com:80/live/live/4500/4500/96441.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 30
+http://nonamevos.com:80/live/live/4500/4500/95000.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 31
+http://nonamevos.com:80/live/live/4500/4500/93599.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 32
+http://nonamevos.com:80/live/live/4500/4500/80463.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 33
+http://nonamevos.com:80/live/live/4500/4500/97614.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 34
+http://nonamevos.com:80/live/live/4500/4500/72289.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 35
+http://nonamevos.com:80/live/live/4500/4500/72862.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 36
+http://nonamevos.com:80/live/live/4500/4500/63366.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 37
+http://nonamevos.com:80/live/live/4500/4500/22652.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 38
+http://nonamevos.com:80/live/live/4500/4500/26982.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 39
+http://nonamevos.com:80/live/live/4500/4500/49740.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 40
+http://nonamevos.com:80/live/live/4500/4500/19077.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 41
+http://nonamevos.com:80/live/live/4500/4500/85061.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 42
+http://nonamevos.com:80/live/live/4500/4500/19267.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 43
+http://nonamevos.com:80/live/live/4500/4500/88734.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 44
+http://nonamevos.com:80/live/live/4500/4500/13722.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 45
+http://nonamevos.com:80/live/live/4500/4500/48213.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 46
+http://nonamevos.com:80/live/live/4500/4500/6740.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 47
+http://nonamevos.com:80/live/live/4500/4500/61271.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 48
+http://nonamevos.com:80/live/live/4500/4500/52777.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 49
+http://nonamevos.com:80/live/live/4500/4500/23579.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 50
+http://nonamevos.com:80/live/live/4500/4500/9860.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 51
+http://nonamevos.com:80/live/live/4500/4500/70100.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 52
+http://nonamevos.com:80/live/live/4500/4500/25635.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 53
+http://nonamevos.com:80/live/live/4500/4500/67871.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 54
+http://nonamevos.com:80/live/live/4500/4500/25764.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 55
+http://nonamevos.com:80/live/live/4500/4500/13685.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 56
+http://nonamevos.com:80/live/live/4500/4500/10791.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 57
+http://nonamevos.com:80/live/live/4500/4500/44309.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 58
+http://nonamevos.com:80/live/live/4500/4500/31905.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 59
+http://nonamevos.com:80/live/live/4500/4500/82184.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 60
+http://nonamevos.com:80/live/live/4500/4500/49621.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 61
+http://nonamevos.com:80/live/live/4500/4500/74809.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 62
+http://nonamevos.com:80/live/live/4500/4500/62082.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 63
+http://nonamevos.com:80/live/live/4500/4500/60043.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 64
+http://nonamevos.com:80/live/live/4500/4500/39115.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 65
+http://nonamevos.com:80/live/live/4500/4500/29778.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 66
+http://nonamevos.com:80/live/live/4500/4500/55713.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 67
+http://nonamevos.com:80/live/live/4500/4500/76492.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 68
+http://nonamevos.com:80/live/live/4500/4500/111967.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 69
+http://nonamevos.com:80/live/live/4500/4500/62580.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 70
+http://nonamevos.com:80/live/live/4500/4500/67110.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 71
+http://nonamevos.com:80/live/live/4500/4500/93424.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 72
+http://nonamevos.com:80/live/live/4500/4500/51358.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 73
+http://nonamevos.com:80/live/live/4500/4500/20885.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 74
+http://nonamevos.com:80/live/live/4500/4500/85245.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 75
+http://nonamevos.com:80/live/live/4500/4500/83018.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 76
+http://nonamevos.com:80/live/live/4500/4500/20502.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 77
+http://nonamevos.com:80/live/live/4500/4500/53153.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 78
+http://nonamevos.com:80/live/live/4500/4500/19850.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 79
+http://nonamevos.com:80/live/live/4500/4500/87918.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 80
+http://nonamevos.com:80/live/live/4500/4500/88226.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 81
+http://nonamevos.com:80/live/live/4500/4500/34410.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 82
+http://nonamevos.com:80/live/live/4500/4500/420.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 83
+http://nonamevos.com:80/live/live/4500/4500/52668.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 84
+http://nonamevos.com:80/live/live/4500/4500/103174.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 85
+http://nonamevos.com:80/live/live/4500/4500/110879.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 86
+http://nonamevos.com:80/live/live/4500/4500/45965.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 87
+http://nonamevos.com:80/live/live/4500/4500/42004.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 88
+http://nonamevos.com:80/live/live/4500/4500/40607.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 89
+http://nonamevos.com:80/live/live/4500/4500/23116.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 90
+http://nonamevos.com:80/live/live/4500/4500/62583.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 91
+http://nonamevos.com:80/live/live/4500/4500/8012.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 92
+http://nonamevos.com:80/live/live/4500/4500/87048.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 93
+http://nonamevos.com:80/live/live/4500/4500/57348.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 94
+http://nonamevos.com:80/live/live/4500/4500/41100.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 95
+http://nonamevos.com:80/live/live/4500/4500/42071.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 96
+http://nonamevos.com:80/live/live/4500/4500/88801.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 97
+http://nonamevos.com:80/live/live/4500/4500/11502.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 98
+http://nonamevos.com:80/live/live/4500/4500/5769.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 99
+http://nonamevos.com:80/live/live/4500/4500/60573.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 100
+http://nonamevos.com:80/live/live/4500/4500/22042.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 101
+http://nonamevos.com:80/live/live/4500/4500/67981.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 102
+http://nonamevos.com:80/live/live/4500/4500/77365.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 103
+http://nonamevos.com:80/live/live/4500/4500/22580.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 104
+http://nonamevos.com:80/live/live/4500/4500/88640.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 105
+http://nonamevos.com:80/live/live/4500/4500/82651.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 106
+http://nonamevos.com:80/live/live/4500/4500/91074.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 107
+http://nonamevos.com:80/live/live/4500/4500/59101.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 108
+http://nonamevos.com:80/live/live/4500/4500/78196.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 109
+http://nonamevos.com:80/live/live/4500/4500/35709.ts
+#EXTINF:0 tvg-logo="" group-title="ESPN+",ESPN+ 110
+http://nonamevos.com:80/live/live/4500/4500/29518.ts
 
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Arizona Diamondbacks
 http://user.scalecdn.co:8080/live/26725074/92867131/390398.ts
@@ -3420,7 +3631,7 @@ https://moments.videobyte.com/api/livestreaming.m3u8?pid=41D2X70&msid=0001793&ad
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Samuel Goldwyn Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cowboy Movie Channel
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=1740795097&AV_PUBLISHERID=669e9bb2aaf074dd9e077ec4&AVS_SSAIID=6746dc61d1615e1ba20ac5ef
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Film Detective
 https://cineverse.g-mana.live/media/241999a9-fa38-4111-aa00-ee1f3293bca1/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Encore+
@@ -3436,13 +3647,15 @@ https://apollo.production-public.tubi.io/live/cinevault-westerns2-7z47L6.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Maverick Black Cinema
 https://dbrb49pjoymg4.cloudfront.net/10001/99991336/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991336
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",TVS Classic Movies
-https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",TVS Drive In Movie
-https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",TVS Nostalgia Movies
-https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",TVS Action Network
 https://rpn.bozztv.com/gusa/gusa-tvsrarecollectibles/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",TVS Horror
+https://rpn.bozztv.com/gusa/gusa-tvshorror/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Universal Crime
@@ -3657,6 +3870,23 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47719.ts
 #EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Event 26
 http://kstv.us:8080/live/tH300gvHff/8606073792/48375.ts
 
+#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Action 1
+http://nonamevos.com:80/live/4500/4500/111033.ts
+#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Action 3
+http://nonamevos.com:80/live/4500/4500/66135.ts
+#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Action 4
+http://nonamevos.com:80/live/4500/4500/28550.ts
+#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Action 5
+http://nonamevos.com:80/live/4500/4500/109791.ts
+#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Action 7
+http://nonamevos.com:80/live/4500/4500/32636.ts
+#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Action 8
+http://nonamevos.com:80/live/4500/4500/12928.ts
+#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Action 9
+http://nonamevos.com:80/live/4500/4500/84089.ts
+#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Action 10
+http://nonamevos.com:80/live/4500/4500/40242.ts
+
 #EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 01
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34477
 #EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 02
@@ -3757,7 +3987,7 @@ https://apollo.production-public.tubi.io/live/def-jam.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",Nago TV
 https://lakay.online/public/nagotv/index.fmp4.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",TVS Music Network
-https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",LiveXLive
@@ -5919,6 +6149,167 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47821.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47822.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Thriller (UK)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47823.ts
+
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Premiere 1
+http://nonamevos.com:80/live/4500/4500/1131.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Premiere 2
+http://nonamevos.com:80/live/4500/4500/78449.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 1
+http://nonamevos.com:80/live/4500/4500/24334.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 2
+http://nonamevos.com:80/live/4500/4500/93307.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 3
+http://nonamevos.com:80/live/4500/4500/46052.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 4
+http://nonamevos.com:80/live/4500/4500/42022.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 5
+http://nonamevos.com:80/live/4500/4500/74563.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 6
+http://nonamevos.com:80/live/4500/4500/12886.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 7
+http://nonamevos.com:80/live/4500/4500/33883.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 8
+http://nonamevos.com:80/live/4500/4500/56715.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 9
+http://nonamevos.com:80/live/4500/4500/79900.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 10
+http://nonamevos.com:80/live/4500/4500/19811.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series info
+http://nonamevos.com:80/live/4500/4500/32964.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 1
+http://nonamevos.com:80/live/4500/4500/51393.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 2
+http://nonamevos.com:80/live/4500/4500/23125.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 3
+http://nonamevos.com:80/live/4500/4500/85522.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 4
+http://nonamevos.com:80/live/4500/4500/47121.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 5
+http://nonamevos.com:80/live/4500/4500/50275.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 6
+http://nonamevos.com:80/live/4500/4500/17238.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 7
+http://nonamevos.com:80/live/4500/4500/13308.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 8
+http://nonamevos.com:80/live/4500/4500/93975.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 9
+http://nonamevos.com:80/live/4500/4500/7797.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 10
+http://nonamevos.com:80/live/4500/4500/23625.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 11
+http://nonamevos.com:80/live/4500/4500/105630.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 12
+http://nonamevos.com:80/live/4500/4500/75211.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 13
+http://nonamevos.com:80/live/4500/4500/102989.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere info
+http://nonamevos.com:80/live/4500/4500/52539.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 1
+http://nonamevos.com:80/live/4500/4500/103884.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 2
+http://nonamevos.com:80/live/4500/4500/1069.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 3
+http://nonamevos.com:80/live/4500/4500/39474.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 4
+http://nonamevos.com:80/live/4500/4500/100270.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 5
+http://nonamevos.com:80/live/4500/4500/8720.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 6
+http://nonamevos.com:80/live/4500/4500/34887.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 7
+http://nonamevos.com:80/live/4500/4500/25266.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 8
+http://nonamevos.com:80/live/4500/4500/76028.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 9
+http://nonamevos.com:80/live/4500/4500/23570.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 10
+http://nonamevos.com:80/live/4500/4500/58056.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series info
+http://nonamevos.com:80/live/4500/4500/66715.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 1
+http://nonamevos.com:80/live/4500/4500/110274.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 2
+http://nonamevos.com:80/live/4500/4500/21371.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 3
+http://nonamevos.com:80/live/4500/4500/87593.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 4
+http://nonamevos.com:80/live/4500/4500/84096.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 5
+http://nonamevos.com:80/live/4500/4500/23583.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 6
+http://nonamevos.com:80/live/4500/4500/99621.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 7
+http://nonamevos.com:80/live/4500/4500/14881.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 8
+http://nonamevos.com:80/live/4500/4500/23754.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 9
+http://nonamevos.com:80/live/4500/4500/27582.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 10
+http://nonamevos.com:80/live/4500/4500/13432.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie info
+http://nonamevos.com:80/live/4500/4500/87285.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store info
+http://nonamevos.com:80/live/4500/4500/63108.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 1
+http://nonamevos.com:80/live/4500/4500/100475.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 2
+http://nonamevos.com:80/live/4500/4500/6824.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 3
+http://nonamevos.com:80/live/4500/4500/111522.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 4
+http://nonamevos.com:80/live/4500/4500/86874.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 5
+http://nonamevos.com:80/live/4500/4500/106824.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 6
+http://nonamevos.com:80/live/4500/4500/35697.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 7
+http://nonamevos.com:80/live/4500/4500/37842.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 8
+http://nonamevos.com:80/live/4500/4500/12024.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 9
+http://nonamevos.com:80/live/4500/4500/78241.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 10
+http://nonamevos.com:80/live/4500/4500/53800.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 11
+http://nonamevos.com:80/live/4500/4500/56475.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 12
+http://nonamevos.com:80/live/4500/4500/60839.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 13
+http://nonamevos.com:80/live/4500/4500/13486.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 14
+http://nonamevos.com:80/live/4500/4500/29031.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 15
+http://nonamevos.com:80/live/4500/4500/57410.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 16
+http://nonamevos.com:80/live/4500/4500/85496.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 17
+http://nonamevos.com:80/live/4500/4500/61762.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 18
+http://nonamevos.com:80/live/4500/4500/78364.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 19
+http://nonamevos.com:80/live/4500/4500/15530.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 20
+http://nonamevos.com:80/live/4500/4500/41157.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 21
+http://nonamevos.com:80/live/4500/4500/106924.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 22
+http://nonamevos.com:80/live/4500/4500/61752.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 23
+http://nonamevos.com:80/live/4500/4500/112532.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 24
+http://nonamevos.com:80/live/4500/4500/111627.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 25
+http://nonamevos.com:80/live/4500/4500/19065.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 26
+http://nonamevos.com:80/live/4500/4500/72138.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 27
+http://nonamevos.com:80/live/4500/4500/19973.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 28
+http://nonamevos.com:80/live/4500/4500/97421.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 29
+http://nonamevos.com:80/live/4500/4500/3730.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 30
+http://nonamevos.com:80/live/4500/4500/100385.ts
 
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
 http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/150991
