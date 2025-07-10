@@ -4672,7 +4672,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47882.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47879.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Kidz Only!
 http://kstv.us:8080/live/tH300gvHff/8606073792/47883.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC | (Music Choice Videos) Tropicales
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Tropicales
 http://kstv.us:8080/live/tH300gvHff/8606073792/47901.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop Latino
 http://kstv.us:8080/live/tH300gvHff/8606073792/47891.ts
@@ -4680,7 +4680,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47891.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47888.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Mexicana
 http://kstv.us:8080/live/tH300gvHff/8606073792/47886.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC | (Music Choice Videos) Today's Country
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Today's Country
 http://kstv.us:8080/live/tH300gvHff/8606073792/47899.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop & Country
 http://kstv.us:8080/live/tH300gvHff/8606073792/47889.ts
@@ -4700,13 +4700,13 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47898.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47881.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Teen Beats
 http://kstv.us:8080/live/tH300gvHff/8606073792/47897.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC | (Music Choice Videos) Toddler Tunes
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Toddler Tunes
 http://kstv.us:8080/live/tH300gvHff/8606073792/47900.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | 80's
 http://kstv.us:8080/live/tH300gvHff/8606073792/47875.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | 90's
 http://kstv.us:8080/live/tH300gvHff/8606073792/47876.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC | (Music Choice Videos) Y2K
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Y2K
 http://kstv.us:8080/live/tH300gvHff/8606073792/47902.ts
 
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Galavisión
@@ -4714,7 +4714,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/23307.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",NBC Universo
 http://kstv.us:8080/live/tH300gvHff/8606073792/23281.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo Internacional
-http://tv.nstvlatino.com:8080/;ive/Mitv2462/I8G5FfZBMw/43189.ts
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/43189.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo Al Día
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo Acción
