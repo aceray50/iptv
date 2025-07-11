@@ -8,7 +8,7 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/117093.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KABC-TV ABC 7 (Los Angeles CA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48784.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels (Not 24/7)",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
-http://kstv.us:8080/live/tH300gvHff/8606073792/48786.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9864.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTTV-TV FOX 11 (Los Angeles CA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48788.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
@@ -85,6 +85,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48916.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48913.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WSBK-TV Ind. 38 (Boston MA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48914.ts
+#EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WLVI-TV CW 56 (Boston MA)
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183053.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KDKA-TV CBS 2 (Pittsburgh PA)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49060.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTAE-TV ABC 4 (Pittsburgh PA)
@@ -412,7 +414,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/49090.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WZTV-TV FOX 17.1 (Nashville TN)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49092.ts
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WZTV-DT CW 17.2 (Nashville TN)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183472
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183472.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WUXP-TV MyNetworkTV 30 (Nashville TN)
 http://kstv.us:8080/live/tH300gvHff/8606073792/49093.ts
 #EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",WNAB-TV CW 58 (Nashville TN)
@@ -901,13 +903,13 @@ https://world.lls.pbs.org/index_1080p.m3u8
 #EXTINF:0 tvg-logo="https://lptv.org/wp-content/uploads/2015/03/fnx-logo.png" group-title="Local Public Broadcast",FNX
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WVIZ-TV PBS 25.1 (Cleveland OH)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/243548.ts
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/182660.ts
 #EXTINF:0 tvg-logo="" group-title="Local Public Broadcast",WVIZ-DT 25.2 The Ohio Channel (Cleveland OH)
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8?player_version=1.18.0
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WOSU-TV PBS 34 (Columbus OH)
 http://user.scalecdn.co:8080/live/26725074/92867131/446782.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WCET-TV CET PBS 48 (Cincinnati OH)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183309
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183309.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTVS-TV PBS 56.1 (Detroit MI)
 http://user.scalecdn.co:8080/live/26725074/92867131/88066.ts
 #EXTINF:0 tvg-logo="" group-title="Local Public Broadcast",WTVS-DT 56.6 Michigan Learning Channel (Detroit MI)
@@ -921,9 +923,9 @@ https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETC-TV Nine PBS 9 (St. Louis MO)
 http://user.scalecdn.co:8080/live/26725074/92867131/470333.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETS-TV PBS 2 (Little Rock AR)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183330
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183330.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KTWU-TV PBS 11 (Topeka KS)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183198
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183198.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKLE-TV KET PBS 46.1 (Lexington KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",WKLE-DT KET 2 Create 46.2 (Lexington KY)
@@ -935,11 +937,11 @@ http://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKMJ-DT KET World 68.4 (Louisville KY)
 http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLVX-TV PBS 10 (Las Vegas NV)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183582
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183582.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KNPB-TV PBS 5 (Reno NV)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/243539.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLCS-TV PBS 58 (Los Angeles CA)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183583
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183583.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)
 http://user.scalecdn.co:8080/live/26725074/92867131/597149.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNET-TV PBS 13 (New York NY)
@@ -969,11 +971,11 @@ http://2-fss-2.streamhoster.com/pl_138/amlst%3a201814-1291584/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMPT-TV MPT PBS 22 (Annapolis MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WGBH-TV GBH PBS 2 (Boston MA)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183569
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183569.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WPBT-TV South Florida PBS 2 (Miami FL)
 http://user.scalecdn.co:8080/live/26725074/92867131/79523.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WLRN-TV PBS 17 (Miami FL)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183584
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183584.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WUCF-TV PBS 24 (Orlando FL)
 http://user.scalecdn.co:8080/live/26725074/92867131/470363.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WJCT-TV JAX PBS 9 (Jacksonville FL)
@@ -981,17 +983,17 @@ http://user.scalecdn.co:8080/live/26725074/92867131/470365.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WEDU-TV PBS 3 (Tampa Bay FL)
 http://user.scalecdn.co:8080/live/26725074/92867131/446803.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WABE-TV PBS 30 (Atlanta GA)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183567
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183567.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTVI-TV PBS 42 (Charlotte NC)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183573
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183573.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KAET-TV Arizona PBS 8 (Phoenix AZ)
 http://user.scalecdn.co:8080/live/26725074/92867131/446800.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLRN-TV PBS 9 (San Antonio TX)
 http://user.scalecdn.co:8080/live/26725074/92867131/470293.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KERA-TV PBS 13 (Ft. Worth/Dallas TX)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183574
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183574.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KPBS-TV PBS 15 (San Diego CA)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183329
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183329.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KQED-TV PBS 9 (San Francisco CA)
 http://user.scalecdn.co:8080/live/26725074/92867131/446801.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVIE-TV PBS 6 (Sacramento CA)
@@ -1003,7 +1005,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/597138.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KSPS-TV PBS 7 (Spokane WA)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216622
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KCTS-TV Cascade PBS 9 (Seattle WA)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183593
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183593.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WQED-TV PBS 13 (Pittsburgh PA)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/243553.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WHYY-TV PBS 12 (Philadelphia PA)
@@ -1013,9 +1015,9 @@ http://user.scalecdn.co:8080/live/26725074/92867131/470303.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KBDI-TV PBS 12 (Denver CO)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/243520.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMVS-TV & WMVT-TV PBS 10/36 (Milwaukee WI)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183585
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183585.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KDIN-TV Iowa PBS 11 (Des Moines IA)
-http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183588
+http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183588.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KHET-TV/KMEB-TV Hawai'i PBS 11/10 (Honolulu HI)
 http://user.scalecdn.co:8080/26725074/92867131/629651
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (West)
@@ -3455,7 +3457,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/2491.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO 2 (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/553461.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO 2 (East)
-http://user.scalecdn.co:8080/live/26725074/92867131/3656.ts
+http://kstv.us:8080/live/tH300gvHff/8606073792/48332.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Signature (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631878.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Signature (East)
@@ -3473,7 +3475,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/631874.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Family (East)
 http://kstv.us:8080/live/tH300gvHff/8606073792/23301.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax (West)
-http://user.scalecdn.co:8080/live/26725074/92867131/3825.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129983.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax (East)
 http://kstv.us:8080/live/tH300gvHff/8606073792/15921.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",More Max (West)
@@ -3495,7 +3497,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/81383.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Action Max (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/51557.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (West)
-http://user.scalecdn.co:8080/live/26725074/92867131/3840.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129997.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/3758.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime 2 (West)
@@ -3505,7 +3507,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/631912.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Extreme (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631884.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Extreme (East)
-http://kstv.us:8080/live/tH300gvHff/8606073792/23257.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129999.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Next (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631889.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Next (East)
@@ -3513,7 +3515,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/648985.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase) (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631890.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase) (East)
-http://user.scalecdn.co:8080/live/26725074/92867131/3966.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129998.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Women (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631886.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Women (East)
@@ -3521,11 +3523,11 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3971.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Family Zone (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631918.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Family Zone (East)
-http://kstv.us:8080/live/tH300gvHff/8606073792/23256.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130000.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET) (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631888.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET) (East)
-http://kstv.us:8080/live/tH300gvHff/8606073792/48365.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130016.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Movie Channel (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/605741.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Movie Channel (East)
@@ -3534,12 +3536,14 @@ http://user.scalecdn.co:8080/live/26725074/92867131/527261.ts
 http://user.scalecdn.co:8080/live/26725074/92867131/605742.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Movie Channel Xtra (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/527262.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz
-http://user.scalecdn.co:8080/live/26725074/92867131/3964.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz (West)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130005.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz (East)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130004.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Cinema (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631879.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Cinema (East)
-http://user.scalecdn.co:8080/live/26725074/92867131/3960.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130003.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Comedy (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631883.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Comedy (East)
@@ -3547,28 +3551,38 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3959.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz In Black (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/649402.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz In Black (East)
-http://user.scalecdn.co:8080/live/26725074/92867131/3962.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130008.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Edge (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631882.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Edge (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/3961.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Kids & Family (West)
-http://user.scalecdn.co:8080/live/26725074/92867131/649403.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130049.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Kids & Family (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/3956.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore
-http://kstv.us:8080/live/tH300gvHff/8606073792/49164.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Classic
-http://kstv.us:8080/live/tH300gvHff/8606073792/48360.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense
-http://user.scalecdn.co:8080/live/26725074/92867131/3958.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130060.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Classic (West)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130044.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Classic (East)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130010.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense (West)
+http://hardcoremedia.xyz:80/BG992263/38692743/130046
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense (East)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130012.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Action
-http://user.scalecdn.co:8080/live/26725074/92867131/3952.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130009.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns (West)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130047.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/3955.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Black
-http://user.scalecdn.co:8080/live/26725074/92867131/3954.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Family
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Black (West)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130043.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Black (East)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130062.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Family (West)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130045.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Family (East)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48361.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/635603.ts
@@ -3579,15 +3593,19 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3724.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ Drive-In
 http://user.scalecdn.co:8080/live/26725074/92867131/4431.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
-http://user.scalecdn.co:8080/live/26725074/92867131/4430.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",MoviePlex
-http://user.scalecdn.co:8080/live/26725074/92867131/93060.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",IndiePlex
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129989.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",MoviePlex (West)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130037.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",MoviePlex (East)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130058.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",IndiePlex (West)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130036.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",IndiePlex (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/93059.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",RetroPlex (West)
-http://user.scalecdn.co:8080/live/26725074/92867131/74686.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130038.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",RetroPlex (East)
-http://user.scalecdn.co:8080/live/26725074/92867131/74685.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130014.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Sony Movie Channel
 http://user.scalecdn.co:8080/live/26725074/92867131/2412.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HDNET Movies
