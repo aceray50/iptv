@@ -1693,8 +1693,6 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 http://user.scalecdn.co:8080/live/26725074/92867131/647750.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Latin Hola TV
 http://103.111.40.242:9999/play/a03z/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",WSBS-TV Mega TV 22 (Key West FL)
-http://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Mega TV
 http://hardcoremedia.xyz:80/live/BG992263/38692743/135375.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",KDOC-TV 56.5 Majestad Televisión
@@ -2920,9 +2918,9 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47475.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sports
 http://user.scalecdn.co:8080/live/26725074/92867131/649400.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum SportsNet LA
-http://user.scalecdn.co:8080/live/26725074/92867131/74683.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/141497.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sportsnet Lakers
-http://user.scalecdn.co:8080/live/26725074/92867131/74684.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/141498.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sportsnet OC16
 http://user.scalecdn.co:8080/live/26725074/92867131/649399.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Root Sports
@@ -3499,9 +3497,9 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3840.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/3758.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime 2 (West)
-http://user.scalecdn.co:8080/live/26725074/92867131/631912.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130021.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime 2 (East)
-http://user.scalecdn.co:8080/live/26725074/92867131/3965.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/631912.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Extreme (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631884.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Extreme (East)
