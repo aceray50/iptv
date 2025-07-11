@@ -1606,29 +1606,29 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334559
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUVS-TV Univision 19 (Modesto/Sacramento CA)
 http://user.scalecdn.co:8080/live/26725074/92867131/50949.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFK-DT UniMás 64 (Sacramento CA)
-http://hardcoremedia.xyz:80/BG992263/38692743/135416
+http://hardcoremedia.xyz:80/live/BG992263/38692743/135416.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WQHS-TV Univision 61.1 (Cleveland OH)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10597
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WQHS-DT UniMás 61.2 (Cleveland OH)
-http://hardcoremedia.xyz:80/BG992263/38692743/135406
+http://hardcoremedia.xyz:80/live/BG992263/38692743/135406.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNEU-TV Telemundo 60 (Boston MA)
 http://user.scalecdn.co:8080/live/26725074/92867131/629801.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WFPA-DT UniMás 28 (Philadelphia PA)
-http://hardcoremedia.xyz:80/BG992263/38692743/135413
+http://hardcoremedia.xyz:80/live/BG992263/38692743/135413.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WUVP-TV Univision 65 (Philadelphia PA)
-http://hardcoremedia.xyz:80/BG992263/38692743/135435
+http://hardcoremedia.xyz:80/live/BG992263/38692743/135435.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WWSI-TV Telemundo 62 (Philadelphia PA)
 http://user.scalecdn.co:8080/live/26725074/92867131/3878.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WZDC-CD Telemundo 44 (Washington DC)
 http://user.scalecdn.co:8080/live/26725074/92867131/89879.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KELV-TV UniMás 27 (Las Vegas NV)
-http://hardcoremedia.xyz:80/BG992263/38692743/135410
+http://hardcoremedia.xyz:80/live//BG992263/38692743/135410.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KBLR-TV Telemundo 39 (Las Vegas NV)
 http://user.scalecdn.co:8080/live/26725074/92867131/89702.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KNIC-TV UniMás 17 (San Antonio TX)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334557
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KWEX-TV Univision 41 (San Antonio TX)
-http://hardcoremedia.xyz:80/BG992263/38692743/135440
+http://hardcoremedia.xyz:80/live/BG992263/38692743/135440.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KDVA-TV Telemundo 60 (San Antonio TX)
 http://user.scalecdn.co:8080/live/26725074/92867131/2390.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUVN-TV Univision 23 (Ft. Worth/Dallas TX)
@@ -1642,11 +1642,11 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTMD-TV Telemundo 47 (Houston TX)
 http://user.scalecdn.co:8080/live/26725074/92867131/2396.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTH-DT UniMás 67 (Houston TX)
-http://hardcoremedia.xyz:80/BG992263/38692743/135409
+http://hardcoremedia.xyz:80/live/BG992263/38692743/135409.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFO-CD UniMás 31 (Austin TX)
-http://hardcoremedia.xyz:80/BG992263/38692743/135404
+http://hardcoremedia.xyz:80/live/BG992263/38692743/135404.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KAKW-TV Univision 62 (Austin TX)
-http://hardcoremedia.xyz:80/BG992263/38692743/135423
+http://hardcoremedia.xyz:80/live/BG992263/38692743/135423.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KXTQ-TV Telemundo 46 (Lubbock TX)
 http://user.scalecdn.co:8080/live/26725074/92867131/50926.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KTVW-TV Univision 33 (Phoenix AZ)
@@ -1654,7 +1654,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/50951.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTAZ-TV Telemundo 39 (Phoenix AZ)
 http://user.scalecdn.co:8080/live/26725074/92867131/89419.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUTH-TV Univision 32 (Salt Lake City UT)
-http://hardcoremedia.xyz:80/BG992263/38692743/135439
+http://hardcoremedia.xyz:80/live/BG992263/38692743/135439.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KUAN-TV Telemundo 20 (San Diego CA)
 http://user.scalecdn.co:8080/live/26725074/92867131/89446.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KUNA-CD Telemundo 15 (Palm Springs CA)
@@ -1666,7 +1666,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/89509.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WUVG-TV Univision 34.1 (Atlanta GA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WUVG-DT UniMás 34.2 (Atlanta GA)
-http://hardcoremedia.xyz:80/BG992263/38692743/135403
+http://hardcoremedia.xyz:80/live/BG992263/38692743/135403.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WKAQ-TV Telemundo 2.1 (San Juan PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0 tvg-logo="https://dishcaribbean.com/img/upload/punto2-color-logo.png" group-title="Latino (Spanish)",WKAQ-DT Punto 2 2.2 (San Juan PR)
@@ -1803,7 +1803,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 #EXTINF:0 tvg-logo="" group-title="Documentary",History Channel
 http://kstv.us:8080/live/tH300gvHff/8606073792/22515.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",H2 (History Channel 2)
-http://hardcoremedia.xyz:80/BG992263/38692743/129708
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129708.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",Military History
 http://user.scalecdn.co:8080/live/26725074/92867131/470622.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",National Geographic
@@ -2710,7 +2710,7 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 #EXTINF:0 tvg-logo="" group-title="Religious",CBN Family
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",Daystar Television Network
-http://hardcoremedia.xyz:80/BG992263/38692743/129673
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129673.ts
 #EXTINF:0 tvg-logo="" group-title="Religious",3ABN
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",3ABN Proclaim!
@@ -3130,7 +3130,7 @@ https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/us
 #EXTINF:0 tvg-logo="" group-title="Sports",MASN
 http://hardcoremedia.xyz:80/live/BG992263/38692743/141476.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MASN 2
-http://hardcoremedia.xyz:80/BG992263/38692743/141477
+http://hardcoremedia.xyz:80/live/BG992263/38692743/141477.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Extreme+
 https://d3p1dbb9xrkmd5.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NuestraTV-MuxIP-ExtremePlus/276.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FTF Sports
@@ -3567,7 +3567,7 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/130044.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Classic (East)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/130010.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense (West)
-http://hardcoremedia.xyz:80/BG992263/38692743/130046
+http://hardcoremedia.xyz:80/live/BG992263/38692743/130046.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense (East)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/130012.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Action
@@ -3795,45 +3795,45 @@ http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552036&extensi
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",ScreenPix Westerns
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552034&extension=ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Action
-http://hardcoremedia.xyz:80/BG992263/38692743/254181
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254181.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Animation
-http://hardcoremedia.xyz:80/BG992263/38692743/256028
+http://hardcoremedia.xyz:80/live//BG992263/38692743/256028.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Blockbusters
-http://hardcoremedia.xyz:80/BG992263/38692743/256029
+http://hardcoremedia.xyz:80/live//BG992263/38692743/256029.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Classic
-http://hardcoremedia.xyz:80/BG992263/38692743/254164
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254164.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Comedy
-http://hardcoremedia.xyz:80/BG992263/38692743/256031
+http://hardcoremedia.xyz:80/live//BG992263/38692743/256031.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Cult
-http://hardcoremedia.xyz:80/BG992263/38692743/254166
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254166.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Family
-http://hardcoremedia.xyz:80/BG992263/38692743/254167
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254167.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Greats
-http://hardcoremedia.xyz:80/BG992263/38692743/254168
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254168.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Greats 2
-http://hardcoremedia.xyz:80/BG992263/38692743/254169
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254169.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Historical
-http://hardcoremedia.xyz:80/BG992263/38692743/256036
+http://hardcoremedia.xyz:80/live//BG992263/38692743/256036.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Hits
-http://hardcoremedia.xyz:80/BG992263/38692743/254178
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254178.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Horror
-http://hardcoremedia.xyz:80/BG992263/38692743/254171
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254171.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Musical
-http://hardcoremedia.xyz:80/BG992263/38692743/256038
+http://hardcoremedia.xyz:80/live//BG992263/38692743/256038.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Mystery
-http://hardcoremedia.xyz:80/BG992263/38692743/254173
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254173.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Premier
-http://hardcoremedia.xyz:80/BG992263/38692743/254174
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254174.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Romance
-http://hardcoremedia.xyz:80/BG992263/38692743/256041
+http://hardcoremedia.xyz:80/live//BG992263/38692743/256041.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Sci-Fi
-http://hardcoremedia.xyz:80/BG992263/38692743/254176
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254176.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Thriller
-http://hardcoremedia.xyz:80/BG992263/38692743/254179
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254179.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | War
-http://hardcoremedia.xyz:80/BG992263/38692743/254180
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254180.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Western
-http://hardcoremedia.xyz:80/BG992263/38692743/254177
+http://hardcoremedia.xyz:80/live//BG992263/38692743/254177.ts
 
 #EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Event 1
 http://kstv.us:8080/live/tH300gvHff/8606073792/47695.ts
@@ -4826,7 +4826,7 @@ https://4972c88f2f4c48bf9a9a5f4fd3623cbd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",AMC en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46529.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",SYFY en Español
-http://hardcoremedia.xyz:80/BG992263/38692743/129254
+http://hardcoremedia.xyz:80/live//BG992263/38692743/129254.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",WB TV en Español
 http://103.111.40.242:9999/play/a02o/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Channel en Español
@@ -4902,7 +4902,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46583.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Home and Health en Español
 http://103.111.40.242:9999/play/a03n/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Familia
-http://hardcoremedia.xyz:80/BG992263/38692743/135341
+http://hardcoremedia.xyz:80/live//BG992263/38692743/135341.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Theater en Español
 http://103.111.40.242:9999/play/a03m/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery World en Español
@@ -4932,7 +4932,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/46588.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Sundance en Español
 http://kstv.us:8080/live/tH300gvHff/8606073792/46676.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Garage TV en Español
-http://hardcoremedia.xyz:80/BG992263/38692743/253208
+http://hardcoremedia.xyz:80/live//BG992263/38692743/253208.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HGTV en Español
@@ -5012,7 +5012,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Teleamazonas
 http://181.188.234.21:8000/play/a04t/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Unicable
-http://hardcoremedia.xyz:80/BG992263/38692743/253257
+http://hardcoremedia.xyz:80/live//BG992263/38692743/253257.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Latin Zone
@@ -5028,13 +5028,13 @@ http://103.111.40.242:9999/play/a02j/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Univision TL Novelas
-http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/1090591.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/20033.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas 1 (México)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48364.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas 2 (México)
 http://103.111.40.242:9999/play/a026/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telenovelas (México)
-http://hardcoremedia.xyz:80/BG992263/38692743/253250
+http://hardcoremedia.xyz:80/live//BG992263/38692743/253250.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d5d9e-7b2e-11ef-9e52-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3879f173-1091-4b31-a197-b44138458061&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Novelas Channel
@@ -5294,7 +5294,7 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CTV Internacional
 https://mediacp.us:8081/ctvhn/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Multimedios
-http://hardcoremedia.xyz:80/BG992263/38692743/253262
+http://hardcoremedia.xyz:80/live//BG992263/38692743/253262.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telediario (Spain)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telediario Canal 6
@@ -5308,15 +5308,15 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Milenio
 http://kstv.us:8080/live/tH300gvHff/8606073792/46960.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
-http://kstv.us:8080/live/tH300gvHff/8606073792/46948.ts
+http://kstv.us:8080/live/tH300gvHff/8606073792/46949.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Media
-http://hardcoremedia.xyz:80/BG992263/38692743/257684
+http://hardcoremedia.xyz:80/live/BG992263/38692743/257684.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ADN 40
 https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",24h Noticias
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_P511PDS00161521.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",NTN24
-http://hardcoremedia.xyz:80/BG992263/38692743/249565
+http://hardcoremedia.xyz:80/live/BG992263/38692743/249565.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TN Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CNÑ en Español
@@ -5402,7 +5402,7 @@ http://179.61.31.142:8000/play/a0h9/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 7 en Español
 http://181.188.234.21:8000/play/a045
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Wapa Deportes
-http://hardcoremedia.xyz:80/BG992263/38692743/3115
+http://hardcoremedia.xyz:80/live/BG992263/38692743/3115.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Lucha Libre AAA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d5e2a-7b2e-11ef-9cb3-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f25e2041-12d2-4c2a-b102-39f6685f2b9c&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FUTV
@@ -5610,118 +5610,128 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/40768.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/40770.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",The Weather Network (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40658.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Family (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40714.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Family Jr. (Canada) 
-http://kstv.us:8080/live/tH300gvHff/8606073792/40713.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Family (Canada) (West)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127999.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Family (Canada) (East)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128049.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Family Jr. (Canada)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128050.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Nickelodeon (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3052.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127928.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Treehouse (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40652.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128096.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",YTV (West) (Canada)
 http://user.scalecdn.co:8080/live/26725074/92867131/647755.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",YTV (East) (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40663.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128100.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",WildBrain TV (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40605.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127974.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TVO Kids (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40644.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Disney Channel (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40725.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127888.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Disney Channel French (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40724.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Disney XD (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3112.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128048.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Disney Jr. (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40723.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127889.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Cartoon Network (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40763.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128033.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Boomerang by Cartoon Network (Canada)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127982.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Télétoon French (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40604.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TFO French (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40659.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Adult Swim (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3077.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128029.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Much (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40676.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127924.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",APTN (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40774.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",USA Network (Canada)
-http://hardcoremedia.xyz:80/BG992263/38692743/256986
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127887.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",A&E (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3141.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127854.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",ABC Spark (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40781.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127855.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Dejaview (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40728.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127883.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",AMC (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40776.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127857.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Vision (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40672.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127971.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Home Network (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57273
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127910.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Magnolia Network (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40722.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Wild (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40775.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127861.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Speed
-http://user.scalecdn.co:8080/live/26725074/92867131/59878.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127886.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",National Geographic (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40674.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128077.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",National Geographic Wild (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/48380.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127926.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",History Channel (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3099.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127912.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",H2 (History Channel 2) (Canada)
 http://user.scalecdn.co:8080/live/26725074/92867131/3281.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Historia (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40694.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127984.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",AHC (American Heroes Channel) (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40777.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",BBC Earth (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/88022.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128032.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",WILD TV (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40667.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127975.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Love Nature (Canada)
-http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127920.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Nature
-http://kstv.us:8080/live/tH300gvHff/8606073792/40726.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127885.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Documentary (Canada)
 http://user.scalecdn.co:8080/live/26725074/92867131/93115.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Oxygen True Crime (Canada)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57442
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127918.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Crime & Investigation (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40737.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127867.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TV Ontario (Canada)
 http://user.scalecdn.co:8080/live/26725074/92867131/3152.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",W Network (Canada)
-http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",W Network (Canada) (West)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127992.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",W Network (Canada) (East)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127972.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",YES TV (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40665.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Super Channel Fuse (Canada)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128091.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Super Channel Quest (Canada)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127947.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Super Channel Heart & Home (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/88024.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128092.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Silver Screen (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40623.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128013.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Travel Escape (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40580.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",HPItv East (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/173131
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Drama Channel (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40766.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127866.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Life Channel (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3280.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127906.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Sci-Fi Channel (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3060.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127945.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Makeful (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40597.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128009.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",(ZH) NTD (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58023
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",NTV St. John`s (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57478
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Bravo (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3089.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128031.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Lifetime (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40684.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128073.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Lifetime Movie Network (Canada)
 http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57444
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",OMNI (Canada)
@@ -5731,69 +5741,73 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/40640.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",OWN (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40635.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Peachtree TV (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3084.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127989.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Showcase (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40624.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128082.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Slice TV (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40622.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127934.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TLC (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40657.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127952.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Smithsonian Channel (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40621.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127935.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CHCH (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40754.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CMT (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40750.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Cottage Life (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40741.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127877.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CP24 (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40740.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",CPAC (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40739.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",CPAC English (Canada)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127878.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",CPAC French (Canada)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127879.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",ZESTE French (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40660.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Z-TELE French (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40661.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Z-Télé French (Canada)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127983.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Canal Vie French (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40673.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",PRISE 2 (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40631.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",DTOUR (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40720.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127892.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",E! (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40719.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127893.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Comedy (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40746.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127876.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Flavour Network (Canada)
 http://user.scalecdn.co:8080/live/26725074/92867131/3080.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",The Cooking Channel (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40743.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",FX (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/48378.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",FXX (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/48379.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127979.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",FXX (West) (Canada)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127980.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",FXX (East) (Canada)
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127902.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TCM (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40608.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127950.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Daystar Television Network (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40729.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Game Show Network (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40700.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Game TV (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40704.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127903.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",3ABN (Canada)
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSC (The Shopping Channel) (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3075.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127959.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 1 (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40651.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127960.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 2 (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40650.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127961.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 3 (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40649.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127962.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 4 (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/22518.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127963.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 5 (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40647.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127964.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN The Ocho (Canada)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",beIN Sports 1 (Canada)
@@ -5837,21 +5851,15 @@ http://user.scalecdn.co:8080/live/26725074/92867131/659509.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",NBC Golf Channel (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40701.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",HBO (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40697.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128072.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",HBO 2 (Canada)
-http://kstv.us:8080/live/tH300gvHff/8606073792/40696.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128071.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Starz (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3205.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128084.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Starz 2 (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3206.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/128083.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Movietime (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/3056.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Super Channel Fuse (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/59851.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Super Channel Heart & Home (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/88024.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Super Channel Vault (Canada)
-http://user.scalecdn.co:8080/live/26725074/92867131/88026.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/127921.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Crave 1 (Canada)
 http://kstv.us:8080/live/tH300gvHff/8606073792/40656.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Crave 2 (Canada)
@@ -5902,7 +5910,7 @@ http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12169
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Channel 5 Action (UK)
 http://lunar.pm:8080/mrjayp/Spectrum2/110305
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Channel 5 Select (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/241940
+http://hardcoremedia.xyz:80/live/BG992263/38692743/241940.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Virgin Media One (UK)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47843.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Virgin Media Two (UK)
@@ -6078,9 +6086,9 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47860.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Willow Sports (UK)
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Willow Cricket (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/257331
+http://hardcoremedia.xyz:80/live/BG992263/38692743/257331.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Willow Cricket Xtra (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/141506
+http://hardcoremedia.xyz:80/live/BG992263/38692743/141506.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Willow Sports (Austrailia)
 https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",GOL TV (UK)
@@ -6124,9 +6132,9 @@ https://donelfantastic.github.io/live/skysportsNz7.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sport 9 (UK)
 https://donelfantastic.github.io/live/skysportsNz9.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",EuroSports 1 (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/2250
+http://hardcoremedia.xyz:80/live/BG992263/38692743/2250.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",EuroSports 2 (UK)
-http://hardcoremedia.xyz:80/BG992263/38692743/2251
+http://hardcoremedia.xyz:80/live/BG992263/38692743/2251.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",TNT Sports Ultimate 4K (UK)
 https://a1xs.vip/2000031
 #EXTINF:0 tvg-logo="" group-title="UK Channels",TNT Sports 1 (UK)
