@@ -2671,11 +2671,13 @@ https://linear-744.frequency.stream/dist/dice/744/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Dove Channel
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Adventures
-http://hardcoremedia.xyz:80/BG992263/38692743/256729
-#EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Family
-http://user.scalecdn.co:8080/live/26725074/92867131/84929.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/256729.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Faith & Living
 http://kstv.us:8080/live/tH300gvHff/8606073792/48243.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Family
+http://user.scalecdn.co:8080/live/26725074/92867131/84929.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Pure Flix TV
+http://hardcoremedia.xyz:80/live/BG992263/38692743/257231.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Holiday Plus
