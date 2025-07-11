@@ -2091,15 +2091,15 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids #2
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon (West)
-http://user.scalecdn.co:8080/live/26725074/92867131/631831.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/20876.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon (East)
-https://a1xs.vip/300030
+http://thevdm.xyz:25461/live/timmadden/timmad4765/20877.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd630-7b2e-11ef-a94e-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebbf33a-e8f6-4c9f-91cc-df503deed9e8&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (West)
-http://user.scalecdn.co:8080/live/26725074/92867131/631832.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/20875.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (East)
-http://kstv.us:8080/live/tH300gvHff/8606073792/23276.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/20874.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nicktoons (West)
@@ -2279,7 +2279,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/23286.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV U
 http://user.scalecdn.co:8080/live/26725074/92867131/57971.ts
 #EXTINF:0 tvg-logo="" group-title="LGBT",Logo
-http://user.scalecdn.co:8080/live/26725074/92867131/88970.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/31438.ts
 #EXTINF:0 tvg-logo="" group-title="LGBT",Logo (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a9a-7b2e-11ef-8b51-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bbba5747-a534-474e-b169-1d3ce211896e&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",OUTtv Proud
@@ -2457,7 +2457,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Network (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631839.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Network (East)
-http://nonamevos.com:80/live/4500/4500/81940.ts
+http://thevdm.xyz:25461/live/timmadden/timmad4765/31452.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount+ Picks (Pluto TV)
@@ -5668,7 +5668,7 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/127910.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/40722.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Wild (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/127861.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Speed
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Speed (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/127886.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",National Geographic (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/128077.ts
