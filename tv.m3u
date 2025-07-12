@@ -279,9 +279,13 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48797.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48795.ts
 #EXTINF:0 tvg-logo="" group-title="Local Channels (Not 24/7)",KUSI-TV Ind. 51 (San Diego CA)
 http://user.scalecdn.co:8080/live/26725074/92867131/710371.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPSP-CD CBS 2/38 (Palm Springs CA)
+http://vocotv.pro:80/live/gast/gast/640376.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KESQ-TV ABC 3 (Palm Springs CA)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/121235
-#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KDFX-CD FOX 11/33 (Palm Springs CA)
+http://vocotv.pro:80/live/gast/gast/640375.ts
+#EXTINF:0 tvg-logo="https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg" group-title="Local Channels (Not 24/7)",KCWQ-LD CW 5 (Palm Springs CA)
+http://vocotv.pro:80/live/gast/gast/640377.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KDFX-CA FOX 11/33 (Palm Springs CA)
 http://user.scalecdn.co:8080/live/26725074/92867131/696419.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KMIR-TV NBC 36 (Palm Springs CA)
 http://user.scalecdn.co:8080/live/26725074/92867131/89444.ts
@@ -949,7 +953,7 @@ http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLVX-TV PBS 10 (Las Vegas NV)
 http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183582.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KNPB-TV PBS 5 (Reno NV)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/243539.ts
+http://vocotv.pro:80/live/gast/gast/2235.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVCR-TV PBS 24 (San Bernardino/Los Angeles CA)
 http://vocotv.pro:80/live/gast/gast/2128.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLCS-TV PBS 58 (Los Angeles CA)
@@ -1056,9 +1060,9 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Lakewood CityTV (Lakewood CA)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/lakewood/live/ch1/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",L.A. CityView Channel 35 (Los Angeles CA)
-http://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",L.A. 36 Local Television (Los Angeles CA)
-http://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
+http://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Santa Monica City TV 20 (Santa Monica CA)
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",BHTV10 (Beverly Hills Television) (Beverly Hills CA)
@@ -2715,6 +2719,8 @@ https://tgn2.bozztv.com/nrbtv/nrbtv-live/index.m3u8
 https://live-ak.vimeocdn.com/exp=1750861405~acl=%2F8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4%2F%2A~hmac=bf56f78d314e426d9b0af11821a223284f8b0ba4f46123f697bd5a09217ad44e/8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4/hls.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",Positiv
 https://cdn.jwplayer.com/v2/sites/fGLyccP5/media/FoWynVnP/ssai.m3u8?ad_config_id=wrVOL0T1&content_id=FoWynVnP&content_title=Positiv+TV&app_domain=https%3A%2F%2Fwatch.positiv.tv&app_bundle=PostivTV.web&custom_10=web&user_id=&site_id=38571&app_name=PostivTV&min_ad_duration=6&max_ad_duration=60&format=vast&ssai_enabled=1&ssai_vendor=jwplayer&livestream=1&content_genre=Entertainment&content_channel=PostivTV&content_network=PostivTV&height=1080&width=1920&content_cat=IAB1&page_url=https%3A%2F%2Fwatch.positiv.tv%2Fp%2FYVBF54l8%3Fchannel%3DFoWynVnP%26play%3D1&device_type=2
+#EXTINF:0 tvg-logo="" group-title="Religious",Radiant TV
+https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",GLC (God's Learning Channel)
 https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",PTL Television Network
