@@ -445,6 +445,8 @@ http://user.scalecdn.co:8080/live/26725074/92867131/30135.ts
 http://user.scalecdn.co:8080/live/26725074/92867131/2669.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNTV-TV NBC 10 (San Francisco CA)
 http://user.scalecdn.co:8080/live/26725074/92867131/2438.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA)
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149626.ts
 #EXTINF:0 tvg-logo="" group-title="Local Channels (Not 24/7)",KBCW-TV CW/Ind. 44 (KPIX+) (San Francisco CA)
 http://user.scalecdn.co:8080/live/26725074/92867131/34433.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCRA-TV NBC 3 (Sacramento CA)
@@ -723,6 +725,14 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48890.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/48889.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WDKY-TV 56 (Lexington KY)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48891.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KXLF-TV CBS 4 (Butte MT)
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150209.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KWYB-TV ABC 18.1/28.1 (Butte MT)
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150206.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KWYB-DT FOX 18.2 (Butte MT)
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150208.ts
+#EXTINF:0 tvg-logo="https://21000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVM-TV NBC 20 (Butte MT)
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150212.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTUU-TV NBC 2 (Anchorage AK)
 http://user.scalecdn.co:8080/live/26725074/92867131/38320.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KTBY-TV FOX 4 (Anchorage AK)
@@ -907,9 +917,9 @@ http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/182660.ts
 #EXTINF:0 tvg-logo="" group-title="Local Public Broadcast",WVIZ-DT 25.2 The Ohio Channel (Cleveland OH)
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8?player_version=1.18.0
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WOSU-TV PBS 34 (Columbus OH)
-http://user.scalecdn.co:8080/live/26725074/92867131/446782.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150423.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WCET-TV CET PBS 48 (Cincinnati OH)
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183309.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150399.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTVS-TV PBS 56.1 (Detroit MI)
 http://user.scalecdn.co:8080/live/26725074/92867131/88066.ts
 #EXTINF:0 tvg-logo="" group-title="Local Public Broadcast",WTVS-DT 56.6 Michigan Learning Channel (Detroit MI)
@@ -923,9 +933,9 @@ https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETC-TV Nine PBS 9 (St. Louis MO)
 http://user.scalecdn.co:8080/live/26725074/92867131/470333.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KETS-TV PBS 2 (Little Rock AR)
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183330.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149530.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KTWU-TV PBS 11 (Topeka KS)
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183198.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149912.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WKLE-TV KET PBS 46.1 (Lexington KY)
 http://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",WKLE-DT KET 2 Create 46.2 (Lexington KY)
@@ -943,85 +953,87 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/243539.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVCR-TV PBS 24 (San Bernardino/Los Angeles CA)
 http://vocotv.pro:80/live/gast/gast/2128.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLCS-TV PBS 58 (Los Angeles CA)
-http://vocotv.pro:80/live/gast/gast/2122.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149586.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)
-http://vocotv.pro:80/live/gast/gast/2108.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149588.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNET-TV PBS 13 (New York NY)
-http://vocotv.pro:80/live/gast/gast/396.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/189965.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WLIW-TV PBS 21 (New York NY)
 http://kstv.us:8080/live/tH300gvHff/8606073792/23205.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNJT-TV NJ PBS 52 (Trenton NJ)
 http://kstv.us:8080/live/tH300gvHff/8606073792/23264.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNED-TV BTPM PBS 17 (Buffalo NY/Toronto ON)
-http://user.scalecdn.co:8080/live/26725074/92867131/3085.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150357.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WPBS-TV PBS 16 (Watertown NY)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/243546.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150396.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WXXI-TV PBS 21 (Rochester NY)
 http://user.scalecdn.co:8080/live/26725074/92867131/470320.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WEDH-TV P-CPTV PBS 24 (Hartfort CT)
-http://user.scalecdn.co:8080/live/26725074/92867131/470369.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/189616.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WETA-TV WETA PBS 26.1 (Washington DC)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/243522.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149678.ts
 #EXTINF:0 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Local Public Broadcast",WETA-DT WETA UK 26.2 (Washington DC)
 https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8
 #EXTINF:0 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-metro_1900x1900.png" group-title="Local Public Broadcast",WETA-DT PBS Metro 26.5 (Washington DC)
 https://wetadt5.lls.pbs.org/wetadt5-cmaf-hls.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WHUT-TV PBS 32 (Washington DC)
-http://user.scalecdn.co:8080/live/26725074/92867131/446804.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149679.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMPB-TV MPT PBS 67 (Baltimore MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst%3a201814-1291584/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMPT-TV MPT PBS 22 (Annapolis MD)
 http://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WGBH-TV GBH PBS 2 (Boston MA)
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183569.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150002.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WPBT-TV South Florida PBS 2 (Miami FL)
-http://user.scalecdn.co:8080/live/26725074/92867131/79523.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149747.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WLRN-TV PBS 17 (Miami FL)
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183584.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149707.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WUCF-TV PBS 24 (Orlando FL)
-http://user.scalecdn.co:8080/live/26725074/92867131/470363.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149717.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WJCT-TV JAX PBS 9 (Jacksonville FL)
-http://user.scalecdn.co:8080/live/26725074/92867131/470365.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149700.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WEDU-TV PBS 3 (Tampa Bay FL)
-http://user.scalecdn.co:8080/live/26725074/92867131/446803.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149740.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WABE-TV PBS 30 (Atlanta GA)
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183567.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149757.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTVI-TV PBS 42 (Charlotte NC)
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183573.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150247.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KAET-TV Arizona PBS 8 (Phoenix AZ)
 http://user.scalecdn.co:8080/live/26725074/92867131/446800.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLRN-TV PBS 9 (San Antonio TX)
-http://user.scalecdn.co:8080/live/26725074/92867131/470293.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150729.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KERA-TV PBS 13 (Ft. Worth/Dallas TX)
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183574.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150701.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KPBS-TV PBS 15 (San Diego CA)
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183329.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149616.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KQED-TV PBS 9 (San Francisco CA)
-http://user.scalecdn.co:8080/live/26725074/92867131/446801.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149594.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVIE-TV PBS 6 (Sacramento CA)
-http://user.scalecdn.co:8080/live/26725074/92867131/470374.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149610.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KUED-TV Utah PBS 7 (Salt Lake City UT)
 http://user.scalecdn.co:8080/live/26725074/92867131/470290.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOPB-TV PBS 10 (Portland OR)
-http://user.scalecdn.co:8080/live/26725074/92867131/597138.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150037.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KSPS-TV PBS 7 (Spokane WA)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216622
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150819.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KCTS-TV Cascade PBS 9 (Seattle WA)
 http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183593.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WQED-TV PBS 13 (Pittsburgh PA)
-http://vocotv.pro:80/live/gast/gast/2163.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150546.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WHYY-TV PBS 12 (Philadelphia PA)
-http://user.scalecdn.co:8080/live/26725074/92867131/470307.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150540.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WQLN-TV PBS 54 (Erie PA)
 http://user.scalecdn.co:8080/live/26725074/92867131/470303.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KBDI-TV PBS 12 (Denver CO)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/243520.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KBDI-TV RM PBS 12 (Denver CO)
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149656.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMVS-TV & WMVT-TV PBS 10/36 (Milwaukee WI)
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183585.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150855.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KDIN-TV Iowa PBS 11 (Des Moines IA)
 http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183588.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KUSM-TV PBS 9 (Butte MT)
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150211.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KHET-TV/KMEB-TV Hawai'i PBS 11/10 (Honolulu HI)
-http://user.scalecdn.co:8080/26725074/92867131/629651
+http://user.scalecdn.co:8080/live/26725074/92867131/629651.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (West)
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (East)
@@ -1804,8 +1816,6 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/23201.ts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cbb5a-7b2e-11ef-bb34-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=490827a6-31b6-461a-964f-bf7a48ab583d&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Documentary",History Channel
 http://kstv.us:8080/live/tH300gvHff/8606073792/22515.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",H2 (History Channel 2)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/129708.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",Military History
 http://user.scalecdn.co:8080/live/26725074/92867131/470622.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",National Geographic
@@ -2483,6 +2493,8 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3831.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/23323.ts
 #EXTINF:0 tvg-logo="" group-title="Cooking",Cooking Channel
 http://kstv.us:8080/live/tH300gvHff/8606073792/23339.ts
+#EXTINF:0 tvg-logo="" group-title="Cooking",Recipe.tv
+http://hardcoremedia.xyz:80/live/BG992263/38692743/251085.ts
 #EXTINF:0 tvg-logo="" group-title="Cooking",Gusto TV
 https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Cooking",Bon Appétit
@@ -2618,6 +2630,8 @@ https://stirr.b-cdn.net/stirr/playlist.m3u8
 https://cloudflare.tv/hls/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MT (Motor Trend)
 http://kstv.us:8080/live/tH300gvHff/8606073792/22546.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Cars.tv
+http://hardcoremedia.xyz:80/live/BG992263/38692743/11654.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Reel Life
 http://kstv.us:8080/live/tH300gvHff/8606073792/23203.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FYI
@@ -6344,11 +6358,13 @@ http://nonamevos.com:80/live/4500/4500/3730.ts
 http://nonamevos.com:80/live/4500/4500/100385.ts
 
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
-http://visualservice.xyz:80/HUGO_1_Y_2/Q9*mYCB/150991
-#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV Latin America
-http://179.61.31.142:8000/play/a01w/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV Europe
-http://kstv.us:8080/live/tH300gvHff/8606073792/47170.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/191255.ts
+#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV (Latin America)
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/180743.ts
+#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV (Europe)
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/180742.ts
+#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playhouse
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/180744.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Miami TV Mexico
