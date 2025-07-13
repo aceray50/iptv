@@ -1575,7 +1575,7 @@ https://catram-packager-018.nextologies.com/33cf929f7996f7b4/588f14d9ef4317f1/pl
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (New Orleans LA)
 https://catram-packager-018.nextologies.com/0bbcf6d6a85c81ca/45a975efb871cd32/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Spectrum Noticias NY1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/SpectrumNoticiasLogo2025.jpg" group-title="Latino (Spanish)",Spectrum Noticias NY1
 http://user.scalecdn.co:8080/live/26725074/92867131/649407.ts
 #EXTINF:0 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png" group-title="Latino (Spanish)",Noticias Univision 24/7
 https://live1009.delivery.roku.com/10d99635-efe0-4a99-ab00-54cbc2d95cf6/t2-origin/out/v1/live.m3u8
@@ -1711,16 +1711,14 @@ https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunkl
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",Univision (Canada)
 http://user.scalecdn.co:8080/live/26725074/92867131/647750.ts
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Latin Hola TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Latino (Spanish)",Latin Hola TV
 http://103.111.40.242:9999/play/a03z/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Mega TV
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Mega-tv-logo2.svg/revision/latest?cb=20250101024217" group-title="Latino (Spanish)",Mega TV
 http://hardcoremedia.xyz:80/live/BG992263/38692743/135375.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",KDOC-TV 56.5 Majestad Televisión
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",LATV #1
-https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",LATV #2
-https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/LATV-new-logo.965f16c8.png" group-title="Latino (Spanish)",LATV
+https://amg00779-latv-amg00779c1-latvnetwork-worldwide-1851.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-latvnetworkworldwide/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",XHMNL-TDT TV Nuevo León Canal 28
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",XHGV-TDT TVMás
@@ -1786,45 +1784,45 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Canal Ocho TV
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="Documentary",Discovery Channel (West)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/3826.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",Discovery Channel (East)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (East)
 https://a1xs.vip/300034
-#EXTINF:0 tvg-logo="" group-title="Documentary",Animal Planet (West)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/2661.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",Animal Planet (East)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (East)
 https://a1xs.vip/300035
-#EXTINF:0 tvg-logo="" group-title="Documentary",AKC TV
+#EXTINF:0 tvg-logo="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/348294991_922335115740028_2394346157475320613_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=utp5sBiTwsgQ7kNvwHxLHs3&_nc_oc=AdnKKgNiU-HYFyqkmIr3TycG_P4wwGtDpmvn3U2LKqsW83mmEk5N2hz3v-r9ukjS9Sg&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=0C_cytQVwNZobtJbWKgiew&oh=00_AfS7Vq-PsstxVFW7t8FrnjOrw6i9ndmFi1vHF_cxDGtoyw&oe=687A1A6F" group-title="Documentary",AKC TV
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Documentary",DogTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/1024px-DOGTV_logo.svg.png" group-title="Documentary",DogTV
 http://kstv.us:8080/live/tH300gvHff/8606073792/23212.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",Rovr Pets
+#EXTINF:0 tvg-logo="https://mma.prnewswire.com/media/1930260/Rovr_Pets_logo.jpg?p=publish" group-title="Documentary",Rovr Pets
 https://amg00111-amg00111c3-cw-us-3035.playouts.now.amagi.tv/playlist/amg00111-hearstmediafast-rovrpets-cwus/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Documentary",Taste Made Travel
+#EXTINF:0 tvg-logo="https://images-cdn1.welcomesoftware.com/assets/TastemadeTravel-hero.jpg/Zz1kYWZlMmYxZWEwNjAxMWVmOTAwY2NlYjBjYTI5N2FjYw==?width=768&height=430" group-title="Documentary",Taste Made Travel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelenglish24i-ono/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Documentary",Travel Channel (West)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/2560px-2018_Travel_Channel_logo.svg.png" group-title="Documentary",Travel Channel (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/3845.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",Travel Channel (East)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/2560px-2018_Travel_Channel_logo.svg.png" group-title="Documentary",Travel Channel (East)
 http://kstv.us:8080/live/tH300gvHff/8606073792/24856.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",ID (Investigation Discovery) (West)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",ID (Investigation Discovery) (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/3837.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",ID (Investigation Discovery) (East)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",ID (Investigation Discovery) (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/3633.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",Discovery Life
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/2048px-Discovery_Life_logo_2016.svg.png" group-title="Documentary",Discovery Life
 http://kstv.us:8080/live/tH300gvHff/8606073792/23333.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",Discovery Science
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Documentary",Discovery Science
 http://kstv.us:8080/live/tH300gvHff/8606073792/15961.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",Destination America
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/1024px-Destination_America_logo.svg.png" group-title="Documentary",Destination America
 http://kstv.us:8080/live/tH300gvHff/8606073792/23201.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",Pluto TV History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cbb5a-7b2e-11ef-bb34-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=490827a6-31b6-461a-964f-bf7a48ab583d&userId=&serverSideAds=true
-#EXTINF:0 tvg-logo="" group-title="Documentary",History Channel
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1774px-History_%282021%29.svg.png" group-title="Documentary",History Channel
 http://kstv.us:8080/live/tH300gvHff/8606073792/22515.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",Military History
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="Documentary",Military History
 http://user.scalecdn.co:8080/live/26725074/92867131/470622.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",National Geographic
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="Documentary",National Geographic
 http://kstv.us:8080/live/tH300gvHff/8606073792/22503.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",Nat Geo Wild
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1920px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",Nat Geo Wild
 http://kstv.us:8080/live/tH300gvHff/8606073792/23285.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",History Hit
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc
