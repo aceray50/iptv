@@ -912,7 +912,7 @@ https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4
 https://create.lls.pbs.org/index_1080p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png" group-title="Local Public Broadcast",NHK World
 https://nhk.lls.pbs.org/index_1080p.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="Local Public Broadcast",PBS World
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/World_Channel_2023.svg/1920px-World_Channel_2023.svg.png" group-title="Local Public Broadcast",PBS World
 https://world.lls.pbs.org/index_1080p.m3u8
 #EXTINF:0 tvg-logo="https://lptv.org/wp-content/uploads/2015/03/fnx-logo.png" group-title="Local Public Broadcast",FNX
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
@@ -961,7 +961,7 @@ http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149586.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149588.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNET-TV PBS 13 (New York NY)
-http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/189965.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/66782.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WLIW-TV PBS 21 (New York NY)
 http://kstv.us:8080/live/tH300gvHff/8606073792/23205.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNJT-TV NJ PBS 52 (Trenton NJ)
@@ -5330,7 +5330,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Milenio
 http://kstv.us:8080/live/tH300gvHff/8606073792/46960.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
-http://kstv.us:8080/live/tH300gvHff/8606073792/46949.ts
+http://vocotv.pro:80/live/gast/gast/7819.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Media
 http://hardcoremedia.xyz:80/live/BG992263/38692743/257684.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ADN 40
