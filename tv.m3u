@@ -1594,7 +1594,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTR-TV UniMás 46 (Los Angeles CA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
-http://user.scalecdn.co:8080/live/26725074/92867131/2394.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149589.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNJU-TV Telemundo 47 (New York NY)
@@ -1685,6 +1685,8 @@ http://user.scalecdn.co:8080/live/26725074/92867131/89509.ts
 https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WUVG-DT UniMás 34.2 (Atlanta GA)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/135403.ts
+#EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KFVE-DT Telemundo 6.2 (Honolulu HI)
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149797.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WKAQ-TV Telemundo 2.1 (San Juan PR)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0 tvg-logo="https://dishcaribbean.com/img/upload/punto2-color-logo.png" group-title="Latino (Spanish)",WKAQ-DT Punto 2 2.2 (San Juan PR)
@@ -1826,15 +1828,15 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/22503.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/23285.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",History Hit
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc
-#EXTINF:0 tvg-logo="" group-title="Documentary",Outside TV
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png" group-title="Documentary",Outside TV
 http://fl6.moveonjoy.com/OUTSIDE_TV/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Documentary",Outside TV+
+#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png" group-title="Documentary",Outside TV+
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Documentary",Xplore #1
+#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png/v1/fill/w_1917,h_771,al_c/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png" group-title="Documentary",Xplore #1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Documentary",Xplore #2
+#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png/v1/fill/w_1917,h_771,al_c/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png" group-title="Documentary",Xplore #2
 https://dtqutq7lmcchv.cloudfront.net/10001/99991765/hls/playlist.m3u8?ads.xumo_channelId=99991765
-#EXTINF:0 tvg-logo="" group-title="Documentary",PBS Nature
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Documentary",PBS Nature
 https://d2irko5f9gt1c5.cloudfront.net/10008/99951195/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951195
 #EXTINF:0 tvg-logo="" group-title="Documentary",Love & Nature
 https://amg01515-amg01515c19-cw-us-2584.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-loovenatureus-cwus/playlist.m3u8
@@ -1852,7 +1854,7 @@ https://d5e439997a40436ab60a8ead11b76b75.mediatailor.us-east-1.amazonaws.com/v1/
 https://3649884182d1462a9cada0264c1a0d57.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TeleUp_WatchMojo/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Pursuit Channel
 http://kstv.us:8080/live/tH300gvHff/8606073792/23262.m3u8
-#EXTINF:0 tvg-logo="" group-title="Documentary",AHC (American Heroes Channel)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1920px-American_Heroes_Channel_logo.svg.png" group-title="Documentary",AHC (American Heroes Channel)
 http://fl6.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Documentary+
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
@@ -1866,19 +1868,19 @@ https://amg01515-blueskyeus-amg01515c7-cw-us-4892.playouts.now.amagi.tv/playlist
 https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Curiosity Stream
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Documentary",REELZ (West)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1920px-Reelz.svg.png" group-title="Documentary",REELZ (West)
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Documentary",REELZ (East)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1920px-Reelz.svg.png" group-title="Documentary",REELZ (East)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48752.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",REELZ Famous and Infamous
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/I/71GE1KWeaWL.png" group-title="Documentary",REELZ Famous and Infamous
 https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
 #EXTINF:0 tvg-logo="" group-title="Documentary",Infamous TV
 https://amg01324-infamous-amg01324c1-cineverse-us-1102.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-cineverseus/playlist.m3u8#EXTINF:0 tvg-logo="" group-title="Documentary",Oxygen True Crime
-#EXTINF:0 tvg-logo="" group-title="Documentary",Oxygen True Crime
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1920px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime
 http://kstv.us:8080/live/tH300gvHff/8606073792/23271.ts
-#EXTINF:0 tvg-logo="" group-title="Documentary",Oxygen True Crime Archives
+#EXTINF:0 tvg-logo="https://images-cdn2.welcomesoftware.com/assets/Oxygen+True+Crime+Archives.jpg/Zz00ZjdkYzZlYzE1YTAxMWYwYWE4ZmRlZmMxMGU0ZTE1NQ==?width=768&height=430" group-title="Documentary",Oxygen True Crime Archives
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951234/hls/master.m3u8?ads.xumo_channelId=99951234
-#EXTINF:0 tvg-logo="" group-title="Documentary",True Crime Network+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/1920px-True_Crime_Network_logo.svg.png" group-title="Documentary",True Crime Network+
 https://amg00979-amg00979c1-truecrimenetwork-us-3194.playouts.now.amagi.tv/playlist/amg00979-truecrimenetworkfast-truecrimenetworkfast-truecrimenetworkus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",NBC American Crimes
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951246/hls/master.m3u8?ads.xumo_channelId=99951246
