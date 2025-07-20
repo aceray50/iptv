@@ -745,8 +745,10 @@ http://user.scalecdn.co:8080/live/26725074/92867131/38319.ts
 http://user.scalecdn.co:8080/live/26725074/92867131/38317.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVA-TV CBS 22 (Anchorage AK)
 http://user.scalecdn.co:8080/live/26725074/92867131/38318.ts
-#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KHON-TV FOX 2 (Honolulu HI)
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KHON-TV FOX 2.1 (Honolulu HI)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48857.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KHON-DT CW 2.1 (Honolulu HI)
+http://vocotv.pro:80/live/gast/gast/1995.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KITV-TV ABC 4 (Honolulu HI)
 http://kstv.us:8080/live/tH300gvHff/8606073792/48855.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGMB-TV CBS 5 (Honolulu HI)
@@ -1716,7 +1718,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/647750.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Latino (Spanish)",Latin Hola TV
 http://103.111.40.242:9999/play/a03z/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Mega-tv-logo2.svg/revision/latest?cb=20250101024217" group-title="Latino (Spanish)",Mega TV
-http://hardcoremedia.xyz:80/live/BG992263/38692743/135375.ts
+http://vocotv.pro:80/live/gast/gast/3210.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",KDOC-TV 56.5 Majestad Televisión
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/LATV-new-logo.965f16c8.png" group-title="Latino (Spanish)",LATV
@@ -2142,7 +2144,9 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/23330.ts
 http://user.scalecdn.co:8080/live/26725074/92867131/2588.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Jr. (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/2589.ts
-#EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network)
+#EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (West)
+http://vocotv.pro:80/gast/gast/1173
+#EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (East)
 https://a1xs.vip/300032
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Boomerang by Cartoon Network
 http://kstv.us:8080/live/tH300gvHff/8606073792/23354.ts
@@ -2911,6 +2915,8 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/22507.ts
 https://apollo.production-public.tubi.io/live/mlb2-RR0NCJ.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Strike Zone
 http://user.scalecdn.co:8080/live/26725074/92867131/2480.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",MLB Big Inning
+http://vocotv.pro:80/live/gast/gast/715294.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NHL Network
 http://kstv.us:8080/live/tH300gvHff/8606073792/15941.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NHL Channel
@@ -3472,6 +3478,144 @@ http://user.scalecdn.co:8080/live/26725074/92867131/390426.ts
 #EXTINF:0 tvg-logo="" group-title="MLB",MLB | Washington Nations
 http://user.scalecdn.co:8080/live/26725074/92867131/390427.ts
 
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay Info
+http://vocotv.pro:80/live/gast/gast/271542.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 1
+http://vocotv.pro:80/live/gast/gast/271540.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 2
+http://vocotv.pro:80/live/gast/gast/271539.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 3
+http://vocotv.pro:80/live/gast/gast/271538.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 4
+http://vocotv.pro:80/live/gast/gast/271537.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 5
+http://vocotv.pro:80/live/gast/gast/271536.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 6
+http://vocotv.pro:80/live/gast/gast/271535.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 7
+http://vocotv.pro:80/live/gast/gast/271534.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 8
+http://vocotv.pro:80/live/gast/gast/271533.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 9
+http://vocotv.pro:80/live/gast/gast/271532.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 10
+http://vocotv.pro:80/live/gast/gast/271531.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 11
+http://vocotv.pro:80/live/gast/gast/271530.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 12
+http://vocotv.pro:80/live/gast/gast/271529.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 13
+http://vocotv.pro:80/live/gast/gast/271528.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 14
+http://vocotv.pro:80/live/gast/gast/271527.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 15
+http://vocotv.pro:80/live/gast/gast/271526.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 16
+http://vocotv.pro:80/live/gast/gast/271525.ts
+#EXTINF:0 tvg-logo="" group-title="NBA",NBA Replay 17
+http://vocotv.pro:80/live/gast/gast/271524.ts
+
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 1
+http://vocotv.pro:80/live/gast/gast/259639.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 2
+http://vocotv.pro:80/live/gast/gast/259638.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 3
+http://vocotv.pro:80/live/gast/gast/259637.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 4
+http://vocotv.pro:80/live/gast/gast/259636.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 5
+http://vocotv.pro:80/live/gast/gast/259635.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 6
+http://vocotv.pro:80/live/gast/gast/259634.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 7
+http://vocotv.pro:80/live/gast/gast/259633.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 8
+http://vocotv.pro:80/live/gast/gast/259632.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 9
+http://vocotv.pro:80/live/gast/gast/259631.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 10
+http://vocotv.pro:80/live/gast/gast/259630.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 11
+http://vocotv.pro:80/live/gast/gast/267840.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 12
+http://vocotv.pro:80/live/gast/gast/267839.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 13
+http://vocotv.pro:80/live/gast/gast/267838.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 14
+http://vocotv.pro:80/live/gast/gast/267837.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 15
+http://vocotv.pro:80/live/gast/gast/267836.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Game Pass 16
+http://vocotv.pro:80/live/gast/gast/267835.ts
+
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay info
+http://vocotv.pro:80/live/gast/gast/271523.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay Highlights
+http://vocotv.pro:80/live/gast/gast/271522.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 1
+http://vocotv.pro:80/live/gast/gast/271521.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 2
+http://vocotv.pro:80/live/gast/gast/271520.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 3
+http://vocotv.pro:80/live/gast/gast/271519.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 4
+http://vocotv.pro:80/live/gast/gast/271518.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 5
+http://vocotv.pro:80/live/gast/gast/271517.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 6
+http://vocotv.pro:80/live/gast/gast/271516.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 7
+http://vocotv.pro:80/live/gast/gast/271515.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 8
+http://vocotv.pro:80/live/gast/gast/271514.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 9
+http://vocotv.pro:80/live/gast/gast/271513.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 10
+http://vocotv.pro:80/live/gast/gast/271512.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 11
+http://vocotv.pro:80/live/gast/gast/271511.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 12
+http://vocotv.pro:80/live/gast/gast/271510.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 13
+http://vocotv.pro:80/live/gast/gast/271509.ts
+#EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 14
+http://vocotv.pro:80/live/gast/gast/271508.ts
+
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay info
+http://vocotv.pro:80/live/gast/gast/271577.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay Highlights
+http://vocotv.pro:80/live/gast/gast/271576.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 1
+http://vocotv.pro:80/live/gast/gast/271575.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 2
+http://vocotv.pro:80/live/gast/gast/271574.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 3
+http://vocotv.pro:80/live/gast/gast/271573.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 4
+http://vocotv.pro:80/live/gast/gast/271572.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 5
+http://vocotv.pro:80/live/gast/gast/271571.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 6
+http://vocotv.pro:80/live/gast/gast/271570.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 7
+http://vocotv.pro:80/live/gast/gast/271569.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 8
+http://vocotv.pro:80/live/gast/gast/271568.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 9
+http://vocotv.pro:80/live/gast/gast/271567.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 10
+http://vocotv.pro:80/live/gast/gast/271566.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 11
+http://vocotv.pro:80/live/gast/gast/271565.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 12
+http://vocotv.pro:80/live/gast/gast/271564.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 13
+http://vocotv.pro:80/live/gast/gast/271563.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 14
+http://vocotv.pro:80/live/gast/gast/271562.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 15
+http://vocotv.pro:80/live/gast/gast/271561.ts
+
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/2490.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO (East)
@@ -4001,6 +4145,295 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34511
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34512
 #EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 37
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34513
+
+#EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original info
+http://vocotv.pro:80/live/gast/gast/324407.ts
+#EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original 1
+http://vocotv.pro:80/live/gast/gast/324406.ts
+#EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original 2
+http://vocotv.pro:80/live/gast/gast/324405.ts
+#EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original 3
+http://vocotv.pro:80/live/gast/gast/324404.ts
+#EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original 4
+http://vocotv.pro:80/live/gast/gast/324403.ts
+#EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original 5
+http://vocotv.pro:80/live/gast/gast/324402.ts
+#EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original 6
+http://vocotv.pro:80/live/gast/gast/324401.ts
+#EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original 7
+http://vocotv.pro:80/live/gast/gast/324400.ts
+#EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original 8
+http://vocotv.pro:80/live/gast/gast/324399.ts
+#EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original 9
+http://vocotv.pro:80/live/gast/gast/324398.ts
+#EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original 10
+http://vocotv.pro:80/live/gast/gast/324397.ts
+
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original info
+http://vocotv.pro:80/live/gast/gast/271096.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 1
+http://vocotv.pro:80/live/gast/gast/271095.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 2
+http://vocotv.pro:80/live/gast/gast/271094.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 3
+http://vocotv.pro:80/live/gast/gast/271093.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 4
+http://vocotv.pro:80/live/gast/gast/271092.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 5
+http://vocotv.pro:80/live/gast/gast/271091.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 6
+http://vocotv.pro:80/live/gast/gast/271090.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 7
+http://vocotv.pro:80/live/gast/gast/271089.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 8
+http://vocotv.pro:80/live/gast/gast/271088.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 9
+http://vocotv.pro:80/live/gast/gast/271087.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 10
+http://vocotv.pro:80/live/gast/gast/271086.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 11
+http://vocotv.pro:80/live/gast/gast/271085.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 12
+http://vocotv.pro:80/live/gast/gast/271084.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 13
+http://vocotv.pro:80/live/gast/gast/271083.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 14
+http://vocotv.pro:80/live/gast/gast/271082.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 15
+http://vocotv.pro:80/live/gast/gast/271081.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 16
+http://vocotv.pro:80/live/gast/gast/271080.ts
+#EXTINF:0 tvg-logo="" group-title="HBOMax+ (Live)",HBOMax Original 17
+http://vocotv.pro:80/live/gast/gast/271079.ts
+
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Series info
+http://nonamevos.com:80/live/4500/4500/32964.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Premiere 1
+http://nonamevos.com:80/live/4500/4500/1131.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Premiere 2
+http://nonamevos.com:80/live/4500/4500/78449.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Series 1
+http://nonamevos.com:80/live/4500/4500/24334.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Series 2
+http://nonamevos.com:80/live/4500/4500/93307.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Series 3
+http://nonamevos.com:80/live/4500/4500/46052.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Series 4
+http://nonamevos.com:80/live/4500/4500/42022.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Series 5
+http://nonamevos.com:80/live/4500/4500/74563.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Series 6
+http://nonamevos.com:80/live/4500/4500/12886.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Series 7
+http://nonamevos.com:80/live/4500/4500/33883.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Series 8
+http://nonamevos.com:80/live/4500/4500/56715.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Series 9
+http://nonamevos.com:80/live/4500/4500/79900.ts
+#EXTINF:0 tvg-logo="" group-title="Disney+ (Live)",Disney+ Series 10
+http://nonamevos.com:80/live/4500/4500/19811.ts
+
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere info
+http://nonamevos.com:80/live/4500/4500/52539.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 1
+http://nonamevos.com:80/live/4500/4500/51393.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 2
+http://nonamevos.com:80/live/4500/4500/23125.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 3
+http://nonamevos.com:80/live/4500/4500/85522.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 4
+http://nonamevos.com:80/live/4500/4500/47121.ts
+#EXTINF:0 tvg-logo="" group-title="UNetflix+ (Live)",Netflix Premiere 5
+http://nonamevos.com:80/live/4500/4500/50275.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 6
+http://nonamevos.com:80/live/4500/4500/17238.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 7
+http://nonamevos.com:80/live/4500/4500/13308.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 8
+http://nonamevos.com:80/live/4500/4500/93975.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 9
+http://nonamevos.com:80/live/4500/4500/7797.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 10
+http://nonamevos.com:80/live/4500/4500/23625.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 11
+http://nonamevos.com:80/live/4500/4500/105630.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 12
+http://nonamevos.com:80/live/4500/4500/75211.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 13
+http://nonamevos.com:80/live/4500/4500/102989.ts
+
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Series info
+http://nonamevos.com:80/live/4500/4500/66715.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Series 1
+http://nonamevos.com:80/live/4500/4500/103884.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Series 2
+http://nonamevos.com:80/live/4500/4500/1069.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Series 3
+http://nonamevos.com:80/live/4500/4500/39474.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Series 4
+http://nonamevos.com:80/live/4500/4500/100270.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Series 5
+http://nonamevos.com:80/live/4500/4500/8720.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Series 6
+http://nonamevos.com:80/live/4500/4500/34887.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Series 7
+http://nonamevos.com:80/live/4500/4500/25266.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Series 8
+http://nonamevos.com:80/live/4500/4500/76028.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Series 9
+http://nonamevos.com:80/live/4500/4500/23570.ts
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Series 10
+http://nonamevos.com:80/live/4500/4500/58056.ts
+
+#EXTINF:0 tvg-logo="" group-title="PrimeVideo+ (Live)",PrimeVideo Serie info
+http://nonamevos.com:80/live/4500/4500/87285.ts
+#EXTINF:0 tvg-logo="" group-title="PrimeVideo+ (Live)",PrimeVideo Serie 1
+http://nonamevos.com:80/live/4500/4500/110274.ts
+#EXTINF:0 tvg-logo="" group-title="PrimeVideo+ (Live)",PrimeVideo Serie 2
+http://nonamevos.com:80/live/4500/4500/21371.ts
+#EXTINF:0 tvg-logo="" group-title="PrimeVideo+ (Live)",PrimeVideo Serie 3
+http://nonamevos.com:80/live/4500/4500/87593.ts
+#EXTINF:0 tvg-logo="" group-title="PrimeVideo+ (Live)",PrimeVideo Serie 4
+http://nonamevos.com:80/live/4500/4500/84096.ts
+#EXTINF:0 tvg-logo="" group-title="PrimeVideo+ (Live)",PrimeVideo Serie 5
+http://nonamevos.com:80/live/4500/4500/23583.ts
+#EXTINF:0 tvg-logo="" group-title="PrimeVideo+ (Live)",PrimeVideo Serie 6
+http://nonamevos.com:80/live/4500/4500/99621.ts
+#EXTINF:0 tvg-logo="" group-title="PrimeVideo+ (Live)",PrimeVideo Serie 7
+http://nonamevos.com:80/live/4500/4500/14881.ts
+#EXTINF:0 tvg-logo="" group-title="PrimeVideo+ (Live)",PrimeVideo Serie 8
+http://nonamevos.com:80/live/4500/4500/23754.ts
+#EXTINF:0 tvg-logo="" group-title="PrimeVideo+ (Live)",PrimeVideo Serie 9
+http://nonamevos.com:80/live/4500/4500/27582.ts
+#EXTINF:0 tvg-logo="" group-title="PrimeVideo+ (Live)",PrimeVideo Serie 10
+http://nonamevos.com:80/live/4500/4500/13432.ts
+
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals info
+http://vocotv.pro:80/live/gast/gast/271077.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 1
+http://vocotv.pro:80/live/gast/gast/271076.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 2
+http://vocotv.pro:80/live/gast/gast/271075.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 3
+http://vocotv.pro:80/live/gast/gast/271074.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 4
+http://vocotv.pro:80/live/gast/gast/271073.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 5
+http://vocotv.pro:80/live/gast/gast/271072.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 6
+http://vocotv.pro:80/live/gast/gast/271071.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 7
+http://vocotv.pro:80/live/gast/gast/271070.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 8
+http://vocotv.pro:80/live/gast/gast/271069.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 9
+http://vocotv.pro:80/live/gast/gast/271068.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 10
+http://vocotv.pro:80/live/gast/gast/271067.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 11
+http://vocotv.pro:80/live/gast/gast/271066.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 12
+http://vocotv.pro:80/live/gast/gast/271065.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 13
+http://vocotv.pro:80/live/gast/gast/271064.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 14
+http://vocotv.pro:80/live/gast/gast/271063.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 15
+http://vocotv.pro:80/live/gast/gast/271062.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 16
+http://vocotv.pro:80/live/gast/gast/271061.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 17
+http://vocotv.pro:80/live/gast/gast/271060.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 18
+http://vocotv.pro:80/live/gast/gast/271059.ts
+#EXTINF:0 tvg-logo="" group-title="Hulu+ (Live)",hulu Originals 19
+http://vocotv.pro:80/live/gast/gast/271058.ts
+
+#EXTINF:0 tvg-logo="" group-title="Apple TV+ (Live)",Apple TV+ Series info
+http://vocotv.pro:80/live/gast/gast/271140.ts
+#EXTINF:0 tvg-logo="" group-title="Apple TV+ (Live)",Apple TV+ Series 1
+http://vocotv.pro:80/live/gast/gast/271139.ts
+#EXTINF:0 tvg-logo="" group-title="Apple TV+ (Live)",Apple TV+ Series 2
+http://vocotv.pro:80/live/gast/gast/271138.ts
+#EXTINF:0 tvg-logo="" group-title="Apple TV+ (Live)",Apple TV+ Series 3
+http://vocotv.pro:80/live/gast/gast/271137.ts
+#EXTINF:0 tvg-logo="" group-title="Apple TV+ (Live)",Apple TV+ Series 4
+http://vocotv.pro:80/live/gast/gast/271136.ts
+#EXTINF:0 tvg-logo="" group-title="Apple TV+ (Live)",Apple TV+ Series 5
+http://vocotv.pro:80/live/gast/gast/271135.ts
+#EXTINF:0 tvg-logo="" group-title="Apple TV+ (Live)",Apple TV+ Series 6
+http://vocotv.pro:80/live/gast/gast/271134.ts
+#EXTINF:0 tvg-logo="" group-title="Apple TV+ (Live)",Apple TV+ Series 7
+http://vocotv.pro:80/live/gast/gast/271133.ts
+#EXTINF:0 tvg-logo="" group-title="Apple TV+ (Live)",Apple TV+ Series 8
+http://vocotv.pro:80/live/gast/gast/271132.ts
+#EXTINF:0 tvg-logo="" group-title="Apple TV+ (Live)",Apple TV+ Series 9
+http://vocotv.pro:80/live/gast/gast/271131.ts
+#EXTINF:0 tvg-logo="" group-title="Apple TV+ (Live)",Apple TV+ Series 10
+http://vocotv.pro:80/live/gast/gast/271130.ts
+
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store info
+http://nonamevos.com:80/live/4500/4500/63108.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 1
+http://nonamevos.com:80/live/4500/4500/100475.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 2
+http://nonamevos.com:80/live/4500/4500/6824.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 3
+http://nonamevos.com:80/live/4500/4500/111522.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 4
+http://nonamevos.com:80/live/4500/4500/86874.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 5
+http://nonamevos.com:80/live/4500/4500/106824.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 6
+http://nonamevos.com:80/live/4500/4500/35697.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 7
+http://nonamevos.com:80/live/4500/4500/37842.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 8
+http://nonamevos.com:80/live/4500/4500/12024.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 9
+http://nonamevos.com:80/live/4500/4500/78241.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 10
+http://nonamevos.com:80/live/4500/4500/53800.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 11
+http://nonamevos.com:80/live/4500/4500/56475.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 12
+http://nonamevos.com:80/live/4500/4500/60839.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 13
+http://nonamevos.com:80/live/4500/4500/13486.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 14
+http://nonamevos.com:80/live/4500/4500/29031.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 15
+http://nonamevos.com:80/live/4500/4500/57410.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 16
+http://nonamevos.com:80/live/4500/4500/85496.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 17
+http://nonamevos.com:80/live/4500/4500/61762.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 18
+http://nonamevos.com:80/live/4500/4500/78364.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 19
+http://nonamevos.com:80/live/4500/4500/15530.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 20
+http://nonamevos.com:80/live/4500/4500/41157.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 21
+http://nonamevos.com:80/live/4500/4500/106924.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 22
+http://nonamevos.com:80/live/4500/4500/61752.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 23
+http://nonamevos.com:80/live/4500/4500/112532.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 24
+http://nonamevos.com:80/live/4500/4500/111627.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 25
+http://nonamevos.com:80/live/4500/4500/19065.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 26
+http://nonamevos.com:80/live/4500/4500/72138.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 27
+http://nonamevos.com:80/live/4500/4500/19973.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 28
+http://nonamevos.com:80/live/4500/4500/97421.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 29
+http://nonamevos.com:80/live/4500/4500/3730.ts
+#EXTINF:0 tvg-logo="" group-title="Sky Store+ (Live)",Sky Store Premiere 30
+http://nonamevos.com:80/live/4500/4500/100385.ts
 
 #EXTINF:0 tvg-logo="" group-title="Music",Vevo Regional Mexicano
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1696-7b2e-11ef-935a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba098dd8-1896-11f0-99f7-2a81c71d0e40&userId=&serverSideAds=true
@@ -5332,7 +5765,9 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CGTN en Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cubavisión
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1689
+http://vocotv.pro:80/live/gast/gast/280200.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",SUR Perú
+http://vocotv.pro:80/live/gast/gast/707056.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Milenio
@@ -6209,167 +6644,6 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47821.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47822.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Thriller (UK)
 http://kstv.us:8080/live/tH300gvHff/8606073792/47823.ts
-
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Premiere 1
-http://nonamevos.com:80/live/4500/4500/1131.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Premiere 2
-http://nonamevos.com:80/live/4500/4500/78449.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 1
-http://nonamevos.com:80/live/4500/4500/24334.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 2
-http://nonamevos.com:80/live/4500/4500/93307.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 3
-http://nonamevos.com:80/live/4500/4500/46052.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 4
-http://nonamevos.com:80/live/4500/4500/42022.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 5
-http://nonamevos.com:80/live/4500/4500/74563.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 6
-http://nonamevos.com:80/live/4500/4500/12886.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 7
-http://nonamevos.com:80/live/4500/4500/33883.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 8
-http://nonamevos.com:80/live/4500/4500/56715.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 9
-http://nonamevos.com:80/live/4500/4500/79900.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series 10
-http://nonamevos.com:80/live/4500/4500/19811.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Disney+ Series info
-http://nonamevos.com:80/live/4500/4500/32964.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 1
-http://nonamevos.com:80/live/4500/4500/51393.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 2
-http://nonamevos.com:80/live/4500/4500/23125.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 3
-http://nonamevos.com:80/live/4500/4500/85522.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 4
-http://nonamevos.com:80/live/4500/4500/47121.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 5
-http://nonamevos.com:80/live/4500/4500/50275.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 6
-http://nonamevos.com:80/live/4500/4500/17238.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 7
-http://nonamevos.com:80/live/4500/4500/13308.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 8
-http://nonamevos.com:80/live/4500/4500/93975.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 9
-http://nonamevos.com:80/live/4500/4500/7797.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 10
-http://nonamevos.com:80/live/4500/4500/23625.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 11
-http://nonamevos.com:80/live/4500/4500/105630.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 12
-http://nonamevos.com:80/live/4500/4500/75211.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere 13
-http://nonamevos.com:80/live/4500/4500/102989.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Premiere info
-http://nonamevos.com:80/live/4500/4500/52539.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 1
-http://nonamevos.com:80/live/4500/4500/103884.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 2
-http://nonamevos.com:80/live/4500/4500/1069.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 3
-http://nonamevos.com:80/live/4500/4500/39474.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 4
-http://nonamevos.com:80/live/4500/4500/100270.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 5
-http://nonamevos.com:80/live/4500/4500/8720.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 6
-http://nonamevos.com:80/live/4500/4500/34887.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 7
-http://nonamevos.com:80/live/4500/4500/25266.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 8
-http://nonamevos.com:80/live/4500/4500/76028.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 9
-http://nonamevos.com:80/live/4500/4500/23570.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series 10
-http://nonamevos.com:80/live/4500/4500/58056.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Netflix Series info
-http://nonamevos.com:80/live/4500/4500/66715.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 1
-http://nonamevos.com:80/live/4500/4500/110274.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 2
-http://nonamevos.com:80/live/4500/4500/21371.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 3
-http://nonamevos.com:80/live/4500/4500/87593.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 4
-http://nonamevos.com:80/live/4500/4500/84096.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 5
-http://nonamevos.com:80/live/4500/4500/23583.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 6
-http://nonamevos.com:80/live/4500/4500/99621.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 7
-http://nonamevos.com:80/live/4500/4500/14881.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 8
-http://nonamevos.com:80/live/4500/4500/23754.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 9
-http://nonamevos.com:80/live/4500/4500/27582.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie 10
-http://nonamevos.com:80/live/4500/4500/13432.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",PrimeVideo Serie info
-http://nonamevos.com:80/live/4500/4500/87285.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store info
-http://nonamevos.com:80/live/4500/4500/63108.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 1
-http://nonamevos.com:80/live/4500/4500/100475.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 2
-http://nonamevos.com:80/live/4500/4500/6824.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 3
-http://nonamevos.com:80/live/4500/4500/111522.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 4
-http://nonamevos.com:80/live/4500/4500/86874.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 5
-http://nonamevos.com:80/live/4500/4500/106824.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 6
-http://nonamevos.com:80/live/4500/4500/35697.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 7
-http://nonamevos.com:80/live/4500/4500/37842.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 8
-http://nonamevos.com:80/live/4500/4500/12024.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 9
-http://nonamevos.com:80/live/4500/4500/78241.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 10
-http://nonamevos.com:80/live/4500/4500/53800.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 11
-http://nonamevos.com:80/live/4500/4500/56475.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 12
-http://nonamevos.com:80/live/4500/4500/60839.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 13
-http://nonamevos.com:80/live/4500/4500/13486.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 14
-http://nonamevos.com:80/live/4500/4500/29031.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 15
-http://nonamevos.com:80/live/4500/4500/57410.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 16
-http://nonamevos.com:80/live/4500/4500/85496.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 17
-http://nonamevos.com:80/live/4500/4500/61762.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 18
-http://nonamevos.com:80/live/4500/4500/78364.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 19
-http://nonamevos.com:80/live/4500/4500/15530.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 20
-http://nonamevos.com:80/live/4500/4500/41157.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 21
-http://nonamevos.com:80/live/4500/4500/106924.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 22
-http://nonamevos.com:80/live/4500/4500/61752.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 23
-http://nonamevos.com:80/live/4500/4500/112532.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 24
-http://nonamevos.com:80/live/4500/4500/111627.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 25
-http://nonamevos.com:80/live/4500/4500/19065.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 26
-http://nonamevos.com:80/live/4500/4500/72138.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 27
-http://nonamevos.com:80/live/4500/4500/19973.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 28
-http://nonamevos.com:80/live/4500/4500/97421.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 29
-http://nonamevos.com:80/live/4500/4500/3730.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Store Premiere 30
-http://nonamevos.com:80/live/4500/4500/100385.ts
 
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/191255.ts
