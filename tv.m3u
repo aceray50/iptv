@@ -3617,7 +3617,11 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3724.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ Drive-In
 http://user.scalecdn.co:8080/live/26725074/92867131/4431.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
-http://hardcoremedia.xyz:80/live/BG992263/38692743/129989.ts
+http://vocotv.pro:80/live/gast/gast/802.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Flix (West)
+http://vocotv.pro:80/live/gast/gast/295772.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Flix (East)
+http://vocotv.pro:80/live/gast/gast/295792.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MoviePlex (West)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/130037.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MoviePlex (East)
@@ -4947,6 +4951,8 @@ http://103.111.40.242:9999/play/a01u/index.m3u8
 http://kstv.us:8080/live/tH300gvHff/8606073792/46651.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Mundo
 http://user.scalecdn.co:8080/live/26725074/92867131/40637.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HITN
+http://vocotv.pro:80/live/gast/gast/636619.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Taste Made en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Love Nautre en Español
