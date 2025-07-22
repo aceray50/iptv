@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCBS-TV CBS 2 (Los Angeles CA)
-http://user.scalecdn.co:8080/live/26725074/92867131/2478.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/2637.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNBC-TV NBC 4 (Los Angeles CA)
 http://user.scalecdn.co:8080/live/26725074/92867131/2453.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KTLA-TV CW 5 (Los Angeles CA)
@@ -772,15 +772,15 @@ http://user.scalecdn.co:8080/live/26725074/92867131/38317.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVA-TV CBS 22 (Anchorage AK)
 http://user.scalecdn.co:8080/live/26725074/92867131/38318.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KHON-TV FOX 2.1 (Honolulu HI)
-http://user.scalecdn.co:8080/live/26725074/92867131/89531.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KHON-DT CW 2.1 (Honolulu HI)
+http://kstv.us:8080/live/Babeboi11/9785992589/48857.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KHON-DT CW 2.2 (Honolulu HI)
 http://user.scalecdn.co:8080/live/26725074/92867131/629649.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KITV-TV ABC 4 (Honolulu HI)
-http://user.scalecdn.co:8080/live/26725074/92867131/38312.ts
+http://kstv.us:8080/live/Babeboi11/9785992589/48855.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGMB-TV CBS 5 (Honolulu HI)
-http://user.scalecdn.co:8080/live/26725074/92867131/89530.ts
+http://kstv.us:8080/live/Babeboi11/9785992589/48856.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KHNL-TV NBC 13 (Honolulu HI)
-http://user.scalecdn.co:8080/live/26725074/92867131/89532.ts
+http://kstv.us:8080/live/Babeboi11/9785992589/48858.ts
 
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
@@ -4370,7 +4370,7 @@ http://nonamevos.com:80/live/4500/4500/23125.ts
 http://nonamevos.com:80/live/4500/4500/85522.ts
 #EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 4
 http://nonamevos.com:80/live/4500/4500/47121.ts
-#EXTINF:0 tvg-logo="" group-title="UNetflix+ (Live)",Netflix Premiere 5
+#EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 5
 http://nonamevos.com:80/live/4500/4500/50275.ts
 #EXTINF:0 tvg-logo="" group-title="Netflix+ (Live)",Netflix Premiere 6
 http://nonamevos.com:80/live/4500/4500/17238.ts
