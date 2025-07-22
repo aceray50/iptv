@@ -772,15 +772,15 @@ http://user.scalecdn.co:8080/live/26725074/92867131/38317.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVA-TV CBS 22 (Anchorage AK)
 http://user.scalecdn.co:8080/live/26725074/92867131/38318.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KHON-TV FOX 2.1 (Honolulu HI)
-http://kstv.us:8080/live/Babeboi11/9785992589/48857.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/89531.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KHON-DT CW 2.2 (Honolulu HI)
 http://user.scalecdn.co:8080/live/26725074/92867131/629649.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KITV-TV ABC 4 (Honolulu HI)
-http://kstv.us:8080/live/Babeboi11/9785992589/48855.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/38312.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGMB-TV CBS 5 (Honolulu HI)
-http://kstv.us:8080/live/Babeboi11/9785992589/48856.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/89530.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KHNL-TV NBC 13 (Honolulu HI)
-http://kstv.us:8080/live/Babeboi11/9785992589/48858.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/89532.ts
 
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
@@ -1860,9 +1860,9 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe
 http://fl6.moveonjoy.com/OUTSIDE_TV/index.m3u8
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png" group-title="Documentary",Outside TV+
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png/v1/fill/w_1917,h_771,al_c/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png" group-title="Documentary",Xplore #1
+#EXTINF:0 tvg-logo="" group-title="Documentary",Xplore #1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png/v1/fill/w_1917,h_771,al_c/1af93f_c6ca1b501aa249568509fd17926db9ce~mv2.png" group-title="Documentary",Xplore #2
+#EXTINF:0 tvg-logo="" group-title="Documentary",Xplore #2
 https://dtqutq7lmcchv.cloudfront.net/10001/99991765/hls/playlist.m3u8?ads.xumo_channelId=99991765
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Documentary",PBS Nature
 https://d2irko5f9gt1c5.cloudfront.net/10008/99951195/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951195
@@ -1899,13 +1899,15 @@ http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1920px-Reelz.svg.png" group-title="Documentary",REELZ (West)
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1920px-Reelz.svg.png" group-title="Documentary",REELZ (East)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/48752.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/42307.ts
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/I/71GE1KWeaWL.png" group-title="Documentary",REELZ Famous and Infamous
 https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368
 #EXTINF:0 tvg-logo="" group-title="Documentary",Infamous TV
-https://amg01324-infamous-amg01324c1-cineverse-us-1102.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-cineverseus/playlist.m3u8#EXTINF:0 tvg-logo="" group-title="Documentary",Oxygen True Crime
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1920px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime
-http://hardcoremedia.xyz:80/live/BG992263/38692743/23271.ts
+https://amg01324-infamous-amg01324c1-cineverse-us-1102.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-cineverseus/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1920px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime (West)
+http://user.scalecdn.co:8080/live/26725074/92867131/3873.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1920px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime (East)
+http://user.scalecdn.co:8080/live/26725074/92867131/3676.ts
 #EXTINF:0 tvg-logo="https://images-cdn2.welcomesoftware.com/assets/Oxygen+True+Crime+Archives.jpg/Zz00ZjdkYzZlYzE1YTAxMWYwYWE4ZmRlZmMxMGU0ZTE1NQ==?width=768&height=430" group-title="Documentary",Oxygen True Crime Archives
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951234/hls/master.m3u8?ads.xumo_channelId=99951234
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/1920px-True_Crime_Network_logo.svg.png" group-title="Documentary",True Crime Network+
@@ -3736,7 +3738,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/2491.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO 2 (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/553461.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO 2 (East)
-http://kstv.us:8080/live/Babeboi11/9785992589/48332.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/3656.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Signature (West)
 http://user.scalecdn.co:8080/live/26725074/92867131/631878.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Signature (East)
