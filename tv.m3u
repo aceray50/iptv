@@ -1881,7 +1881,7 @@ https://d5e439997a40436ab60a8ead11b76b75.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="" group-title="Documentary",WatchMojo
 https://3649884182d1462a9cada0264c1a0d57.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TeleUp_WatchMojo/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Pursuit Channel
-http://hardcoremedia.xyz:80/live/BG992263/38692743/23262.m3u8
+http://kstv.us:8080/live/Babeboi11/9785992589/23262.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1920px-American_Heroes_Channel_logo.svg.png" group-title="Documentary",AHC (American Heroes Channel)
 http://fl6.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Documentary+
@@ -2118,7 +2118,7 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 http://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Weather News",The Weather Channel
-http://hardcoremedia.xyz:80/live/BG992263/38692743/22464.ts
+http://kstv.us:8080/live/Babeboi11/9785992589/22464.ts
 #EXTINF:0 tvg-logo="" group-title="Weather News",The Weather Channel+
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:0 tvg-logo="" group-title="Weather News",FOX Weather
@@ -4205,75 +4205,6 @@ http://nonamevos.com:80/live/4500/4500/12928.ts
 http://nonamevos.com:80/live/4500/4500/84089.ts
 #EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Action 10
 http://nonamevos.com:80/live/4500/4500/40242.ts
-
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 01
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34477
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 02
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34478
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 03
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34479
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 04
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34480
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 05
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34481
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 06
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34482
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 07
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34483
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 08
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34484
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 09
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34485
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 10
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34486
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 11
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34487
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 12
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34488
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 13
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34489
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 14
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34490
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 15
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34491
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 16
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34492
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 17
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34493
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 18
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34494
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 19
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34495
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 20
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34496
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 21
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34497
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 22
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34498
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 24
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34500
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 25
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34501
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 26
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34502
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 27
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34503
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 28
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34504
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 30
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34506
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 31
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34507
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 33
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34509
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 34
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34510
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 35
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34511
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 36
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34512
-#EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Cinema 37
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34513
 
 #EXTINF:0 tvg-logo="" group-title="Paramount+ (Live)",Paramount+ Original info
 http://vocotv.pro:80/live/gast/gast/324407.ts
@@ -6776,6 +6707,8 @@ http://kstv.us:8080/live/Babeboi11/9785992589/47823.ts
 
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/191255.ts
+#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV HD
+http://nonamevos.com:80/4500/4500/175507
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV (Alt)
 http://31.148.48.15:80/Playboy_TV/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV (Latin America)
