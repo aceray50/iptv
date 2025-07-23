@@ -2932,7 +2932,7 @@ https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Alt Channel
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663903.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Red Zone
-http://nonamevos.com:80/live/4500/4500/28074.ts
+http://fl6.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Red Zone Now
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3671.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Locked on NFL
@@ -2976,6 +2976,8 @@ http://kstv.us:8080/live/Babeboi11/9785992589/46400.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Space City Home Network
 http://kstv.us:8080/live/Babeboi11/9785992589/47475.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sports
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/649400.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sports Encore
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/649400.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum SportsNet LA
 http://hardcoremedia.xyz:80/live/BG992263/38692743/141497.ts
@@ -3033,36 +3035,36 @@ https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TV
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel Extra
 https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_FanDuelTVChannel/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network West
-http://kstv.us:8080/live/Babeboi11/9785992589/47471.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Detroit
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663205.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Florida
-http://kstv.us:8080/live/Babeboi11/9785992589/47468.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Great Lakes
-http://kstv.us:8080/live/Babeboi11/9785992589/31586.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network North
-http://kstv.us:8080/live/Babeboi11/9785992589/31587.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Cleveland
-http://kstv.us:8080/live/Babeboi11/9785992589/47720.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Indiana
-http://kstv.us:8080/live/Babeboi11/9785992589/31585.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network New Orleans
-https://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Oklahoma
-http://kstv.us:8080/live/Babeboi11/9785992589/47469.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Socal
-https://tvpass.org/live/fanduel-sports-network-socal/hd
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network South Carolinas
-http://kstv.us:8080/live/Babeboi11/9785992589/31583.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network South Tennessee
-http://kstv.us:8080/live/Babeboi11/9785992589/31581.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network Wisconsin
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3787.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Sun
-http://kstv.us:8080/live/Babeboi11/9785992589/47470.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Tennessee East
-http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78960
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Detroit)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2528.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Florida)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2527.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Indiana)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663215.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Kansas City)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663147.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Midwest)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663221.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (North)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2519.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Ohio)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663236.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Oklahoma)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3795.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Socal)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663155.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (South)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2513.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Southeast)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663145.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Southwest)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2507.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Sun)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663153.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (West)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2507.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Wisconsin)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2506.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",PHLY Sports
 https://dbrb49pjoymg4.cloudfront.net/10001/99951362/hls/live.m3u8?ads.xumo_channelId=99951362
 #EXTINF:0 tvg-logo="" group-title="Sports",CHGO Sports
@@ -3076,7 +3078,7 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/5290.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NASCAR
 https://apollo.production-public.tubi.io/live/nascar-qQFOMb.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsman Channel
-http://kstv.us:8080/live/Babeboi11/9785992589/23204.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/78636.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Monster Jams
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6p4G1WM2si1T2FyZUqse
 #EXTINF:0 tvg-logo="" group-title="Sports",MAV TV Select
@@ -3086,7 +3088,7 @@ https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Speed Vision
 https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",The Outdoor Channel
-http://kstv.us:8080/live/Babeboi11/9785992589/23273.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/5289.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Outdoor TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Outdoor America
@@ -3118,13 +3120,13 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #EXTINF:0 tvg-logo="" group-title="Sports",YES Network
 http://kstv.us:8080/live/Babeboi11/9785992589/23230.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Big Ten Network
-http://kstv.us:8080/live/Babeboi11/9785992589/23355.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/4443.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Sports Grid
 http://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Marquee Sports Network
-http://kstv.us:8080/live/Babeboi11/9785992589/47466.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/55178.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Swerve Sports
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",VSIN Sports
@@ -3158,17 +3160,19 @@ https://fight-network-3-live.sports.tv/v1/master/758627660e995d43cdf594915ca608e
 #EXTINF:0 tvg-logo="" group-title="Sports",Swerve Sports
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG Network
-http://kstv.us:8080/live/Babeboi11/9785992589/23290.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/4435.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG 2
-http://kstv.us:8080/live/Babeboi11/9785992589/48366.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/4433.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG+
-http://kstv.us:8080/live/Babeboi11/9785992589/23289.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/4434.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSGSN
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/706915.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",MSGSN 2
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/648959.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG SportsZone
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6p4G1WM2si1T2FyZUqse
 #EXTINF:0 tvg-logo="" group-title="Sports",WWE Network
-http://kstv.us:8080/live/Babeboi11/9785992589/47642.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3701.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",WWE HD DSTV
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3701.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",TNA Wrestling Channel
@@ -3609,6 +3613,20 @@ http://vocotv.pro:80/live/gast/gast/271509.ts
 #EXTINF:0 tvg-logo="" group-title="NFL",NFL Replay 14
 http://vocotv.pro:80/live/gast/gast/271508.ts
 
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay info
+http://vocotv.pro:80/live/gast/gast/271577.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay Highlights
+http://vocotv.pro:80/live/gast/gast/271576.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 1
+http://vocotv.pro:80/live/gast/gast/271575.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 2
+http://vocotv.pro:80/live/gast/gast/271574.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 3
+http://vocotv.pro:80/live/gast/gast/271573.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 4
+http://vocotv.pro:80/live/gast/gast/271572.ts
+#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 5
+http://vocotv.pro:80/live/gast/gast/271571.ts
 #EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 6
 http://vocotv.pro:80/live/gast/gast/271570.ts
 #EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 7
@@ -3750,7 +3768,7 @@ http://kstv.us:8080/live/Babeboi11/9785992589/23303.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Zone (West)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/631877.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Zone (East)
-http://kstv.us:8080/live/Babeboi11/9785992589/23299.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/51552.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Family (West)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/631874.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Family (East)
@@ -3766,20 +3784,6 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/51553.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",5 Star Max
 http://kstv.us:8080/live/Babeboi11/9785992589/48357.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Movie Max
-#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay info
-http://vocotv.pro:80/live/gast/gast/271577.ts
-#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay Highlights
-http://vocotv.pro:80/live/gast/gast/271576.ts
-#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 1
-http://vocotv.pro:80/live/gast/gast/271575.ts
-#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 2
-http://vocotv.pro:80/live/gast/gast/271574.ts
-#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 3
-http://vocotv.pro:80/live/gast/gast/271573.ts
-#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 4
-http://vocotv.pro:80/live/gast/gast/271572.ts
-#EXTINF:0 tvg-logo="" group-title="NHL",NHL Replay 5
-http://vocotv.pro:80/live/gast/gast/271571.ts
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/51556.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Outer Max
 http://kstv.us:8080/live/Babeboi11/9785992589/23344.ts
