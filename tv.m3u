@@ -2276,7 +2276,7 @@ https://amg00374-gsn-amg00374c6-lg-us-5121.playouts.now.amagi.tv/playlist/amg003
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Get Comedy
 https://3baa26d3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ2luZXZhdWx0TXVyZGVyQW5kTWF5aGVtX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Movies!
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/543962.ts
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Grit TV
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/40583.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Grit Xtra
@@ -3927,6 +3927,8 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/601155.ts
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/601154.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Movies Network
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/543962.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Asylum Movie Channel
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/709958.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Universal Movies
