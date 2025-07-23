@@ -932,7 +932,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",WTTG-TV FOX 5 24/7 News (Washington DC)
 https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WJLA-TV ABC 7 24/7 News (Washington DC)
-https://dai.google.com/linear/hls/event/LLS6t9zvTkOq8pXtpMVx4A/master.m3u8
+https://linear-681.frequency.stream/dist/lg-us/681/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WUSA-TV CBS 9 24/7 News (Washington DC)
 https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
 
@@ -1071,7 +1071,7 @@ https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (East)
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="Local Public Broadcast",PBS Retro
-https://live1009.delivery.roku.com/2af92247-9fb2-430d-bc45-f066023092f6/t2-origin/out/v1/live.m3u8
+https://amg02333-pbs-amg02333c6-lg-us-3175.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsretro-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",SCTV (Santa Clarita CA)
 http://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
@@ -2270,7 +2270,9 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/333484.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",fetv (Family Entertainment Television)
 http://kstv.us:8080/live/Babeboi11/9785992589/48524.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Get TV
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/30928.ts
+https://amg00374-gsn-amg00374c6-lg-us-5121.playouts.now.amagi.tv/playlist/amg00374-gameshownetworkfast-gettvmp-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Get Comedy
+https://3baa26d3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ2luZXZhdWx0TXVyZGVyQW5kTWF5aGVtX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Movies!
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/543962.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Grit TV
@@ -2280,7 +2282,7 @@ https://amg01438-ewscripps-amg01438c46-cw-us-2390.playouts.now.amagi.tv/playlist
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Laff
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/75343.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Laff More!
-https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_channelId=99951232
+https://4783fbd6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTGFmZk1vcmVfSExT/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Catchy Comedy
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2603.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Roar
@@ -2848,8 +2850,6 @@ http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",HSN 2
 http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="Shopping",Shop HQ
-http://live.shophq.com/evine/cleanfeed/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",Shop LC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",JTV (Jewelry Television)
@@ -2928,7 +2928,7 @@ https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Network
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3670.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Channel
-https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
+https://d6f8f5cf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTkZMQ2hhbm5lbF9ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Alt Channel
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663903.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Red Zone
@@ -2949,8 +2949,6 @@ http://vocotv.pro:80/live/gast/gast/715294.ts
 http://kstv.us:8080/live/Babeboi11/9785992589/15941.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NHL Channel
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",Midatlantic Sports Network
-https://tvpass.org/live/midatlantic-sports-network/hd
 #EXTINF:0 tvg-logo="" group-title="Sports",Monumental Sports Network
 http://kstv.us:8080/live/Babeboi11/9785992589/48523.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NESN (New England Sports Network)
@@ -2976,7 +2974,7 @@ http://kstv.us:8080/live/Babeboi11/9785992589/46400.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Space City Home Network
 http://kstv.us:8080/live/Babeboi11/9785992589/47475.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sports
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/649400.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/552928.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sports Encore
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/649400.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum SportsNet LA
@@ -3006,7 +3004,7 @@ https://sportsgrid-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd
 #EXTINF:0 tvg-logo="" group-title="Sports",Tennis Channel
 http://kstv.us:8080/live/Babeboi11/9785992589/15940.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",T2 Tennis
-https://a1xs.vip/40000041
+https://dbrb49pjoymg4.cloudfront.net/10001/99951389/hls/playlist.m3u8?ads.xumo_channelId=99951389
 #EXTINF:0 tvg-logo="" group-title="Sports",Tennis+
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6p4G1WM2si1T2FyZUqse
 #EXTINF:0 tvg-logo="" group-title="Sports",Court Sports Network
@@ -3148,7 +3146,7 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/687460.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FN (Fight Network)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/81589.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",HBO Boxing by WB
-https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8
+https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-hboboxing-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 #EXTINF:0 tvg-logo="" group-title="Sports",Fite 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Fite by Triller 24/7
@@ -3172,8 +3170,6 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/648959.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG SportsZone
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6p4G1WM2si1T2FyZUqse
 #EXTINF:0 tvg-logo="" group-title="Sports",WWE Network
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3701.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",WWE HD DSTV
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3701.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
