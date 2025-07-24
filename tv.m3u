@@ -2153,11 +2153,13 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/20874.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nicktoons (West)
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3674.ts
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401412577.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nicktoons (East)
-http://thevdm.xyz:25461/live/timmadden/timmad4765/20879.ts
-#EXTINF:0 tvg-logo="" group-title="Children Channels",TeenNick
-http://thevdm.xyz:25461/live/timmadden/timmad4765/20880.ts
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/176798.ts
+#EXTINF:0 tvg-logo="" group-title="Children Channels",TeenNick (West)
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401412575.ts
+#EXTINF:0 tvg-logo="" group-title="Children Channels",TeenNick (East)
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/176799.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd748-7b2e-11ef-9deb-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1aa79af-a440-4286-a333-28de4fa58ebb&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
@@ -2405,8 +2407,6 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/648957.ts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy.tv
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/77411.ts
-#EXTINF:0 tvg-logo="" group-title="Comedy",Adult Swim
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/52529.ts
 #EXTINF:0 tvg-logo="" group-title="Comedy",Adult Swim+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",Adult Swim+ (East)
@@ -2733,9 +2733,9 @@ https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainMan
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Adventures
 http://hardcoremedia.xyz:80/live/BG992263/38692743/256729.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Faith & Living
-http://kstv.us:8080/live/Babeboi11/9785992589/48243.ts
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401442720.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Family
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/84929.ts
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/31930.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Pure Flix TV
 http://hardcoremedia.xyz:80/live/BG992263/38692743/257231.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
@@ -3215,6 +3215,8 @@ https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Women's Sports Network
 https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports",ESR Gaming Network
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/42205.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",TVS All American
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",TVS TeleSports
@@ -5318,7 +5320,7 @@ http://kstv.us:8080/live/Babeboi11/9785992589/47902.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Galavisión
 http://kstv.us:8080/live/Babeboi11/9785992589/23307.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",NBC Universo
-http://kstv.us:8080/live/Babeboi11/9785992589/23281.ts
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/176979.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo Internacional
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/43189.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo Al Día
@@ -5619,10 +5621,8 @@ http://103.111.40.242:9999/play/a02j/index.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Univision TL Novelas
 http://thevdm.xyz:25461/live/timmadden/timmad4765/20033.ts
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas 1 (México)
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas (México)
 http://kstv.us:8080/live/Babeboi11/9785992589/48364.ts
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas 2 (México)
-http://103.111.40.242:9999/play/a026/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telenovelas (México)
 http://hardcoremedia.xyz:80/live//BG992263/38692743/253250.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
