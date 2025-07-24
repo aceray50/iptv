@@ -2713,11 +2713,13 @@ https://api-ott.watchnost.com/loggingmediaurlpassthrough/b.m3u8?version=12&id=12
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Channel (West)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/649412.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Channel (East)
-http://kstv.us:8080/live/Babeboi11/9785992589/22519.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3652.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Family
-http://kstv.us:8080/live/Babeboi11/9785992589/48377.ts
-#EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Mystery
-http://kstv.us:8080/live/Babeboi11/9785992589/22518.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2493.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Mystery (West)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/649413.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Mystery (East)
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3653.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Shorts TV
@@ -2728,14 +2730,14 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc
 https://linear-744.frequency.stream/dist/dice/744/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Dove Channel
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
-#EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Adventures
-http://hardcoremedia.xyz:80/live/BG992263/38692743/256729.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Faith & Living
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401442720.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Family
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/31930.ts
-#EXTINF:0 tvg-logo="" group-title="Network Channels",Pure Flix TV
+#EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Pure Flix
 http://hardcoremedia.xyz:80/live/BG992263/38692743/257231.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Adventures
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814542/hls/master.m3u8?ads._fw_app_bundle=tcltv.plus&ads._fw_app_store_url=https%3A%2F%2Ftcltv.plus%2F&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=chrome&ads._fw_device_model=web&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=0&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=web&ads.appVersion=1.0.0&ads.caid=GreatAmericanAdventures&ads.csid=tcl2_us_greatamericanadventures_ssai&ads.genre=Reality-TV&ads.xumo_channelId=88814542
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
 https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Holiday Plus
@@ -2864,15 +2866,15 @@ http://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN
-https://a1xs.vip/40000011
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3636.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN 2
-https://a1xs.vip/40000012
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3637.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN U
-https://a1xs.vip/40000013
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3638.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN News
-https://a1xs.vip/40000014
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3640.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",SEC Network ESPN
-https://a1xs.vip/40000015
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/647786.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",ACC Network ESPN
 https://a1xs.vip/40000016
 #EXTINF:0 tvg-logo="" group-title="Sports",ACCDN
@@ -2880,19 +2882,19 @@ https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playl
 #EXTINF:0 tvg-logo="" group-title="Sports",PAC 12 Insider
 https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FSN 1
-https://a1xs.vip/40000021
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3645.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FSN 2
-https://a1xs.vip/40000022
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3646.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports on Tubi
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports Racing
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/8430
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3053.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Soccer Plus
 http://kstv.us:8080/live/Babeboi11/9785992589/23315.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",CBS Sports Network
-http://kstv.us:8080/live/Babeboi11/9785992589/48538.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2531.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",CBS Sports HQ
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",CBS Sports Golazo Network
@@ -2920,7 +2922,7 @@ https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/pl
 #EXTINF:0 tvg-logo="" group-title="Sports",Fubo Sports Network
 http://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/fsn/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NBA TV
-https://a1xs.vip/40000031
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3751.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",The NBA Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383
 #EXTINF:0 tvg-logo="" group-title="Sports",NBA G League TV
@@ -2930,7 +2932,7 @@ https://lockedonsports-nba-live.sports.tv/v1/master/758627660e995d43cdf594915ca6
 #EXTINF:0 tvg-logo="" group-title="Sports",The Original Globetrotters
 https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8?ads.wurl_channel=1909
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Network
-https://a1xs.vip/40000032
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3670.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Channel
 https://d6f8f5cf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTkZMQ2hhbm5lbF9ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Alt Channel
@@ -2942,7 +2944,7 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3671.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Locked on NFL
 https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5a5e6d0c3a5f3ad07b6d4_lockedonsports-nfl-live/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Network
-https://a1xs.vip/40000030
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3661.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Channel
 https://apollo.production-public.tubi.io/live/mlb2-RR0NCJ.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Strike Zone
@@ -3018,9 +3020,9 @@ https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 #EXTINF:0 tvg-logo="" group-title="Sports",PBTV Pickleball TV
 https://amg01444-tennischannel-amg01444c3-tennischannel-us-1912.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-tennischannelus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NBC Golf Channel
-https://a1xs.vip/40000060
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3651.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NBC Golf Pass
-https://d4whmvwm0rdvi.cloudfront.net/10001/99991660/hls/master.m3u8?ads.xumo_channelId=99991660
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/603381.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Willow Sports
 https://dbrb49pjoymg4.cloudfront.net/10001/99951406/hls/playlist.m3u8?ads.xumo_channelId=99951406
 #EXTINF:0 tvg-logo="" group-title="Sports",PGA Tour
@@ -3122,7 +3124,7 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #EXTINF:0 tvg-logo="" group-title="Sports",YES Network
 http://kstv.us:8080/live/Babeboi11/9785992589/23230.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Big Ten Network
-https://a1xs.vip/40000047
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/4443.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Sports Grid
 http://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Unbeaten
@@ -3150,7 +3152,7 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/687460.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FN (Fight Network)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/81589.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",HBO Boxing by WB
-https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-hboboxing-lgus/playlist.m3u8&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-hboboxing-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Fite 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Fite by Triller 24/7
