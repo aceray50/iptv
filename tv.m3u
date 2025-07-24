@@ -288,11 +288,11 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2670.ts
 #EXTINF:0 tvg-logo="" group-title="Local Channels (Not 24/7)",KUSI-TV Ind. 51 (San Diego CA)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/710371.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPSP-CD CBS 2/38 (Palm Springs CA)
-http://vocotv.pro:80/live/gast/gast/640376.ts
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/182823.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KESQ-TV ABC 3 (Palm Springs CA)
-http://vocotv.pro:80/live/gast/gast/640375.ts
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/182997.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KCWQ-LD CW 5 (Palm Springs CA)
-http://vocotv.pro:80/live/gast/gast/640377.ts
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/183058.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KDFX-CA FOX 11/33 (Palm Springs CA)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/696419.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KMIR-TV NBC 36 (Palm Springs CA)
@@ -1105,8 +1105,6 @@ https://whittier.cablecast.tv/live/stream-1/live.m3u8
 https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Anaheim TV (Anaheim CA)
 https://reflect-city-of-anaheim.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:0 tvg-logo="" group-title="Local Public Access",City of Huntington Beach CA
-https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/huntingtonbeach/G0088_006/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Buena Park Television (Buena Park CA)
 https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Costa Mesa's Municipal Access Channel CMTV 3 (Costa Mesa CA)
@@ -1128,7 +1126,7 @@ https://reflect-pomona.cablecast.tv/live-1/live/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Ontario Public Access Channel (Ontario CA)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Rancho Cucamonga RCTV3 (Rancho Cucamonga CA)
-https://reflect-cityofrc.cablecast.tv/live-6/live/live.m3u8
+https://reflect-cityofrc.cablecast.tv/live-6/live/stream-1/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",KFON TV Fontana Community Television (Fontana CA)
 https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",TV3 (San Bernardino CA)
@@ -1748,7 +1746,7 @@ http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/173503.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Latino (Spanish)",Latin Hola TV
 http://103.111.40.242:9999/play/a03z/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Mega-tv-logo2.svg/revision/latest?cb=20250101024217" group-title="Latino (Spanish)",Mega TV
-http://vocotv.pro:80/live/gast/gast/3210.ts
+http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/176955.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",KDOC-TV 56.5 Majestad Televisión
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/LATV-new-logo.965f16c8.png" group-title="Latino (Spanish)",LATV
