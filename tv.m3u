@@ -245,7 +245,7 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/89602.ts
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/89600.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KMSS-TV FOX 33 (Shreveport LA)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/89601.ts
-#EXTINF:0 tvg-logo="" group-title="Local Channels (Not 24/7)",KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/1280px-KTVK_logo.svg.png" group-title="Local Channels (Not 24/7)",KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/38298.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPHO-TV CBS 5 (Phoenix AZ)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2628.ts
@@ -281,7 +281,7 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2534.ts
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2439.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KFMB-TV CBS 8.1 (8+) (San Diego CA)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2623.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KFMB-DT CW 8.2 (San Diego CA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/446862.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KGTV-TV ABC 10 (San Diego CA)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2670.ts
@@ -6775,8 +6775,6 @@ http://kstv.us:8080/live/Babeboi11/9785992589/47822.ts
 http://kstv.us:8080/live/Babeboi11/9785992589/47823.ts
 
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
-http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/191255.ts
-#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV HD
 http://nonamevos.com:80/4500/4500/175507
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV (Alt)
 http://31.148.48.15:80/Playboy_TV/index.m3u8
