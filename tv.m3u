@@ -6774,8 +6774,10 @@ http://kstv.us:8080/live/Babeboi11/9785992589/47822.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Thriller (UK)
 http://kstv.us:8080/live/Babeboi11/9785992589/47823.ts
 
-#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
-http://nonamevos.com:80/4500/4500/175507
+#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV #1
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/191255.ts
+#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV #2
+http://nonamevos.com:80/live/4500/4500/175507.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV (Alt)
 http://31.148.48.15:80/Playboy_TV/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV (Latin America)
@@ -6794,8 +6796,6 @@ https://59ec5453559f0.streamlock.net/miamitvfashion/smil:VIVALIVE/.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Kaloopy
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",ShopLyfter.com
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/468
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Adult IPTV Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Adult IPTV MILF
