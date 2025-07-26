@@ -3079,16 +3079,16 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951361/hls/live.m3u8?ads.xumo_chann
 https://dbrb49pjoymg4.cloudfront.net/10001/99951363/hls/live.m3u8?ads.xumo_channelId=99951363
 #EXTINF:0 tvg-logo="" group-title="Sports",Racer (Formerly MAV TV)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/5290.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",Racer Select
+https://dbrb49pjoymg4.cloudfront.net/10001/99951269/hls/playlist.m3u8?ads.xumo_channelId=99951269
 #EXTINF:0 tvg-logo="" group-title="Sports",NASCAR
 https://apollo.production-public.tubi.io/live/nascar-qQFOMb.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsman Channel
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/78636.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Monster Jams
 https://5554b948.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTW9uc3RlckphbS0xX0hMUw/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",MAV TV Select
-https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NHRA TV
-https://apollo.production-public.tubi.io/live/ac-nhra.m3u8
+https://live-manifest.production-public.tubi.io/live/2b55583d-cfa8-440b-8f38-a0aef9950f75/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Speed Vision
 https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",The Outdoor Channel
@@ -5898,9 +5898,9 @@ http://vocotv.pro:80/live/gast/gast/707056.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Milenio
-http://kstv.us:8080/live/Babeboi11/9785992589/46960.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/190561.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
-http://hardcoremedia.xyz:80/live/BG992263/38692743/253204.ts
+http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/190528.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401497541.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Media
