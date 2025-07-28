@@ -954,11 +954,11 @@ https://linear-681.frequency.stream/dist/lg-us/681/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WUSA-TV CBS 9 24/7 News (Washington DC)
 https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",KOMO-TV ABC 4 24/7 News (Seattle WA)
-https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/709/hls/master/playlist.m3u8
+https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/709/hls/master/playlist.m3u8?ads.cdnhost=s9host1.localnow.api.cms.amdvids.com&ads.playbackid=5E089950-3207-495C-90C9-4EB3251B8A12&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=5E089950-3207-495C-90C9-4EB3251B8A12
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KING-TV NBC 5 24/7 News (Seattle WA)
-https://s10host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/king/24x7/index.m3u8
+https://s10host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/king/24x7/index.m3u8?vendor=LocalNow&device_devicetype=desktop_web&height=1080&ip_addr=195.179.200.80&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&ads.cdnhost=s10host3.localnow.api.cms.amdvids.com&ads.playbackid=06ABF5FD-8AFB-444D-9001-C766E5B770B8&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=06ABF5FD-8AFB-444D-9001-C766E5B770B8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KIRO-TV CBS 7 24/7 News (Seattle WA)
-https://s2host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config2/playlist.m3u8
+https://s2host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config2/playlist.m3u8?ads.cdnhost=s2host3.localnow.api.cms.amdvids.com&ads.playbackid=5A82A266-838C-4E90-B31F-8C32951F0A91&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=5A82A266-838C-4E90-B31F-8C32951F0A91
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",KCPQ-TV FOX 13 24/7 News (Seattle WA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8
 
@@ -2435,6 +2435,8 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/asw
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aseast.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",Adult Swim 24/7
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:0 tvg-logo="" group-title="Comedy",Free Comedy Network
+https://amg00346-amg00346c25-amgplt0022.playout.now3.amagi.tv/playlist/amg00346-amg00346c25-amgplt0022/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",WITZ Comedy TV
 https://wurlbesteverchannels.global.transmit.live/hls/67a3a1377796545fc40611c5/v1/bec_witz_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",Sketchy AF (Pluto TV)
@@ -2622,6 +2624,8 @@ http://kstv.us:8080/live/pubPPn3kY7/9190645106/48238.ts
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/47549.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Smithsonian Channel (Pluto)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Free Western Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Aspire
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/48333.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BBC America
@@ -2632,6 +2636,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951250/hls/playlist.m3u8?ads.xumo_c
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/631840.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Pop TV (East)
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/23263.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Generation Drama by WB
+https://amg00136-wbd-amg00136c22-vizio-us-1805.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvgenerationdrama-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Vice
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/36742.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Vice News
@@ -2758,8 +2764,8 @@ https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainMan
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401442720.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Family
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/31930.ts
-#EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Pure Flix
-http://hardcoremedia.xyz:80/live/BG992263/38692743/257231.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Pure Flix TV
+https://amg01884-gac-amg01884c1-vizio-us-5495.playouts.now.amagi.tv/playlist/amg01884-gacmediafast-pureflixtv-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Adventures
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814542/hls/master.m3u8?ads._fw_app_bundle=tcltv.plus&ads._fw_app_store_url=https%3A%2F%2Ftcltv.plus%2F&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=chrome&ads._fw_device_model=web&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=0&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=web&ads.appVersion=1.0.0&ads.caid=GreatAmericanAdventures&ads.csid=tcl2_us_greatamericanadventures_ssai&ads.genre=Reality-TV&ads.xumo_channelId=88814542
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Dr. Phil's Merit TV (Merit Street)
@@ -3129,6 +3135,8 @@ https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/48241.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Goal TV
 https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports",FIFA+
+https://2a7ce3b9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Stadium
 http://dai.google.com/linear/hls/event/FH5OItUrSPquaZHqgVNNRg/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (MLB)
@@ -4004,6 +4012,12 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/543962.ts
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/709958.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Action!
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Action Hollywood Movies
+https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25&ads.n4=content_name&ads.v4=EPG%20%7C%20%20Action%20Hollywood%20Movies&ads.n21=content_custom_1_param&ads.v21=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25&ads.n22=gpp&ads.v22=&ads.n23=channel_ext_id&ads.v23=&ads.n24=w&ads.v24=1920&ads.n25=app_name&ads.v25=&ads.n26=app_bundle&ads.v26=&ads.n27=did&ads.v27=&ads.n28=h&ads.v28=1080&ads.n29=network_name&ads.v29=action-hollywood-movies&ads.n30=content_custom_3_param&ads.v30=channel&ads.n31=device_type&ads.v31=&ads.n32=device_make&ads.v32=&ads.n33=content_livestream&ads.v33=1&ads.n34=channel_company_id&ads.v34=AMDP500507&ads.n35=channel_rating&ads.v35=TV-PG&ads.n36=content_provider&ads.v36=action-hollywood-movies&ads.n37=url&ads.v37=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n38=dnt&ads.v38=&ads.n39=us_privacy&ads.v39=1YNY&ads.n40=gpp_sid&ads.v40=&ads.n41=channel_id&ads.v41=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Free Movie Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Free Movies+
 https://amg02042-ottstudio-amg02042c1-ottstudios-northamerica-1678.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",VHS+
