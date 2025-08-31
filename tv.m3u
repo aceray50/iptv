@@ -1843,11 +1843,11 @@ https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (West)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3826.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (East)
-https://a1xs.vip/300034
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3718.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (West)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2661.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (East)
-https://a1xs.vip/300035
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2662.ts
 #EXTINF:0 tvg-logo="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/348294991_922335115740028_2394346157475320613_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=utp5sBiTwsgQ7kNvwHxLHs3&_nc_oc=AdnKKgNiU-HYFyqkmIr3TycG_P4wwGtDpmvn3U2LKqsW83mmEk5N2hz3v-r9ukjS9Sg&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=0C_cytQVwNZobtJbWKgiew&oh=00_AfS7Vq-PsstxVFW7t8FrnjOrw6i9ndmFi1vHF_cxDGtoyw&oe=687A1A6F" group-title="Documentary",AKC TV
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/1024px-DOGTV_logo.svg.png" group-title="Documentary",DogTV
@@ -2031,7 +2031,7 @@ https://d2dimalv43j51f.cloudfront.net/out/v1/52d3048e53eb42a7959dc347d2f810e2/in
 #EXTINF:0 tvg-logo="" group-title="News",LiveNOW from FOX
 https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",FOX News Channel
-https://a1xs.vip/300011
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2543.ts
 #EXTINF:0 tvg-logo="" group-title="News",FOX Business
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3643.ts
 #EXTINF:0 tvg-logo="" group-title="News",NBC News Now
@@ -2039,11 +2039,11 @@ https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",NBC Dateline 24/7
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991626/hls/master.m3u8?ads.xumo_channelId=99991626
 #EXTINF:0 tvg-logo="" group-title="News",CNBC
-https://a1xs.vip/300009
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2610.ts
 #EXTINF:0 tvg-logo="" group-title="News",CNBC World
-http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/181634.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2609.ts
 #EXTINF:0 tvg-logo="" group-title="News",MSNBC
-https://a1xs.vip/300008
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2479.ts
 #EXTINF:0 tvg-logo="" group-title="News",CNN
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3715.ts
 #EXTINF:0 tvg-logo="" group-title="News",CNN International
@@ -2187,13 +2187,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd7de-7b2e-11ef-9bf8-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4e94404-1332-11f0-8694-3a1fbadd5755&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Music
-http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/181060.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/89095.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Channel (West)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2588.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Channel (East)
-https://a1xs.vip/300037
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2591
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney XD (West)
-http://thevdm.xyz:25461/live/timmadden/timmad4765/25183.ts
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3829.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney XD (East)
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/23330.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Jr. (West)
@@ -2203,7 +2203,7 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2589.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (West)
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401442710.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (East)
-https://a1xs.vip/300032
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3711.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Boomerang by Cartoon Network
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/23354.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",MeTV Toons
@@ -3062,7 +3062,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951388/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:0 tvg-logo="" group-title="Sports",CMH.TV
 https://fhdinternationalhermes.live.clipmyhorse.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel TV (Formerly TVG)
-https://a1xs.vip/40000046
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/629723.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel TV+
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_2.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel 2 Racing
