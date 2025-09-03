@@ -1978,7 +1978,7 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99991367/hls/master.m3u8?includeAsset
 https://dbrb49pjoymg4.cloudfront.net/10001/99951341/hls/master.m3u8?ads.xumo_channelId=99951341
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (New York NY)
-https://apollo.production-public.tubi.io/live/ac-news12ny.m3u8
+https://5fcc2ee3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 (Long Island NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12 ("New Jersey" Edison NJ)
@@ -2013,9 +2013,11 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/597114.ts
 #EXTINF:0 tvg-logo="" group-title="News",Spectrum News+
 https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.xumo_channelId=99951337
 #EXTINF:0 tvg-logo="" group-title="News",ABC Localish
-https://apollo.production-public.tubi.io/live/ac-localish.m3u8
+https://live-manifest.production-public.tubi.io/live/ed84a986-071d-484d-b835-e6f0585bff83/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",ABC News
 http://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 tvg-logo="" group-title="News",ABC 20/20
+https://amg00497-amg00497c23-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c23-amgplt0023/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",CBS News
 http://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",CBS 48 Hours
@@ -2029,7 +2031,7 @@ http://dai.google.com/linear/hls/event/Y2DMgfclT3S2nNxANeIawA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",TMZ Live
 https://d2dimalv43j51f.cloudfront.net/out/v1/52d3048e53eb42a7959dc347d2f810e2/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",LiveNOW from FOX
-https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",FOX News Channel
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2543.ts
 #EXTINF:0 tvg-logo="" group-title="News",FOX Business
@@ -2159,7 +2161,7 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 https://dbrb49pjoymg4.cloudfront.net/10001/99991372/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991372
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids #1
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids #2
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon (West)
@@ -2236,6 +2238,10 @@ http://kstv.us:8080/live/pubPPn3kY7/9190645106/23334.ts
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3805.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Baby First #2
 http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:0 tvg-logo="" group-title="Children Channels",Kids TV
+https://27d04f2ffe5446e6be4a4a49cf799af7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG_KidsTV/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Children Channels",Baby Einstein
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992126
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Brat TV
 https://amg00350-bratstudio-amg00350c1-ottstudios-northamerica-783.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",FilmRise Kids
@@ -2570,13 +2576,15 @@ https://live1009.delivery.roku.com/96414c68-02f2-4e5c-8e5d-355025ccf724/t2-origi
 #EXTINF:0 tvg-logo="" group-title="Cooking",BBC Food
 https://dbrb49pjoymg4.cloudfront.net/10001/99951177/hls/playlist.m3u8?ads.xumo_channelId=99951177
 #EXTINF:0 tvg-logo="" group-title="Cooking",Cook's Country Channel
-https://dbrb49pjoymg4.cloudfront.net/10001/99951323/hls/playlist.m3u8?ads.xumo_channelId=99951323
+https://amg01420-amg01420c5-lg-us-5093.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-cookscountrychannel-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Cooking",Food52
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991340
 #EXTINF:0 tvg-logo="" group-title="Cooking",Taste Made
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv1624i-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Cooking",Chef Roc Show
 https://bozztv.com/gusa/gusa-chefrock/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Cooking",America's Test Kitchen
+https://amg01420-americastestkitchen-amg01420c1-lg-us-1280.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-lgus/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TLC (The Learning Channel) (West)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/48974.ts
@@ -3009,6 +3017,8 @@ https://lockedonsports-collegefootball-live.sports.tv/v1/master/758627660e995d43
 https://lockedonsports-atlanta-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66fadba6d1a5c0f8ea0746b3_lockedonsports-atlanta-live/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Locked on Los Angeles
 https://lockedonsports-losangeles-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66fae3bdc84b54939d0f5dc3_lockedonsports-losangeles-live/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports",K-Baseball TV
+https://amg02040-lguplus-amg02040c10-lg-us-6979.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbo-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Eleven Sports Network
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/23327.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Altitude Sports Denver
@@ -4439,6 +4449,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_c
 https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Miramax Movie Channel
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",LG Channel Showcase
+https://amg00497-amg00497c4-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c4-amgplt0023/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",LG Channel Romance Showcase
+https://amg00497-amg00497c10-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c10-amgplt0023/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",At the Movies by WB
 https://apollo.production-public.tubi.io/live/wbd-at-the-movies.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Classic Cinema by WB
