@@ -1636,13 +1636,13 @@ https://live1009.delivery.roku.com/10d99635-efe0-4a99-ab00-54cbc2d95cf6/t2-origi
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Noticias Telemundo Ahora
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951321/hls/master.m3u8?ads.xumo_channelId=99951321
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias California
-http://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
+https://nbcu-telemundowest-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias Texas
-https://d1rqgw5gocwo9i.cloudfront.net/10009/99951226/hls/playlist.m3u8?ads.xumo_channelId=99951226
+https://nbcu-telemundotexas-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias Noreste
-https://d1rqgw5gocwo9i.cloudfront.net/10009/99951228/hls/playlist.m3u8?ads.xumo_channelId=99951228
+https://nbcu-telemundonortheast-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias Florida
-https://nbcu-Telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KMEX-TV Univision 34 (Los Angeles CA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTR-TV UniMás 46 (Los Angeles CA)
@@ -2917,6 +2917,8 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/647786.ts
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/5287.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",ACCDN
 https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-freelivesportsemea/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports",ESPN Ocho
+https://amg00497-amg00497c24-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c24-amgplt0023/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",PAC 12 Insider
 https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FSN 1
@@ -2972,7 +2974,7 @@ http://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77
 #EXTINF:0 tvg-logo="" group-title="Sports",NBA TV
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3751.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",The NBA Channel
-https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NBA G League TV
 https://apollo.production-public.tubi.io/live/nba-g-league2-5ViUll.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Locked on NBA
@@ -3002,7 +3004,7 @@ http://vocotv.pro:80/live/gast/gast/715294.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NHL Network
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/15941.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NHL Channel
-https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Monumental Sports Network
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/48523.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NESN (New England Sports Network)
