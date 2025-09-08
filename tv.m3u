@@ -1966,6 +1966,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951285/hls/master.m3u8?ads.xumo_cha
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/20211.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",Law & Crime
 https://dtqutq7lmcchv.cloudfront.net/10001/99991320/hls/playlist.m3u8?ads.xumo_channelId=99991320
+#EXTINF:0 tvg-logo="" group-title="Documentary",Caught In Providence
+https://livetv-fa.tubi.video/caught-in-providence2/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",MST3K (Mystery Science Theater 3000)
@@ -2044,6 +2046,8 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991626/hls/master.m3u8?ads.xumo_cha
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2610.ts
 #EXTINF:0 tvg-logo="" group-title="News",CNBC World
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/181634.ts
+#EXTINF:0 tvg-logo="" group-title="News",CNBC Europe
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",MSNBC
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2479.ts
 #EXTINF:0 tvg-logo="" group-title="News",CNN
@@ -2160,9 +2164,17 @@ https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.st
 #EXTINF:0 tvg-logo="" group-title="Weather News",Weather Spy
 https://dbrb49pjoymg4.cloudfront.net/10001/99991372/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991372
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids #1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids (Pacific)
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst_2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids (Eastern)
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids #2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids (Mountain)
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst_2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids (Alaska)
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst_2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids (Hawaii)
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast_2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids (Rocky Mountain)
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon (West)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/20876.ts
@@ -2613,7 +2625,7 @@ https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Circle Country #2
 https://amg00432-amg00432c1-circle-worldwide-2821.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-circleworldwide/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",The Cowboy Channel #1
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/84912.ts
+https://fl3.moveonjoy.com/Cowboy_Channel/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",The Cowboy Channel #2
 https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Outlaw (The Western Channel)
@@ -2666,14 +2678,12 @@ http://kstv.us:8080/live/pubPPn3kY7/9190645106/48236.ts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=17d6d310-246c-4678-a980-a3043d16f2a3&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="LGBT",Revry One
-https://f4e3f8fe72d345e8b2de999d3f5cb5c3.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-BRIGHTCOVE/mt/brightcove/43/hls/master/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="LGBT",Revry 3
-https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="LGBT",Revry
+https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="LGBT",Revry Her
-https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
+https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="LGBT",Revry News
-https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
+https://linear-44.frequency.stream/dist/24i/44/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",WE TV (Women Entertainment Television)
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/23233.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",WE Absolute Reality
@@ -2789,6 +2799,8 @@ https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",TOG (Truth of God)
 https://f-tx-edge-86.christianworldmedia.com/thetogtv/sm_thetogtv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Religious",Dr. Gene Scott TV
+https://piksel-wescotcc.akamaized.net/hls/live/2041478/adp/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",NRBTV
 https://tgn2.bozztv.com/nrbtv/nrbtv-live/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",ULFN (Universal Living Faith Network)
@@ -2823,6 +2835,10 @@ https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Religious",Faith TV
+https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Religious",Faith World TV
+https://stream.ecable.tv/faithworld/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",CYC (Christian Youth Channel)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",CTVN
@@ -4935,10 +4951,14 @@ https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",V2BEAT TV (UK)
 https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Music",Pop World TV
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",Now 70s Music
 https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",Now 80s Music
 https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Music",Now 90s & 00s Music
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Music",Now Rock Music
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 
@@ -5940,6 +5960,8 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 http://181.188.234.21:8000/play/a04t/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Unicable
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/4052.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TV Hispanic
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Latin Zone
@@ -6121,7 +6143,7 @@ https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Delicioso TV
 https://dai.google.com/linear/hls/event/P-z5VMsOQxmXTpZLaDC6Pg/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Revry LatinX
-https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
+https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CLIC
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Ecuador TV
