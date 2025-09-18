@@ -14,9 +14,9 @@ http://kstv.us:8080/live/Babeboi11/9785992589/48788.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
 http://kstv.us:8080/live/Babeboi11/9785992589/48789.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCBS-TV CBS 2 (New York NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48997.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/89712.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNBC-TV NBC 4 (New York NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/49000.ts
+http://kstv.us:8080/live/Babeboi11/9785992589/15931.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WNYW-TV FOX 5 (New York NY)
 http://kstv.us:8080/live/Babeboi11/9785992589/48999.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WABC-TV ABC 7 (New York NY)
@@ -24,9 +24,9 @@ http://kstv.us:8080/live/Babeboi11/9785992589/48996.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)
 http://kstv.us:8080/live/Babeboi11/9785992589/23214.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WPIX-TV CW 11 (PIX 11+) (New York NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48998.ts
+http://kstv.us:8080/live/Babeboi11/9785992589/22466.ts
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WLNY-TV CBS/Ind. 10/55 (New York NY)
-http://user.scalecdn.co:8080/live/26725074/92867131/89717.ts
+http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/117221.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBBM-TV CBS 2 (Chicago IL)
 http://kstv.us:8080/live/Babeboi11/9785992589/48873.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WMAQ-TV NBC 5 (Chicago IL)
@@ -40,7 +40,7 @@ http://kstv.us:8080/live/Babeboi11/9785992589/48874.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL)
 http://kstv.us:8080/live/Babeboi11/9785992589/48875.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WJBK-TV FOX 2 (Detroit MI)
-http://kstv.us:8080/live/Babeboi11/9785992589/48929.ts
+http://kstv.us:8080/live/Babeboi11/9785992589/47686.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WDIV-TV NBC 4 (Detroit MI)
 http://kstv.us:8080/live/Babeboi11/9785992589/48930.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WXYZ-TV ABC 7 (Detroit MI)
@@ -2098,7 +2098,7 @@ https://n2ctsota.akamaized.net/hls/live/2113130/Live_1/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",News Nation
 http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",C-SPAN
-http://user.scalecdn.co:8080/live/26725074/92867131/92792.ts
+http://kstv.us:8080/live/Babeboi11/9785992589/48417.ts
 #EXTINF:0 tvg-logo="" group-title="News",C-SPAN 2
 http://user.scalecdn.co:8080/live/26725074/92867131/92793.ts
 #EXTINF:0 tvg-logo="" group-title="News",C-SPAN 3
@@ -2949,7 +2949,7 @@ http://kstv.us:8080/live/Babeboi11/9785992589/22525.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports
 https://amg02855-foxsports-amg02855c1-lg-us-1388.playouts.now.amagi.tv/playlist/amg02855-foxnewsnetwork-foxsports-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports on Tubi
-https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports Racing
 http://user.scalecdn.co:8080/live/26725074/92867131/3053.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Soccer Plus
@@ -3105,13 +3105,13 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951388/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:0 tvg-logo="" group-title="Sports",CMH.TV
 https://fhdinternationalhermes.live.clipmyhorse.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel TV (Formerly TVG)
-http://user.scalecdn.co:8080/live/26725074/92867131/629723.ts
+http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/25195.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel TV+
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_2.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel 2 Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel Extra
-https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_FanDuelTVChannel/playlist.m3u8
+https://ed94bc6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX0ZhbkR1ZWxUVkV4dHJhX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Detroit)
 http://user.scalecdn.co:8080/live/26725074/92867131/2528.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Fanduel Sports Network (Florida)
