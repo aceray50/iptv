@@ -3084,6 +3084,7 @@ https://6788041e31d84d16a8543d7183a2dd42.mediatailor.us-east-1.amazonaws.com/v1/
 https://sportsgrid-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_60d4f2ce961d1109be12f573_sportsgrid-live-1/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Tennis Channel
 http://kstv.us:8080/live/Babeboi11/9785992589/15940.ts
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",T2 Tennis
 https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Tennis+
@@ -3107,7 +3108,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951388/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:0 tvg-logo="" group-title="Sports",CMH.TV
 https://fhdinternationalhermes.live.clipmyhorse.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel TV (Formerly TVG)
-http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/25195.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/629723.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel TV+
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_2.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel 2 Racing
@@ -7636,7 +7637,7 @@ http://92.114.85.81:8000/play/a01f/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Channel 5 USA (UK)
 http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12169
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Channel 5 Action (UK)
-http://lunar.pm:8080/mrjayp/Spectrum2/110305
+http://lunar.pm:8080/live/mrjayp/Spectrum2/110305.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Channel 5 Select (UK)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/241940.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Virgin Media One (UK)
@@ -7908,16 +7909,12 @@ http://kstv.us:8080/live/Babeboi11/9785992589/47822.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Thriller (UK)
 http://kstv.us:8080/live/Babeboi11/9785992589/47823.ts
 
-#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV #1
-http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/191255.ts
-#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV #2
-http://nonamevos.com:80/live/4500/4500/175507.ts
+#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV
+http://lunar.pm:8080/livr/mrjayp/Spectrum2/131339.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV (Alt)
 http://31.148.48.15:80/Playboy_TV/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV (Latin America)
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/180743.ts
-#EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playboy TV (Europe)
-http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/180742.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Playhouse
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/180744.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Miami TV Jenny Live
