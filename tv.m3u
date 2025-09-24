@@ -2182,19 +2182,19 @@ https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast_2.m3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids (Rocky Mountain)
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon (West)
-http://thevdm.xyz:25461/live/timmadden/timmad4765/20876.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/631831.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon (East)
 http://kstv.us:8080/live/Babeboi11/9785992589/15963.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd630-7b2e-11ef-a94e-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebbf33a-e8f6-4c9f-91cc-df503deed9e8&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (West)
-http://thevdm.xyz:25461/live/timmadden/timmad4765/20875.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/631832.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (East)
 http://kstv.us:8080/live/Babeboi11/9785992589/23276.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nicktoons (West)
-http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401412577.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/3674.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nicktoons (East)
 http://kstv.us:8080/live/Babeboi11/9785992589/23274.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",TeenNick (West)
@@ -2220,7 +2220,7 @@ http://user.scalecdn.co:8080/live/26725074/92867131/2588.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Jr. (East)
 http://kstv.us:8080/live/Babeboi11/9785992589/47621.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (West)
-http://user.scalecdn.co:8080/live/26725074/92867131/2654.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/2653.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (East)
 http://kstv.us:8080/live/Babeboi11/9785992589/15959.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Boomerang by Cartoon Network
@@ -2230,7 +2230,9 @@ http://kstv.us:8080/live/Babeboi11/9785992589/48753.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",ToonCast (English)
 http://103.111.40.242:9999/play/a02y/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Cartoon Classics
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.dpname=distrotv&ads.channel_name=Cartoon+Classics&ads.content_id=STA105
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8
+#EXTINF:0 tvg-logo="" group-title="Children Channels",ToonOvation
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/M43FCP9IGELUIOH4IAVQ/hls3/now,-1m/m.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Toonami Aftermath (West)
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Toonami Aftermath (East)
@@ -2311,7 +2313,7 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",COZI TV
-http://kstv.us:8080/live/Babeboi11/9785992589/23337.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/2604.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",H&I (Heroes & Icons)
 http://kstv.us:8080/live/Babeboi11/9785992589/23225.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Start TV
@@ -2380,7 +2382,7 @@ http://kstv.us:8080/live/Babeboi11/9785992589/23286.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV U
 http://user.scalecdn.co:8080/live/26725074/92867131/57971.ts
 #EXTINF:0 tvg-logo="" group-title="LGBT",Logo
-http://thevdm.xyz:25461/live/timmadden/timmad4765/31438.ts
+http://user.scalecdn.co:8080/live/26725074/92867131/88970ts
 #EXTINF:0 tvg-logo="" group-title="LGBT",Logo (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a9a-7b2e-11ef-8b51-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bbba5747-a534-474e-b169-1d3ce211896e&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",OUTtv Proud
@@ -2452,6 +2454,8 @@ http://kstv.us:8080/live/Babeboi11/9785992589/22553.ts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy.tv
 http://user.scalecdn.co:8080/live/26725074/92867131/77411.ts
+#EXTINF:0 tvg-logo="" group-title="Comedy",Comedy+
+https://amg02042-ottstudio-amg02042c5-ottstudios-northamerica-1892.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",Adult Swim+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/aswest.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",Adult Swim+ (East)
@@ -2854,9 +2858,7 @@ https://edge1.lifestreamcdn.com/live/impactroku1/playlist.m3u8
 https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Religious",ETWN #1
-https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8
-#EXTINF:0 tvg-logo="" group-title="Religious",ETWN #2
+#EXTINF:0 tvg-logo="" group-title="Religious",ETWN
 https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",CTV (The Catholic TV Network)
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
@@ -2887,7 +2889,7 @@ https://cdn.jwplayer.com/live/broadcast/Q2Yar6Fo.mpd?user_id=00uo63wifd34FGAJu69
 #EXTINF:0 tvg-logo="" group-title="Religious",TCI
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.isml/.mpd?user_id=00uo63wifd34FGAJu697
 #EXTINF:0 tvg-logo="" group-title="Religious",JBS (Jewish Broadcasting Service)
-http://trn07.tulix.tv/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+https://trn07.tulix.tv/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",JLTV (Jewish Life Television)
 http://jlt-jltv-roku.otteravision.com/jlt/jltv/jltv_1080p.m3u8
 
@@ -5150,10 +5152,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playl
 https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25&ads.n4=content_name&ads.v4=EPG%20%7C%20%20Action%20Hollywood%20Movies&ads.n21=content_custom_1_param&ads.v21=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25&ads.n22=gpp&ads.v22=&ads.n23=channel_ext_id&ads.v23=&ads.n24=w&ads.v24=1920&ads.n25=app_name&ads.v25=&ads.n26=app_bundle&ads.v26=&ads.n27=did&ads.v27=&ads.n28=h&ads.v28=1080&ads.n29=network_name&ads.v29=action-hollywood-movies&ads.n30=content_custom_3_param&ads.v30=channel&ads.n31=device_type&ads.v31=&ads.n32=device_make&ads.v32=&ads.n33=content_livestream&ads.v33=1&ads.n34=channel_company_id&ads.v34=AMDP500507&ads.n35=channel_rating&ads.v35=TV-PG&ads.n36=content_provider&ads.v36=action-hollywood-movies&ads.n37=url&ads.v37=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n38=dnt&ads.v38=&ads.n39=us_privacy&ads.v39=1YNY&ads.n40=gpp_sid&ads.v40=&ads.n41=channel_id&ads.v41=9DA67180-77F0-4AAA-A1C4-148BEBA5BD25
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Free Movie Network
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Hollywood Movie Classics
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/91CAL7N2DJN9J22UJVE1/hls3/now,-1m/m.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Free Movies+
 https://amg02042-ottstudio-amg02042c1-ottstudios-northamerica-1678.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-ottstudiosnorthamerica/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",VHS+
-https://amg02042-ottstudio-amg02042c9-ottstudios-northamerica-1894.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-vhsplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Horror+
 https://amg02042-ottstudio-amg02042c12-ottstudios-northamerica-1908.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-horrorplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Action+
@@ -5169,6 +5171,8 @@ https://amg02042-ottstudio-amg02042c8-ottstudios-northamerica-1896.playouts.now.
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Family Flix+
 https://amg02042-ottstudio-amg02042c3-ottstudios-northamerica-1899.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-familyflixplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Christmas+
+https://moments.videobyte.com/api/livestreaming.m3u8?pid=41D2X70&msid=0001793&ads=vbx&url=https://amg02042-ottstudio-amg02042c13-ottstudios-northamerica-1909.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-holidayplus-ottstudiosnorthamerica/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Sci-Fi+
 https://moments.videobyte.com/api/livestreaming.m3u8?pid=41D2X70&msid=0001793&ads=vbx&url=https://amg02042-ottstudio-amg02042c13-ottstudios-northamerica-1909.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-holidayplus-ottstudiosnorthamerica/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Samuel Goldwyn Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc
