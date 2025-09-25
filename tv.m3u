@@ -3194,9 +3194,9 @@ http://dai.google.com/linear/hls/event/FH5OItUrSPquaZHqgVNNRg/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (MLB)
 http://dai.google.com/linear/hls/event/iAH9i6raRVu1GzVMtKI7PA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (Glory)
-https://glorykickboxing.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/GLORYKickBoxing-7a2ba2de-5648-4cea-a54e-c21246c76ef9/playlist.m3u8
+http://dai.google.com/linear/hls/event/zZK1PADpSfCbSMyFTcwufQ/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (Banana Ball)
-https://bananas.ad.ballys.tv/v1/master/ba2b6c85d52a58850082257f9bb40327e66446c0/BananaBall-41b3db2a-4b11-45c2-ae9e-ffe26cbef8ca/index_dvr.m3u8
+http://dai.google.com/linear/hls/event/hGUW8YfcStaj5w0z-DWxTg/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (Poker)
 http://dai.google.com/linear/hls/event/70ov0oU2T2uHSWSxvcGSrA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (Chicago)
@@ -3287,16 +3287,14 @@ http://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",Adventure Sports TV
-https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",BEK Sports West
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Billiard TV
-https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8
+https://newidco-billiardstv-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",CampusLore
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Women's Sports Network
-https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
+https://live-manifest.production-public.tubi.io/live/d4c5e01e-75ff-4e1d-abb1-d240e3a3694a/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",ESR Gaming Network
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/42205.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",TVS All American
