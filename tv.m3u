@@ -6773,9 +6773,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Univision TL Novelas
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/1090591.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas (México)
-http://kstv.us:8080/live/Babeboi11/9785992589/48364.ts
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telenovelas (México)
-http://hardcoremedia.xyz:80/live//BG992263/38692743/253250.ts
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/live/8375773282/253250.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d5d9e-7b2e-11ef-9e52-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3879f173-1091-4b31-a197-b44138458061&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Novelas Channel
@@ -7049,9 +7047,9 @@ http://vocotv.pro:80/live/gast/gast/707056.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Milenio
-http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/1158427.ts
+http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253231.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
-http://kstv.us:8080/live/Babeboi11/9785992589/46949.ts
+http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253204.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401497541.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Media
