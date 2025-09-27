@@ -2289,11 +2289,11 @@ http://kstv.us:8080/live/Babeboi11/9785992589/44205.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MeTV+
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/42801.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION
-https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION Plus
-https://raw.githubusercontent.com/mystery75/m3u8/main/IONPLUS.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION Mystery
-https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951157/hls/playlist.m3u8?ads.xumo_channelId=99951157
 #EXTINF:0 tvg-logo="" group-title="Network Channels",CW Forever
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",CW Gold
@@ -7047,9 +7047,9 @@ http://vocotv.pro:80/live/gast/gast/707056.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Milenio
-http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253231.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/253231.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
-http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253204.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/253204.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401497541.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Media
