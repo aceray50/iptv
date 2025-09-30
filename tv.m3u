@@ -5124,9 +5124,9 @@ http://user.scalecdn.co:8080/live/26725074/92867131/4431.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
 http://user.scalecdn.co:8080/live/26725074/92867131/4430.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Flix (West)
-http://raccoon.bz:8080/live/VFAzaRBhny/VFxmJERrHK/45181.ts
+http://vocotv.pro:80/live/10/12345/295772.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Flix (East)
-http://raccoon.bz:8080/live/VFAzaRBhny/VFxmJERrHK/45180.ts
+http://vocotv.pro:80/live/10/12345/295792.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Sony Movie Channel
 http://user.scalecdn.co:8080/live/26725074/92867131/2412.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HDNET Movies
@@ -6663,7 +6663,7 @@ http://kstv.us:8080/live/Babeboi11/9785992589/46651.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Mundo
 http://user.scalecdn.co:8080/live/26725074/92867131/40637.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HITN
-http://vocotv.pro:80/live/gast/gast/636619.ts
+http://vocotv.pro:80/live/10/12345/636619.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Taste Made en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Love Nautre en Español
@@ -6771,9 +6771,9 @@ http://103.111.40.242:9999/play/a02j/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Univision TL Novelas
-http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/1090591.ts
+http://vocotv.pro:80/live/10/12345/707047.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas (México)
-http://hardcoremedia.xyz:80/NW3Vk7xXwW/live/8375773282/253250.ts
+http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253250.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9d5d9e-7b2e-11ef-9e52-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3879f173-1091-4b31-a197-b44138458061&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Novelas Channel
@@ -7043,13 +7043,13 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cubavisión
 http://vocotv.pro:80/live/gast/gast/280200.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",SUR Perú
-http://vocotv.pro:80/live/gast/gast/707056.ts
+http://vocotv.pro:80/live/10/12345/707056.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Milenio
 http://hardcoremedia.xyz:80/live/BG992263/38692743/253231.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
-http://hardcoremedia.xyz:80/live/BG992263/38692743/253204.ts
+http://vocotv.pro:80/live/10/12345/716865.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401497541.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Media
