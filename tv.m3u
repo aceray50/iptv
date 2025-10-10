@@ -1116,7 +1116,7 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Lakewood CityTV (Lakewood CA)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/lakewood/live/ch1/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",L.A. CityView Channel 35 (Los Angeles CA)
-https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+https://reflect-losangeles.cablecast.tv/live/stream-2/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",L.A. 36 Local Television (Los Angeles CA)
 http://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Santa Monica City TV 20 (Santa Monica CA)
@@ -2269,12 +2269,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff
 #EXTINF:0 tvg-logo="" group-title="Children Channels",RetroCrush
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/mainManifest.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="Network Channels",FreeCast Sneak Preview
-https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Made In Hollywood by Movie Fone
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Network Channels",REV'N
-http://hls-live-stream-gc.cdn01.net/mpegts/232076_1278937/vpwM2si7O4I8SmEgGc6yIA/1744747151/media_mpegts_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Power Nation
 https://amg01258-amg01258c5-circle-worldwide-2862.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationroku-circleworldwide/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AWE
@@ -2284,7 +2280,7 @@ https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MeTV
 http://kstv.us:8080/live/Babeboi11/9785992589/44205.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MeTV+
-http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/42801.ts
+http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/607734.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION
 https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION Plus
