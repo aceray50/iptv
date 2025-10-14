@@ -6259,195 +6259,255 @@ http://rfcm.streamguys1.com/sailingpremium-mp3
 #EXTINF:0 tvg-logo="" group-title="Music",TuneIn Smooth Jazz
 http://rfcm.streamguys1.com/smoothjazzpremium-mp3
 
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hit List
-http://kstv.us:8080/live/Babeboi11/9785992589/47978.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Music Choice Max
-http://kstv.us:8080/live/Babeboi11/9785992589/48002.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hit List (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260656.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Music Choice Max (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260697.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Dance EDM
 http://kstv.us:8080/live/Babeboi11/9785992589/47958.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Dance
 http://kstv.us:8080/live/Babeboi11/9785992589/47944.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop And R&B
-http://kstv.us:8080/live/Babeboi11/9785992589/47975.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rap
-http://kstv.us:8080/live/Babeboi11/9785992589/48014.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Mainstream Rap
-http://kstv.us:8080/live/Babeboi11/9785992589/47995.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Underground Hip-Hop
-http://kstv.us:8080/live/Babeboi11/9785992589/48049.ts
+http://hardcoremedia.xyz:80/BG992263/38692743/237626
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop And R&B (Audio Channel)
+http://hardcoremedia.xyz:80/liveBG992263/38692743/260655.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rap (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260720.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Mainstream Rap (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260721.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Underground Hip-Hop (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260734.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop Classics
-http://kstv.us:8080/live/Babeboi11/9785992589/47976.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237628.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop Classics (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260724.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Throwback Jams
-http://kstv.us:8080/live/Babeboi11/9785992589/48044.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Funk
-http://kstv.us:8080/live/Babeboi11/9785992589/47970.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Groove
-http://kstv.us:8080/live/Babeboi11/9785992589/48018.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Soul
-http://kstv.us:8080/live/Babeboi11/9785992589/48020.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Slow Jams
-http://kstv.us:8080/live/Babeboi11/9785992589/48019.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237629.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Throwback Jams (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260723.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Funk (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260733.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Groove (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260729.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Soul (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260661.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Slow Jamz (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260730.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Classics
-http://kstv.us:8080/live/Babeboi11/9785992589/48017.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | ALT R&B
-http://kstv.us:8080/live/Babeboi11/9785992589/47926.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Freestyle
-http://kstv.us:8080/live/Babeboi11/9785992589/47969.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237630.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Classics (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260722.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | ALT R&B (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260731.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Today's R&B
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237631.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Freestyle (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260728.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Gospel
-http://kstv.us:8080/live/Babeboi11/9785992589/47971.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Reggae
-http://kstv.us:8080/live/Babeboi11/9785992589/48021.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rock
-http://kstv.us:8080/live/Babeboi11/9785992589/48025.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hard Rock
-http://kstv.us:8080/live/Babeboi11/9785992589/47973.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Metal
-http://kstv.us:8080/live/Babeboi11/9785992589/47998.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Alternative
-http://kstv.us:8080/live/Babeboi11/9785992589/47998.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237632.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Gospel (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260764.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Reggae (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260732.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rock (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260662.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hard Rock (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260748.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Metal (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260751.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Alternative (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260754.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Adult Alternative
-http://kstv.us:8080/live/Babeboi11/9785992589/47925.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Alternative
-http://kstv.us:8080/live/Babeboi11/9785992589/47941.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rock Hits
-http://kstv.us:8080/live/Babeboi11/9785992589/48026.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237637.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Adult Alternative (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260755.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Alternative (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260753.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rock
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237634.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rock Hits (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260748.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Rock
-http://kstv.us:8080/live/Babeboi11/9785992589/47946.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237639.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Rock (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260747.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Soft Rock
-http://kstv.us:8080/live/Babeboi11/9785992589/48033.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237640.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Soft Rock (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260703.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Yacht Rock
-http://kstv.us:8080/live/Babeboi11/9785992589/48057.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Love Songs
-http://kstv.us:8080/live/Babeboi11/9785992589/47993.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237635.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Yacht Rock (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260700.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Love Songs (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260705.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop Hits
-http://kstv.us:8080/live/Babeboi11/9785992589/48012.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Party Favorites
-http://kstv.us:8080/live/Babeboi11/9785992589/48008.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Teen Beats
-http://kstv.us:8080/live/Babeboi11/9785992589/48041.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237642.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop Hits (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260673.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Party Favorites (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260698.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Teen Beats (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260665.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Kids Only
 http://kstv.us:8080/live/Babeboi11/9785992589/47883.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Toddler Tunes
 http://kstv.us:8080/live/Babeboi11/9785992589/48046.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Malt Shop Favorites
-http://kstv.us:8080/live/Babeboi11/9785992589/47996.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Singer & Swinging
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237668.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Feel-Good Favorites
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237624.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Malt Shop Favorites (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260706.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Solid Gold Oldies
-http://kstv.us:8080/live/Babeboi11/9785992589/48034.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '60s
-http://kstv.us:8080/live/Babeboi11/9785992589/47907.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '60s Rock
-http://kstv.us:8080/live/Babeboi11/9785992589/47906.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '60s British Invasion
-http://kstv.us:8080/live/Babeboi11/9785992589/47905.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237651.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Solid Gold Oldies (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260692.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '60s Generation
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237650.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '60s (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260702.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '60s Rock (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260744.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '60s British Invasion (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260743.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s
-http://kstv.us:8080/live/Babeboi11/9785992589/47908.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s Rock
-http://kstv.us:8080/live/Babeboi11/9785992589/47909.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237649.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260693.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s Rock (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260745.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s Soul (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260717.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s & '80s Favorites
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237646.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s
-http://kstv.us:8080/live/Babeboi11/9785992589/47912.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s One Hit Wonders
-http://kstv.us:8080/live/Babeboi11/9785992589/47914.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s Rock
-http://kstv.us:8080/live/Babeboi11/9785992589/47916.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237648.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260701.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s One Hit Wonders (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260696.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s Rock (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260749.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s
-http://kstv.us:8080/live/Babeboi11/9785992589/47918.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s Club Hits
-http://kstv.us:8080/live/Babeboi11/9785992589/47919.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s Hip-Hop
-http://kstv.us:8080/live/Babeboi11/9785992589/47921.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s R&B
-http://kstv.us:8080/live/Babeboi11/9785992589/47922.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s Rock
-http://kstv.us:8080/live/Babeboi11/9785992589/47923.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Y2K
-http://kstv.us:8080/live/Babeboi11/9785992589/48056.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Y2K Rap
-http://kstv.us:8080/live/Babeboi11/9785992589/48015.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Y2K R&B
-http://kstv.us:8080/live/Babeboi11/9785992589/48016.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | 2010s
-http://kstv.us:8080/live/Babeboi11/9785992589/47904.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237647.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260674.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s Club Hits (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260719.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s Hip-Hop (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260727.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s R&B (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260785.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s Rock (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260746.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Y2K (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260699.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Y2K Rap (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260725.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Y2K R&B (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260726.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | 2010s (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260695.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Christmas
-http://kstv.us:8080/live/Babeboi11/9785992589/47942.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237670.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Christmas (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260776.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop And Country
-http://kstv.us:8080/live/Babeboi11/9785992589/48011.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237652.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop And Country (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260660.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Today's Country
-http://kstv.us:8080/live/Babeboi11/9785992589/48045.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Country Hits
-http://kstv.us:8080/live/Babeboi11/9785992589/47953.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237653.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Today's Country (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260672.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Country Hits (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260708.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Country
-http://kstv.us:8080/live/Babeboi11/9785992589/47943.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237655.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Country (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260709.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Contemporary Christian
-http://kstv.us:8080/live/Babeboi11/9785992589/47949.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop Latino
-http://kstv.us:8080/live/Babeboi11/9785992589/48013.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Musica Urbana
-http://kstv.us:8080/live/Babeboi11/9785992589/48003.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Mexicana
-http://kstv.us:8080/live/Babeboi11/9785992589/47886.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237633.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Contemporary Christian (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260765.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop Latino (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260735.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Musica Urbana (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260736.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Mexicana (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260739.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Tropicales
-http://kstv.us:8080/live/Babeboi11/9785992589/48047.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Romances
-http://kstv.us:8080/live/Babeboi11/9785992589/48029.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237644.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Tropicales (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260737.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Romantic Latin Pop
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237645.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Today's Latin Hits
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237643.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Romances (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260738.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Sounds of The Seasons
-http://kstv.us:8080/live/Babeboi11/9785992589/48035.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Stage And Screen
-http://kstv.us:8080/live/Babeboi11/9785992589/48037.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Smooth Jazz
-http://kstv.us:8080/live/Babeboi11/9785992589/48032.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237671.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Sounds of The Seasons (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260777.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Stage And Screen (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260781.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Smooth Jazz (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260663.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Choice Blues
 http://kstv.us:8080/live/Babeboi11/9785992589/47934.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Singers And Swing
-http://kstv.us:8080/live/Babeboi11/9785992589/48030.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Easy Listening
-http://kstv.us:8080/live/Babeboi11/9785992589/47964.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classical Masterpieces
-http://kstv.us:8080/live/Babeboi11/9785992589/47947.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Light Classical
-http://kstv.us:8080/live/Babeboi11/9785992589/47991.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237669.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Easy Listening (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260691.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classical Masterpieces (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260759.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Light Classical (Audio Channel)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260658.ts
 
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Hit List
-http://kstv.us:8080/live/Babeboi11/9785992589/47882.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Dance/EDM
-http://kstv.us:8080/live/Babeboi11/9785992589/47879.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Kidz Only!
-http://kstv.us:8080/live/Babeboi11/9785992589/47883.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Tropicales
-http://kstv.us:8080/live/Babeboi11/9785992589/47901.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop Latino
-http://kstv.us:8080/live/Babeboi11/9785992589/47891.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Musica Urbana
-http://kstv.us:8080/live/Babeboi11/9785992589/47888.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Mexicana
-http://kstv.us:8080/live/Babeboi11/9785992589/47886.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Today's Country
-http://kstv.us:8080/live/Babeboi11/9785992589/47899.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop & Country
-http://kstv.us:8080/live/Babeboi11/9785992589/47889.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop Hits
-http://kstv.us:8080/live/Babeboi11/9785992589/47890.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Alternative
-http://kstv.us:8080/live/Babeboi11/9785992589/47877.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | R&B/Soul
-http://kstv.us:8080/live/Babeboi11/9785992589/47894.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Rap
-http://kstv.us:8080/live/Babeboi11/9785992589/47892.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Rap 2K
-http://kstv.us:8080/live/Babeboi11/9785992589/47893.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Throwback Jamz
-http://kstv.us:8080/live/Babeboi11/9785992589/47898.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Hip-Hop/R&B
-http://kstv.us:8080/live/Babeboi11/9785992589/47881.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Teen Beats
-http://kstv.us:8080/live/Babeboi11/9785992589/47897.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Toddler Tunes
-http://kstv.us:8080/live/Babeboi11/9785992589/47900.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | 80's
-http://kstv.us:8080/live/Babeboi11/9785992589/47875.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | 90's
-http://kstv.us:8080/live/Babeboi11/9785992589/47876.ts
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Y2K
-http://kstv.us:8080/live/Babeboi11/9785992589/47902.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Hit List (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260667.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Dance/EDM (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260677.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Kidz Only! (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260676.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Tropicales (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260688.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop Latino (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260684.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Musica Urbana (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260675.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Mexicana (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260689.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Today's Country (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260670.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop & Country (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260680.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Pop Hits (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260679.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Alternative (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260678.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | R&B/Soul (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260681.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Rap (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260685.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Rap 2K (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260687.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Throwback Jamz (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260686.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Hip-Hop/R&B (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260668.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Teen Beats (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260669.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Toddler Tunes (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260690.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | 80's (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260651.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | 90's (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260652.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Y2K (Music Videos)
+http://hardcoremedia.xyz:80/live/BG992263/38692743/260683.ts
 
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Galavisión
 http://kstv.us:8080/live/Babeboi11/9785992589/23307.ts
@@ -7537,7 +7597,7 @@ http://kstv.us:8080/live/Babeboi11/9785992589/40629.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",RDS 2 (Canada)
 http://kstv.us:8080/live/Babeboi11/9785992589/40628.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",NBA TV (Canada)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3092.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129736.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",NFL Network (Canada)
 http://kstv.us:8080/live/Babeboi11/9785992589/40584.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Sportsnet 360 (Canada)
