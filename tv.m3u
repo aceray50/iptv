@@ -1,290 +1,290 @@
 #EXTM3U
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCBS-TV CBS 2 (Los Angeles CA)
-http://212.102.60.231/CA_Los_Angeles_CBS/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9865.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNBC-TV NBC 4 (Los Angeles CA)
-http://212.102.60.231/CA_Los_Angeles_NBC/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10121.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KTLA-TV CW 5 (Los Angeles CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48787.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117093.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KABC-TV ABC 7 (Los Angeles CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48784.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9774.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels (Not 24/7)",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48786.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9864.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTTV-TV FOX 11 (Los Angeles CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48788.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9995.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
 http://kstv.us:8080/live/Babeboi11/9785992589/48789.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCBS-TV CBS 2 (New York NY)
-http://212.102.60.231/CBSEAST/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9934.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNBC-TV NBC 4 (New York NY)
-http://212.102.60.231/NBC_EAST/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10227.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WNYW-TV FOX 5 (New York NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/23322.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10056.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WABC-TV ABC 7 (New York NY)
-http://212.102.60.231/ABC_EAST/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/142490.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/23214.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117216.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WPIX-TV CW 11 (PIX 11+) (New York NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/22466.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117280.ts
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WLNY-TV CBS/Ind. 10/55 (New York NY)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89717.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117221.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBBM-TV CBS 2 (Chicago IL)
-http://212.102.60.231/IL_Chicago_CBS/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9893.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WMAQ-TV NBC 5 (Chicago IL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48876.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10159.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WLS-TV ABC 7 (Chicago IL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48872.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9795.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WGN-TV CW 9 (Chicago IL)
-http://212.102.60.231/WGN/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129979.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFLD-TV FOX 32 (Chicago IL)
-http://212.102.60.231/IL_Chicago_FOX/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10024.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48875.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129925.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WJBK-TV FOX 2 (Detroit MI)
-http://212.102.60.231/MI_Detroit_FOX/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10038.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WDIV-TV NBC 4 (Detroit MI)
-http://kstv.us:8080/live/Babeboi11/9785992589/48930.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10188.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WXYZ-TV ABC 7 (Detroit MI)
-http://cord-cutter.net:8080/live/95549031/69361122/120855.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9806.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WMYD-TV MyNetworkTV 20 (Detroit MI)
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401596441.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WKBD-TV CW 50 (Detroit MI)
-http://kstv.us:8080/live/Babeboi11/9785992589/48928.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117173.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WWJ-TV CBS 62 (Detroit MI)
-http://212.102.60.231/MI_Detroit_CBS/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9912.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCCO-TV CBS 4 (Minneapolis/St. Paul MN)
-http://kstv.us:8080/live/Babeboi11/9785992589/48938.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9915.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KSTP-TV ABC 5 (Minneapolis/St. Paul MN)
-http://kstv.us:8080/live/Babeboi11/9785992589/48943.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9808.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KMSP-TV FOX 9 (Minneapolis/St. Paul MN)
-http://kstv.us:8080/live/Babeboi11/9785992589/48940.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10042.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KARE-TV NBC 11 (Minneapolis/St. Paul MN)
-http://kstv.us:8080/live/Babeboi11/9785992589/48942.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10194.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WUCW-TV CW 23 (Minneapolis/St. Paul MN)
-http://kstv.us:8080/live/Babeboi11/9785992589/48939.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117180.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WFTC-TV MyNetworkTV 29 (FOX 9+) (Minneapolis/St. Paul MN)
 http://kstv.us:8080/live/Babeboi11/9785992589/48941.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KYW-TV CBS 3 (Philadelphia PA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49054.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9950.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WPVI-TV ABC 6 (Philadelphia PA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49053.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9834.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCAU-TV NBC 10 (Philadelphia PA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49058.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10252.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WHPL-TV CW 17 (Philadelphia PA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/433308.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTXF-TV FOX 29 (Philadelphia PA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49056.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10069.ts
 #EXTINF:0 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/08/philly-57-logo-768x434.jpg" group-title="Local Channels (Not 24/7)",WPSG-TV Ind. Philly 57 (Philadelphia PA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49055.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117116.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png" group-title="Local Channels (Not 24/7)",WFMZ-TV Ind. 69 (Philadelphia PA)
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/182434.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBZ-TV CBS 4 (Boston MA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48912.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9905.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WCVB-TV ABC 5 (Boston MA)
 http://kstv.us:8080/live/Babeboi11/9785992589/48911.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBTS-LD NBC 10 (Boston MA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48916.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10182.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFXT-CD FOX 25 (Boston MA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48913.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10034.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WSBK-TV Ind. 38 (Boston MA)
 http://kstv.us:8080/live/Babeboi11/9785992589/48914.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WLVI-TV CW 56 (Boston MA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/629809.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KDKA-TV CBS 2 (Pittsburgh PA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49060.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9951.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTAE-TV ABC 4 (Pittsburgh PA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49059.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9835.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WPXI-TV NBC 11 (Pittsburgh PA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49063.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10253.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WPCW-TV CW 19 (KDKA+) (Pittsburgh PA)
 http://kstv.us:8080/live/Babeboi11/9785992589/49061.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WPGH-CD FOX 53 (Pittsburgh PA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49062.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/229658.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WFSB-TV CBS 3 (Hartford CT)
-http://kstv.us:8080/live/Babeboi11/9785992589/48808.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9873.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTNH-TV ABC 8 (Hartford CT)
-http://kstv.us:8080/live/Babeboi11/9785992589/48810.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9779.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WVIT-TV NBC 30 (Hartford CT)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2456.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10131.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTIC-CD TV FOX 61 (Hartford CT)
-http://kstv.us:8080/live/Babeboi11/9785992589/48809.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10004.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WFOR-TV CBS 4 (Miami FL)
-http://212.102.60.231/FL_Miami_CBS/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9877.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVJ-TV NBC 6 (Miami FL)
-http://212.102.60.231/FL_Miami_NBC/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10137.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WSVN-TV FOX 7 (Miami FL)
-http://212.102.60.231/FL_Miami_FOX/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10008.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WPLG-TV ABC 10 (Miami FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48823.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9784.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WBFS-TV CW/MyNetworkTV 33 (Miami FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48828.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117128.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WSFL-TV CW/Ind. 39 (Miami FL)
 http://kstv.us:8080/live/Babeboi11/9785992589/48826.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WFLA-TV NBC 8 (Tampa Bay FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48842.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10142.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTSP-DT CBS 10 (Tampa Bay FL)
 http://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTVT-TV FOX 13 (Tampa Bay FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48841.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10012.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WFTS-TV ABC 28 (Tampa Bay FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48839.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9789.ts
 #EXTINF:0 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/08/tampa-bay-44-logo-768x434.jpg" group-title="Local Channels (Not 24/7)",WTOG-TV Ind. 44 (Tampa Bay FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48837.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117114.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WESH-TV NBC 2 (Orlando FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48814.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10139.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WKMG-TV CBS 6 (Orlando FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48833.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9879.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WFTV-TV ABC 9 (Orlando FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48832.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9786.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WKCF-TV CW 18 (Orlando FL)
-http://212.102.60.231/CW_ORLANDO/index.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117129.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WOFL-TV FOX 35 (Orlando FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48834.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10011.ts
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SuperChannel_2021.png" group-title="Local Channels (Not 24/7)",WACX-TV 55.1 SuperChannel Orlando (Orlando FL)
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48835.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117130.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WOGX-TV FOX 51 (Ocala/Gainsville FL)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2542.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10010.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WWSB-TV ABC 7 (Sarasota FL)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/112252.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9788.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOB-TV NBC 4 (Albuquerque NM)
 http://kstv.us:8080/live/Babeboi11/9785992589/48981.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KOAT-TV ABC 7 (Albuquerque NM)
 http://kstv.us:8080/live/Babeboi11/9785992589/48979.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KRQE-TV CBS 13.1 (Albuquerque NM)
-http://kstv.us:8080/live/Babeboi11/9785992589/48980.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9929.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KRQE-TV FOX 13.2 (Albuquerque NM)
 http://kstv.us:8080/live/Babeboi11/9785992589/48980.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KDBC-TV CBS 4 (El Paso TX)
 http://kstv.us:8080/live/Babeboi11/9785992589/49108.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KVIA-TV ABC 7 (El Paso TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49107.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9843.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTSM-TV NBC 9 (El Paso TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49110.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10275.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KFOX-TV FOX 14 (El Paso TX)
 http://kstv.us:8080/live/Babeboi11/9785992589/49109.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KIII-TV ABC 3 (Corpus Christi TX)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/721023.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KRIS-TV NBC 6 (Corpus Christi TX)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89823.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10274.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KZTV-TV CBS 10 (Corpus Christi TX)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89822.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9965.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KSCC-TV FOX 38 (Corpus Christi TX)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216549
+http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/216549.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCBD-TV NBC 11 (Lubbock TX)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38305.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KLBK-TV CBS 13 (Lubbock TX)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38304.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9971.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KAMC-TV ABC 28 (Lubbock TX)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38303.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9845.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KJTV-TV FOX 34 (Lubbock TX)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89843.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KCWX-TV MyNetworkTV 2 (San Antonio TX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WOAI-TV NBC 4.1 (San Antonio TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49124.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10283.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KENS-TV CBS 5 (San Antonio TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49122.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9973.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KSAT-TV ABC 12 (San Antonio TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49121.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9846.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KABB-TV FOX 29 (San Antonio TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49123.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10088.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49124.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117112.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49105.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10082.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KXAS-TV NBC 5 (Ft. Worth/Dallas TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49113.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10276.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WFAA-TV ABC 8 (Ft. Worth/Dallas TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49104.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9842.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVT-TV CBS 11 (Ft. Worth/Dallas TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49111.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9967.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/597158.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPRC-TV NBC 2 (Houston TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49120.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10277.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KHOU-TV CBS 8 (Houston TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49117.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9970.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KTRK-TV ABC 13 (Houston TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49116.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9844.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49119.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117266.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KRIV-TV FOX 26 (Houston TX)
 http://kstv.us:8080/live/Babeboi11/9785992589/49118.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KIAH-TV CW 39 (Houston TX)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/643838.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117265.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTBC-TV FOX 7 (Austin TX)
 http://kstv.us:8080/live/Babeboi11/9785992589/49097.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KVUE-TV ABC 24 (Austin TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49095.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9840.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KXAN-TV NBC 36 (Austin TX)
-http://kstv.us:8080/live/Babeboi11/9785992589/49099.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10271.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KEYE-TV CBS 42 (Austin TX)
 http://kstv.us:8080/live/Babeboi11/9785992589/49096.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WWL-TV CBS 4 (New Orleans LA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48905.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9903.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WDSU-TV NBC 6 (New Orleans LA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48765.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10180.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WVUE-TV FOX 8 (New Orleans LA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48906.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/166859.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WGNO-TV ABC 26 (New Orleans LA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48904.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9801.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WBRZ-TV ABC 2 (Baton Rouge LA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48899.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9800.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WAFB-TV CBS 9 (Baton Rouge LA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48901.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9901.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WVLA-TV NBC 33 (Baton Rouge LA)
 http://kstv.us:8080/live/Babeboi11/9785992589/48903.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WGMB-TV FOX 44 (Baton Rouge LA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48902.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10030.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KTBS-TV ABC 3 (Shreveport LA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48907.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9802.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTAL-TV NBC 6 (Shreveport LA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48910.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10181.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KSLA-TV CBS 12 (Shreveport LA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48908.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9904.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KMSS-TV FOX 33 (Shreveport LA)
 http://kstv.us:8080/live/Babeboi11/9785992589/48909.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/1280px-KTVK_logo.svg.png" group-title="Local Channels (Not 24/7)",KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38298.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9860.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPHO-TV CBS 5 (Phoenix AZ)
-http://kstv.us:8080/live/Babeboi11/9785992589/48775.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9859.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KSAZ-TV FOX 10.1 (Phoenix AZ)
 http://kstv.us:8080/live/Babeboi11/9785992589/48776.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KSAZ-DT FOX Xtra 10.2/KUTP-TV MyNetworkTV 45 (Phoenix AZ)
 http://kstv.us:8080/live/Babeboi11/9785992589/48776.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPNX-TV NBC 12 (Phoenix AZ)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2444.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10114.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KNXV-TV ABC 15 (Phoenix AZ)
-http://kstv.us:8080/live/Babeboi11/9785992589/48774.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9772.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KVOA-TV NBC 4 (Tucson AZ)
-http://kstv.us:8080/live/Babeboi11/9785992589/48779.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10115.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KGUN-TV ABC 9 (Tucson AZ)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/600301.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KMSB-TV FOX 11 (Tucson AZ)
 http://kstv.us:8080/live/Babeboi11/9785992589/48778.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOLD-TV CBS 13 (Tucson AZ)
-http://kstv.us:8080/live/Babeboi11/9785992589/48777.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9861.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KSNV-TV NBC 3 (Las Vegas NV)
-http://kstv.us:8080/live/Babeboi11/9785992589/48985.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10221.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KVVU-TV FOX 5 (Las Vegas NV)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89699.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10054.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KLAS-TV CBS 8 (Las Vegas NV)
-http://kstv.us:8080/live/Babeboi11/9785992589/48983.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9930.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KTNV-TV ABC 13 (Las Vegas NV)
-http://kstv.us:8080/live/Babeboi11/9785992589/48982.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9821.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KVCW-TV CW 33 (Las Vegas NV)
-http://kstv.us:8080/live/Babeboi11/9785992589/48984.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117111.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KSWB-TV FOX 5/69 (San Diego CA)
 http://kstv.us:8080/live/Babeboi11/9785992589/48798.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNSD-TV NBC 7/39 (San Diego CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48799.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10125.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KFMB-TV CBS 8.1 (8+) (San Diego CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48796.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9867.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA)
 http://kstv.us:8080/live/Babeboi11/9785992589/48797.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KGTV-TV ABC 10 (San Diego CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48795.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9776.ts
 #EXTINF:0 tvg-logo="" group-title="Local Channels (Not 24/7)",KUSI-TV Ind. 51 (San Diego CA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/710371.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPSP-CD CBS 2/38 (Palm Springs CA)
@@ -296,71 +296,67 @@ http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/183058.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KDFX-CA FOX 11/33 (Palm Springs CA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/696419.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KMIR-TV NBC 36 (Palm Springs CA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89444.ts
-#EXTINF:0 tvg-logo="" group-title="Local Channels (Not 24/7)",W14DK-TV 14.4 WX Channel (Dagsboro DE)
-https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Local Channels (Not 24/7)",WCOT-TV Ind. 13 (Tallahassee FL)
-https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10122.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/WJXT_Logo_2014.png" group-title="Local Channels (Not 24/7)",WJXT-TV 4 Ind. (Jacksonville FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48822.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117127.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTLV-TV NBC 12 (Jacksonville FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48821.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10136.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WCWJ-TV CW 17 (Jacksonville FL)
 http://kstv.us:8080/live/Babeboi11/9785992589/48819.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WJXX-TV ABC 25 (Jacksonville FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48817.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9783.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFOX-TV FOX 30 (Jacksonville FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48820.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10007.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WJAX-TV CBS 47 (Jacksonville FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48818.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9876.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WPTV-TV NBC 5 (West Palm Beach FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48845.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10143.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WPEC-TV CBS 12 (West Palm Beach FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48843.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9881.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WPBF-TV ABC 25 (West Palm Beach FL)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/672344.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9790.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFLX-TV FOX 29 (West Palm Beach FL)
 http://kstv.us:8080/live/Babeboi11/9785992589/48844.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WTVX-TV CW 34 (West Palm Beach FL)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/630216.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117137.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFTX-TV FOX 4 (Naples FL)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89482.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10009.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WZVN-TV ABC 7 (Naples FL)
 http://kstv.us:8080/live/Babeboi11/9785992589/48831.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WINK-TV CBS 11 (Naples FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48815.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9878.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBBH-TV NBC 20 (Naples FL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48816.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10138.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KARK-TV NBC 4 (Litlle Rock AR)
-http://kstv.us:8080/live/Babeboi11/9785992589/48772.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10112.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KATV-TV ABC 7 (Litlle Rock AR)
-http://kstv.us:8080/live/Babeboi11/9785992589/48769.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/11198.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTHV-TV CBS 11 (Litlle Rock AR)
-http://kstv.us:8080/live/Babeboi11/9785992589/48770.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9858.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KLRT-TV FOX 16 (Litlle Rock AR)
-http://kstv.us:8080/live/Babeboi11/9785992589/48771.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9992.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WBRC-TV FOX 6 (Birmingham AL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48756.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9987.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WVTM-TV NBC 13 (Birmingham AL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48757.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10105.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WIAT-TV CBS 42 (Birmingham AL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48755.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9855.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WABM-TV ABC 68 (Birmingham AL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48754.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117194.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WHNT-TV CBS 19 (Huntsville AL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48759.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/11641.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WAAY-TV ABC 31 (Huntsville AL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48758.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9769.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WAFF-TV NBC 48 (Huntsville AL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48761.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10107.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WZDX-TV FOX 54 (Huntsville AL)
-http://kstv.us:8080/live/Babeboi11/9785992589/48760.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9989.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTVI-TV FOX 2 (St. Louis MO)
-http://kstv.us:8080/live/Babeboi11/9785992589/48955.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10045.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KMOV-TV CBS 4 (St. Louis MO)
-http://kstv.us:8080/live/Babeboi11/9785992589/48954.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9919.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KSDK-TV NBC 5 (St. Louis MO)
-http://kstv.us:8080/live/Babeboi11/9785992589/48956.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10199.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KPLR-TV CW 11 (St. Louis MO)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/597163.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KDNL-TV ABC 30 (St. Louis MO)
@@ -401,30 +397,24 @@ http://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
 http://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KYOU-DT CW+ 15.4 (Ottumwa IA)
 http://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-#EXTINF:0 tvg-logo="https://www.beach-fun.com/media/zoo/images/TVD_Logo_Black_07ad723e109227c715c35635684f219a.png" group-title="Local Channels (Not 24/7)",W14DK-D-TV 14.1 Delmarva (Dagsboro DE)
-https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="Local Channels (Not 24/7)",W14DK-D-TV 14.2 NEWSNET (Dagsboro DE)
-https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/700754-all-sports-logo-300x142.png" group-title="Local Channels (Not 24/7)",W14DK-D-TV 14.5 All Sports Television Network (Dagsboro DE)
-https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WREG-TV CBS 3 (Memphis TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49086.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9962.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WMC-TV NBC 5 (Memphis TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49088.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10267.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WHBQ-TV FOX 13 (Memphis TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49087.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10078.ts
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/WYPL_Memphis_20018.png" group-title="Local Channels (Not 24/7)",WYPL-TV 18 (Memphis TN)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WATN-TV ABC 24 (Memphis TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49085.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9838.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WKRN-TV ABC 2 (Nashville TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49089.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9839.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WSMV-TV NBC 4 (Nashville TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49094.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10268.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVF-TV CBS 5 (Nashville TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49090.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9963.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WZTV-TV FOX 17.1 (Nashville TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49092.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10079.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WZTV-DT CW 17.2 (Nashville TN)
 http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/183472.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WUXP-TV MyNetworkTV 30 (Nashville TN)
@@ -432,205 +422,205 @@ http://kstv.us:8080/live/Babeboi11/9785992589/49093.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WNAB-TV CW 58 (Nashville TN)
 http://kstv.us:8080/live/Babeboi11/9785992589/49091.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WATE-TV ABC 6 (Knoxville TN)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/620009.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/14763.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WVLT-TV CBS 8 (Knoxville TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49082.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9961.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBIR-TV NBC 10 (Knoxville TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49084.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10266.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTNZ-TV FOX 43 (Knoxville TN)
 http://kstv.us:8080/live/Babeboi11/9785992589/49083.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WRCB-TV NBC 3 (Chattanooga TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49081.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10264.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVC-TV ABC 9.1 (Chattanooga TN)
 http://kstv.us:8080/live/Babeboi11/9785992589/49080.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTVC-DT FOX 9.2 (Chattanooga TN)
 http://kstv.us:8080/live/Babeboi11/9785992589/49080.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WDEF-TV CBS 12 (Chattanooga TN)
-http://kstv.us:8080/live/Babeboi11/9785992589/49079.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9960.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTVU-TV FOX 2 (San Francisco CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/47678.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9996.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KRON-TV CW 4 (San Francisco CA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/597171.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KPIX-TV CBS 5 (San Francisco CA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/30135.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9868.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KGO-TV ABC 7 (San Francisco CA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2669.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9777.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNTV-TV NBC 10 (San Francisco CA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2438.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10126.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89459.ts
 #EXTINF:0 tvg-logo="" group-title="Local Channels (Not 24/7)",KBCW-TV CW/Ind. 44 (KPIX+) (San Francisco CA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/34433.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCRA-TV NBC 3 (Sacramento CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48794.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10123.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KXTV-TV ABC 10 (Sacramento CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48791.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9775.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOVR-TV CBS 13 (Stockton/Sacramento CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48800.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9870.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTXL-TV FOX 40 (Sacramento CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48793.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9997.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KMAX-TV CW 31 (Sacramento CA)
 http://kstv.us:8080/live/Babeboi11/9785992589/48792.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KSEE-TV NBC 24 (Fresno CA)
 http://kstv.us:8080/live/Babeboi11/9785992589/48783.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KMPH-TV FOX 26 (Fresno CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48782.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237672.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KFSN-TV ABC 30 (Fresno CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48780.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9773.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGPE-TV CBS 47 (Fresno CA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48781.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9863.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WFRE-TV CW 59 (Fresno CA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/629104.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WSB-TV ABC 2 (Atlanta GA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48847.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9791.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WAGA-TV FOX 5 (Atlanta GA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48849.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10015.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WXIA-TV NBC 11 (Atlanta GA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48850.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10145.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WPCH-TV Peachtree TV CW 17 (Atlanta GA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38244.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WANF-TV CBS 46 (Atlanta GA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2652.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9882.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WUPA-TV CBS/Ind. 69 (Atlanta GA)
-http://kstv.us:8080/live/Babeboi11/9785992589/48848.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117118.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WJBF-TV ABC 6 (Augusta GA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38284.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9792.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WRDW-DT CBS 12 (Augusta GA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89519.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9883.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WAGT-TV NBC 26 (Augusta GA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89521.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10146.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFXG-TV FOX 54 (Augusta GA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89520.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10016.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WRBL-DT CBS 3 (Columbus GA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/640216.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/11199.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVM-TV ABC 9 (Columbus GA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/600289.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WLTZ-TV NBC 38 (Columbus GA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89523.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10147.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTVX-TV FOX 54 (Columbus GA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89522.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBTV-TV CBS 3 (Charlotte NC)
-http://kstv.us:8080/live/Babeboi11/9785992589/48963.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9923.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WSOC-TV ABC 9 (Charlotte NC)
-http://kstv.us:8080/live/Babeboi11/9785992589/48962.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9815.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCNC-TV NBC 36 (Charlotte NC)
-http://kstv.us:8080/live/Babeboi11/9785992589/48964.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10211.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WJZY-TV FOX 46 (Charlotte NC)
 http://kstv.us:8080/live/Babeboi11/9785992589/47688.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WRAL-TV NBC 5 (Raleigh NC)
-http://kstv.us:8080/live/Babeboi11/9785992589/48972.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10212.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVD-TV ABC 11 (Raleigh NC)
-http://kstv.us:8080/live/Babeboi11/9785992589/48965.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9817.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNCN-TV CBS 17 (Raleigh NC)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89668.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WLFL-TV CW 22 (Raleigh NC)
-http://kstv.us:8080/live/Babeboi11/9785992589/48970.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117195.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WRAZ-TV FOX 50 (Raleigh NC)
-http://kstv.us:8080/live/Babeboi11/9785992589/48971.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10050.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KWGN-TV CW 2 (Denver CO)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/630653.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCNC-TV CBS 4 (Denver CO)
-http://kstv.us:8080/live/Babeboi11/9785992589/48804.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9872.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KMGH-TV ABC 7 (Denver CO)
-http://kstv.us:8080/live/Babeboi11/9785992589/48803.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9778.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KUSA-TV NBC 9 (Denver CO)
-http://kstv.us:8080/live/Babeboi11/9785992589/48806.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10128.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KDVR-TV FOX 31 (Denver CO)
-http://kstv.us:8080/live/Babeboi11/9785992589/48805.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10003.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KMTV-TV CBS 3 (Omaha NE)
 http://kstv.us:8080/live/Babeboi11/9785992589/48976.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WOWT-TV NBC 6 (Omaha NE)
-http://kstv.us:8080/live/Babeboi11/9785992589/48978.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10218.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KETV-TV ABC 13 (Omaha NE)
 http://kstv.us:8080/live/Babeboi11/9785992589/48975.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KPTM-TV FOX 42 (Omaha NE)
 http://kstv.us:8080/live/Babeboi11/9785992589/48977.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WRIC-TV ABC 8 (Richmond VA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49132.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9848.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WUPV-TV CW 11 (Richmond VA)
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=551439&extension=ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WWBT-TV NBC 12 (Richmond VA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49134.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10290.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WRLH-TV FOX 35 (Richmond VA)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/630652.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WRC-TV NBC 4 (Washington DC)
-http://kstv.us:8080/live/Babeboi11/9785992589/48813.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10132.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTTG-TV FOX 5 (Washington DC)
-http://kstv.us:8080/live/Babeboi11/9785992589/47691.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10005.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WJLA-TV ABC 7 (Washington DC)
-http://kstv.us:8080/live/Babeboi11/9785992589/48812.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9780.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WUSA-TV CBS 9 (Washington DC)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/559692.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9874.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WCDW-TV CW 50 (Washington DC)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/630645.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WMAR-TV ABC 2 (Baltimore MD)
-http://kstv.us:8080/live/Babeboi11/9785992589/49014.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9804.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBAL-TV NBC 11 (Baltimore MD)
-http://kstv.us:8080/live/Babeboi11/9785992589/48921.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10184.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WJZ-TV CBS 13 (Baltimore MD)
-http://kstv.us:8080/live/Babeboi11/9785992589/48918.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9907.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WBFF-TV FOX 45 (Baltimore MD)
-http://kstv.us:8080/live/Babeboi11/9785992589/48920.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10036.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WNUV-TV CW 54 (Baltimore MD)
 http://kstv.us:8080/live/Babeboi11/9785992589/48919.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KION-TV CBS 5/46 (Monterey CA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89441.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9866.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KUTV-TV CBS 2 (Salt Lake City UT)
-http://kstv.us:8080/live/Babeboi11/9785992589/49129.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9975.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVX-TV ABC 4 (Salt Lake City UT)
-http://kstv.us:8080/live/Babeboi11/9785992589/49128.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9847.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KSL-TV NBC 5 (Salt Lake City UT)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/591882.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10287.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KSTU-TV FOX 13 (Salt Lake City UT)
-http://kstv.us:8080/live/Babeboi11/9785992589/49130.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10091.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KFOR-TV NBC 4 (Oklahoma City OK)
-http://kstv.us:8080/live/Babeboi11/9785992589/49040.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10243.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KOCO-TV ABC 5 (Oklahoma City OK)
-http://kstv.us:8080/live/Babeboi11/9785992589/49036.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9830.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KWTV-TV CBS 9 (Oklahoma City OK)
-http://kstv.us:8080/live/Babeboi11/9785992589/49037.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9944.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KOKH-TV FOX 25 (Oklahoma City OK)
 http://kstv.us:8080/live/Babeboi11/9785992589/49039.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KOCB-TV CW 34 (Oklahoma City OK)
 http://kstv.us:8080/live/Babeboi11/9785992589/49038.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCMH-TV NBC 4 (Columbus OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49027.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10235.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WSYX-TV ABC 6 (Columbus OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49024.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9828.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBNS-TV CBS 10 (Columbus OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49025.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9939.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTTE-TV FOX 28 (Columbus OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49026.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10060.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WWHO-TV CW 53 (Columbus OH)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/629939.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117115.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WKYC-TV NBC 3 (Cleveland OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49023.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10234.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WEWS-TV ABC 5 (Cleveland OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49020.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9827.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WJW-TV FOX 8 (Cleveland OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49022.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10059.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WOIO CBS 19 (Cleveland OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49021.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9941.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WLWT-TV NBC 5 (Cincinnati OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49019.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10233.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WCPO-TV ABC 9 (Cincinnati OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49015.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9826.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WKRC-TV CBS 12 (Cincinnati OH)
 http://kstv.us:8080/live/Babeboi11/9785992589/49023.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WSTR-TV MyNetworkTV 64 (Cincinnati OH)
 http://kstv.us:8080/live/Babeboi11/9785992589/49018.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WDTN-TV NBC 2 (Dayton OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49031.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10236.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WHIO-TV CBS 7 (Dayton OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49029.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9940.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WKEF-TV ABC 22 (Dayton OH)
 http://kstv.us:8080/live/Babeboi11/9785992589/49028.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WRGT-TV FOX 45 (Dayton OH)
 http://kstv.us:8080/live/Babeboi11/9785992589/49030.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTOL-TV CBS 7 (Toledo OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49033.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9942.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVG-TV ABC 13 (Toledo OH)
-http://kstv.us:8080/live/Babeboi11/9785992589/49032.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/13039.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNWO-TV NBC 24 (Toledo OH)
 http://kstv.us:8080/live/Babeboi11/9785992589/49035.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WUPW-TV FOX 36 (Toledo OH)
@@ -640,123 +630,123 @@ http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89735.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTTV-TV CBS 4 (Indianapolis IN)
 http://kstv.us:8080/live/Babeboi11/9785992589/47667.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WRTV-TV ABC 6 (Indianapolis IN)
-http://kstv.us:8080/live/Babeboi11/9785992589/48879.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9797.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTHR-TV NBC 13 (Indianapolis IN)
-http://kstv.us:8080/live/Babeboi11/9785992589/48881.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10166.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WXIN-TV FOX 59 (Indianapolis IN)
-http://kstv.us:8080/live/Babeboi11/9785992589/48880.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10026.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WGRZ-TV NBC 2 (Buffalo NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48995.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10225.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WIVB-TV CBS 4 (Buffalo NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48992.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9933.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WKBW-TV ABC 7 (Buffalo NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48990.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9823.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WNLO-TV CW 23 (Buffalo NY)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3048.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WUTV-TV FOX 29 (Buffalo NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48993.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/11640.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WNYO-TV MyNetworkTV 49 (Buffalo NY)
 http://kstv.us:8080/live/Babeboi11/9785992589/48994.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WRGB-TV CBS 6 (Albany NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/49006.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9936.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTEN-TV ABC 10 (Albany NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48986.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9822.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNYT-TV NBC 13 (Albany NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48989.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10223.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WCWN-TV CW 15 (Albany NY)
 http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/71303.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WXXA-TV FOX 23 (Albany NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48988.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10055.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WSTM-TV NBC 3 (Syracuse NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/49013.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10230.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVH-TV CBS 5 (Syracuse NY)
-http://kstv.us:8080/live/Babeboi11/9785992589/49010.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9937.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WSYR-TV ABC 9 (Syracuse  NY)
 http://kstv.us:8080/live/Babeboi11/9785992589/49008.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WSYT-TV FOX 68 (Syracuse NY)
 http://kstv.us:8080/live/Babeboi11/9785992589/49012.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCSH-TV NBC 6 (Portland ME)
-http://kstv.us:8080/live/Babeboi11/9785992589/48923.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10187.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WGME-TV CBS 13 (Portland ME)
-http://kstv.us:8080/live/Babeboi11/9785992589/48922.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9909.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WPFO-TV FOX 23 (Portland ME)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/2163
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KATU-TV ABC 2 (Portland OR)
-http://kstv.us:8080/live/Babeboi11/9785992589/49045.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9832.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOIN-TV CBS 6 (Portland OR)
-http://kstv.us:8080/live/Babeboi11/9785992589/49046.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9947.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGW-TV NBC 8 (Portland OR)
-http://kstv.us:8080/live/Babeboi11/9785992589/49048.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/11644.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KPTV-TV FOX 12 (Portland OR)
 http://kstv.us:8080/live/Babeboi11/9785992589/49047.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WLBT-TV NBC 3 (Jackson MS)
-http://kstv.us:8080/live/Babeboi11/9785992589/48960.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10202.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WJTV-TV CBS 12.1 (Jackson MS)
-http://kstv.us:8080/live/Babeboi11/9785992589/48958.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9922.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WJTV-DT CW 12.2 (Jackson MS)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/629826.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WAPT-TV ABC 16 (Jackson MS)
 http://kstv.us:8080/live/Babeboi11/9785992589/48957.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WDBD-TV FOX 40 (Jackson MS)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89656.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10047.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WISC-TV CBS 3 (Madison WI)
-http://kstv.us:8080/live/Babeboi11/9785992589/49152.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9983.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WMTV-TV NBC 15 (Madison WI)
 http://kstv.us:8080/live/Babeboi11/9785992589/49154.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WKOW-TV ABC 27 (Madison WI)
-http://kstv.us:8080/live/Babeboi11/9785992589/49151.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9852.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WMSN-TV FOX 47 (Madison WI)
 http://kstv.us:8080/live/Babeboi11/9785992589/49153.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTMJ-TV NBC 4 (Milwaukee WI)
-http://kstv.us:8080/live/Babeboi11/9785992589/49159.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10298.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WITI-TV FOX 6 (Milwaukee WI)
-http://kstv.us:8080/live/Babeboi11/9785992589/49158.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10100.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WVTV-TV CW 18 (Milwaukee WI)
-http://kstv.us:8080/live/Babeboi11/9785992589/49157.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117108.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WISN-TV ABC 12 (Milwaukee WI)
-http://kstv.us:8080/live/Babeboi11/9785992589/49155.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9853.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WDJT-TV CBS 58 (Milwaukee WI)
-http://kstv.us:8080/live/Babeboi11/9785992589/49156.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9984.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WBAY-TV ABC 2 (Green Bay WI)
-http://kstv.us:8080/live/Babeboi11/9785992589/49147.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9851.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WFRV-TV CBS 5 (Green Bay WI)
-http://kstv.us:8080/live/Babeboi11/9785992589/49148.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9981.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WLUK-TV FOX 11 (Green Bay WI)
-http://kstv.us:8080/live/Babeboi11/9785992589/49149.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/253384.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WCWF-TV CW 14 (Green Bay WI)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38283.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBGA-TV NBC 26 (Green Bay WI)
-http://kstv.us:8080/live/Babeboi11/9785992589/49150.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10295.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KREM-TV CBS 2 (Spokane WA)
 http://cbsplaylistserver.aws.syncbak.com/mpl/20160401/865666/5743360/media.m3u8?request_token=Z1-ZrI8l37vCBmH6YKlQZNFcvAXYiLJN8c0K9gQTvqeAS2QJAdKCNfJi781AV_GZ0FiNd9AuyH162KN25KKJ1iwvz5KrioIJ6D1yPHrvpZ68JmiHTY6U93wIgD_NiMxFXxR_tw_MCi_hka74r9ng6aLxngs2p8TTSlCW71SMmjHsk4wN7kcHLDtoRtcivA&CMCD=mtp%3D111600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ac2d9503-527a-4258-a660-a8841776bd7c%22
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KOMO-TV ABC 4 (Seattle WA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49140.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9850.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KING-TV NBC 5 (Seattle WA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49142.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10293.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KIRO-TV CBS 7 (Seattle WA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49141.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9978.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KSTW-TV CW/Ind. 11 (Seattle WA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49145.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117275.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KCPQ-TV FOX 13 (Seattle WA)
-http://kstv.us:8080/live/Babeboi11/9785992589/49146.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10097.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WAVE-TV NBC 3 (Louisville KY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48896.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10174.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WHAS-TV ABC 11 (Louisville KY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48893.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9799.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WLKY-TV CBS 32 (Louisville KY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48894.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9900.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WDRB-TV FOX 41 (Louisville KY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48895.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10028.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WLEX-TV NBC 18 (Lexington KY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48892.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10173.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WKYT-TV CBS 27.1 (Lexington KY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48890.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9899.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WKYT-DT CW 27.2 (Lexington KY)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/629725.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WTVQ-TV ABC 36 (Lexington KY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48889.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9798.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WDKY-TV FOX 56 (Lexington KY)
-http://kstv.us:8080/live/Babeboi11/9785992589/48891.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10027.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KXLF-TV CBS 4 (Butte MT)
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150209.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KWYB-TV ABC 18.1/28.1 (Butte MT)
@@ -766,28 +756,28 @@ http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150208.ts
 #EXTINF:0 tvg-logo="https://21000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVM-TV NBC 20 (Butte MT)
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150212.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTUU-TV NBC 2 (Anchorage AK)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38320.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10102.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KTBY-TV FOX 4 (Anchorage AK)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38319.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KYUR-TV ABC 13 (Anchorage AK)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38317.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9767.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVA-TV CBS 22 (Anchorage AK)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38318.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KHON-TV FOX 2.1 (Honolulu HI)
-http://kstv.us:8080/live/Babeboi11/9785992589/48857.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10018.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KHON-DT CW 2.2 (Honolulu HI)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/629649.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KITV-TV ABC 4 (Honolulu HI)
-http://kstv.us:8080/live/Babeboi11/9785992589/48855.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9793.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGMB-TV CBS 5 (Honolulu HI)
-http://kstv.us:8080/live/Babeboi11/9785992589/48856.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/9887.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KHNL-TV NBC 13 (Honolulu HI)
-http://kstv.us:8080/live/Babeboi11/9785992589/48858.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/10150.ts
 
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
 http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
-https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951164/hls/master.m3u8?ads.xumo_channelId=99951164
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",KABC-TV ABC 7 24/7 News (Los Angeles CA)
 https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
@@ -795,7 +785,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangelesktt
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WCBS-TV CBS 2 24/7 News (New York NY)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WNBC-TV NBC 4 24/7 News (New York NY)
-https://d2kowtvrzzi7ps.cloudfront.net/11602/88889709/hls/playlist.m3u8?ads.xumo_channelId=88889709
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951163/hls/master.m3u8?ads.xumo_channelId=99951163
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",WNYW-TV FOX 5 24/7 News (New York NY)
 https://amg00488-foxdigital-amg00488c7-vizio-us-903.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox5newyorkwnyw-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WABC-TV ABC 7 24/7 News (New York NY)
@@ -803,7 +793,7 @@ https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WBBM-TV CBS 2 24/7 News (Chicago IL)
 http://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WMAQ-TV NBC 5 24/7 News (Chicago IL)
-https://d2kowtvrzzi7ps.cloudfront.net/11602/88889704/hls/playlist.m3u8?ads.xumo_channelId=88889704
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951165/hls/playlist.m3u8?ads.xumo_channelId=99951165
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WLS-TV ABC 7 24/7 News (Chicago IL)
 https://content-ause1.uplynk.com/channel/553fe1231b83487383a725f2da8433f5.m3u8
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",WFLD-TV FOX 32 24/7 News (Chicago IL)
@@ -829,7 +819,7 @@ https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WPVI-TV ABC 6 24/7 News (Philadelphia PA)
 https://content-ausw1.uplynk.com/channel/c03e1d48809d476eb0dfa839b6fb0ca4.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WCAU-TV NBC 10 24/7 News (Philadelphia PA)
-https://d2kowtvrzzi7ps.cloudfront.net/11602/88889705/hls/playlist.m3u8?ads.xumo_channelId=88889705
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951166/hls/master.m3u8?ads.xumo_channelId=99951166
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",WTXF-TV FOX 29 24/7 News (Philadelphia PA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WBZ-TV CBS 4 24/7 News (Boston MA)
@@ -837,7 +827,7 @@ https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WCVB-TV ABC 5 24/7 News (Boston MA)
 https://pubads.g.doubleclick.net/ssai/event/Yo0UqqfJQp2EXhFEfrdDGQ/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WBTS-CD NBC 10 24/7 News (Boston MA)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/playlist.m3u8?ads.xumo_channelId=99951168
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/master.m3u8?ads.xumo_channelId=99951168
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",WFXT-CD FOX 25 24/7 News (Boston MA)
 https://s7host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config6/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KDKA-TV CBS 2 24/7 News (Pittsburgh PA)
@@ -849,7 +839,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-on
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WFOR-TV CBS 4 24/7 News (Miami FL)
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WTVJ-TV NBC 6 24/7 News (Miami FL)
-https://d2kowtvrzzi7ps.cloudfront.net/11602/88889702/hls/playlist.m3u8?ads.xumo_channelId=88889702
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951167/hls/master.m3u8?ads.xumo_channelId=99951167
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WPLG-TV ABC 10 24/7 News (Miami FL)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",WTSP-TV CBS 10 24/7 News (Tampa Bay FL)
@@ -875,7 +865,7 @@ https://video.tegnaone.com/kens/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",KDFW-TV FOX 4 24/7 News (Ft. Worth/Dallas TX)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KXAS-TV NBC 5 24/7 News (Ft. Worth/Dallas TX)
-https://d2kowtvrzzi7ps.cloudfront.net/11602/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951182/hls/master.m3u8?ads.xumo_channelId=99951182
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WFFA-TV ABC 8 24/7 News (Ft. Worth/Dallas TX)
 https://video.tegnaone.com/wfaa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA-Production/live/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KTVT-TV CBS 11 24/7 News (Ft. Worth/Dallas TX)
@@ -903,7 +893,7 @@ https://amg00312-amg00312c3-vizio-us-2632.playouts.now.amagi.tv/playlist/amg0031
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",KTNV-TV ABC 13 24/7 News (Las Vegas NV)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KNSD-TV NBC 7/39 24/7 News (San Diego CA)
-https://d2kowtvrzzi7ps.cloudfront.net/11602/88889712/hls/playlist.m3u8?ads.xumo_channelId=88889712
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951185/hls/master.m3u8?ads.xumo_channelId=99951185
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local News 24/7",KFMB-TV CBS 8 24/7 News (San Diego CA)
 https://video.tegnaone.com/kfmb/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB-Production/live/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",KGTV-TV ABC 10 24/7 News (San Diego CA)
@@ -919,7 +909,7 @@ http://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",KGO-TV ABC 7 24/7 News (San Francisco CA)
 https://content-ause1.uplynk.com/channel/7c0eae0d267941d283a3ab14dd6fd399.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KNTV-TV NBC 10 24/7 News (San Francisco CA)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/playlist.m3u8?ads.xumo_channelId=99951162
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/master.m3u8?ads.xumo_channelId=99951162&ads.asnw=169843
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",KESQ-TV 3 ABC 24/7 News (Palm Springs CA)
 https://dai2-playlistserver.aws.syncbak.com/cpl/22046797/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIyMjA0Njc5NyIsImNpZCI6MjIyODAsInNpZCI6MTE5OSwibWQ1IjoiYjkzMDQ4ZTBhMDAyZTliNTkxMWI5ZWVkNTgwYzBmODEiLCJpYXQiOjE2ODE3Njg4NjUsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.Dz7v9duOQcxtwGtOh7ZTWHQ47ehbC7_WsmC2NsMWl6k
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WSB-TV ABC 2 24/7 News (Atlanta GA)
@@ -946,7 +936,7 @@ https://content.uplynk.com/channel/4608c2dc86a14e3db517ef7e5042a915.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",KUSA-TV NBC 9 24/7 News (Denver CO)
 https://video.tegnaone.com/kusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA-Production/live/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local News 24/7",WRC-TV NBC 4 24/7 News (Washington DC)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/playlist.m3u8?ads.xumo_channelId=99951181
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/master.m3u8?ads.xumo_channelId=99951181
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local News 24/7",WTTG-TV FOX 5 24/7 News (Washington DC)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local News 24/7",WJLA-TV ABC 7 24/7 News (Washington DC)
