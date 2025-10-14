@@ -2270,15 +2270,15 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MeTV
-http://kstv.us:8080/live/Babeboi11/9785992589/44205.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129914.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MeTV+
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/607734.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/129915.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION
-https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158
+https://8e1c460f78af4d1db9ab79a992d81e45.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_ION/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION Plus
-https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
+https://8512584faf6549b086b2a7e77aa0a6db.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_IonPlus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION Mystery
-https://dbrb49pjoymg4.cloudfront.net/10001/99951157/hls/playlist.m3u8?ads.xumo_channelId=99951157
+https://285e01eeea2342ad8441d23b371a4b16.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_IONMystery/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",CW Forever
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",CW Gold
