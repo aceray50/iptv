@@ -961,7 +961,7 @@ https://world.lls.pbs.org/index_1080p.m3u8
 #EXTINF:0 tvg-logo="https://lptv.org/wp-content/uploads/2015/03/fnx-logo.png" group-title="Local Public Broadcast",FNX
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WVIZ-TV PBS 25.1 (Cleveland OH)
-http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/182660.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/243548.ts
 #EXTINF:0 tvg-logo="" group-title="Local Public Broadcast",WVIZ-DT 25.2 The Ohio Channel (Cleveland OH)
 https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8?player_version=1.18.0
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WOSU-TV PBS 34 (Columbus OH)
@@ -969,11 +969,13 @@ http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/446782.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WCET-TV CET PBS 48 (Cincinnati OH)
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/183309.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTVS-TV PBS 56.1 (Detroit MI)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/88066.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/243533.ts
 #EXTINF:0 tvg-logo="" group-title="Local Public Broadcast",WTVS-DT 56.6 Michigan Learning Channel (Detroit MI)
 https://d2jalth387y2js.cloudfront.net/test.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTTW-TV PBS 11 (Chicago IL)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/446780.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTTW-TV PBS 11.1 (Chicago IL)
+http://68.251.105.81:5004/auto/v11.1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WTTW-DT Prime 11.2 (Chicago IL)
+http://68.251.105.81:5004/auto/v11.2
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO)
 http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KCPT-TV PBS 19 (Kansas City MO)
@@ -1003,15 +1005,15 @@ http://vocotv.pro:80/live/10/12345/2128.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLCS-TV PBS 58 (Los Angeles CA)
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/33722.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/597137.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/243518.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNET-TV PBS 13 (New York NY)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/66782.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/243542.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WLIW-TV PBS 21 (New York NY)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/446770.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/243563.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNJT-TV NJ PBS 52 (Trenton NJ)
 http://kstv.us:8080/live/Babeboi11/9785992589/23264.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNED-TV BTPM PBS 17 (Buffalo NY/Toronto ON)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/470321.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/243541.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WPBS-TV PBS 16 (Watertown NY)
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150396.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WXXI-TV PBS 21 (Rochester NY)
@@ -1633,8 +1635,8 @@ https://nbcu-telemundotexas-firetv.amagi.tv/playlist1080.m3u8
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias Florida
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-#EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Caso Cerrado 24/7
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814577/hls/master.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Caso Cerrado 24/7
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814577/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814577
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KMEX-TV Univision 34 (Los Angeles CA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTR-TV UniMás 46 (Los Angeles CA)
@@ -2320,7 +2322,7 @@ https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Grit TV
 http://hardcoremedia.xyz:80/live/BG992263/38692743/129885.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Grit Xtra
-https://amg01438-ewscripps-amg01438c46-cw-us-2390.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsgritxtra-cwus/playlist.m3u8
+https://3388c194738a4b5b8a2dcc2c497d1344.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_GritXtra/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Laff
 http://hardcoremedia.xyz:80/live/BG992263/38692743/129907.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Laff More!
@@ -2338,7 +2340,7 @@ https://buzzrota-ono.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Bounce TV
 http://hardcoremedia.xyz:80/live/BG992263/38692743/129841.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Bounce XL
-https://dbrb49pjoymg4.cloudfront.net/10001/9999613/hls/playlist.m3u8?ads.xumo_channelId=9999613
+https://a6b36c3063ad43c38e9b2deac8b1bb69.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_BounceXL/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Nosey
 https://dbrb49pjoymg4.cloudfront.net/10001/99991366/hls/playlist.m3u8?ads.xumo_channelId=99991366
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Confess by Nosey
@@ -2958,7 +2960,7 @@ http://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",CBS Sports UEFA Champions League
 http://dai.google.com/linear/hls/event/ydKcHHYQSt27vbSP38xMVw/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NBC Sports NOW
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814624
 #EXTINF:0 tvg-logo="" group-title="Sports",NBC Sports (Boston)
 http://kstv.us:8080/live/Babeboi11/9785992589/28743.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NBC Sports (Bay Area)
