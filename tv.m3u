@@ -1909,7 +1909,7 @@ https://d5e439997a40436ab60a8ead11b76b75.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="" group-title="Documentary",WatchMojo
 https://3649884182d1462a9cada0264c1a0d57.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TeleUp_WatchMojo/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Pursuit Channel
-http://kstv.us:8080/live/Babeboi11/9785992589/23262.ts
+https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index_3.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1920px-American_Heroes_Channel_logo.svg.png" group-title="Documentary",AHC (American Heroes Channel)
 http://kstv.us:8080/live/Babeboi11/9785992589/23360.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",Documentary+
@@ -2607,7 +2607,7 @@ http://kstv.us:8080/live/Babeboi11/9785992589/22562.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",IFC (Independent Film Channel) (West)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/647340.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",IFC (Independent Film Channel) (East)
-http://kstv.us:8080/live/Babeboi11/9785992589/44202.ts
+https://bcovlive-a.akamaihd.net/2a19ef5b377143d28c8e566fbd5cf0cb/us-east-1/6240731308001/profile_0/chunklist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",SundanceTV
 http://kstv.us:8080/live/Babeboi11/9785992589/23250.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",A&E (Arts & Entertainment)
@@ -2647,7 +2647,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Aspire
 http://kstv.us:8080/live/Babeboi11/9785992589/48333.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BBC America
-http://kstv.us:8080/live/Babeboi11/9785992589/23359.ts
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/profile_0/chunklist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",OuterSphere by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951250/hls/playlist.m3u8?ads.xumo_channelId=99951250
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Pop TV (West)
@@ -2743,7 +2743,7 @@ http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/643834.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC (American Movie Classics) (East)
 http://kstv.us:8080/live/Babeboi11/9785992589/22572.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC+
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/339687.ts
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC Thriller
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?ads.xumo_channelId=99951377
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TCM (Turner Classic Movies)
@@ -4956,39 +4956,39 @@ http://vocotv.pro:80/live/10/12345/698621.ts
 http://vocotv.pro:80/live/10/12345/698620.ts
 
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2490.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814432.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2491.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814423.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO 2 (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/553461.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814425.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO 2 (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3656.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814424.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Signature (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631878.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814431.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Signature (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/648981.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814430.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Comedy (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631876.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814427.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Comedy (East)
-http://kstv.us:8080/live/Babeboi11/9785992589/23303.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814426.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Zone (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631877.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814434.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Zone (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/51552.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814433.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Family (West)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631874.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Family (East)
 http://cord-cutter.net:8080/live/95549031/69361122/17773.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3825.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814422.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax (East)
-http://kstv.us:8080/live/Babeboi11/9785992589/15921.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814412.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",More Max (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/81382.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814417.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",More Max (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/51553.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814416.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",5 Star Max
-http://kstv.us:8080/live/Babeboi11/9785992589/48357.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814413.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Movie Max
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/51556.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Outer Max
@@ -4998,41 +4998,41 @@ http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/81381.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Thriller Max (East)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/51554.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Action Max (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/81383.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814415.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Action Max (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/51557.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814414.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3840.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814463.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3758.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814452.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime 2 (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631912.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814454.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime 2 (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631912.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814453.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Extreme (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631884.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814456.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Extreme (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3967.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814455.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Next (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631889.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814460.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Next (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/648985.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814459.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase) (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631890.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814462.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase) (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3966.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814461.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Women (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631886.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814465.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Women (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3971.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814464.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Family Zone (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631918.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814458.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Family Zone (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3969.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814457.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET) (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631888.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814467.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET) (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/648983.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814466.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Movie Channel (West)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/605741.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Movie Channel (East)
@@ -5042,87 +5042,87 @@ http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/605742.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Movie Channel Xtra (East)
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/527262.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130005.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814493.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz (East)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130004.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814469.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Cinema (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631879.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814471.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Cinema (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3960.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814470.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Comedy (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631883.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814473.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Comedy (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3959.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814472.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz In Black (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/649402.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814490.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz In Black (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3962.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814489.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Edge (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/631882.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814474.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Edge (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3961.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814475.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Kids & Family (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3956.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814492.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Kids & Family (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3956.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814491.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130060.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814486.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore (East)
-http://kstv.us:8080/live/Babeboi11/9785992589/49164.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814476.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Classic (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130044.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814481.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Classic (East)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130010.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814480.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130046.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814485.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense (East)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130012.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814484.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Action
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130009.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814477.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130047.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814488.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3955.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814487.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Black (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130043.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814490.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Black (East)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130062.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814489.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Family (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130045.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814492.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Family (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3957.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814491.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MoviePlex (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130037.ts
+http://visitmy.collegefan.org:80/os7148/live/os1234/814443.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MoviePlex (East)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130058.ts
+http://visitmy.collegefan.org:80/os7148/live/os1234/814442.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",IndiePlex (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130036.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814437.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",IndiePlex (East)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/93059.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814436.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",RetroPlex (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130038.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814446.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",RetroPlex (East)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130014.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814445.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ (West)
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/635603.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814438.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ (East)
 http://kstv.us:8080/live/Babeboi11/9785992589/23325.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ Hits
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3724.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814440.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ Drive-In
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/4431.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814439.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/4430.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814441.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Flix (West)
-http://vocotv.pro:80/live/10/12345/295772.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814497.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Flix (East)
-http://vocotv.pro:80/live/10/12345/295792.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814496.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Sony Movie Channel
-http://hardcoremedia.xyz:80/live/BG992263/38692743/130020.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814468.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HDNET Movies
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89182.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814435.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",PixL
-http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89043.ts
+http://visitmy.collegefan.org:80/live/os7148/os1234/814370.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Fubo Movies
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/33964.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",ScreenPix 
@@ -5140,7 +5140,7 @@ http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/543962.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Asylum Movie Channel
 http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/709958.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Universal Movies
-https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814575
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Action!
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Action Hollywood Movies
@@ -5198,15 +5198,15 @@ https://rpn.bozztv.com/gusa/gusa-tvsrarecollectibles/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",TVS Horror
 https://rpn.bozztv.com/gusa/gusa-tvshorror/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Universal Action
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814617/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814617
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Universal Crime
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951245/hls/master.m3u8?ads.xumo_channelId=99951245
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814613/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814613
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Universal Monsters
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814625/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814625
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Universal Westerns
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951255/hls/master.m3u8?ads.xumo_channelId=99951255&
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814622/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814622
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",FilmRise Free Movies
-https://amg00512-amg00512c7-cw-us-2476.playouts.now.amagi.tv/playlist/amg00512-filmrisefast-freemoviesus-cwus/playlist.m3u8
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814500/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814500
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",FilmRise Creators
 https://live1009.delivery.roku.com/7373a18f-b3e9-489b-af6c-abf6f226e159/t2-origin/out/v1/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",FilmRise Action
@@ -5321,46 +5321,6 @@ http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552035&extensi
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552036&extension=ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",ScreenPix Westerns
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552034&extension=ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Action
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254181.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Animation
-http://hardcoremedia.xyz:80/live//BG992263/38692743/256028.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Blockbusters
-http://hardcoremedia.xyz:80/live//BG992263/38692743/256029.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Classic
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254164.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Comedy
-http://hardcoremedia.xyz:80/live//BG992263/38692743/256031.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Cult
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254166.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Family
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254167.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Greats
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254168.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Greats 2
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254169.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Historical
-http://hardcoremedia.xyz:80/live//BG992263/38692743/256036.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Hits
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254178.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Horror
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254171.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Musical
-http://hardcoremedia.xyz:80/live//BG992263/38692743/256038.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Mystery
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254173.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Premier
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254174.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Romance
-http://hardcoremedia.xyz:80/live//BG992263/38692743/256041.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Sci-Fi
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254176.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Thriller
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254179.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | War
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254180.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",CineBox | Western
-http://hardcoremedia.xyz:80/live//BG992263/38692743/254177.ts
 
 #EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Event 1
 http://kstv.us:8080/live/Babeboi11/9785992589/47695.ts
