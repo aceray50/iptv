@@ -1060,8 +1060,10 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/470293.ts
 http://restream-live.realiptv.to:8080/live/19742329/27604387/597132.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KPBS-TV PBS 15 (San Diego CA)
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/183329.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KQED-TV PBS 9 (San Francisco CA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KQED-TV PBS 9.1 (San Francisco CA)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/446801.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KQED-DT KQED+ PBS 9.2 (San Francisco CA)
+https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVIE-TV PBS 6 (Sacramento CA)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/470374.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KUED-TV Utah PBS 7 (Salt Lake City UT)
