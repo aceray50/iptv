@@ -1626,7 +1626,7 @@ https://catram-packager-018.nextologies.com/33cf929f7996f7b4/588f14d9ef4317f1/pl
 https://catram-packager-018.nextologies.com/0bbcf6d6a85c81ca/45a975efb871cd32/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/SpectrumNoticiasLogo2025.jpg" group-title="Latino (Spanish)",Spectrum Noticias NY1
-http://vocotv.pro:80/live/10/12345/632317.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/649407.ts
 #EXTINF:0 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png" group-title="Latino (Spanish)",Noticias Univision 24/7
 https://live1009.delivery.roku.com/10d99635-efe0-4a99-ab00-54cbc2d95cf6/t2-origin/out/v1/live.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Noticias Telemundo Ahora
@@ -1646,7 +1646,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTR-TV UniMás 46 (Los Angeles CA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
-http://vocotv.pro:80/live/10/12345/3295.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/2394.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNJU-TV Telemundo 47 (New York NY)
@@ -1660,7 +1660,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/50929.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WSNS-TV Telemundo 44 (Chicago IL)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2400.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WBGO-TV Univision 66 (Chicago IL)
-http://vocotv.pro:80/live/10/12345/3410.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/4472.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KCEC-TV Univision 14 (Denver CO)
 http://vocotv.pro:80/live/10/12345/3375.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KDEN-TV Telemundo 25 (Denver CO)
@@ -1678,7 +1678,7 @@ http://vocotv.pro:80/live/10/12345/3284.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUVS-TV Univision 19 (Modesto/Sacramento CA)
 http://vocotv.pro:80/live/10/12345/3398.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KCSO-LD/KMUM-CD Telemundo 33 (Sacramento CA)
-http://vocotv.pro:80/live/10/12345/3357.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/89450.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFK-DT UniMás 64 (Sacramento CA)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/135416.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WQHS-TV Univision 61.1 (Cleveland OH)
@@ -1686,19 +1686,19 @@ http://vocotv.pro:80/live/10/12345/3409.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WQHS-DT UniMás 61.2 (Cleveland OH)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/135406.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNEU-TV Telemundo 60 (Boston MA)
-http://vocotv.pro:80/live/10/12345/3279.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/629801.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WFPA-DT UniMás 28 (Philadelphia PA)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/135413.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WUVP-TV Univision 65 (Philadelphia PA)
 http://vocotv.pro:80/live/10/12345/3384.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WWSI-TV Telemundo 62 (Philadelphia PA)
-http://vocotv.pro:80/live/10/12345/3319.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/3878.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WZDC-CD Telemundo 44 (Washington DC)
-http://vocotv.pro:80/live/10/12345/3288.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/89879.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KELV-TV UniMás 27 (Las Vegas NV)
 http://hardcoremedia.xyz:80/live//BG992263/38692743/135410.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KBLR-TV Telemundo 39 (Las Vegas NV)
-http://vocotv.pro:80/live/10/12345/3296.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/89702.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KNIC-TV UniMás 17 (San Antonio TX)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334557
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KWEX-TV Univision 41 (San Antonio TX)
@@ -1708,13 +1708,13 @@ http://vocotv.pro:80/live/10/12345/3292.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUVN-TV Univision 23 (Ft. Worth/Dallas TX)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)
-http://vocotv.pro:80/live/10/12345/3313.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/3880.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KSTR-TV UniMás 49 (Ft. Worth/Dallas TX)
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3795.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KXLN-TV Univision 45 (Houston TX)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTMD-TV Telemundo 47 (Houston TX)
-http://vocotv.pro:80/live/10/12345/3299.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/89832.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTH-DT UniMás 67 (Houston TX)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/135409.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFO-CD UniMás 31 (Austin TX)
@@ -1724,7 +1724,7 @@ http://vocotv.pro:80/live/10/12345/3411.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KXTQ-TV Telemundo 46 (Lubbock TX)
 http://vocotv.pro:80/live/10/12345/3337.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KTVW-TV Univision 33 (Phoenix AZ)
-http://vocotv.pro:80/live/10/12345/3399.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/50951.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTAZ-TV Telemundo 39 (Phoenix AZ)
 http://vocotv.pro:80/live/10/12345/3318.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTMW-TV Telemundo 20 (Salt Lake City UT)
@@ -1732,17 +1732,19 @@ http://vocotv.pro:80/live/10/12345/3315.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUTH-TV Univision 32 (Salt Lake City UT)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/135439.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KUAN-TV Telemundo 20 (San Diego CA)
-http://vocotv.pro:80/live/10/12345/3291.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/2389.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KUNA-CD Telemundo 15 (Palm Springs CA)
 http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/121236.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WTMO-TV Telemundo 31 (Orlando FL)
-http://vocotv.pro:80/live/10/12345/3344.ts
+https://restream-live.realiptv.to:8080/live/19742329/27604387/89502.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WRMD-CD Telemundo 49 (Tampa FL)
 http://vocotv.pro:80/live/10/12345/3343.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WUVG-TV Univision 34.1 (Atlanta GA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WUVG-DT UniMás 34.2 (Atlanta GA)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/135403.ts
+#EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WKTB-TV Telemundo 47 (Atlanta GA)
+https://restream-live.realiptv.to:8080/live/19742329/27604387/447423.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KFVE-DT Telemundo 6.2 (Honolulu HI)
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149797.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WKAQ-TV Telemundo 2.1 (San Juan PR)
@@ -3054,7 +3056,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/552928.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sports Encore
 http://restream-live.realiptv.to:8080/live/19742329/27604387/649400.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum SportsNet LA
-http://hardcoremedia.xyz:80/live/BG992263/38692743/141497.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/74683.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sportsnet Lakers
 http://restream-live.realiptv.to:8080/live/19742329/27604387/512561.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sportsnet OC16
@@ -4964,7 +4966,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/2491.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Hits (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/553461.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Hits (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/648976.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/3656.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Movies (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631877.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Movies (East)
