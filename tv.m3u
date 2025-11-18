@@ -1102,7 +1102,7 @@ http://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Burbank Channel (Burbank CA)
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Glendale TV (Glendale CA)
-https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8
+https://reflect-gtv6-glendale.cablecast.tv/live-2/live/stream-1/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",Calabasas Channel (Calabasas CA)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",El Segundo Media (El Segundo CA)
