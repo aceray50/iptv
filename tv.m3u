@@ -954,6 +954,8 @@ https://s2host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="24/7 Local News",KCPQ-TV FOX 13 24/7 News (Seattle WA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Supermarket Sweep
+https://jmp2.uk/rok-62b4eba68f3051c68d2beb22dc94ebbc.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Price Is Right - The Barker Era
 https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-thepriceisright-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Family Feud
@@ -962,10 +964,14 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999228
 https://banijay-dealornodeal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-dealornodeal-lg-us/CDN/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",America's Got Talent
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993062
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Masked Singer
+https://jmp2.uk/rok-34b686f999ecaacfbcd91bb5195c3124.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Fear Factor
 https://banijay-fearfactor-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-fearfactor-lg-us/CDN/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Americanm Ninja Warrior
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",American Ninja Warrior
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",American Gladiators
+https://jmp2.uk/rok-cf7c191b9f2a4207cf119fb095e965e7.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Bachelor Nation
 https://amg00136-wbd-amg00136c28-lg-us-1932.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvbachelornation-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Hardcore Pawn
@@ -986,6 +992,8 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993020/hls/master.m3u8?ads.xumo_cha
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993063/hls/master.m3u8?ads.xumo_channelId=99993063
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Mission Impossible
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Highway To Heaven
+https://jmp2.uk/rok-dcecb48012b5c99824cb0b1667f4499c.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Unsolved Mysteries
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992257
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Jail
@@ -996,18 +1004,28 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814577/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814577
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Como Dice el Dicho (Español)
 https://dcs3-live.mp.lura.live/server/play/jWKwKpTWEZGBcx2j/manifest.m3u8
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Jack Hannah Channel
+https://jmp2.uk/rok-2b50362a8bbc5a12a203aa48e6ea9fe1.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Bob Ross Channel
 https://wurlcineverse.global.transmit.live/hls/678862e6ce42a042c23acdfd/v1/cinedigm_entertainment_corp_thebobrosschannel_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Martha Stewart Channel
 https://amg17902-amg17902c1-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-amg17902c1-amgplt0023/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Emeril Lagasse
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Emeril Lagasse Channel
 https://amg17902-amg17902c2-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-amg17902c2-amgplt0023/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Jaimie Oliver Channel
+https://jmp2.uk/rok-8fd0bc4f08285a12abb872f0b2e320d4.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Ellen Channel
 https://amg00136-wbd-amg00136c61-lg-us-5700.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-theellenchannel-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Best of Dr. Phil
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f760bbdf090700075d7bfe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Graham Norton Show
+https://jmp2.uk/rok-5934441271a0583124d84d704f600bcc.m3u8
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Doctors
+https://jmp2.uk/rok-1a2266aeb6892914c687ebb3b58c2324.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Johnny Carson TV
 https://amg00163-shoutfactoryfast-amg00163c2-lg-us-860.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-johnnycarsontv-lgus/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Ed Sullivan Show
+https://jmp2.uk/rok-707e6e216be8369fb30f6960f8cf667e.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Family Ties
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Three's Company
@@ -1024,6 +1042,10 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993065/hls/master.m3u8?ads.xumo_cha
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7794a788d29000079d2f07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Little House on the Prairie
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993022/hls/master.m3u8?ads.xumo_channelId=99993022
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Dick Van Dyke Show
+https://jmp2.uk/rok-b84d4953c086589c9d5202b7895552a7.m3u8
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Carol Burnette Show
+https://jmp2.uk/rok-e3cd976116d5578ab9be32baa738ade2.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Beverly Hillbillies
 https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Baywatch
@@ -1098,6 +1120,12 @@ https://amg00793-amg00793c35-lg-us-6412.playouts.now.amagi.tv/playlist/amg00793-
 https://linear-901.frequency.stream/dist/lg-us/901/hls/master/playlist_lg.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Anime 24/7
 https://amg01923-odk-amg01923c20-lg-us-6821.playouts.now.amagi.tv/playlist/amg01923-odkmedia-euchannels2-lgus/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Garfield & Friends
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Super Mario Bros. Channel
+https://live1009.delivery.roku.com/4c394a43-2ae4-493b-acce-7dd7700495ef/t2-origin/out/v1/live.m3u8
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Pink Panther
+https://jmp2.uk/rok-65f83bbbf7a2eb952b798c96300bb329.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Sonic The Hedgehog
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992516
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Bob The Builder
@@ -1108,8 +1136,8 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999251
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992514
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Barney & Friends
 https://aae52452.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQmFybmV5YW5kRnJpZW5kc19ITFM/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Garfield & Friends
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Baby Shark TV
+https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",PBS Antiques Roadshow
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02333-pbsdistribution-antiquesroadshow-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Mr. Bean 24/7
@@ -1118,6 +1146,8 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=686d1175b60a600aa9001b15&AV_CONTENT_LANGUAGE=pt&AV_CONTENT_GENRE=Entertainment&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=AL&AV_CLIENT_SECTION=BanijayUK_Mr.BeanAnimated&content_channel_name=Mr.BeanAnimated&content_livestream=1&AV_CONTENT_PROVIDER=Banijay%20UK&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=8983
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",SNL Vault
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Joel Osteen Channel
+https://jmp2.uk/rok-e35e1503bdf85e0fbb406b4663137473.m3u8
 
 #EXTINF:0 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",Create
 https://create.lls.pbs.org/index_1080p.m3u8
@@ -2391,6 +2421,8 @@ http://kstv.us:8080/live/Babeboi11/9785992589/23354.ts
 http://restream-live.realiptv.to:8080/live/19742329/27604387/721378.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",ToonCast (English)
 http://103.111.40.242:9999/play/a02y/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Children Channels",The Lego Channel
+https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Cartoon Classics
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",ToonOvation
@@ -2403,8 +2435,6 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Go-Go Gadget (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/667f3852efa2a10008e1e514/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cde28-7b2e-11ef-861d-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4d59fbb0-084a-11f0-903e-4ee1b17a5297&userId=&serverSideAds=true
-#EXTINF:0 tvg-logo="" group-title="Children Channels",Super Mario Bros. Channel
-https://live1009.delivery.roku.com/4c394a43-2ae4-493b-acce-7dd7700495ef/t2-origin/out/v1/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Q Toons
 https://janya-qtoonz.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fe1720c6-2efd-48ad-b61f-a3edaed6130b/main.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Toons Goggles
@@ -5269,6 +5299,8 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/3724.ts
 http://restream-live.realiptv.to:8080/live/19742329/27604387/4431.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM+ Marquee
 http://restream-live.realiptv.to:8080/live/19742329/27604387/4430.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM Presents
+https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Flix (West)
 http://visitmy.collegefan.org:80/live/os7148/os1234/814497.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Flix (East)
