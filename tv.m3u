@@ -1003,7 +1003,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Caso Cerrado (Español)
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814577/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814577
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Como Dice el Dicho (Español)
-https://dcs3-live.mp.lura.live/server/play/jWKwKpTWEZGBcx2j/manifest.m3u8
+https://dcs3-live.mp.lura.live/server/play/jWKwKpTWEZGBcx2j/manifest.m3u8?encp=B2F60S9qKc0osm338Ax_wg:x_pJBu7CIYQWQ7JxgyfR4tkjdokDWup_sjIscNX7wvBJEXnY-y8AIMxs9RAUaWp-k3t15s0gi9zThRYsZg3hGk_pH5IEsrlyefemWGc6xrLlK-ET_5dmOqvLCfftoXMfWMkmV9LBKuebBfi_154qM5R1E7XZs_Rve2-7CzSs7XLjeHVIiwdYo4R_hUVpvKnAgWuY8V255j6hNgQUU3HkArpHXPtWIX_Z49Bnuw086zal8J2HR29-No1SgNuMTfOO4659BM8TRo6l9ZWvZZsSKeUSwVTZ6sPudCvyuwW0o6U2y450yZMvGcYTL9aO77Nlj6OXX6MiOGLrvpw-Rwhti2rN4AL_9c82qgsplOpnPXlG8Ueal-obvqRpYCm5tQ4ZGwcEtXic1_JlqkDzNvrQ-1IMn96IBAuS4NjBXqnF_VzQGAIKGUgtGK8Ajctl4Vv8zPmiJfsHB3n3klAm4sRLqdasXvLHAGzHzVI1eSimqed5DwtmpR-l5RWleKa1Wp1xaIUZJhISU2U64hcGLogrHBQRNP_99otmE3G-5gCo4xDHc9YcInMf08PueiuZsDZktctz7sHK2DHpfR33au9Ds_dFsONXEGR-e5-D4A3cvcue7ETYvYaadrDocy-4H1TJWR9pJM3Wga8XTNldByja9K9jfW_uoeCJCllIcAkZgBXQ0RGyKrr7xEwVaDim6QbR-S_WjOPPqTldSscEJ3hZ3A&anvauth=tb=0~te=2082758400~sgn=f5481e50993b4624e38500bf051da9d8e5773d3a5ef22903349760f9ea03e80e&t=1706655453&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=6465
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Jack Hannah Channel
 https://jmp2.uk/rok-2b50362a8bbc5a12a203aa48e6ea9fe1.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Bob Ross Channel
@@ -1012,7 +1012,7 @@ https://wurlcineverse.global.transmit.live/hls/678862e6ce42a042c23acdfd/v1/cined
 https://amg17902-amg17902c1-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-amg17902c1-amgplt0023/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Emeril Lagasse Channel
 https://amg17902-amg17902c2-amgplt0023.playout.now3.amagi.tv/playlist/amg17902-amg17902c2-amgplt0023/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Jaimie Oliver Channel
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Jamie Oliver Channel
 https://jmp2.uk/rok-8fd0bc4f08285a12abb872f0b2e320d4.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Ellen Channel
 https://amg00136-wbd-amg00136c61-lg-us-5700.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-theellenchannel-lgus/playlist.m3u8
@@ -1146,7 +1146,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=686d1175b60a600aa9001b15&AV_CONTENT_LANGUAGE=pt&AV_CONTENT_GENRE=Entertainment&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=AL&AV_CLIENT_SECTION=BanijayUK_Mr.BeanAnimated&content_channel_name=Mr.BeanAnimated&content_livestream=1&AV_CONTENT_PROVIDER=Banijay%20UK&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=8983
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",SNL Vault
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
-#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Joel Osteen Channel
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Joel Osteen Channel
 https://jmp2.uk/rok-e35e1503bdf85e0fbb406b4663137473.m3u8
 
 #EXTINF:0 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",Create
