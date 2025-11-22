@@ -2008,6 +2008,28 @@ https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunkl
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",Univision (Canada)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/647750.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Tijuana (Mexico)
+https://anym3u8player.com/youtube.php/id/6921ff52a282e.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Del Bajio (Mexico)
+https://anym3u8player.com/youtube.php/id/692201f0ce39a.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Laguna (Mexico)
+https://anym3u8player.com/youtube.php/id/6922022f56051.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Tamaulipas (Mexico)
+https://anym3u8player.com/youtube.php/id/692202b795fbf.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Ciudad Juarez (Mexico)
+https://anym3u8player.com/youtube.php/id/6921ffd237ee6.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Querétaro (Mexico)
+https://anym3u8player.com/youtube.php/id/69220261e3ac0.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Zacatecas (Mexico)
+https://anym3u8player.com/youtube.php/id/692200270019b.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Guadalajara (Mexico)
+https://anym3u8player.com/youtube.php/id/6922013536659.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Sonora (Mexico)
+https://anym3u8player.com/youtube.php/id/69220096715dd.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Vercruz (Mexico)
+https://anym3u8player.com/youtube.php/id/692200a8705b1.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Puebla (Mexico)
+https://anym3u8player.com/youtube.php/id/692200f12f280.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Latino (Spanish)",Latin Hola TV
 http://103.111.40.242:9999/play/a03z/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Mega-tv-logo2.svg/revision/latest?cb=20250101024217" group-title="Latino (Spanish)",Mega TV
@@ -2289,6 +2311,8 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991626/hls/master.m3u8?ads.xumo_cha
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2610.ts
 #EXTINF:0 tvg-logo="" group-title="News",CNBC World
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2609.ts
+#EXTINF:0 tvg-logo="" group-title="News",CNBC Africa
+https://anym3u8player.com/youtube.php/id/6922043969e79.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",MSNBC
@@ -7291,7 +7315,7 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CTV Internacional
 https://mediacp.us:8081/ctvhn/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Multimedios
-http://hardcoremedia.xyz:80/live//BG992263/38692743/253262.ts
+https://anym3u8player.com/youtube.php/id/6922019d665a0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telediario (Spain)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telediario Canal 6
@@ -7308,8 +7332,10 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://anym3u8player.com/youtube.php/id/6921fc0b52665.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
 http://kstv.us:8080/live/Babeboi11/9785992589/46949.ts
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+
-http://hardcoremedia.xyz:80/live/BG992263/38692743/257684.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Guadalajara
+https://anym3u8player.com/youtube.php/id/69220360415f5.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Monterey
+https://anym3u8player.com/youtube.php/id/692203a60b016.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Media
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401497540.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ADN 40
