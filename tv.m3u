@@ -2010,12 +2010,20 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 http://restream-live.realiptv.to:8080/live/19742329/27604387/647750.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Tijuana (Mexico)
 https://anym3u8player.com/youtube.php/id/6921ff52a282e.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Mexicali (Mexico)
+https://anym3u8player.com/youtube.php/id/692224f9bbb5f.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Del Bajio (Mexico)
 https://anym3u8player.com/youtube.php/id/692201f0ce39a.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Del Golfo (Mexico)
+https://anym3u8player.com/youtube.php/id/692223e528529.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa San Luis Potosi (Mexico)
+https://anym3u8player.com/youtube.php/id/6922260fe6d87.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Ensenada (Mexico)
+https://anym3u8player.com/youtube.php/id/692225b62834d.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Laguna (Mexico)
 https://anym3u8player.com/youtube.php/id/6922022f56051.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Tamaulipas (Mexico)
-https://anym3u8player.com/youtube.php/id/692202b795fbf.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Monterrey (Mexico)
+https://anym3u8player.com/youtube.php/id/6922257856a21.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Ciudad Juarez (Mexico)
 https://anym3u8player.com/youtube.php/id/6921ffd237ee6.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Querétaro (Mexico)
@@ -2028,6 +2036,8 @@ https://anym3u8player.com/youtube.php/id/6922013536659.m3u8
 https://anym3u8player.com/youtube.php/id/69220096715dd.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Vercruz (Mexico)
 https://anym3u8player.com/youtube.php/id/692200a8705b1.m3u8
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Yucatán (Mexico)
+https://anym3u8player.com/youtube.php/id/6922246a3dcde.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Puebla (Mexico)
 https://anym3u8player.com/youtube.php/id/692200f12f280.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Latino (Spanish)",Latin Hola TV
