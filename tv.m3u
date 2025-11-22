@@ -2167,6 +2167,8 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99991628/hls/playlist.m3u8?includeAss
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",EarthXtra
 https://dbrb49pjoymg4.cloudfront.net/10001/99951378/hls/master.m3u8?ads.xumo_channelId=99951378
+#EXTINF:0 tvg-logo="" group-title="Documentary",NASA
+https://anym3u8player.com/youtube.php/id/69220f1f9ee33.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",The Real Disaster Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951262/hls/playlist.m3u8?ads.xumo_channelId=99951262
 #EXTINF:0 tvg-logo="" group-title="Documentary",Go USA
@@ -3076,6 +3078,8 @@ https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
 https://f-tx-edge-86.christianworldmedia.com/thetogtv/sm_thetogtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",Dr. Gene Scott TV
 https://piksel-wescotcc.akamaized.net/hls/live/2041478/adp/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Religious",The Now Television Network
+https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",NRBTV
 https://tgn2.bozztv.com/nrbtv/nrbtv-live/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",ULFN (Universal Living Faith Network)
@@ -7341,7 +7345,7 @@ http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401497540.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ADN 40
 https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",24h Noticias
-http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/165839.ts
+https://anym3u8player.com/youtube.php/id/69220bb455956.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",NTN24
 http://hardcoremedia.xyz:80/live/BG992263/38692743/249565.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TN Noticias
