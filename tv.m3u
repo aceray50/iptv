@@ -5395,8 +5395,6 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/4431.ts
 http://restream-live.realiptv.to:8080/live/19742329/27604387/4430.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM Presents
 https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",MGM HD
-https://v2.catcast.tv/content/44051/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Flix (West)
 http://vocotv.pro:80/live/10/12345/295792.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Flix (East)
