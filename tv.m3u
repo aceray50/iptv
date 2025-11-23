@@ -2214,7 +2214,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/3873.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1920px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime (East)
 http://kstv.us:8080/live/Babeboi11/9785992589/23271.ts
 #EXTINF:0 tvg-logo="https://images-cdn2.welcomesoftware.com/assets/Oxygen+True+Crime+Archives.jpg/Zz00ZjdkYzZlYzE1YTAxMWYwYWE4ZmRlZmMxMGU0ZTE1NQ==?width=768&height=430" group-title="Documentary",Oxygen True Crime Archives
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951234/hls/master.m3u8?ads.xumo_channelId=99951234
+https://amg00979-amg00979c1-truecrimenetwork-us-3194.playouts.now.amagi.tv/playlist/amg00979-truecrimenetworkfast-truecrimenetworkfast-truecrimenetworkus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/1920px-True_Crime_Network_logo.svg.png" group-title="Documentary",True Crime Network+
 https://amg00979-amg00979c1-truecrimenetwork-us-3194.playouts.now.amagi.tv/playlist/amg00979-truecrimenetworkfast-truecrimenetworkfast-truecrimenetworkus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",NBC American Crimes
@@ -2327,6 +2327,8 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/2609.ts
 https://anym3u8player.com/youtube.php/id/6922043969e79.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:0 tvg-logo="" group-title="News",CNBC Marathon
+https://anym3u8player.com/youtube.php/id/69224dc6527c9.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",MSNBC
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2479.ts
 #EXTINF:0 tvg-logo="" group-title="News",CNN
@@ -2542,6 +2544,8 @@ https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/63ead8723e6983f4976
 
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Made In Hollywood by Movie Fone
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Power Nation
 https://amg01258-amg01258c5-circle-worldwide-2862.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationroku-circleworldwide/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AWE
@@ -2553,11 +2557,11 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/597246.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MeTV+
 http://restream-live.realiptv.to:8080/live/19742329/27604387/607734.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION
-https://8e1c460f78af4d1db9ab79a992d81e45.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_ION/playlist.m3u8
+https://wurlewscripps.global.transmit.live/hls/68962b3c9b574d4b1045a55a/v1/scripps_ion_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION Plus
-https://8512584faf6549b086b2a7e77aa0a6db.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_IonPlus/playlist.m3u8
+https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",ION Mystery
-https://285e01eeea2342ad8441d23b371a4b16.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_IONMystery/playlist.m3u8
+https://5d8e88ed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSU9OTXlzdGVyeV9ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",CW Forever
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",CW Gold
@@ -2597,7 +2601,7 @@ https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Grit TV
 http://restream-live.realiptv.to:8080/live/19742329/27604387/40583.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Grit Xtra
-https://3388c194738a4b5b8a2dcc2c497d1344.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_GritXtra/playlist.m3u8
+https://ab36e457.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfR3JpdFh0cmFfSExT/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Laff
 http://hardcoremedia.xyz:80/live/BG992263/38692743/129907.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Laff More!
@@ -2615,7 +2619,7 @@ https://buzzrota-ono.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Bounce TV
 https://streamer1.nexgen.bz/BOUNCE/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Bounce XL
-https://a6b36c3063ad43c38e9b2deac8b1bb69.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_BounceXL/playlist.m3u8
+https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scripps_bouncexl_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Nosey
 https://dbrb49pjoymg4.cloudfront.net/10001/99991366/hls/playlist.m3u8?ads.xumo_channelId=99991366
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Nosey (Alt)
@@ -3205,6 +3209,8 @@ http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",Shop LC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shoplc/master.m3u8
+#EXTINF:0 tvg-logo="" group-title="Shopping",America's Auction Channel (AACTV)
+https://anym3u8player.com/youtube.php/id/69224c336c186.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",JTV (Jewelry Television)
 http://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",JTV 2
@@ -3264,6 +3270,8 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/3769.ts
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3770.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NBC Team USA
 https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports",Yahoo! Sports Network
+https://yahoo2.global.transmit.live/hls/690b7473f01f0691850b8c7d/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/playlist_dvr.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",beIN Sports
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3612.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",beIN Sports XL
@@ -7980,6 +7988,8 @@ http://kstv.us:8080/live/Babeboi11/9785992589/47799.ts
 http://kstv.us:8080/live/Babeboi11/9785992589/47749.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Boomerang (UK)
 http://kstv.us:8080/live/Babeboi11/9785992589/47748.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Boomerang (Alt) (UK)
+https://anym3u8player.com/youtube.php/id/692261f0eca60.m3u8
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Pop (UK)
 http://kstv.us:8080/live/Babeboi11/9785992589/47802.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Pop Max (UK)
