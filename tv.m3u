@@ -1244,7 +1244,7 @@ http://vocotv.pro:80/live/10/12345/2122.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/597149.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNET-TV PBS 13 (New York NY)
-http://vocotv.pro:80/live/10/12345/396.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/66782.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WLIW-TV PBS 21 (New York NY)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/446770.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WNJT-TV NJ PBS 52 (Trenton NJ)
@@ -2466,7 +2466,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nicktoons
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3674.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",TeenNick
-http://hardcoremedia.xyz:80/live/BG992263/38692743/137688.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/74692.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd748-7b2e-11ef-9deb-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1aa79af-a440-4286-a333-28de4fa58ebb&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
@@ -2474,7 +2474,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Music
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89095.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Channel (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/137678.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/2590.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Channel (East)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3630.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney XD (West)
@@ -2486,13 +2486,11 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/3632.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (West)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/137676.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (East)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/137675.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/3618.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Boomerang by Cartoon Network
 http://kstv.us:8080/live/Babeboi11/9785992589/23354.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",MeTV Toons
 http://restream-live.realiptv.to:8080/live/19742329/27604387/721378.ts
-#EXTINF:0 tvg-logo="" group-title="Children Channels",ToonCast (English)
-http://103.111.40.242:9999/play/a02y/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",The Lego Channel
 https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Cartoon Classics
@@ -7309,11 +7307,11 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Imagen TV (México)
 http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOaj0WUwQj14LTSr/ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Canal 5 (México)
-http://181.78.105.146:2000/play/a038/index.m3u8
+http://restream-live.realiptv.to:8080/live/19742329/27604387/4194.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ADN 40 (México)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Panamericana (Peru)
-http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/110633
+http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/110633.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Canal 7.1 (Bolivia)
@@ -7321,7 +7319,7 @@ https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Canal 7.2 Deportes (Bolivia)
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telesur
-http://103.111.40.242:9999/play/a025/index.m3u8
+http://restream-live.realiptv.to:8080/live/19742329/27604387/2931.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CTV Internacional
@@ -7335,13 +7333,13 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CGTN en Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Cubavisión
-http://vocotv.pro:80/live/10/12345/280200.ts
+http://kstv.us:8080/live/Babeboi11/9785992589/46792.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",SUR Perú
 http://vocotv.pro:80/live/10/12345/707056.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Milenio
-https://anym3u8player.com/youtube.php/id/6921fc0b52665.m3u8
+http://restream-live.realiptv.to:8080/live/19742329/27604387/4637.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ FORO
 http://kstv.us:8080/live/Babeboi11/9785992589/46949.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Guadalajara
@@ -7355,7 +7353,7 @@ https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",24h Noticias
 https://anym3u8player.com/youtube.php/id/69220bb455956.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",NTN24
-http://hardcoremedia.xyz:80/live/BG992263/38692743/249565.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/40627.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TN Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",CNÑ en Español
