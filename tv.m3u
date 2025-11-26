@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCBS-TV CBS 2 (Los Angeles CA)
-http://xxip25.top:8080/char@dot.com/live/char@14223/121234.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/121234.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNBC-TV NBC 4 (Los Angeles CA)
-http://xxip25.top:8080/char@dot.com/live/char@14223/120656.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/120656.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KTLA-TV CW 5 (Los Angeles CA)
 http://xxip25.top:8080/live/char@dot.com/char@14223/120889.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KABC-TV ABC 7 (Los Angeles CA)
 http://xxip25.top:8080/live/char@dot.com/char@14223/120857.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png" group-title="Local Channels (Not 24/7)",KCAL-TV CBS/Ind. 9 (Los Angeles CA)
-http://xxip25.top:8080/char@dot.com/live/char@14223/120654.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/120654.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTTV-TV FOX 11 (Los Angeles CA)
-http://xxip25.top:8080/char@dot.com/live/char@14223/120655.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/120655.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2478.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCBS-TV CBS 2 (New York NY)
-http://xxip25.top:8080/char@dot.com/live/char@14223/120749.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/120749.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNBC-TV NBC 4 (New York NY)
-http://xxip25.top:8080/char@dot.com/live/char@14223/120751.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/120751.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WNYW-TV FOX 5 (New York NY)
 http://xxip25.top:8080/live/char@dot.com/char@14223/120750.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WABC-TV ABC 7 (New York NY)
@@ -70,7 +70,7 @@ http://xxip25.top:8080/live/char@dot.com/char@14223/121150.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WPVI-TV ABC 6 (Philadelphia PA)
 http://xxip25.top:8080/live/char@dot.com/char@14223/121149.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCAU-TV NBC 10 (Philadelphia PA)
-http://xxip25.top:8080/char@dot.com/live/char@14223/120776.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/120776.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WHPL-TV CW 17 (Philadelphia PA)
 http://xxip25.top:8080/live/char@dot.com/char@14223/224582.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTXF-TV FOX 29 (Philadelphia PA)
@@ -7678,7 +7678,7 @@ http://xxip25.top:8080/live/char@dot.com/char@14223/57476.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Dejaview (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/122001.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",AMC (Canada)
-http://xxip25.top:8080/char@dot.com/live/char@14223/57376.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/57376.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Vision (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/57468.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Home Network (Canada)
@@ -7692,7 +7692,7 @@ http://xxip25.top:8080/live/char@dot.com/char@14223/46212.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",National Geographic (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/47338.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",National Geographic Wild (Canada)
-http://xxip25.top:8080/char@dot.com/live/char@14223/57450.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/57450.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",History Channel (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/57272.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",H2 (History Channel 2) (Canada)
@@ -8272,195 +8272,195 @@ http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",Adult IPTV Asian
 http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX TRANS: TRANS ANGELS
-http://xxip25.top:8080/char@dot.com/live/char@14223/159951.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159951.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX TRANS: TRANS EROTICA
-http://xxip25.top:8080/char@dot.com/live/char@14223/159952.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159952.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: A GIRL KNOWS
-http://xxip25.top:8080/char@dot.com/live/char@14223/159953.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159953.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: ADULT TIME
-http://xxip25.top:8080/char@dot.com/live/char@14223/159954.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159954.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: ALL BLACK X
-http://xxip25.top:8080/char@dot.com/live/char@14223/159955.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159955.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: ALL GROUP SEX
-http://xxip25.top:8080/char@dot.com/live/char@14223/159956.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159956.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: AMATEUR EURO
-http://xxip25.top:8080/char@dot.com/live/char@14223/159957.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159957.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: ANALIZED
-http://xxip25.top:8080/char@dot.com/live/char@14223/159958.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159958.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: BABES
-http://xxip25.top:8080/char@dot.com/live/char@14223/159959.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159959.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: BANG BROS NETWORK
-http://xxip25.top:8080/char@dot.com/live/char@14223/159960.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159960.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: BIPHORIA
-http://xxip25.top:8080/char@dot.com/live/char@14223/159961.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159961.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: BLACKED
-http://xxip25.top:8080/char@dot.com/live/char@14223/159962.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159962.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: BLOW ME POV
-http://xxip25.top:8080/char@dot.com/live/char@14223/159963.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159963.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: BOX OF PORN
-http://xxip25.top:8080/char@dot.com/live/char@14223/159964.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159964.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: BRATTY SIS
-http://xxip25.top:8080/char@dot.com/live/char@14223/159965.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159965.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: BRAZZERS
-http://xxip25.top:8080/char@dot.com/live/char@14223/159966.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159966.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: BUMS BUS
-http://xxip25.top:8080/char@dot.com/live/char@14223/159967.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159967.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: CASTING COUCH
-http://xxip25.top:8080/char@dot.com/live/char@14223/159968.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159968.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: CUM 4K
-http://xxip25.top:8080/char@dot.com/live/char@14223/159969.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159969.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: DAGFS
-http://xxip25.top:8080/char@dot.com/live/char@14223/159970.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159970.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: DDF BUSTY
-http://xxip25.top:8080/char@dot.com/live/char@14223/159971.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159971.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: DIABOLIC
-http://xxip25.top:8080/char@dot.com/live/char@14223/159972.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159972.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: DIGITAL PLAYGROUND
-http://xxip25.top:8080/char@dot.com/live/char@14223/159973.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159973.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: DOGFART NETWORK
-http://xxip25.top:8080/char@dot.com/live/char@14223/159974.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159974.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: DORCEL CLUB
-http://xxip25.top:8080/char@dot.com/live/char@14223/159975.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159975.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: DREAMROOM
-http://xxip25.top:8080/char@dot.com/live/char@14223/159976.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159976.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: EROTIKVONBENAN
-http://xxip25.top:8080/char@dot.com/live/char@14223/159977.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159977.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: FAKE HOSTEL
-http://xxip25.top:8080/char@dot.com/live/char@14223/159979.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159979.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: FAKE TAXI
-http://xxip25.top:8080/char@dot.com/live/char@14223/159980.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159980.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: FAMILY STROKES
-http://xxip25.top:8080/char@dot.com/live/char@14223/159981.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159981.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: FAMILY SWAP XXX
-http://xxip25.top:8080/char@dot.com/live/char@14223/159982.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159982.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: FAPADOO
-http://xxip25.top:8080/char@dot.com/live/char@14223/159983.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159983.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: FILTHY POV
-http://xxip25.top:8080/char@dot.com/live/char@14223/159984.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159984.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: FIRST ANAL QUEST
-http://xxip25.top:8080/char@dot.com/live/char@14223/159985.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159985.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: FIT 18
-http://xxip25.top:8080/char@dot.com/live/char@14223/159986.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159986.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: GOTMYLF
-http://xxip25.top:8080/char@dot.com/live/char@14223/159987.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159987.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: HENTAINED
-http://xxip25.top:8080/char@dot.com/live/char@14223/159988.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159988.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: HER LIMIT
-http://xxip25.top:8080/char@dot.com/live/char@14223/159989.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159989.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: HOLED
-http://xxip25.top:8080/char@dot.com/live/char@14223/159990.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159990.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: HOT WIFE XXX
-http://xxip25.top:8080/char@dot.com/live/char@14223/159991.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159991.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: HUSSIE PASS
-http://xxip25.top:8080/char@dot.com/live/char@14223/159992.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159992.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: INTERRACIAL PASS
-http://xxip25.top:8080/char@dot.com/live/char@14223/159993.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159993.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: JAYS POV
-http://xxip25.top:8080/char@dot.com/live/char@14223/159994.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159994.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: JESH BY JESH
-http://xxip25.top:8080/char@dot.com/live/char@14223/159995.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159995.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: JOI BABES
-http://xxip25.top:8080/char@dot.com/live/char@14223/159996.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159996.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: JULES JORDAN
-http://xxip25.top:8080/char@dot.com/live/char@14223/159997.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159997.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: KINKY FAMILY
-http://xxip25.top:8080/char@dot.com/live/char@14223/159998.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159998.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: KINKY INLAWS
-http://xxip25.top:8080/char@dot.com/live/char@14223/159999.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159999.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: LETHAL HARDCORE
-http://xxip25.top:8080/char@dot.com/live/char@14223/160001.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160001.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: LETHAL TEENS
-http://xxip25.top:8080/char@dot.com/live/char@14223/160002.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160002.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: LETS DOE IT
-http://xxip25.top:8080/char@dot.com/live/char@14223/160003.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160003.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: LIFE SELECTOR
-http://xxip25.top:8080/char@dot.com/live/char@14223/160004.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160004.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: LOVE HER FEET
-http://xxip25.top:8080/char@dot.com/live/char@14223/160005.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160005.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: LOVE HOME PORN
-http://xxip25.top:8080/char@dot.com/live/char@14223/160006.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160006.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: LUBED
-http://xxip25.top:8080/char@dot.com/live/char@14223/160007.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160007.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: LUXURE
-http://xxip25.top:8080/char@dot.com/live/char@14223/160008.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160008.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MAMACITAZ
-http://xxip25.top:8080/char@dot.com/live/char@14223/160009.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160009.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MASSAGE ROOMS
-http://xxip25.top:8080/char@dot.com/live/char@14223/160010.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160010.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MODEL MEDIA ASIA
-http://xxip25.top:8080/char@dot.com/live/char@14223/160011.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160011.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MOFOS
-http://xxip25.top:8080/char@dot.com/live/char@14223/160012.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160012.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MOM TEACH SEX
-http://xxip25.top:8080/char@dot.com/live/char@14223/160013.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160013.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MOM XXX
-http://xxip25.top:8080/char@dot.com/live/char@14223/160014.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160014.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MOMMY BLOWS BEST
-http://xxip25.top:8080/char@dot.com/live/char@14223/160015.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160015.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MUST NOT FAP
-http://xxip25.top:8080/char@dot.com/live/char@14223/160016.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160016.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MY DIRTY HOBBY
-http://xxip25.top:8080/char@dot.com/live/char@14223/160017.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160017.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MY FAMILY PIES
-http://xxip25.top:8080/char@dot.com/live/char@14223/160018.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160018.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MY LIFE IN MIAMI
-http://xxip25.top:8080/char@dot.com/live/char@14223/160019.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160019.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MY PERVY FAMILY
-http://xxip25.top:8080/char@dot.com/live/char@14223/160020.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160020.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MY TINY WISH
-http://xxip25.top:8080/char@dot.com/live/char@14223/160021.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160021.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: MYLF
-http://xxip25.top:8080/char@dot.com/live/char@14223/160022.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160022.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: NEW SENSATIONS
-http://xxip25.top:8080/char@dot.com/live/char@14223/160023.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160023.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: NF BUSTY
-http://xxip25.top:8080/char@dot.com/live/char@14223/160024.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160024.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: NUBILE FILMS
-http://xxip25.top:8080/char@dot.com/live/char@14223/160025.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160025.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: NURU MASSAGE
-http://xxip25.top:8080/char@dot.com/live/char@14223/160026.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160026.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: PASSION
-http://xxip25.top:8080/char@dot.com/live/char@14223/160027.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160027.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: PERV CITY
-http://xxip25.top:8080/char@dot.com/live/char@14223/160028.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160028.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: PERV MOM
-http://xxip25.top:8080/char@dot.com/live/char@14223/160029.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160029.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: PORN WORLD HARDCORE
-http://xxip25.top:8080/char@dot.com/live/char@14223/160030.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160030.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: PORNHOCHIC
-http://xxip25.top:8080/char@dot.com/live/char@14223/160031.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160031.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: POVD
-http://xxip25.top:8080/char@dot.com/live/char@14223/160032.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160032.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: PRENCESS CUM
-http://xxip25.top:8080/char@dot.com/live/char@14223/160033.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160033.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: PRIVATE
-http://xxip25.top:8080/char@dot.com/live/char@14223/160034.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160034.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: PROPERTY SEX
-http://xxip25.top:8080/char@dot.com/live/char@14223/160035.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160035.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: PUBLIC AGENT
-http://xxip25.top:8080/char@dot.com/live/char@14223/160036.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160036.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: PURE MATURE
-http://xxip25.top:8080/char@dot.com/live/char@14223/160037.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160037.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: REAL DIRTY VIDEOS
-http://xxip25.top:8080/char@dot.com/live/char@14223/160038.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160038.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: REALITY JUNKIES
-http://xxip25.top:8080/char@dot.com/live/char@14223/160040.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160040.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: REALITY KINGS
-http://xxip25.top:8080/char@dot.com/live/char@14223/160041.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160041.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: SLIM 4K
-http://xxip25.top:8080/char@dot.com/live/char@14223/160042.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160042.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: STROKIES
-http://xxip25.top:8080/char@dot.com/live/char@14223/160043.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160043.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: SUGAR BABES TV
-http://xxip25.top:8080/char@dot.com/live/char@14223/160044.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160044.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: SWEET SINNER
-http://xxip25.top:8080/char@dot.com/live/char@14223/160045.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160045.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: THROATED
-http://xxip25.top:8080/char@dot.com/live/char@14223/160046.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160046.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: TRUE AMATUERS
-http://xxip25.top:8080/char@dot.com/live/char@14223/160047.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160047.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",PORNBOX: X CHIMERA
-http://xxip25.top:8080/char@dot.com/live/char@14223/160048.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/160048.ts
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",X4 | 404HotFound
 http://xxip25.top:8080/char@dot.com/char@14223/215434
 #EXTINF:0 tvg-logo="" group-title="Adults Only (XXX)",X4 | A Girls Knows
