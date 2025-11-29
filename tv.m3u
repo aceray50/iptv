@@ -3241,7 +3241,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/3053.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Soccer Plus
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2531.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",CBS Sports Network
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3621.ts
+http://kstv.us:8080/live/Patricia/8542372346/15944.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",CBS Sports HQ
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",CBS Sports Golazo Network
