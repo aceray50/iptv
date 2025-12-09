@@ -777,13 +777,13 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/89530.ts
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89532.ts
 
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="24/7 Local News",KCBS-TV CBS 2 & KCAL-TV 9 24/7 News (Los Angeles CA)
-http://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
+https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/e3eae6b2-da9a-4564-a78f-9ae268b36d5a:DLS/variant/1f6c2a0cdc942a06cc5279349b733efd/bandwidth/5641204.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="24/7 Local News",KNBC-TV NBC 4 24/7 News (Los Angeles CA)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951164/hls/master.m3u8?ads.xumo_channelId=99951164
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/1ade928e-a479-425c-9fa1-28c1b4ae3eb2/4.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="24/7 Local News",KABC-TV ABC 7 24/7 News (Los Angeles CA)
-https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1.m3u8
+https://content-ausw1.uplynk.com/channel/b657cac5158e405faad7c2cc27860ef1/f.m3u8?pbs=b82429e9fe2f4c4989b7307f8a0d621f
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="24/7 Local News",KTTV-TV FOX 11 24/7 News (Los Angeles CA)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+https://d2olwakxtujj3g.cloudfront.net/playlist/amg00488-foxdigital-fox11losangeleskttv-vizious/cb563e1e726c6c8c84cb3762cef562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5daf6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5ace70c4cdb65a0ac484d912e58e68314c9c94dba89d2469841d576a3119c9bf1dad342e025a059816f639f943a581facb33bfefc53bfce9f6d79af6529521b4694dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935e95875bc5a6bd5876aa5a3afd04c0340cc08f19045d2878ea9815b1db274efaaa9fe726e96fa1d7646830ab247796fc2ae9246ceab9df1c715ebf9bbe097e1b13c7ff09d4c1bd5b9eadcc3ae8d84b930475c6a0703c973a78d52e226cf739203724b53604bb79359c887960b7e320fceb757da1714aec8cbadeb4e6a9a2e4b01a857d05553389774742ab164b9bb2c7c85233d803716f24c7ad511abf67fa3e793ce2e0f98f28b02f366e4b04af5f301a262751921bbe0235240032c84bc285d7e298d15a4e0cbe7761b09a3a29ea98e006e754c7d383b82ece37f8c9d80784d64a67d1220254059c67e9503b927460f29c51ba9dc2a7c97092c28a6ea7f6a536292c7a692c5b1ee41a674c7c0ed334d6e0e83dc9efca4c7b5dca6315b4335bae1dc8d4adac461ca89/57/1920x1080_5701132/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="24/7 Local News",WCBS-TV CBS 2 24/7 News (New York NY)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="24/7 Local News",WNBC-TV NBC 4 24/7 News (New York NY)
@@ -795,7 +795,7 @@ https://content-ause1.uplynk.com/channel/896bfd551dfb44b1ab3cc3be9b92e285.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="24/7 Local News",WBBM-TV CBS 2 24/7 News (Chicago IL)
 http://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="24/7 Local News",WMAQ-TV NBC 5 24/7 News (Chicago IL)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951165/hls/playlist.m3u8?ads.xumo_channelId=99951165
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951163/hls/master.m3u8?ads.xumo_channelId=99951165
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="24/7 Local News",WLS-TV ABC 7 24/7 News (Chicago IL)
 https://content-ause1.uplynk.com/channel/553fe1231b83487383a725f2da8433f5.m3u8
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="24/7 Local News",WFLD-TV FOX 32 24/7 News (Chicago IL)
@@ -955,25 +955,25 @@ https://s2host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Supermarket Sweep
-https://jmp2.uk/rok-62b4eba68f3051c68d2beb22dc94ebbc.m3u8
+https://aka-live1050.delivery.roku.com/6b8411af-8790-49ab-932e-7d12a83c53cd/t2-origin/out/v1/live_1080.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Price Is Right
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c2214c2a7f2200089a0c4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c507a-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c93e6330-dc43-4864-ad74-9144287f8bbd
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c2214c2a7f2200089a0c4blivestitch/2977920/playlist.m3u8?terminate=false&sid=c93e6330-dc43-4864-ad74-9144287f8bbd&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=2c7c507a-35fc-11ef-a031-2b5d494037a2&appVersion=unknown&deviceType=web&deviceMake=Chrome
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Price Is Right - The Barker Era
 https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-thepriceisright-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Family Feud
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992282
+https://d1bl6tskrpq9ze.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_lgchannels-cdp-springserve/99bf0090-bdbd-4f3a-bdf8-ae57229d970a/5.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Family Feud Classics
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643f03b9d8436e0008edf021/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c507a-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d3606ad-c64d-11f0-9a7f-66921e816194
-#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Impossible Quiz Show
-https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643f03b9d8436e0008edf021livestitch/2977920/playlist.m3u8?terminate=false&sid=1d3606ad-c64d-11f0-9a7f-66921e816194&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=2c7c507a-35fc-11ef-a031-2b5d494037a2&appVersion=unknown&deviceType=web&deviceMake=Chrome
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Impossible Quiz Show (UK)
+https://bbc-impossible-1-us.roku.wurl.tv/4300.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Deal or No Deal
 https://banijay-dealornodeal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-dealornodeal-lg-us/CDN/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",America's Got Talent
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993062
+https://d1bl6tskrpq9ze.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_lgchannels-cdp-springserve/de5d5a31-804e-4b08-818e-8a1a96fb5320/5.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Masked Singer
-https://jmp2.uk/rok-34b686f999ecaacfbcd91bb5195c3124.m3u8
+https://aka-live1050.delivery.roku.com/f8d4dd54-e358-4c64-97ac-3c42b4e1fd46/t2-origin/out/v1/live_1080.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Fear Factor
-https://banijay-fearfactor-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-fearfactor-lg-us/CDN/master.m3u8
+https://amg00627-banijaygroup-fearfactor-lgus-ncah5.amagi.tv/ts-us-w2-n1/playlist/lgAAAAAAA-banijay-fearfactor-lg-us/cb563e1e726c6c8c84cb3762cef562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5daf6852db80148b6f4adafb8c2360625f5c98435ee3b24aa0aee75a118c68a3ac484d912f58e68314c9c94db9808646cd128f77f41199c0a38ed641e025a059816f639f943a581facb33bfefc53bfce9f6d79af6529521b4694dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935e95875bc5a6bd5876aa5a3afd04c0340cc08f19045d2878ea9815b1db274efaaa9fe726e96fa1d7646830ab247796fc2ae9246ceab9df1c715ebf9bbe097e1b13c7ff09d4c1bd5b9eadcc3ae8d84b930475c6a0703c973a78d52e226cf739203724b53604bb79359c887960b7e320fceb757da1714aec8cbadeb4e6a9a2e4b01a857d05553389774742ab164b9bb2c7c85233d803716f24c7ad511abf67fa3e793ce2e0f98f28b02f366e4b04af5f301a262751921bbe0235240032c84bc285d7e298d15a4e0cbe7761b09a3a29ea98e006e754c7d383b82ece37f8c9d80784d64a67d1220254059c67e9503b927460f29c51ba9dc2a7c97092c28a6ea7f6a536292c7a692c5b1ee41a674c7c0ed334c6a0d355d52a9d3ec7ad051b6a739bc1748624b8509fdcbe6e7a9/146/1920x1080_6046040/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Hot Ones
 https://jmp2.uk/rok-fb29ccf15bc8583ca1db8c42902eeae8.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",American Ninja Warrior
@@ -1826,41 +1826,41 @@ https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/cfcdd58ca01e6ce9/b4
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (New York NY)
 https://catram-packager-018.nextologies.com/0bbcf6d6a85c81ca/04ff148259106fe4/b4b88b6078603f45/04ff148259106fe42500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Chicago IL)
-https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/dfc21a5ae16ce638/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/dfc21a5ae16ce638/b4b88b6078603f45/dfc21a5ae16ce6382500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Detroit MI)
-https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/449b8bb5f3c60f91/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/449b8bb5f3c60f91/b4b88b6078603f45/449b8bb5f3c60f912500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Minneapolis/St. Paul MN)
-https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/9a673596bfcae6ba/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/9a673596bfcae6ba/b4b88b6078603f45/9a673596bfcae6ba2500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Miami FL)
-https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/40c49690511b4f14/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/40c49690511b4f14/b4b88b6078603f45/40c49690511b4f142500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Boston MA)
-https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/be9dbe5ac43dab3e/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/be9dbe5ac43dab3e/b4b88b6078603f45/be9dbe5ac43dab3e2500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Philadelphia PA)
-https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/aa2c43fa71b4388d/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/aa2c43fa71b4388d/b4b88b6078603f45/aa2c43fa71b4388d2500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Washington DC)
-https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/4deb7a83cbe7b8d8/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/4deb7a83cbe7b8d8/b4b88b6078603f45/4deb7a83cbe7b8d82500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Honolulu HI)
-https://catram-packager-018.nextologies.com/2e8b917d076c5475/fc6af4fce72cfe60/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/2e8b917d076c5475/fc6af4fce72cfe60/b4b88b6078603f45/fc6af4fce72cfe602500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Anchorage AK)
-https://catram-packager-018.nextologies.com/2e8b917d076c5475/0b180b9bfc59fbf0/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/2e8b917d076c5475/0b180b9bfc59fbf0/b4b88b6078603f45/0b180b9bfc59fbf02500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Butte MT)
-https://catram-packager-018.nextologies.com/37c4ba92985d8d79/c2055a59f13810b1/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/37c4ba92985d8d79/c2055a59f13810b1/b4b88b6078603f45/c2055a59f13810b12500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Las Vegas NV)
-https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/5eba563f4584baef/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/5eba563f4584baef/b4b88b6078603f45/5eba563f4584baef2500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (San Diego CA)
-https://catram-packager-018.nextologies.com/db5cc2236f8d95f3/dc4c1534f621605d/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/db5cc2236f8d95f3/dc4c1534f621605d/b4b88b6078603f45/dc4c1534f621605d2500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (San Francisco CA)
-https://catram-packager-018.nextologies.com/0bbcf6d6a85c81ca/5916d62c5bd920c0/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/0bbcf6d6a85c81ca/5916d62c5bd920c0/b4b88b6078603f45/5916d62c5bd920c02500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Fresno CA)
-https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/b61c7a071eb43b98/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/b61c7a071eb43b98/b4b88b6078603f45/b61c7a071eb43b982500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Houston TX)
-https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/e87f1b0d1fb8464e/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/e87f1b0d1fb8464e/b4b88b6078603f45/e87f1b0d1fb8464e2500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (Ft. Worth/Dallas TX)
-https://catram-packager-018.nextologies.com/37c4ba92985d8d79/d73e49632fcdecbb/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/37c4ba92985d8d79/d73e49632fcdecbb/b4b88b6078603f45/d73e49632fcdecbb2500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (El Paso TX)
-https://catram-packager-018.nextologies.com/33cf929f7996f7b4/588f14d9ef4317f1/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/33cf929f7996f7b4/588f14d9ef4317f1/b4b88b6078603f45/588f14d9ef4317f12500/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/250px-LocalNow_logo_2020.png" group-title="Local Now",LocalNow (New Orleans LA)
-https://catram-packager-018.nextologies.com/0bbcf6d6a85c81ca/45a975efb871cd32/b4b88b6078603f45/cfcdd58ca01e6ce92500/chunks.m3u8
+https://catram-packager-018.nextologies.com/0bbcf6d6a85c81ca/45a975efb871cd32/b4b88b6078603f45/45a975efb871cd322500/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/SpectrumNoticiasLogo2025.jpg" group-title="Latino (Spanish)",Spectrum Noticias NY1
 http://restream-live.realiptv.to:8080/live/19742329/27604387/649407.ts
