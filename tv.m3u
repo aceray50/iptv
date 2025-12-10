@@ -3229,9 +3229,9 @@ https://amg00497-amg00497c24-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-
 #EXTINF:0 tvg-logo="" group-title="Sports",PAC 12 Insider
 https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FSN 1
-http://kstv.us:8080/live/Amoah22/7887531266/15948.ts
+https://foxvideo-sports.akamaized.net/live/foxsports1-ue1/index.m3u8?ad_env=1
 #EXTINF:0 tvg-logo="" group-title="Sports",FSN 2
-http://kstv.us:8080/live/Amoah22/7887531266/15947.ts
+https://foxvideo-sports.akamaized.net/live/foxsports2-ue1/index.m3u8?ad_env=1
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports
 https://amg02855-foxsports-amg02855c1-lg-us-1388.playouts.now.amagi.tv/playlist/amg02855-foxnewsnetwork-foxsports-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports on Tubi
@@ -6505,33 +6505,33 @@ http://rfcm.streamguys1.com/sailingpremium-mp3
 http://rfcm.streamguys1.com/smoothjazzpremium-mp3
 
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hit List (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260656.ts
+http://kstv.us:8080/live/Amoah22/7887531266/47978.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Music Choice Max (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260697.ts
+http://kstv.us:8080/live/Amoah22/7887531266/48002.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Dance EDM
 http://kstv.us:8080/live/Amoah22/7887531266/47958.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Dance
 http://kstv.us:8080/live/Amoah22/7887531266/47944.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop And R&B
-http://hardcoremedia.xyz:80/BG992263/38692743/237626
+http://hardcoremedia.xyz:80/live/BG992263/38692743/237626.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop And R&B (Audio Channel)
-http://hardcoremedia.xyz:80/liveBG992263/38692743/260655.ts
+http://kstv.us:8080/live/Amoah22/7887531266/47975.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rap (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260720.ts
+http://kstv.us:8080/live/Amoah22/7887531266/48014.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Mainstream Rap (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260721.ts
+http://kstv.us:8080/live/Amoah22/7887531266/47995.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Underground Hip-Hop (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260734.ts
+http://kstv.us:8080/live/Amoah22/7887531266/48049.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop Classics
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237628.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop Classics (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260724.ts
+http://kstv.us:8080/live/Amoah22/7887531266/47976.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Throwback Jams
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237629.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Throwback Jams (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260723.ts
+http://kstv.us:8080/live/Amoah22/7887531266/48044.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Funk (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260733.ts
+http://kstv.us:8080/live/Amoah22/7887531266/47970.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Groove (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260729.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Soul (Audio Channel)
@@ -7411,7 +7411,7 @@ http://kstv.us:8080/live/Amoah22/7887531266/46352.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",beIN Sports Xtra en Español
 https://amg01334-amg01334c1-canelatv-international-6037.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FOX Deportes
-http://kstv.us:8080/live/Amoah22/7887531266/23316.ts
+https://foxvideo-sports.akamaized.net/live/deportes-ue1/index.m3u8?ad_env=1
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FOX Sports Channel en Español
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FSN Premium en Español
