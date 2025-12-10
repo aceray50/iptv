@@ -3229,9 +3229,9 @@ https://amg00497-amg00497c24-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-
 #EXTINF:0 tvg-logo="" group-title="Sports",PAC 12 Insider
 https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FSN 1
-https://foxvideo-sports.akamaized.net/live/foxsports1-ue1/index.m3u8?ad_env=1
+http://kstv.us:8080/live/Amoah22/7887531266/22526.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FSN 2
-https://foxvideo-sports.akamaized.net/live/foxsports2-ue1/index.m3u8?ad_env=1
+http://kstv.us:8080/live/Amoah22/7887531266/15947.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports
 https://amg02855-foxsports-amg02855c1-lg-us-1388.playouts.now.amagi.tv/playlist/amg02855-foxnewsnetwork-foxsports-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports on Tubi
@@ -7411,7 +7411,7 @@ http://kstv.us:8080/live/Amoah22/7887531266/46352.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",beIN Sports Xtra en Español
 https://amg01334-amg01334c1-canelatv-international-6037.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FOX Deportes
-https://foxvideo-sports.akamaized.net/live/deportes-ue1/index.m3u8?ad_env=1
+http://kstv.us:8080/live/Amoah22/7887531266/47115.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FOX Sports Channel en Español
 https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",FSN Premium en Español
