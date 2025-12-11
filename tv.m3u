@@ -835,7 +835,7 @@ https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="24/7 Local News",KDKA-TV CBS 2 24/7 News (Pittsburgh PA)
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="24/7 Local News",WTAE-TV ABC 4 24/7 News (Pittsburgh PA)
-https://apollo.production-public.tubi.io/live/ac-wtae.m3u8
+https://content.uplynk.com/channel/738511700c9145ca8e4c8147f15aedb9.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="24/7 Local News",WPXI-TV NBC 11 24/7 News (Pittsburgh PA)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="24/7 Local News",WFOR-TV CBS 4 24/7 News (Miami FL)
