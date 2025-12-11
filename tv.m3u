@@ -20,7 +20,7 @@ https://fl61.moveonjoy.com/NY_New_York_NBC/index.m3u8
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WNYW-TV FOX 5 (New York NY)
 https://fl61.moveonjoy.com/NY_New_York_FOX/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WABC-TV ABC 7 (New York NY)
-https://fl61.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8
+http://kstv.us:8080/live/Amoah22/7887531266/48996.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)
 http://kstv.us:8080/live/Amoah22/7887531266/23214.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WPIX-TV CW 11 (PIX 11+) (New York NY)
@@ -2122,7 +2122,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/3718.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2661.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/2662.ts
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:0 tvg-logo="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/348294991_922335115740028_2394346157475320613_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=utp5sBiTwsgQ7kNvwHxLHs3&_nc_oc=AdnKKgNiU-HYFyqkmIr3TycG_P4wwGtDpmvn3U2LKqsW83mmEk5N2hz3v-r9ukjS9Sg&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=0C_cytQVwNZobtJbWKgiew&oh=00_AfS7Vq-PsstxVFW7t8FrnjOrw6i9ndmFi1vHF_cxDGtoyw&oe=687A1A6F" group-title="Documentary",AKC TV
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/1024px-DOGTV_logo.svg.png" group-title="Documentary",DogTV
@@ -2190,7 +2190,7 @@ https://3649884182d1462a9cada0264c1a0d57.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="" group-title="Documentary",Pursuit Channel
 https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index_3.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1920px-American_Heroes_Channel_logo.svg.png" group-title="Documentary",AHC (American Heroes Channel)
-http://kstv.us:8080/live/Amoah22/7887531266/23360.ts
+http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Documentary+
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",DOC+
@@ -2312,15 +2312,15 @@ https://d2dimalv43j51f.cloudfront.net/out/v1/52d3048e53eb42a7959dc347d2f810e2/in
 #EXTINF:0 tvg-logo="" group-title="News",LiveNOW from FOX
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",FOX News Channel
-http://kstv.us:8080/live/Amoah22/7887531266/22530.ts
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",FOX Business
-http://kstv.us:8080/live/Amoah22/7887531266/23320.ts
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",NBC Dateline 24/7
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991626/hls/master.m3u8?ads.xumo_channelId=99991626
 #EXTINF:0 tvg-logo="" group-title="News",CNBC
-http://kstv.us:8080/live/Amoah22/7887531266/15902.ts
+https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",CNBC World
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2609.ts
 #EXTINF:0 tvg-logo="" group-title="News",CNBC Africa
@@ -2632,19 +2632,19 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631837.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3664.ts
+http://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV 2 (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89987.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV 2 (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/57968.ts
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV Classic (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/57969.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV Classic (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/649014
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV Live
-http://kstv.us:8080/live/Amoah22/7887531266/23286.ts
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV Yo! (Pluto)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="LGBT",Logo
@@ -3028,7 +3028,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951293/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC (American Movie Classics) (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/643834.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC (American Movie Classics) (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3608.ts
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC Thriller
@@ -3213,17 +3213,17 @@ http://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN
-http://kstv.us:8080/live/Amoah22/7887531266/15951.ts
+http://fl2.moveonjoy.com/ESPN/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN 2
-http://kstv.us:8080/live/Amoah22/7887531266/15950.ts
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN U
-http://kstv.us:8080/live/Amoah22/7887531266/22536.ts
+http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN News
-http://kstv.us:8080/live/Amoah22/7887531266/15952.ts
+http://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",SEC Network ESPN
-http://kstv.us:8080/live/Amoah22/7887531266/23258.ts
+http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",ACC Network ESPN
-http://kstv.us:8080/live/Amoah22/7887531266/46401.ts
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",ACCDN
 https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN Ocho
@@ -3283,7 +3283,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/5309.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Fubo Sports Network
 http://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/fsn/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NBA TV
-http://restream-live.realiptv.to:8080/live/19742329/27604387/2470.ts
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",The NBA Channel
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NBA G League TV
@@ -3293,7 +3293,7 @@ https://lockedonsports-nba-live.sports.tv/v1/master/758627660e995d43cdf594915ca6
 #EXTINF:0 tvg-logo="" group-title="Sports",The Original Globetrotters
 https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8?ads.wurl_channel=1909
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Network
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3754.ts
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Channel
 https://d6f8f5cf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTkZMQ2hhbm5lbF9ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Alt Channel
@@ -3303,7 +3303,7 @@ http://kstv.us:8080/live/Amoah22/7887531266/23279.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Locked on NFL
 https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5a5e6d0c3a5f3ad07b6d4_lockedonsports-nfl-live/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Network
-http://kstv.us:8080/live/Amoah22/7887531266/15904.ts
+http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Channel
 https://apollo.production-public.tubi.io/live/mlb2-RR0NCJ.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Strike Zone
