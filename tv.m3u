@@ -2458,17 +2458,17 @@ https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af78
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631831.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon (East)
-http://kstv.us:8080/live/Amoah22/7887531266/23277.ts
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd630-7b2e-11ef-a94e-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebbf33a-e8f6-4c9f-91cc-df503deed9e8&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631832.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (East)
-http://kstv.us:8080/live/Amoah22/7887531266/23276.ts
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nicktoons
-http://kstv.us:8080/live/Amoah22/7887531266/23274.ts
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",TeenNick
 http://restream-live.realiptv.to:8080/live/19742329/27604387/74692.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
@@ -2480,7 +2480,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/89095.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Channel (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2590.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Channel (East)
-http://kstv.us:8080/live/Amoah22/7887531266/23332.ts
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney XD (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2586.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney XD (East)
@@ -2613,7 +2613,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951124/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Buzzr (Alt)
 https://buzzrota-ono.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Bounce TV
-https://streamer1.nexgen.bz/BOUNCE/index.m3u8
+https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Bounce XL
 https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scripps_bouncexl_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Nosey
@@ -3050,13 +3050,13 @@ https://api-ott.watchnost.com/loggingmediaurlpassthrough/b.m3u8?version=12&id=12
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Channel (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/649412.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Channel (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/2494.ts
+https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Family
-http://restream-live.realiptv.to:8080/live/19742329/27604387/660922.ts
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Mystery (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/649413.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Mystery (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3653.ts
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:0 tvg-logo="" group-title="Network Channels",80's Sitcom Flashback
@@ -3285,7 +3285,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/5309.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Fubo Sports Network
 http://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/fsn/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NBA TV
-http://fl.moveonjoy.com/NBA_TV/index.m3u8
+http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",The NBA Channel
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NBA G League TV
