@@ -2285,151 +2285,151 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News",News 12+ ("Hudson Valley" West Nyack NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="News",Today All Day
+#EXTINF:0 tvg-logo="" group-title="News Channels",Today All Day
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245
-#EXTINF:0 tvg-logo="" group-title="News",Spectrum News NY1 (New York NY)
+#EXTINF:0 tvg-logo="" group-title="News Channels",Spectrum News NY1 (New York NY)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/649404.ts
-#EXTINF:0 tvg-logo="" group-title="News",Spectrum News SoCal (Los Angeles CA)
+#EXTINF:0 tvg-logo="" group-title="News Channels",Spectrum News SoCal (Los Angeles CA)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/261261.ts
-#EXTINF:0 tvg-logo="" group-title="News",Spectrum News+
+#EXTINF:0 tvg-logo="" group-title="News Channels",Spectrum News+
 https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.xumo_channelId=99951337
-#EXTINF:0 tvg-logo="" group-title="News",ABC Localish
+#EXTINF:0 tvg-logo="" group-title="News Channels",ABC Localish
 https://live-manifest.production-public.tubi.io/live/ed84a986-071d-484d-b835-e6f0585bff83/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",ABC News
+#EXTINF:0 tvg-logo="" group-title="News Channels",ABC News
 http://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",ABC 20/20
+#EXTINF:0 tvg-logo="" group-title="News Channels",ABC 20/20
 https://amg00497-amg00497c23-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c23-amgplt0023/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CBS News
+#EXTINF:0 tvg-logo="" group-title="News Channels",CBS News
 http://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CBS 48 Hours
+#EXTINF:0 tvg-logo="" group-title="News Channels",CBS 48 Hours
 http://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CBS 60 Minutes
+#EXTINF:0 tvg-logo="" group-title="News Channels",CBS 60 Minutes
 http://dai.google.com/linear/hls/event/nrb-l85CR7SIr-rGXqz4zA/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CBS ET (Entertainment Tonight)
+#EXTINF:0 tvg-logo="" group-title="News Channels",CBS ET (Entertainment Tonight)
 http://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CBS Inside Edition
+#EXTINF:0 tvg-logo="" group-title="News Channels",CBS Inside Edition
 http://dai.google.com/linear/hls/event/Y2DMgfclT3S2nNxANeIawA/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",TMZ Live
+#EXTINF:0 tvg-logo="" group-title="News Channels",TMZ Live
 https://d2dimalv43j51f.cloudfront.net/out/v1/52d3048e53eb42a7959dc347d2f810e2/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",LiveNOW from FOX
+#EXTINF:0 tvg-logo="" group-title="News Channels",LiveNOW from FOX
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",FOX News Channel
+#EXTINF:0 tvg-logo="" group-title="News Channels",FOX News Channel
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",FOX Business
+#EXTINF:0 tvg-logo="" group-title="News Channels",FOX Business
 https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",NBC News Now
+#EXTINF:0 tvg-logo="" group-title="News Channels",NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",NBC Dateline 24/7
+#EXTINF:0 tvg-logo="" group-title="News Channels",NBC Dateline 24/7
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991626/hls/master.m3u8?ads.xumo_channelId=99991626
-#EXTINF:0 tvg-logo="" group-title="News",CNBC
+#EXTINF:0 tvg-logo="" group-title="News Channels",CNBC
 https://fl1.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CNBC World
+#EXTINF:0 tvg-logo="" group-title="News Channels",CNBC World
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2609.ts
-#EXTINF:0 tvg-logo="" group-title="News",CNBC Africa
+#EXTINF:0 tvg-logo="" group-title="News Channels",CNBC Africa
 https://anym3u8player.com/youtube.php/id/6922043969e79.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CNBC Europe
+#EXTINF:0 tvg-logo="" group-title="News Channels",CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CNBC Marathon
+#EXTINF:0 tvg-logo="" group-title="News Channels",CNBC Marathon
 https://anym3u8player.com/youtube.php/id/69224dc6527c9.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",MSNBC
+#EXTINF:0 tvg-logo="" group-title="News Channels",MSNBC
 http://kstv.us:8080/live/Amoah22/7887531266/22506.ts
-#EXTINF:0 tvg-logo="" group-title="News",CNN
+#EXTINF:0 tvg-logo="" group-title="News Channels",CNN
 http://kstv.us:8080/live/Amoah22/7887531266/15934.ts
-#EXTINF:0 tvg-logo="" group-title="News",CNN International
+#EXTINF:0 tvg-logo="" group-title="News Channels",CNN International
 http://restream-live.realiptv.to:8080/live/19742329/27604387/88946.ts
-#EXTINF:0 tvg-logo="" group-title="News",CNN+
+#EXTINF:0 tvg-logo="" group-title="News Channels",CNN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/cnn.us.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CNN Originals
+#EXTINF:0 tvg-logo="" group-title="News Channels",CNN Originals
 https://amg01918-cnnus-amg01918c2-lg-us-5721.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-lgus/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CNN Headlines
+#EXTINF:0 tvg-logo="" group-title="News Channels",CNN Headlines
 https://amg01918-cnnus-amg01918c1-lg-us-1911.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-lgus/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",HLN (CNN Headline News)
+#EXTINF:0 tvg-logo="" group-title="News Channels",HLN (CNN Headline News)
 http://kstv.us:8080/live/Amoah22/7887531266/23296.ts
-#EXTINF:0 tvg-logo="" group-title="News",HLN+
+#EXTINF:0 tvg-logo="" group-title="News Channels",HLN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/hln.us.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Bloomberg TV
+#EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg TV
 http://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Bloomberg+ (4K)
+#EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg+ (4K)
 https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Bloomberg Originals
+#EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg Originals
 https://d10d0llfaw1ovl.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/QuickTakeLive/live/origin-contribution-m1-bloomberg-quicktake-Haystack-TV.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Bloomberg TV Politics Live Event
+#EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg TV Politics Live Event
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Bloomberg Quicktake
+#EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg Quicktake
 https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",BBC News North America
+#EXTINF:0 tvg-logo="" group-title="News Channels",BBC News North America
 https://vs-cmaf-pushb-ntham-gcomm.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/pc_hd_abr_v2.mpd
-#EXTINF:0 tvg-logo="" group-title="News",Cheddar
+#EXTINF:0 tvg-logo="" group-title="News Channels",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Yahoo! Finance
+#EXTINF:0 tvg-logo="" group-title="News Channels",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",The First
+#EXTINF:0 tvg-logo="" group-title="News Channels",The First
 https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",The Hill
+#EXTINF:0 tvg-logo="" group-title="News Channels",The Hill
 https://d1pii8jaj0kqjy.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/thehillLive/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Scripps News
+#EXTINF:0 tvg-logo="" group-title="News Channels",Scripps News
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Newsmax
+#EXTINF:0 tvg-logo="" group-title="News Channels",Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Newsmax 2
+#EXTINF:0 tvg-logo="" group-title="News Channels",Newsmax 2
 https://n2ctsota.akamaized.net/hls/live/2113130/Live_1/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",News Nation
+#EXTINF:0 tvg-logo="" group-title="News Channels",News Nation
 http://kstv.us:8080/live/Amoah22/7887531266/23232.ts
-#EXTINF:0 tvg-logo="" group-title="News",C-SPAN
+#EXTINF:0 tvg-logo="" group-title="News Channels",C-SPAN
 http://kstv.us:8080/live/Amoah22/7887531266/48417.ts
-#EXTINF:0 tvg-logo="" group-title="News",C-SPAN 2
+#EXTINF:0 tvg-logo="" group-title="News Channels",C-SPAN 2
 http://restream-live.realiptv.to:8080/live/19742329/27604387/92793.ts
-#EXTINF:0 tvg-logo="" group-title="News",C-SPAN 3
+#EXTINF:0 tvg-logo="" group-title="News Channels",C-SPAN 3
 http://restream-live.realiptv.to:8080/live/19742329/27604387/607733.ts
-#EXTINF:0 tvg-logo="" group-title="News",USA Today News
+#EXTINF:0 tvg-logo="" group-title="News Channels",USA Today News
 https://dbrb49pjoymg4.cloudfront.net/10001/99991287/hls/playlist.m3u8?ads.xumo_channelId=99991287
-#EXTINF:0 tvg-logo="" group-title="News",OAN News (One America News Network)
+#EXTINF:0 tvg-logo="" group-title="News Channels",OAN News (One America News Network)
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",OAN Plus
+#EXTINF:0 tvg-logo="" group-title="News Channels",OAN Plus
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/oan-encore/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Salem News Channel
+#EXTINF:0 tvg-logo="" group-title="News Channels",Salem News Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00732-salemmediagroup-snc-ono/playlist.m3u8?did=a65b8785-624b-45be-ad63-52b7b67e8b76&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&video_id=612cebf8027e2a0001f6ef2f&coppa=0&dnt=0&gdpr=0&gdpr_consent=&ifa_type=&lmt=0&pod_max_dur=120&domain=salemnewschannel.com&us_privacy=1YN-&paln=[paln]&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&site_page=https%3A%2F%2Fsalemnewschannel.com%2F&site_url=salemnewschannel.com&player_width=790&player_height=0
-#EXTINF:0 tvg-logo="" group-title="News",The National News Desk
+#EXTINF:0 tvg-logo="" group-title="News Channels",The National News Desk
 https://dai.google.com/linear/hls/event/VnZY5jBuRymXMn2_604j8Q/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",NTD TV News (New Tang Dynasty Television)
+#EXTINF:0 tvg-logo="" group-title="News Channels",NTD TV News (New Tang Dynasty Television)
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Reuters TV
+#EXTINF:0 tvg-logo="" group-title="News Channels",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Real America's Voice
+#EXTINF:0 tvg-logo="" group-title="News Channels",Real America's Voice
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-americas-voice/RAVDistroTV.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Free Speech
+#EXTINF:0 tvg-logo="" group-title="News Channels",Free Speech
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",BEK TV News
+#EXTINF:0 tvg-logo="" group-title="News Channels",BEK TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",HollyWire
+#EXTINF:0 tvg-logo="" group-title="News Channels",HollyWire
 https://bozztv.com/hwotta/playlist/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",InfoWars
+#EXTINF:0 tvg-logo="" group-title="News Channels",InfoWars
 https://a-cdn.klowdtv.com/live2/infowars_720p/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",The Young Turks
+#EXTINF:0 tvg-logo="" group-title="News Channels",The Young Turks
 https://tyt-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Biz TV
+#EXTINF:0 tvg-logo="" group-title="News Channels",Biz TV
 https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",TED Talks
+#EXTINF:0 tvg-logo="" group-title="News Channels",TED Talks
 https://amg02034-amg02034c1-amgplt0022.playout.now3.amagi.tv/playlist/amg02034-amg02034c1-amgplt0022/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",UN Web TV
+#EXTINF:0 tvg-logo="" group-title="News Channels",UN Web TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",DW
+#EXTINF:0 tvg-logo="" group-title="News Channels",DW
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Euronews
+#EXTINF:0 tvg-logo="" group-title="News Channels",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",RT News
+#EXTINF:0 tvg-logo="" group-title="News Channels",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",Al Jazeera English
+#EXTINF:0 tvg-logo="" group-title="News Channels",Al Jazeera English
 https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",i24 News
+#EXTINF:0 tvg-logo="" group-title="News Channels",i24 News
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CGTN
+#EXTINF:0 tvg-logo="" group-title="News Channels",CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",CGTN America
+#EXTINF:0 tvg-logo="" group-title="News Channels",CGTN America
 http://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Weather News",The Weather Channel
-http://restream-live.realiptv.to:8080/live/19742329/27604387/42308.ts
+http://kstv.us:8080/live/Amoah22/7887531266/22464.ts
 #EXTINF:0 tvg-logo="" group-title="Weather News",The Weather Channel+
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:0 tvg-logo="" group-title="Weather News",FOX Weather
@@ -2806,7 +2806,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/3833.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FXX (East)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3649.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FXM (FOX Movie Channel)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3736.ts
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TNT (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2384.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TNT (East)
@@ -7648,7 +7648,7 @@ http://kstv.us:8080/live/Amoah22/7887531266/40768.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",BBC World News (Canada)
 http://kstv.us:8080/live/Amoah22/7887531266/40770.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",The Weather Network (Canada)
-http://kstv.us:8080/live/Amoah22/7887531266/40658.ts
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Treehouse (Canada)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3057.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",YTV (Canada)
