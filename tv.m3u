@@ -16,9 +16,9 @@ http://kstv.us:8080/live/Amoah22/7887531266/48789.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCBS-TV CBS 2 (New York NY)
 http://kstv.us:8080/live/Amoah22/7887531266/48997.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNBC-TV NBC 4 (New York NY)
-https://fl61.moveonjoy.com/NY_New_York_NBC/index.m3u8
+https://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WNYW-TV FOX 5 (New York NY)
-https://fl61.moveonjoy.com/NY_New_York_FOX/index.m3u8
+https://fl1.moveonjoy.com/NY_New_York_FOX/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WABC-TV ABC 7 (New York NY)
 http://kstv.us:8080/live/Amoah22/7887531266/48996.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)
@@ -3215,7 +3215,7 @@ http://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN
-http://kstv.us:8080/live/Amoah22/7887531266/15951.ts
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN U
