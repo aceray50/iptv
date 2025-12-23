@@ -2429,7 +2429,7 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 http://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Weather News",The Weather Channel
-http://kstv.us:8080/live/Purn3542/38791114838/22464.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/18926.ts
 #EXTINF:0 tvg-logo="" group-title="Weather News",The Weather Channel+
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:0 tvg-logo="" group-title="Weather News",FOX Weather
@@ -2484,17 +2484,15 @@ https://fl1.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney XD (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2586.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney XD (East)
-http://kstv.us:8080/live/Purn3542/38791114838/23330.ts
+https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Jr.
-http://kstv.us:8080/live/Purn3542/38791114838/47621.ts
-#EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (West)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/137676.ts
-#EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (East)
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network)
 https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Boomerang by Cartoon Network
 http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",MeTV Toons
-http://kstv.us:8080/live/Purn3542/38791114838/48753.ts
+http://portal5458.com:8080/live/DBeverly/2290061890/48753.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",The Lego Channel
 https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Cartoon Classics
@@ -2516,9 +2514,9 @@ https://otteraaaa-toon-goggles-samsungin-ygvcl.amagi.tv/playlist/otteraAAA-toon-
 #EXTINF:0 tvg-logo="" group-title="Children Channels",FreeForm (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3849.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",FreeForm (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/2502.ts
+https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Discovery Family
-http://restream-live.realiptv.to:8080/live/19742329/27604387/2598.ts
+https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Baby First #1
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3805.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Baby First #2
@@ -2599,7 +2597,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/40583.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Grit Xtra
 https://ab36e457.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfR3JpdFh0cmFfSExT/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Laff
-http://hardcoremedia.xyz:80/live/BG992263/38692743/129907.ts
+http://restream-live.realiptv.to:8080/live/19742329/27604387/75343.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Laff More!
 https://4783fbd6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTGFmZk1vcmVfSExT/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Catchy Comedy
