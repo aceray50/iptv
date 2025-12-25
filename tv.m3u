@@ -2658,7 +2658,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/81588.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",VH1 (East)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3699.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET (West)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/48973.ts
+https://fl1.moveonjoy.com/BET/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET (East)
 https://fl1.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET (Pluto TV)
@@ -2721,7 +2721,7 @@ https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy Central (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/89211.ts
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy Central (East)
-http://portal5458.com:8080/live/DBeverly/2290061890/22553.ts
+https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy Central (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy Central Animation (Pluto TV)
@@ -2747,19 +2747,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:0 tvg-logo="" group-title="Comedy",Pluto TV Comedy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67882c1c7b11714b795c2008/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1df8-7b2e-11ef-951a-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=575bd0af-08fa-11f0-bed2-86d507b84126&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Comedy",Animation+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd19.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6p4G1WM2si1T2FyZUqse
-#EXTINF:0 tvg-logo="" group-title="Comedy",BBC Comedy
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=6p4G1WM2si1T2FyZUqse
+https://live1009.delivery.roku.com/bf285a58-b9ac-457c-ac7d-cf7b207f3140/t2-origin/out/v1/live.m3u8
 #EXTINF:0 tvg-logo="" group-title="Comedy",Pluto TV Pranks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f86f539f03cd00070c503a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c208c-7b2e-11ef-9ac1-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=57f8ada0-9a60-40de-afcf-1a3a80463d81&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Comedy",Kevin Hart’s LOL! Network
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991123
-#EXTINF:0 tvg-logo="" group-title="Comedy",Kevin Hart’s LOL! Standup
-https://dbrb49pjoymg4.cloudfront.net/10001/99951297/hls/master.m3u8?ads.xumo_channelId=99951297
+https://dbrb49pjoymg4.cloudfront.net/10001/99991123/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991123
 #EXTINF:0 tvg-logo="" group-title="Comedy",Xumo Free Comedy TV
-https://dbrb49pjoymg4.cloudfront.net/10001/99991105/hls/master.m3u8?ads.xumo_channelId=99991105
+https://dbrb49pjoymg4.cloudfront.net/10001/99991105/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991105
 #EXTINF:0 tvg-logo="" group-title="Comedy",NBC Comedy Vault
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951244/hls/master.m3u8?ads.xumo_channelId=99951244
+https://dbrb49pjoymg4.cloudfront.net/10001/99951244/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951244
 #EXTINF:0 tvg-logo="" group-title="Comedy",Pluto TV Comedy
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac639-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9ed92f1-1fa3-4a05-abd8-e6b077ed35c4
 #EXTINF:0 tvg-logo="" group-title="Comedy",Hit Sitcoms by WB
@@ -2824,7 +2820,7 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbs
 #EXTINF:0 tvg-logo="" group-title="Network Channels",USA Network (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2379.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",USA Network (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3767.ts
+https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",El Rey Rebel
 https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-elrey-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Crime Beat TV
@@ -2836,7 +2832,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Network (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631839.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Network (East)
-https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount+ Picks (Pluto TV)
@@ -2906,7 +2902,7 @@ https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Circle Country #2
 https://amg00432-amg00432c1-circle-worldwide-2821.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-circleworldwide/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",The Cowboy Channel #1
-http://restream-live.realiptv.to:8080/live/19742329/27604387/84912.ts
+https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",The Cowboy Channel #2
 https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Outlaw (The Western Channel)
@@ -2938,11 +2934,11 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951250/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Pop TV (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631840.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Pop TV (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3863.ts
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Generation Drama by WB
 https://amg00136-wbd-amg00136c22-vizio-us-1805.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvgenerationdrama-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Vice
-http://restream-live.realiptv.to:8080/live/19742329/27604387/645915.ts
+https://fl1.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Vice News
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-635ff8bb66f96b46951ab7f3.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc
 #EXTINF:0 tvg-logo="" group-title="Network Channels",YouToo America
@@ -2952,7 +2948,7 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",LifeTime (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/650317.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",LifeTime (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/645914.ts
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",LMN (LifeTime Movie Network)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/647764.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",LRW (LifeTime Real Women)
@@ -2968,7 +2964,7 @@ https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="LGBT",Revry News
 https://linear-44.frequency.stream/dist/24i/44/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",WE TV (Women Entertainment Television)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/2378.ts
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",WE Absolute Reality
 http://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",HerSphere by Lionsgate
@@ -3008,7 +3004,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/42307.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FYI (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/647422.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FYI (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/30924.ts
+https://fl1.moveonjoy.com/FYI/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Fuse
 http://restream-live.realiptv.to:8080/live/19742329/27604387/30920.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",UpTV
@@ -3066,7 +3062,7 @@ https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainMan
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Faith & Living
 http://hardcoremedia.xyz:80/live/BG992263/38692743/261528.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Family
-http://restream-live.realiptv.to:8080/live/19742329/27604387/84929.ts
+https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Pure Flix TV
 https://amg01884-gac-amg01884c1-vizio-us-5495.playouts.now.amagi.tv/playlist/amg01884-gacmediafast-pureflixtv-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Adventures
@@ -3178,27 +3174,37 @@ http://trn07.tulix.tv/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
 http://jlt-jltv-roku.otteravision.com/jlt/jltv/jltv_1080p.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC (West)
-http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC (East)
-http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 2
-http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 3
-http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 4 (In The Kitchen)
-http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 5 (Fashion Finds)
-http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 6 (Holiday Headquarters)
-http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 7 (The Big Dish Channel)
 https://amg01717-qvc-amg01717c1-stirr-us-2651.playouts.now.amagi.tv/qvc-bigdishdelayed-switcher-localnow/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 8 (The Retail Therapy Channel)
-http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8
+#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 10
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc10us/master.m3u8
+#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 11
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc11us/master.m3u8
+#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 12
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc12us/master.m3u8
+#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 13
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc13us/master.m3u8
+#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 14
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc14us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",HSN (Home Shopping Network) (West)
-http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",HSN (Home Shopping Network) (East)
-http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",HSN 2
 http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",Shop LC
