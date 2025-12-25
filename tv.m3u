@@ -546,7 +546,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/89869.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WRLH-TV FOX 35 (Richmond VA)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/630652.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WRC-TV NBC 4 (Washington DC)
-https://fl1.moveonjoy.com/DC_WASHINGTON_NBC/index.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream1/master.m3u8
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTTG-TV FOX 5 (Washington DC)
 https://fl1.moveonjoy.com/DC_WASHINGTON_FOX/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WJLA-TV ABC 7 (Washington DC)
@@ -2699,10 +2699,6 @@ https://alt-al.otteravision.com/alt/al/al.m3u8
 http://restream-live.realiptv.to:8080/live/19742329/27604387/647825.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Shades of Black
 https://fuse-beats-oando.amagi.tv/hls/amagi_hls_data_fuseAAAAA-fusebeats-oando/CDN/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Network Channels",BlackPix
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc
-#EXTINF:0 tvg-logo="" group-title="Network Channels",365BLK
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6745dca72832b870acf53220.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc
 #EXTINF:0 tvg-logo="" group-title="Network Channels",The BLK Effect
 https://amg01312-cw-amg01312c39-cw-us-6681.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-theblkeffect-cwus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Backstage
