@@ -2332,9 +2332,9 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNBC Marathon
 https://anym3u8player.com/youtube.php/id/69224dc6527c9.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",MSNBC
-http://portal5458.com:8080/live/DBeverly/2290061890/22506.ts
+https://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNN
-http://portal5458.com:8080/live/DBeverly/2290061890/15934.ts
+https://fl1.moveonjoy.com/CNN/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNN International
 http://restream-live.realiptv.to:8080/live/19742329/27604387/88946.ts
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNN+
@@ -2344,7 +2344,7 @@ https://amg01918-cnnus-amg01918c2-lg-us-5721.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNN Headlines
 https://amg01918-cnnus-amg01918c1-lg-us-1911.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",HLN (CNN Headline News)
-http://portal5458.com:8080/live/DBeverly/2290061890/23296.ts
+https://fl1.moveonjoy.com/HLN/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",HLN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/hln.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg TV
@@ -2849,9 +2849,9 @@ https://linear-731.frequency.stream/dist/dice/731/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Cooking",Food Network (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3831.ts
 #EXTINF:0 tvg-logo="" group-title="Cooking",Food Network (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3644.ts
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Cooking",Cooking Channel
-http://restream-live.realiptv.to:8080/live/19742329/27604387/2605.ts
+http://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Cooking",Recipe.tv
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631869.ts
 #EXTINF:0 tvg-logo="" group-title="Cooking",Gusto TV
@@ -2996,7 +2996,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/3662.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Cars.tv
 http://restream-live.realiptv.to:8080/live/19742329/27604387/75345.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Reel Life
-http://restream-live.realiptv.to:8080/live/19742329/27604387/42307.ts
+https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FYI (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/647422.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FYI (East)
@@ -3014,7 +3014,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d7
 #EXTINF:0 tvg-logo="" group-title="Network Channels",OWN (Oprah Winfrey Network) (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631868.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",OWN (Oprah Winfrey Network) (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3675.ts
+https://fl1.moveonjoy.com/OWN/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Ebony TV by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951293/hls/playlist.m3u8?ads.xumo_channelId=99951293
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC (American Movie Classics) (West)
@@ -3177,15 +3177,15 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 4 (In The Kitchen)
+#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 4
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 5 (Fashion Finds)
+#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 5
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 6 (Holiday Headquarters)
+#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 6
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 7 (The Big Dish Channel)
+#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 7
 https://amg01717-qvc-amg01717c1-stirr-us-2651.playouts.now.amagi.tv/qvc-bigdishdelayed-switcher-localnow/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 8 (The Retail Therapy Channel)
+#EXTINF:0 tvg-logo="" group-title="Shopping",QVC 8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 10
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc10us/master.m3u8
@@ -3208,9 +3208,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 tvg-logo="" group-title="Shopping",America's Auction Channel (AACTV)
 https://anym3u8player.com/youtube.php/id/69224c336c186.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",JTV (Jewelry Television)
-http://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
+https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8F
 #EXTINF:0 tvg-logo="" group-title="Shopping",JTV 2
-http://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8
+https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",RFD TV (Rural Free Delivery)
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 
@@ -3507,7 +3507,7 @@ https://apollo.production-public.tubi.io/live/dazn-ringside2.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",WSN (Women's Sports Network)
 https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",UFC Channel
-http://restream-live.realiptv.to:8080/live/19742329/27604387/61769.ts
+http://fl1.moveonjoy.com/UFC/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",UFC Channel 24/7
 http://portal5458.com:8080/live/DBeverly/2290061890/47643.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",UFC TV
@@ -3529,7 +3529,7 @@ https://fight-network-3-live.sports.tv/v1/master/758627660e995d43cdf594915ca608e
 #EXTINF:0 tvg-logo="" group-title="Sports",Swerve Sports
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG Network
-http://portal5458.com:8080/live/DBeverly/2290061890/23290.ts
+https://fl2.moveonjoy.com/MSG/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG 2
 http://portal5458.com:8080/live/DBeverly/2290061890/48366.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG+
@@ -3541,7 +3541,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/648959.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG SportsZone
 https://dce277e4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",WWE Network
-http://portal5458.com:8080/live/DBeverly/2290061890/47642.ts
+https://fl1.moveonjoy.com/WWE/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Impact Plus!
@@ -5591,14 +5591,6 @@ http://supersonictv.live:8080/live/144264/661943/40495.ts
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=617119&extension=ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Western Movie
 http://supersonictv.live:8080/live/144264/661943/40507.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",ScreenPix
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552033&extension=ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",ScreenPix Action
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552035&extension=ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",ScreenPix Voices
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552036&extension=ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",ScreenPix Westerns
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=552034&extension=ts
 
 #EXTINF:0 tvg-logo="" group-title="PPV (Pay Per View)",PPV Event 1
 http://portal5458.com:8080/live/DBeverly/2290061890/47695.ts
