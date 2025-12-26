@@ -1197,6 +1197,12 @@ https://nhk.lls.pbs.org/index_1080p.m3u8
 https://world.lls.pbs.org/index_1080p.m3u8
 #EXTINF:0 tvg-logo="https://lptv.org/wp-content/uploads/2015/03/fnx-logo.png" group-title="Local Public Broadcast",FNX
 https://fnx.lls.pbs.org/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (West)
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (East)
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="Local Public Broadcast",PBS Retro
+https://amg02333-pbs-amg02333c6-lg-us-3175.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsretro-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WVIZ-TV PBS 25.1 (Cleveland OH)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/243548.ts
 #EXTINF:0 tvg-logo="" group-title="Local Public Broadcast",WVIZ-DT 25.2 The Ohio Channel (Cleveland OH)
@@ -1329,12 +1335,6 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/470352.ts
 http://restream-live.realiptv.to:8080/live/19742329/27604387/470331.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KHET-TV/KMEB-TV Hawai'i PBS 11/10 (Honolulu HI)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/629651.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (West)
-https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (East)
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="Local Public Broadcast",PBS Retro
-https://amg02333-pbs-amg02333c6-lg-us-3175.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsretro-lgus/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Local Public Access",SCTV (Santa Clarita CA)
 http://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
