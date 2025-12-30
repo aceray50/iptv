@@ -54,7 +54,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89623.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WWJ-TV CBS 62 (Detroit MI)
 http://xxip25.top:8080/live/char@dot.com/char@14223/147201.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCCO-TV CBS 4 (Minneapolis/St. Paul MN)
-http://fl1.moveonjoy.com/MN_MINNEAPOLIS_CBS/mpegts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2634.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KSTP-TV ABC 5 (Minneapolis/St. Paul MN)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2673.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KMSP-TV FOX 9 (Minneapolis/St. Paul MN)
@@ -72,7 +72,7 @@ https://fl1.moveonjoy.com/PA_PHILADELPHIA_ABC/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCAU-TV NBC 10 (Philadelphia PA)
 https://fl1.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WHPL-TV CW 17 (Philadelphia PA)
-http://portal5458.com:8080/live/DBeverly/2290061890/49057.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/433308.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTXF-TV FOX 29 (Philadelphia PA)
 https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8
 #EXTINF:0 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/08/philly-57-logo-768x434.jpg" group-title="Local Channels (Not 24/7)",WPSG-TV Ind. Philly 57 (Philadelphia PA)
@@ -2593,6 +2593,8 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/333484.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",fetv (Family Entertainment Television)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/512977.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Get TV
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/30928.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Get TV (Alt)
 https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Get Comedy
 https://a96f8665.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtY2FfR2V0Q29tZWR5X0hMUw/playlist.m3u8
@@ -2888,9 +2890,9 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3823.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Bravo (East)
 https://fl1.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",IFC (Independent Film Channel)
-https://bcovlive-a.akamaihd.net/2a19ef5b377143d28c8e566fbd5cf0cb/us-east-1/6240731308001/profile_0/chunklist.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647340.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",SundanceTV
-http://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3759.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",A&E (Arts & Entertainment)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3607.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",CMT (Country Music Television) (West)
@@ -3062,7 +3064,7 @@ https://linear-744.frequency.stream/dist/dice/744/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Dove Channel
 https://cineverse.g-mana.live/media/2ac1fa1e-7c83-4d18-9e94-7576d52f448d/mainManifest.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Faith & Living
-http://hardcoremedia.xyz:80/live/BG992263/38692743/261528.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/737618.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Family
 https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",GAC Great American Pure Flix TV
@@ -3277,7 +3279,7 @@ https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Yahoo! Sports Network
 https://yahoo2.global.transmit.live/hls/690b7473f01f0691850b8c7d/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/playlist_dvr.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",beIN Sports
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3612.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",beIN Sports XL
 https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bein Sports 4 
@@ -3307,7 +3309,7 @@ https://d6f8f5cf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTk
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Alt Channel
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/663903.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Red Zone
-http://portal5458.com:8080/live/DBeverly/2290061890/23279.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3671.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Locked on NFL
 https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5a5e6d0c3a5f3ad07b6d4_lockedonsports-nfl-live/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Network
@@ -3319,7 +3321,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2480.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Big Inning
 http://vocotv.pro:80/live/10/12345/715294.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NHL Network
-http://portal5458.com:8080/live/DBeverly/2290061890/15941.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3672.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NHL Channel
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Monumental Sports Network
@@ -3377,7 +3379,7 @@ https://6788041e31d84d16a8543d7183a2dd42.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="" group-title="Sports",Sports Grid Live
 https://sportsgrid-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_60d4f2ce961d1109be12f573_sportsgrid-live-1/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Tennis Channel
-https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3685.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Tennis Channel (Alt)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",T2 Tennis
@@ -3393,7 +3395,7 @@ https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 #EXTINF:0 tvg-logo="" group-title="Sports",PBTV Pickleball TV
 https://amg01444-tennischannel-amg01444c3-tennischannel-us-1912.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-tennischannelus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NBC Golf Channel
-http://portal5458.com:8080/live/DBeverly/2290061890/22500.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2385.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NBC Golf Pass
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993009/hls/master.m3u8?ads.xumo_channelId=99993009
 #EXTINF:0 tvg-logo="" group-title="Sports",Willow Sports
@@ -5156,27 +5158,27 @@ http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401640468.ts
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401640469.ts
 
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 1
-http://vocotv.pro:80/live/10/12345/698670.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735096.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 2
-http://vocotv.pro:80/live/10/12345/698669.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735097.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 3
-http://vocotv.pro:80/live/10/12345/698668.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735098.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 4
-http://vocotv.pro:80/live/10/12345/698667.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735099.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 5
-http://vocotv.pro:80/live/10/12345/698666.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735100.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 6
-http://vocotv.pro:80/live/10/12345/698665.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735101.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 7
-http://vocotv.pro:80/live/10/12345/698664.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735102.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 8
-http://vocotv.pro:80/live/10/12345/698663.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735103.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 9
-http://vocotv.pro:80/live/10/12345/698662.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735104.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 10
-http://vocotv.pro:80/live/10/12345/698661.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735105.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 11
-http://vocotv.pro:80/live/10/12345/698660.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/735106.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 12
 http://vocotv.pro:80/live/10/12345/698659.ts
 #EXTINF:0 tvg-logo="" group-title="Peacock Events",Peacock Event 13
@@ -7391,7 +7393,7 @@ http://portal5458.com:8080/live/DBeverly/2290061890/47123.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN Premium
 http://portal5458.com:8080/live/DBeverly/2290061890/47114.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN Deportes
-http://portal5458.com:8080/live/DBeverly/2290061890/47105.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21591.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN en Español
 http://portal5458.com:8080/live/DBeverly/2290061890/47107.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 2 en Español
