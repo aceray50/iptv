@@ -2122,7 +2122,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3718.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2661.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (East)
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3609.ts
 #EXTINF:0 tvg-logo="https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/348294991_922335115740028_2394346157475320613_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=utp5sBiTwsgQ7kNvwHxLHs3&_nc_oc=AdnKKgNiU-HYFyqkmIr3TycG_P4wwGtDpmvn3U2LKqsW83mmEk5N2hz3v-r9ukjS9Sg&_nc_zt=23&_nc_ht=scontent-lax3-2.xx&_nc_gid=0C_cytQVwNZobtJbWKgiew&oh=00_AfS7Vq-PsstxVFW7t8FrnjOrw6i9ndmFi1vHF_cxDGtoyw&oe=687A1A6F" group-title="Documentary",AKC TV
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/1024px-DOGTV_logo.svg.png" group-title="Documentary",DogTV
@@ -2136,7 +2136,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelengl
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/2560px-2018_Travel_Channel_logo.svg.png" group-title="Documentary",Travel Channel (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3845.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/2560px-2018_Travel_Channel_logo.svg.png" group-title="Documentary",Travel Channel (East)
-https://fl1.moveonjoy.com/Travel_Channel/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3687.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",ID (Investigation Discovery) (West)
@@ -2158,9 +2158,9 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/470622.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="Documentary",National Geographic (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3838.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png" group-title="Documentary",National Geographic (East)
-https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3665.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1920px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",Nat Geo Wild
-https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3666.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",History Hit
 https://amg00426-lds-amg00426c5-vidaa-us-7565.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-historyhitcc-vidaaus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png" group-title="Documentary",Outside TV
@@ -2192,7 +2192,7 @@ https://3649884182d1462a9cada0264c1a0d57.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="" group-title="Documentary",Pursuit Channel
 https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index_3.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1920px-American_Heroes_Channel_logo.svg.png" group-title="Documentary",AHC (American Heroes Channel)
-http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2663.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",Documentary+
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",DOC+
@@ -2234,7 +2234,7 @@ https://content.uplynk.com/channel/6adc980a399d4d0e9b923213b50e34ea.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",truTV (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3846.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",truTV (East)
-https://fl1.moveonjoy.com/TRU_TV/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3766.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",truTV+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/trutvwest.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",truTV+ (East)
@@ -2242,7 +2242,7 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tru
 #EXTINF:0 tvg-logo="" group-title="Documentary",Investigation
 https://amg00346-vizioono-amg00346c2-distrotv-us-1396.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-investigation-distrotvus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Crime & Investigation
-https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/20211.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",Law & Crime
 https://s7host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config7/rewind/playlist_scte.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Caught In Providence
@@ -2314,15 +2314,15 @@ https://d2dimalv43j51f.cloudfront.net/out/v1/52d3048e53eb42a7959dc347d2f810e2/in
 #EXTINF:0 tvg-logo="" group-title="News Channels",LiveNOW from FOX
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",FOX News Channel
-https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2543.ts
 #EXTINF:0 tvg-logo="" group-title="News Channels",FOX Business
-https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3643.ts
 #EXTINF:0 tvg-logo="" group-title="News Channels",NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",NBC Dateline 24/7
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991626/hls/master.m3u8?ads.xumo_channelId=99991626
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNBC
-https://fl1.moveonjoy.com/CNBC/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3714.ts
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNBC World
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2609.ts
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNBC Africa
@@ -2332,9 +2332,9 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNBC Marathon
 https://anym3u8player.com/youtube.php/id/69224dc6527c9.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",MSNBC
-https://fl1.moveonjoy.com/MSNBC/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2479.ts
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNN
-https://fl1.moveonjoy.com/CNN/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3715.ts
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNN International
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/88946.ts
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNN+
@@ -2344,7 +2344,7 @@ https://amg01918-cnnus-amg01918c2-lg-us-5721.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:0 tvg-logo="" group-title="News Channels",CNN Headlines
 https://amg01918-cnnus-amg01918c1-lg-us-1911.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",HLN (CNN Headline News)
-https://fl1.moveonjoy.com/HLN/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3744.ts
 #EXTINF:0 tvg-logo="" group-title="News Channels",HLN+
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/hln.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg TV
@@ -2464,12 +2464,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631832.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (East)
-https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+http://portal5458.com:8080/live/DBeverly/2290061890/23276.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nick Jr. (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nicktoons
-https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Children Channels",TeenNick
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3674.ts
+#EXTINF:0 tvg-logo="" group-title="Children Channels",TeenNick (West)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631834.ts
+#EXTINF:0 tvg-logo="" group-title="Children Channels",TeenNick (East)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/74692.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd748-7b2e-11ef-9deb-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1aa79af-a440-4286-a333-28de4fa58ebb&userId=&serverSideAds=true
@@ -2480,21 +2482,23 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89095.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Channel (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2590.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Channel (East)
-https://fl1.moveonjoy.com/DISNEY/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3630.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney XD (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2586.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Disney XD (East)
-https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Jr.
-https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3631.ts
+#EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Jr. (West)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2588.ts
+#EXTINF:0 tvg-logo="" group-title="Children Channels",Disney Jr. (East)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3632.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2653.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",CN (Cartoon Network) (East)
-https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2654.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Boomerang by Cartoon Network
-http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3616.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",MeTV Toons
-http://portal5458.com:8080/live/DBeverly/2290061890/48753.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/721378.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",The Lego Channel
 https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Cartoon Classics
@@ -2514,11 +2518,11 @@ https://janya-qtoonz.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca14134537
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Toons Goggles
 https://otteraaaa-toon-goggles-samsungin-ygvcl.amagi.tv/playlist/otteraAAA-toon-goggles-samsungin/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Children Channels",FreeForm (West)
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3849.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2502.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",FreeForm (East)
-https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3734.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Discovery Family
-https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2598.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Baby First #1
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3805.ts
 #EXTINF:0 tvg-logo="" group-title="Children Channels",Baby First #2
@@ -2617,7 +2621,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951124/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Buzzr (Alt)
 https://buzzrota-ono.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Bounce TV
-https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21896.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Bounce XL
 https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scripps_bouncexl_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Nosey
@@ -2638,17 +2642,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631837.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV (East)
-http://fl2.moveonjoy.com/MTV/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3664.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a3a74d9-fdec-4890-859f-baf25e071f79&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV 2 (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89987.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV 2 (East)
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/57968.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV Classic (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/57969.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV Classic (East)
-http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/57969.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV Live
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV Yo! (Pluto)
@@ -2664,9 +2668,9 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/81588.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",VH1 (East)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3699.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET (West)
-https://fl1.moveonjoy.com/BET/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/48973.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET (East)
-https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647385.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c83d8-7b2e-11ef-badc-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2283f01b-889a-488b-88cb-244fd4bd914f&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET Classics (Pluto TV)
@@ -2676,11 +2680,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET Her (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631835.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET Her (East)
-https://fl1.moveonjoy.com/BET_HER/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3946.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET Jams
-https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3947.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET Soul
-https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3948.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET Gospel
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42491.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FOX Soul
@@ -2692,11 +2696,11 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648960.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",theGrio+
 https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TV One
-https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21897.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Cleo TV
-https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/573316.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Revolt
-http://fl1.moveonjoy.com/REVOLT/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21627.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Afro
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/573315.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Afroland
@@ -2723,7 +2727,7 @@ https://28caa756.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy Central (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89211.ts
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy Central (East)
-https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3626.ts
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy Central (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1d6c-7b2e-11ef-9096-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236aeebc-4b77-4e3d-8d65-b028522fc4b6&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Comedy",Comedy Central Animation (Pluto TV)
@@ -2798,17 +2802,17 @@ https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FX (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3832.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FX (East)
-http://fl1.moveonjoy.com/FX/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3642.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FXX (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3833.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FXX (East)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3649.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FXM (FOX Movie Channel)
-https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3736.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TNT (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2384.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TNT (East)
-https://fl1.moveonjoy.com/TNT/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/644434.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TNT+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tntwest.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TNT+ (East)
@@ -2816,7 +2820,7 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tnt
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TBS (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3842.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TBS (East)
-https://fl1.moveonjoy.com/TBS/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3684.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TBS+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbswest.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TBS+ (East)
@@ -2824,7 +2828,7 @@ https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tbs
 #EXTINF:0 tvg-logo="" group-title="Network Channels",USA Network (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2379.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",USA Network (East)
-https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3694.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",El Rey Rebel
 https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-elrey-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Crime Beat TV
@@ -2836,7 +2840,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Network (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631839.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Network (East)
-https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3677.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Paramount+ Picks (Pluto TV)
@@ -2844,7 +2848,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:0 tvg-logo="" group-title="Network Channels",SYFY (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3841.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",SYFY (East)
-https://fl1.moveonjoy.com/SYFY/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3760.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BBC Sci-Fi
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Midnight Pulp
@@ -2857,9 +2861,9 @@ https://linear-731.frequency.stream/dist/dice/731/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Cooking",Food Network (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3831.ts
 #EXTINF:0 tvg-logo="" group-title="Cooking",Food Network (East)
-https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3644.ts
 #EXTINF:0 tvg-logo="" group-title="Cooking",Cooking Channel
-http://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2605.ts
 #EXTINF:0 tvg-logo="" group-title="Cooking",Recipe.tv
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631869.ts
 #EXTINF:0 tvg-logo="" group-title="Cooking",Gusto TV
@@ -2882,11 +2886,11 @@ https://amg01420-americastestkitchen-amg01420c1-lg-us-1280.playouts.now.amagi.tv
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TLC (The Learning Channel) (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/48974.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TLC (The Learning Channel) (East)
-https://fl1.moveonjoy.com/TLC/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3686.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Bravo (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3823.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Bravo (East)
-https://fl1.moveonjoy.com/BRAVO/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2655.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",IFC (Independent Film Channel)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647340.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",SundanceTV
@@ -2916,13 +2920,13 @@ https://cineverse.g-mana.live/media/ffc88f2b-a62d-4f2f-b9b5-5068b2d86440/master.
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TVS Western Movie
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Ovation
-https://fl1.moveonjoy.com/Ovation/index.m3u8
+http://portal5458.com:8080/live/DBeverly/2290061890/44204.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",INSP
-https://fl1.moveonjoy.com/INSP/index.m3u8
+http://portal5458.com:8080/live/DBeverly/2290061890/48238.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Smithsonian Channel (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631865.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Smithsonian Channel (East)
-http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+http://portal5458.com:8080/live/DBeverly/2290061890/47549.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Smithsonian Channel (Pluto)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c84fa-7b2e-11ef-b462-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Free Western Network
@@ -2936,11 +2940,11 @@ https://amg00353-amg00353c17-vizio-us-2569.playouts.now.amagi.tv/playlist/amg003
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Pop TV (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631840.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Pop TV (East)
-https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3863.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Generation Drama by WB
 https://amg00136-wbd-amg00136c22-vizio-us-1805.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvgenerationdrama-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Vice
-https://fl1.moveonjoy.com/VICELAND/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/645915.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Vice News
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",YouToo America
@@ -2950,7 +2954,7 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",LifeTime (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/650317.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",LifeTime (East)
-https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/645914.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",LMN (LifeTime Movie Network)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647764.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",LRW (LifeTime Real Women)
@@ -2966,7 +2970,7 @@ https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="LGBT",Revry News
 https://linear-44.frequency.stream/dist/24i/44/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",WE TV (Women Entertainment Television)
-https://fl1.moveonjoy.com/WE_TV/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2378.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",WE Absolute Reality
 http://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",HerSphere by Lionsgate
@@ -2982,7 +2986,7 @@ https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",HGTV (Home and Garden Television) (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3836.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",HGTV (Home and Garden Television) (East)
-https://fl1.moveonjoy.com/HGTV/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3654.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Magnolia Network
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647791.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",NBC LX Home
@@ -3006,7 +3010,7 @@ https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FYI (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647422.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FYI (East)
-https://fl1.moveonjoy.com/FYI/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/30924.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Fuse
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/30920.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",UpTV
@@ -3020,19 +3024,19 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d7
 #EXTINF:0 tvg-logo="" group-title="Network Channels",OWN (Oprah Winfrey Network) (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631868.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",OWN (Oprah Winfrey Network) (East)
-https://fl1.moveonjoy.com/OWN/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3675.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Ebony TV by Lionsgate
 https://amg00353-lionsgatestudios-amg00353c12-vizio-us-1086.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytvvizio-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC (American Movie Classics) (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/643834.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC (American Movie Classics) (East)
-http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3843.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",AMC Thriller
 https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TCM (Turner Classic Movies)
-https://fl2.moveonjoy.com/TCM/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2402.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TCM+ (West)
 https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/tcmwest.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TCM+ (East)
@@ -3046,13 +3050,13 @@ https://api-ott.watchnost.com/loggingmediaurlpassthrough/b.m3u8?version=12&id=12
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Channel (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649412.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Channel (East)
-https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3740.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Family
-https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/660922.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Mystery (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649413.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Mystery (East)
-https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/660923.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:0 tvg-logo="" group-title="Network Channels",80's Sitcom Flashback
@@ -3221,17 +3225,17 @@ https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3636.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3725.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2581.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN U
-http://fl1.moveonjoy.com/ESPN_U/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648974.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN News
-http://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2577.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",SEC Network ESPN
-http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3864.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",ACC Network ESPN
-http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/5287.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",ACCDN
 https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",ESPN Ocho
@@ -3239,9 +3243,9 @@ https://amg00497-amg00497c24-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-
 #EXTINF:0 tvg-logo="" group-title="Sports",PAC 12 Insider
 https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FSN 1
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2501.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FSN 2
-https://fl1.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2500.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports
 https://amg02855-foxsports-amg02855c1-lg-us-1388.playouts.now.amagi.tv/playlist/amg02855-foxnewsnetwork-foxsports-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Sports on Tubi
@@ -3251,7 +3255,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3053.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FOX Soccer Plus
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2531.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",CBS Sports Network
-http://portal5458.com:8080/live/DBeverly/2290061890/15944.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3621.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",CBS Sports HQ
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",CBS Sports Golazo Network
@@ -3311,7 +3315,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3671.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Locked on NFL
 https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5a5e6d0c3a5f3ad07b6d4_lockedonsports-nfl-live/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Network
-http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3661.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Channel
 https://apollo.production-public.tubi.io/live/mlb2-RR0NCJ.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Strike Zone
@@ -3403,7 +3407,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991281/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:0 tvg-logo="" group-title="Sports",PBR RidePass
 https://jmp2.uk/rok-262b9a3f6220e5c070cb0ab316ee1128.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel TV (Formerly TVG)
-https://fl1.moveonjoy.com/TVG/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/629723.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel TV+
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_2.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",FanDuel 2 Racing
@@ -3463,7 +3467,7 @@ https://live-manifest.production-public.tubi.io/live/2b55583d-cfa8-440b-8f38-a0a
 #EXTINF:0 tvg-logo="" group-title="Sports",Speed Vision
 https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",The Outdoor Channel
-https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/5289.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Outdoor TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Outdoor America
@@ -3499,7 +3503,7 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #EXTINF:0 tvg-logo="" group-title="Sports",YES Network
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Big Ten Network
-https://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4443.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Sports Grid
 http://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Unbeaten
@@ -3543,9 +3547,9 @@ http://portal5458.com:8080/live/DBeverly/2290061890/48366.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG+
 http://portal5458.com:8080/live/DBeverly/2290061890/23289.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSGSN
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/706915.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",MSGSN 2
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648959.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",MSGSN 2
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4433.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG SportsZone
 https://dce277e4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",WWE Network
@@ -5257,17 +5261,17 @@ http://vocotv.pro:80/live/10/12345/698621.ts
 http://vocotv.pro:80/live/10/12345/698620.ts
 
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO (West)
-http://portal5458.com:8080/live/DBeverly/2290061890/48358.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2490.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO (East)
-https://fl1.moveonjoy.com/HBO/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3742.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Hits (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/553461.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Hits (East)
-https://fl1.moveonjoy.com/HBO_2/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648976.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Movies (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631877.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Movies (East)
-https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648982.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Drama (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631878.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Drama (East)
@@ -5278,9 +5282,9 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631876.ts
 http://portal5458.com:8080/live/DBeverly/2290061890/23303.ts
 
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax (West)
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2611.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3825.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax (East)
-https://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3622.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax Hits (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/81382.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax Hits (East)
@@ -5291,21 +5295,21 @@ http://portal5458.com:8080/live/DBeverly/2290061890/48357.ts
 http://portal5458.com:8080/live/DBeverly/2290061890/23346.ts
 
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (West)
-https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3840.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (East)
-https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3758.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime 2 (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631912.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime 2 (East)
-https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3965.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Extreme (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631884.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Extreme (East)
-https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3967.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Next (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631889.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Next (East)
-http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648985.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase) (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631890.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (ShoCase) (East)
@@ -5313,7 +5317,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3966.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Women (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631886.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Women (East)
-http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648986.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Family Zone (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631918.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Family Zone (East)
@@ -5332,9 +5336,9 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/605742.ts
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/527262.ts
 
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz (West)
-https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3963.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz (East)
-https://fl1.moveonjoy.com/STARZ/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3680.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Cinema (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631879.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Cinema (East)
@@ -5342,7 +5346,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3960.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Comedy (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631883.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Comedy (East)
-https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3959.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz In Black (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631880.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz In Black (East)
@@ -5350,7 +5354,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3962.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Edge (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631882.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Edge (East)
-https://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3961.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Kids & Family (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631881.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Kids & Family (East)
@@ -5364,7 +5368,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3953.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Suspense
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3958.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Action
-http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3952.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Westerns
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3955.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Starz Encore Black (West)
@@ -7614,7 +7618,7 @@ http://portal5458.com:8080/live/DBeverly/2290061890/40768.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",BBC World News (Canada)
 http://portal5458.com:8080/live/DBeverly/2290061890/40770.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",The Weather Network (Canada)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3059.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Treehouse (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3057.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",YTV (West) (Canada)
@@ -7786,15 +7790,15 @@ https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSC (The Shopping Channel) (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/57370.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 1 (Canada)
-http://xxip25.top:8080/live/char@dot.com/char@14223/47440.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3146.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 2 (Canada)
-http://xxip25.top:8080/live/char@dot.com/char@14223/47442.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3145.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 3 (Canada)
-http://xxip25.top:8080/live/char@dot.com/char@14223/47444.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3144.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 4 (Canada)
-http://xxip25.top:8080/live/char@dot.com/char@14223/66783.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3143.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 5 (Canada)
-http://xxip25.top:8080/live/char@dot.com/char@14223/16131.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/88079.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN The Ocho (Canada)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",beIN Sports 1 (Canada)
