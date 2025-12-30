@@ -3264,6 +3264,8 @@ http://portal5458.com:8080/live/DBeverly/2290061890/28743.ts
 http://portal5458.com:8080/live/DBeverly/2290061890/28744.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NBC Sports (California)
 http://portal5458.com:8080/live/DBeverly/2290061890/28742.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",NBC Sports (Chicago)
+http://restream-live.realiptv.to:8080/live/19742329/27604387/3771.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NBC Sports (Philadelphia)
 http://portal5458.com:8080/live/DBeverly/2290061890/28738.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NBC Sports (Washington)
@@ -5314,8 +5316,10 @@ http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631918.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Family Zone (East)
 http://portal5458.com:8080/live/DBeverly/2290061890/23256.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET)
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET) (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631888.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET) (East)
+http://restream-live.realiptv.to:8080/live/19742329/27604387/3968.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Movie Channel (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/605741.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",The Movie Channel (East)
@@ -7611,7 +7615,9 @@ http://portal5458.com:8080/live/DBeverly/2290061890/40770.ts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Treehouse (Canada)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/3057.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",YTV (Canada)
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",YTV (West) (Canada)
+http://portal5458.com:8080/live/DBeverly/2290061890/40662.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",YTV (East) (Canada)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/647755.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TVO Kids (Canada)
 http://portal5458.com:8080/live/DBeverly/2290061890/40644.ts
