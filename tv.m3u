@@ -938,7 +938,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/master.m3u8?ads.xumo_cha
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="24/7 Local News",WTTG-TV FOX 5 24/7 News (Washington DC)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="24/7 Local News",WJLA-TV ABC 7 24/7 News (Washington DC)
-https://linear-681.frequency.stream/dist/lg-us/681/hls/master/playlist.m3u8
+https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/681/hls/master/playlist.m3u8?ads.cdnhost=s9host1.localnow.api.cms.amdvids.com&ads.playbackid=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n4=content_name&ads.v4=WJLA%20Washington%20DC&ads.n21=content_custom_1_param&ads.v21=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n22=url&ads.v22=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n23=h&ads.v23=1080&ads.n24=channel_genre&ads.v24=News&ads.n25=app_version&ads.v25=0.0.0&ads.n26=device_make&ads.v26=&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=channel_language&ads.v28=en&ads.n29=channel_corp&ads.v29=Sinclair%20Television%20Group%20INC&ads.n30=content_type&ads.v30=channel&ads.n31=content_provider&ads.v31=wjla-washington-dc&ads.n32=gpp&ads.v32=&ads.n33=ip&ads.v33=195.179.200.80&ads.n34=channel_company_id&ads.v34=AMDP500539&ads.n35=ua&ads.v35=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n36=channel_id&ads.v36=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=gpp_sid&ads.v38=&ads.n39=ifa_type&ads.v39=&ads.n40=did&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=channel_rating&ads.v42=TV-PG&ads.n43=channel_title&ads.v43=WJLA%20Washington%20DC&ads.n44=device_model&ads.v44=&ads.n45=content_producer_name&ads.v45=Sinclair%20Television%20Group%20INC&ads.n46=channel_ext_id&ads.v46=&ads.n47=content_custom_2_param&ads.v47=AMDB013446&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=dnt&ads.v49=&ads.n50=content_livestream&ads.v50=1&ads.n51=app_store_url&ads.v51=&ads.n52=network_name&ads.v52=wjla-washington-dc&ads.n53=channel_brand_id&ads.v53=AMDB013446&ads.n54=app_name&ads.v54=&ads.n55=app_bundle&ads.v55=&ads.n56=device_type&ads.v56=&ads.n57=channel_name&ads.v57=WJLA%20Washington%20DC&ads.n58=w&ads.v58=1920
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="24/7 Local News",WUSA-TV CBS 9 24/7 News (Washington DC)
 https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="24/7 Local News",KOMO-TV ABC 4 24/7 News (Seattle WA)
@@ -950,6 +950,8 @@ https://s2host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="24/7 Local News",KCPQ-TV FOX 13 24/7 News (Seattle WA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="24/7 Shows",Today All Day
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",Supermarket Sweep
 https://aka-live1050.delivery.roku.com/6b8411af-8790-49ab-932e-7d12a83c53cd/t2-origin/out/v1/live_1080.m3u8
 #EXTINF:0 tvg-logo="" group-title="24/7 Shows",The Price Is Right
@@ -2135,6 +2137,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravelengl
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3845.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/2560px-2018_Travel_Channel_logo.svg.png" group-title="Documentary",Travel Channel (East)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3687.ts
+#EXTINF:0 tvg-logo="" group-title="Documentary",BBC Travel
+https://amg00793-amg00793c38-vidaa-gb-7935.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctravel-vidaagb/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",ID (Investigation Discovery) (West)
@@ -2162,21 +2166,27 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3666.ts
 #EXTINF:0 tvg-logo="" group-title="Documentary",History Hit
 https://amg00426-lds-amg00426c5-vidaa-us-7565.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-historyhitcc-vidaaus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png" group-title="Documentary",Outside TV
-http://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/5288.ts
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png" group-title="Documentary",Outside TV+
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Xplore #1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Xplore #2
 https://dtqutq7lmcchv.cloudfront.net/10001/99991765/hls/playlist.m3u8?ads.xumo_channelId=99991765
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Documentary",PBS Science
+https://amg02333-pbs-amg02333c10-tcl-us-5683.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Documentary",PBS Nature
-https://s6host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8
+https://s6host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s3host4.localnow.api.cms.amdvids.com&ads.playbackid=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n4=content_name&ads.v4=EPG%20%7C%20PBS%20Nature&ads.n21=channel_ext_id&ads.v21=63be2bff6dc4bf3efd0d5243&ads.n22=channel_corp&ads.v22=Public%20Media%20Distribution%20LLC&ads.n23=device_model&ads.v23=&ads.n24=channel_genre&ads.v24=Nature&ads.n25=network_name&ads.v25=pbs-nature-public-media&ads.n26=did&ads.v26=&ads.n27=content_custom_3_param&ads.v27=channel&ads.n28=ifa_type&ads.v28=&ads.n29=ip&ads.v29=195.179.200.80&ads.n30=content_provider&ads.v30=pbs-nature-public-media&ads.n31=channel_rating&ads.v31=TV-PG&ads.n32=content_livestream&ads.v32=1&ads.n33=content_producer_name&ads.v33=Public%20Media%20Distribution%20LLC&ads.n34=app_bundle&ads.v34=&ads.n35=channel_company_id&ads.v35=AMDP500543&ads.n36=channel_id&ads.v36=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n37=cust_devicename&ads.v37=desktop_web&ads.n38=app_name&ads.v38=&ads.n39=gpp_sid&ads.v39=&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=channel_title&ads.v41=EPG%20%20PBS%20Nature&ads.n42=channel_brand_id&ads.v42=AMDB013474&ads.n43=device_type&ads.v43=&ads.n44=channel_language&ads.v44=en&ads.n45=app_store_url&ads.v45=&ads.n46=app_version&ads.v46=0.0.0&ads.n47=device_make&ads.v47=&ads.n48=h&ads.v48=1080&ads.n49=content_custom_1_param&ads.v49=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n50=w&ads.v50=1920&ads.n51=content_custom_2_param&ads.v51=AMDB013474&ads.n52=dnt&ads.v52=&ads.n53=channel_name&ads.v53=EPG%20%20PBS%20Nature&ads.n54=gpp&ads.v54=&ads.n55=pos&ads.v55=midroll&ads.n56=url&ads.v56=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=content_type&ads.v58=channel
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Documentary",PBS Genealogy
+https://amg02333-pbs-amg02333c14-lg-us-8487.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsgenealogy-lgus/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Documentary",PBS History
+https://amg02333-pbs-amg02333c3-tcl-us-5686.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Love & Nature
 https://amg01515-amg01515c19-cw-us-2584.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-loovenatureus-cwus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Wild Earth
 https://dtqutq7lmcchv.cloudfront.net/10001/99991628/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99991628
 #EXTINF:0 tvg-logo="" group-title="Documentary",BBC Earth
-https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",EarthXtra
 https://dbrb49pjoymg4.cloudfront.net/10001/99951378/hls/master.m3u8?ads.xumo_channelId=99951378
 #EXTINF:0 tvg-logo="" group-title="Documentary",NASA
@@ -2208,7 +2218,7 @@ https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1920px-Reelz.svg.png" group-title="Documentary",REELZ (East)
 http://portal5458.com:8080/live/DBeverly/2290061890/48752.ts
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/I/71GE1KWeaWL.png" group-title="Documentary",REELZ Famous and Infamous
-https://linear-190.frequency.stream/dist/vizio/190/hls/master/playlist.m3u8
+https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Infamous TV
 https://amg01324-infamous-amg01324c1-cineverse-us-1102.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-cineverseus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1920px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime (West)
@@ -2283,8 +2293,6 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="News Channels",News 12+ ("Hudson Valley" West Nyack NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="News Channels",Today All Day
-https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245
 #EXTINF:0 tvg-logo="" group-title="News Channels",Spectrum News NY1 (New York NY)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649404.ts
 #EXTINF:0 tvg-logo="" group-title="News Channels",Spectrum News SoCal (Los Angeles CA)
@@ -2343,8 +2351,6 @@ https://amg01918-cnnus-amg01918c2-lg-us-5721.playouts.now.amagi.tv/playlist/amg0
 https://amg01918-cnnus-amg01918c1-lg-us-1911.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",HLN (CNN Headline News)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3744.ts
-#EXTINF:0 tvg-logo="" group-title="News Channels",HLN+
-https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/hln.us.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg TV
 http://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg+ (4K)
@@ -2685,8 +2691,12 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3947.ts
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3948.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",BET Gospel
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42491.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",BET - Tyler Perry Comedy
+https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Network Channels",BET - Tyler Perry Drama
+https://linear-866.frequency.stream/dist/tcltv/866/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FOX Soul
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxsoul-vizio/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Pluto Black Classics
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c83d8-7b2e-11ef-badc-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=132c5a47-fc43-11ef-8561-12b4e030fc8d&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Network Channels",theGrio
@@ -3192,7 +3202,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 6
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 7
-https://amg01717-qvc-amg01717c1-stirr-us-2651.playouts.now.amagi.tv/qvc-bigdishdelayed-switcher-localnow/playlist.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 10
