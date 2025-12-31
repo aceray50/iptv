@@ -124,9 +124,9 @@ http://portal5458.com:8080/live/DBeverly/2290061890/48842.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTSP-DT CBS 10 (Tampa Bay FL)
 http://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTVT-TV FOX 13 (Tampa Bay FL)
-http://portal5458.com:8080/live/DBeverly/2290061890/48841.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2504.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WFTS-TV ABC 28 (Tampa Bay FL)
-http://portal5458.com:8080/live/DBeverly/2290061890/48839.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2666.ts
 #EXTINF:0 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/08/tampa-bay-44-logo-768x434.jpg" group-title="Local Channels (Not 24/7)",WTOG-TV Ind. 44 (Tampa Bay FL)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89505.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WESH-TV NBC 2 (Orlando FL)
@@ -2355,14 +2355,14 @@ https://amg01918-cnnus-amg01918c1-lg-us-1911.playouts.now.amagi.tv/playlist/amg0
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3744.ts
 #EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg TV
 http://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg+ (4K)
+#EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg TV+ (4K)
 https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg Originals
-https://d10d0llfaw1ovl.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/QuickTakeLive/live/origin-contribution-m1-bloomberg-quicktake-Haystack-TV.m3u8
-#EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg TV Politics Live Event
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg U.S. Live Event
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg Quicktake
-https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="News Channels",Bloomberg Politics Live Event
+https://www.bloomberg.com/media-manifest/streams/politics.m3u8
 #EXTINF:0 tvg-logo="" group-title="News Channels",BBC News North America
 https://vs-cmaf-pushb-ntham-gcomm.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_world_news_north_america/pc_hd_abr_v2.mpd
 #EXTINF:0 tvg-logo="" group-title="News Channels",Cheddar
@@ -6734,8 +6734,10 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260652.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice Videos) | Y2K (Music Videos)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260683.ts
 
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Galavisión
-http://portal5458.com:8080/live/DBeverly/2290061890/23307.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Galavisión (West)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4465.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Galavisión (East)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4464.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",NBC Universo
 http://portal5458.com:8080/live/DBeverly/2290061890/23281.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo Internacional
@@ -6860,8 +6862,6 @@ http://103.111.40.242:9999/play/a01s/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",MTV Flow Latino (Pluto TV)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Amazon Kids en Español
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58090
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nickelodeon en Español
 http://portal5458.com:8080/live/DBeverly/2290061890/46926.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nick en Español (Pluto TV)
@@ -6899,37 +6899,33 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Universal Comedy
 http://103.111.40.242:9999/play/a03o/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Kids en Español
-http://103.111.40.242:9999/play/a036/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4209.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery en Español
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2600.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40625.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Turbo en Español
 http://portal5458.com:8080/live/DBeverly/2290061890/46583.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Home and Health en Español
-http://103.111.40.242:9999/play/a03n/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4208.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Familia
-http://hardcoremedia.xyz:80/live//BG992263/38692743/135341.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40631.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Theater en Español
-http://103.111.40.242:9999/play/a03m/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4211.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery World en Español
-http://103.111.40.242:9999/play/a03t/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4213.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Investigation Discovery en Español
-http://103.111.40.242:9999/play/a035/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4255.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Science en Español
-http://103.111.40.242:9999/play/a035/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4210.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Animal Planet en Español
 http://portal5458.com:8080/live/DBeverly/2290061890/46531.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",History Channel en Español 
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649401.ts
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",H2 (History Channel 2) en Español
-http://103.111.40.242:9999/play/a001/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo en Español
-http://103.111.40.242:9999/play/a01u/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Wild en Español
-http://portal5458.com:8080/live/DBeverly/2290061890/46651.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Mundo
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40637.ts
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Wild en Español
+http://portal5458.com:8080/live/DBeverly/2290061890/46651.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HITN
-http://vocotv.pro:80/live/10/12345/636619.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649414.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Taste Made en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Love Nautre en Español
@@ -7039,7 +7035,7 @@ http://103.111.40.242:9999/play/a02j/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Univision TLNovelas
-http://vocotv.pro:80/live/10/12345/707047.ts
+http://portal5458.com:8080/live/DBeverly/2290061890/48364.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",TL Novelas (México)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/253250.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
@@ -7324,8 +7320,6 @@ http://portal5458.com:8080/live/DBeverly/2290061890/46949.ts
 https://anym3u8player.com/youtube.php/id/69220360415f5.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Monterey
 https://anym3u8player.com/youtube.php/id/692203a60b016.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",N+ Media
-http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401497540.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ADN 40
 https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",24h Noticias
@@ -7662,7 +7656,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/698468.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",AMC (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3132.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Vision (Canada)
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3132.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3051.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Home Network (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/127910.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Magnolia Network (Canada)
