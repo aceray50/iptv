@@ -2173,13 +2173,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Xplore #2
 https://dtqutq7lmcchv.cloudfront.net/10001/99991765/hls/playlist.m3u8?ads.xumo_channelId=99991765
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Documentary",PBS Science
+#EXTINF:0 tvg-logo="" group-title="Documentary",PBS Science
 https://amg02333-pbs-amg02333c10-tcl-us-5683.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Documentary",PBS Nature
 https://s6host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s3host4.localnow.api.cms.amdvids.com&ads.playbackid=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n4=content_name&ads.v4=EPG%20%7C%20PBS%20Nature&ads.n21=channel_ext_id&ads.v21=63be2bff6dc4bf3efd0d5243&ads.n22=channel_corp&ads.v22=Public%20Media%20Distribution%20LLC&ads.n23=device_model&ads.v23=&ads.n24=channel_genre&ads.v24=Nature&ads.n25=network_name&ads.v25=pbs-nature-public-media&ads.n26=did&ads.v26=&ads.n27=content_custom_3_param&ads.v27=channel&ads.n28=ifa_type&ads.v28=&ads.n29=ip&ads.v29=195.179.200.80&ads.n30=content_provider&ads.v30=pbs-nature-public-media&ads.n31=channel_rating&ads.v31=TV-PG&ads.n32=content_livestream&ads.v32=1&ads.n33=content_producer_name&ads.v33=Public%20Media%20Distribution%20LLC&ads.n34=app_bundle&ads.v34=&ads.n35=channel_company_id&ads.v35=AMDP500543&ads.n36=channel_id&ads.v36=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n37=cust_devicename&ads.v37=desktop_web&ads.n38=app_name&ads.v38=&ads.n39=gpp_sid&ads.v39=&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=channel_title&ads.v41=EPG%20%20PBS%20Nature&ads.n42=channel_brand_id&ads.v42=AMDB013474&ads.n43=device_type&ads.v43=&ads.n44=channel_language&ads.v44=en&ads.n45=app_store_url&ads.v45=&ads.n46=app_version&ads.v46=0.0.0&ads.n47=device_make&ads.v47=&ads.n48=h&ads.v48=1080&ads.n49=content_custom_1_param&ads.v49=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n50=w&ads.v50=1920&ads.n51=content_custom_2_param&ads.v51=AMDB013474&ads.n52=dnt&ads.v52=&ads.n53=channel_name&ads.v53=EPG%20%20PBS%20Nature&ads.n54=gpp&ads.v54=&ads.n55=pos&ads.v55=midroll&ads.n56=url&ads.v56=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=content_type&ads.v58=channel
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Documentary",PBS Genealogy
+#EXTINF:0 tvg-logo="" group-title="Documentary",PBS Genealogy
 https://amg02333-pbs-amg02333c14-lg-us-8487.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsgenealogy-lgus/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" group-title="Documentary",PBS History
+#EXTINF:0 tvg-logo="" group-title="Documentary",PBS History
 https://amg02333-pbs-amg02333c3-tcl-us-5686.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Documentary",Love & Nature
 https://amg01515-amg01515c19-cw-us-2584.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-loovenatureus-cwus/playlist.m3u8
@@ -2219,8 +2219,6 @@ https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245
 http://portal5458.com:8080/live/DBeverly/2290061890/48752.ts
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/I/71GE1KWeaWL.png" group-title="Documentary",REELZ Famous and Infamous
 https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8
-#EXTINF:0 tvg-logo="" group-title="Documentary",Infamous TV
-https://amg01324-infamous-amg01324c1-cineverse-us-1102.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-cineverseus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1920px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3873.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1920px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime (East)
