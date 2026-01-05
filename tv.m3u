@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KCBS-TV CBS 2 (Los Angeles CA)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2637.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KNBC-TV NBC 4 (Los Angeles CA)
-https://fl1.moveonjoy.com/CA_Los_Angeles_NBC/mpegts
+http://kstv.us:8080/live/N427DpynGE/7049166651/48790.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KTLA-TV CW 5 (Los Angeles CA)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/90546.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KABC-TV ABC 7 (Los Angeles CA)
@@ -25,7 +25,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3606.ts
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/597173.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WPIX-TV CW 11 (PIX 11+) (New York NY)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/93093.ts
-http://kstv.us:8080/live/N427DpynGE/7049166651/23219.ts
+http://kstv.us:8080/live/N427DpynGE/7049166651/48998.ts
 #EXTINF:0 tvg-id="cbskcbs.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/WLNY_New_York_55_2023.svg/960px-WLNY_New_York_55_2023.svg.png" group-title="Local Channels (Not 24/7)",WLNY-TV CBS/Ind. 10/55 (New York NY)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89717.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBBM-TV CBS 2 (Chicago IL)
@@ -144,6 +144,10 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2541.ts
 https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48835.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WNBW-DT NBC 9 (Gainsville FL)
+https://fl1.moveonjoy.com/FL_Gainesville_NBC/mpegts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WCJB-TV ABC 20 (Gainsville FL)
+https://fl1.moveonjoy.com/FL_GAINESVILLE_ABC/mpegts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WOGX-TV FOX 51 (Ocala/Gainsville FL)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89499.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WWSB-TV ABC 7 (Sarasota FL)
@@ -471,11 +475,19 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89432.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KMPH-TV FOX 26 (Fresno CA)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/434317.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KFSN-TV ABC 30 (Fresno CA)
-http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/684172.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2688.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGPE-TV CBS 47 (Fresno CA)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89431.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WFRE-TV CW 59 (Fresno CA)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/629104.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGET-TV NBC 17 (Bakerfield CA)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89427.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KERO-TV ABC 23 (Bakerfield CA)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/512981.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KBAK-TV CBS 29 (Bakerfield CA)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89426.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KBFX-CD FOX 58 (Bakerfield CA)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/512982.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KEYT-TV ABC 3 (Santa Barbara CA)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/446727.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KION-TV CBS 5/46 (Monterey CA)
@@ -551,7 +563,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89869.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WRLH-TV FOX 35 (Richmond VA)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/630652.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WRC-TV NBC 4 (Washington DC)
-https://nbculocallive.akamaized.net/hls/live/2037099/washingtondc/stream1/master.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2428.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WTTG-TV FOX 5 (Washington DC)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2503.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WJLA-TV ABC 7 (Washington DC)
@@ -1888,7 +1900,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTR-TV UniMás 46 (Los Angeles CA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2394.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/50931.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNJU-TV Telemundo 47 (New York NY)
@@ -1967,6 +1979,8 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/135404.ts
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410633.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KXTQ-TV Telemundo 46 (Lubbock TX)
 http://vocotv.pro:80/live/10/12345/3337.ts
+#EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KASA-TV Telemundo 2 (Santa Fe NM)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89698.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KTVW-TV Univision 33 (Phoenix AZ)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410646.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTAZ-TV Telemundo 39 (Phoenix AZ)
@@ -5289,12 +5303,12 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631877.ts
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648982.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Drama (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631878.ts
-#EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Drama (East)
-http://kstv.us:8080/live/N427DpynGE/7049166651/15915.ts
+#EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Drama
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648981.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Comedy (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631876.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Comedy (East)
-http://kstv.us:8080/live/N427DpynGE/7049166651/23303.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648977.ts
 
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3825.ts
@@ -5303,7 +5317,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3622.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax Hits (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/81382.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax Hits (East)
-http://kstv.us:8080/live/N427DpynGE/7049166651/23342.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/51553.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax Classics
 http://kstv.us:8080/live/N427DpynGE/7049166651/48357.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax Action
