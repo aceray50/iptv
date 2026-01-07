@@ -6504,16 +6504,18 @@ http://rfcm.streamguys1.com/sailingpremium-mp3
 #EXTINF:0 tvg-logo="" group-title="Music",TuneIn Smooth Jazz
 http://rfcm.streamguys1.com/smoothjazzpremium-mp3
 
-#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hit List (Audio Channel)
-http://kstv.us:8080/live/N427DpynGE/7049166651/47978.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Today's Hits "Hit List" (Audio Channel)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42072.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Music Choice Max (Audio Channel)
-http://kstv.us:8080/live/N427DpynGE/7049166651/48002.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38042.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Dance
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42086.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Dance EDM
-http://kstv.us:8080/live/N427DpynGE/7049166651/47958.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42082.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Dance
 http://kstv.us:8080/live/N427DpynGE/7049166651/47944.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop And R&B
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237626.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42073.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop And R&B (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47975.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rap (Audio Channel)
@@ -6525,13 +6527,15 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/48049.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop Classics
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237628.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Hip-Hop Classics (Audio Channel)
-http://kstv.us:8080/live/N427DpynGE/7049166651/47976.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647292.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Throwback Jams
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237629.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Throwback Jams (Audio Channel)
-http://kstv.us:8080/live/N427DpynGE/7049166651/48044.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42087.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Funk (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47970.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Hits (Audio Channel)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42079.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Groove (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260729.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Soul (Audio Channel)
@@ -6541,11 +6545,11 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260730.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Classics
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237630.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | R&B Classics (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260722.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647293.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | ALT R&B (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260731.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Today's R&B
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237631.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42081.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Freestyle (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260728.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Gospel
@@ -6569,25 +6573,27 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260755.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Alternative (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260753.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rock
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237634.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42080.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Rock Hits (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260748.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647297.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Rock
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237639.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647298.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Rock (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260747.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Soft Rock
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237640.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647299.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Soft Rock (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260703.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Yacht Rock
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237635.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Yacht Rock (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260700.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Mellow Hits
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42092.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Love Songs (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260705.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop Hits
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237642.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42076.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop Hits (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260673.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Party Favorites (Audio Channel)
@@ -6605,7 +6611,7 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/237624.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Malt Shop Favorites (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260706.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Solid Gold Oldies
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237651.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647316.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Solid Gold Oldies (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260692.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '60s Generation
@@ -6619,7 +6625,7 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260743.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237649.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260693.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647315.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s Rock (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260745.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s Soul (Audio Channel)
@@ -6627,15 +6633,15 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260717.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '70s & '80s Favorites
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237646.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237648.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42078.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260701.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647314.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s One Hit Wonders (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260696.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '80s Rock (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260749.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237647.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42083.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260674.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | '90s Club Hits (Audio Channel)
@@ -6649,7 +6655,7 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260746.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Y2K (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260699.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Y2K Rap (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260725.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42088.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Y2K R&B (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260726.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | 2010s (Audio Channel)
@@ -6659,13 +6665,15 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/237670.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Christmas (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260776.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop And Country
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237652.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42077.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop And Country (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260660.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Today's Country
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237653.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647318.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Today's Country (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260672.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Country Hits
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647319.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Country Hits (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260708.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classic Country
@@ -6678,8 +6686,12 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/237633.ts
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260765.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Pop Latino (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260735.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Musica Urbana
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38043.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Musica Urbana (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260736.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Mexicana
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42090.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Mexicana (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260739.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Tropicales
@@ -6698,12 +6710,14 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/237671.ts
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260777.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Stage And Screen (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260781.ts
+#EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Smooth Jazz
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647326.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Smooth Jazz (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260663.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Choice Blues
 http://kstv.us:8080/live/N427DpynGE/7049166651/47934.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Easy Listening
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237669.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647335.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Easy Listening (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260691.ts
 #EXTINF:0 tvg-logo="" group-title="Music",MC (Music Choice) | Classical Masterpieces (Audio Channel)
