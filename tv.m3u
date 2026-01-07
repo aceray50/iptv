@@ -2138,7 +2138,7 @@ https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3826.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (East)
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3718.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3629.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2661.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (East)
@@ -6923,11 +6923,11 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4209.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery en Español
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40625.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Turbo en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/46583.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/1631.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Home and Health en Español
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4208.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Familia
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40631.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2599.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery Theater en Español
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4211.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Discovery World en Español
@@ -6943,7 +6943,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649401.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Mundo
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40637.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nat Geo Wild en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/46651.ts
+http://kstv.us:8080/live/N427DpynGE/7049166651/46650.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",HITN
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649414.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Taste Made en Español
