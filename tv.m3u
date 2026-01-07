@@ -3331,7 +3331,7 @@ https://lockedonsports-nba-live.sports.tv/v1/master/758627660e995d43cdf594915ca6
 #EXTINF:0 tvg-logo="" group-title="Sports",The Original Globetrotters
 https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8?ads.wurl_channel=1909
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Network
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3754.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3670.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Channel
 https://d6f8f5cf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTkZMQ2hhbm5lbF9ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",NFL Alt Channel
@@ -3342,12 +3342,12 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3671.ts
 https://lockedonsports-nfl-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66f5a5e6d0c3a5f3ad07b6d4_lockedonsports-nfl-live/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Network
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3661.ts
+#EXTINF:0 tvg-logo="" group-title="Sports",MLB Network (Alt)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/663879.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Channel
 https://apollo.production-public.tubi.io/live/mlb2-RR0NCJ.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MLB Strike Zone
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2480.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",MLB Big Inning
-http://vocotv.pro:80/live/10/12345/715294.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NHL Network
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3672.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",NHL Channel
@@ -3516,18 +3516,16 @@ http://dai.google.com/linear/hls/event/v08jn_wSRRGol1hWsbJgbg/master.m3u8
 http://dai.google.com/linear/hls/event/iAH9i6raRVu1GzVMtKI7PA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (Glory)
 http://dai.google.com/linear/hls/event/zZK1PADpSfCbSMyFTcwufQ/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (Banana Ball)
-http://dai.google.com/linear/hls/event/hGUW8YfcStaj5w0z-DWxTg/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (Poker)
 http://dai.google.com/linear/hls/event/70ov0oU2T2uHSWSxvcGSrA/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Bally Sports (Chicago)
 https://linear30.channels.ballys.tv/abr_default/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",PokerGo
-https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/dist/localnow/426/hls/master/playlist.m3u8
+https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/dist/localnow/426/hls/master/playlist.m3u8?ads.cdnhost=s4host4.localnow.api.cms.amdvids.com&ads.playbackid=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n4=content_name&ads.v4=EPG%20%7C%20PokerGo&ads.n21=h&ads.v21=1080&ads.n22=dnt&ads.v22=&ads.n23=channel_brand_id&ads.v23=AMDB012786&ads.n24=app_name&ads.v24=&ads.n25=device_model&ads.v25=&ads.n26=content_provider&ads.v26=pokergo&ads.n27=channel_ext_id&ads.v27=62854474b70b3427203aeabc&ads.n28=gpp_sid&ads.v28=&ads.n29=url&ads.v29=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n30=app_store_url&ads.v30=&ads.n31=ifa_type&ads.v31=&ads.n32=content_custom_3_param&ads.v32=channel&ads.n33=content_custom_2_param&ads.v33=AMDB012786&ads.n34=content_type&ads.v34=channel&ads.n35=content_producer_name&ads.v35=Poker%20Central%20LLC&ads.n36=ua&ads.v36=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n37=device_make&ads.v37=&ads.n38=channel_id&ads.v38=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n39=channel_language&ads.v39=en&ads.n40=channel_corp&ads.v40=Poker%20Central%20LLC&ads.n41=did&ads.v41=&ads.n42=pos&ads.v42=midroll&ads.n43=ip&ads.v43=195.179.200.80&ads.n44=app_version&ads.v44=0.0.0&ads.n45=channel_title&ads.v45=EPG%20%20PokerGo&ads.n46=gpp&ads.v46=&ads.n47=channel_genre&ads.v47=Gaming&ads.n48=w&ads.v48=1920&ads.n49=device_type&ads.v49=&ads.n50=cust_devicename&ads.v50=desktop_web&ads.n51=channel_rating&ads.v51=TV-PG&ads.n52=content_livestream&ads.v52=1&ads.n53=us_privacy&ads.v53=1YNY&ads.n54=app_bundle&ads.v54=&ads.n55=channel_name&ads.v55=EPG%20%20PokerGo&ads.n56=network_name&ads.v56=pokergo&ads.n57=content_custom_1_param&ads.v57=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n58=channel_company_id&ads.v58=AMDP500405
 #EXTINF:0 tvg-logo="" group-title="Sports",WPT (World Poker Tour)
-https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",YES Network
-https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2377.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Big Ten Network
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4443.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Sports Grid
@@ -3545,7 +3543,7 @@ https://apollo.production-public.tubi.io/live/dazn-ringside2.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",WSN (Women's Sports Network)
 https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",UFC Channel
-http://fl1.moveonjoy.com/UFC/index.m3u8
+http://fl1.moveonjoy.com/UFC/mpegts
 #EXTINF:0 tvg-logo="" group-title="Sports",UFC Channel 24/7
 http://kstv.us:8080/live/N427DpynGE/7049166651/47643.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",UFC TV
@@ -3567,11 +3565,11 @@ https://fight-network-3-live.sports.tv/v1/master/758627660e995d43cdf594915ca608e
 #EXTINF:0 tvg-logo="" group-title="Sports",Swerve Sports
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG Network
-https://fl2.moveonjoy.com/MSG/index.m3u8
+https://fl2.moveonjoy.com/MSG/mpegts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG 2
-http://kstv.us:8080/live/N427DpynGE/7049166651/48366.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4433.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG+
-http://kstv.us:8080/live/N427DpynGE/7049166651/23289.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4434.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSGSN
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648959.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSGSN 2
@@ -3579,7 +3577,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4433.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",MSG SportsZone
 https://dce277e4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",WWE Network
-https://fl1.moveonjoy.com/WWE/index.m3u8
+https://fl1.moveonjoy.com/WWE/mpegts
 #EXTINF:0 tvg-logo="" group-title="Sports",TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports",Impact Plus!
@@ -5289,15 +5287,15 @@ http://vocotv.pro:80/live/10/12345/698620.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2490.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO (East)
-https://fl1.moveonjoy.com/HBO_2/mpegts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3655.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Hits (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/553461.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Hits (East)
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648976.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3656.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Movies (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631877.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Movies (East)
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648982.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/51552.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Drama (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631878.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",HBO Drama (East)
@@ -5316,9 +5314,9 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/81382.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax Hits (East)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/51553.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax Classics
-http://kstv.us:8080/live/N427DpynGE/7049166651/48357.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/694516.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Cinemax Action
-http://kstv.us:8080/live/N427DpynGE/7049166651/23346.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/51557.ts
 
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Paramount+ with Showtime (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3840.ts
@@ -5347,7 +5345,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648986.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Family Zone (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631918.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime Family Zone (East)
-http://kstv.us:8080/live/N427DpynGE/7049166651/23256.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3969.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET) (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631888.ts
 #EXTINF:0 tvg-logo="" group-title="Premium Channels",Showtime (Sho X BET) (East)
