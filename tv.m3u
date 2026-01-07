@@ -36,7 +36,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2695.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WGN-TV CW 9 (Chicago IL)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/85340.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/WCIU_the_U_logo_2024.png/1280px-WCIU_the_U_logo_2024.png" group-title="Local Channels (Not 24/7)",WCIU-TV CW/Ind. (TheU) 26 (Chicago IL)
-http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/769995.ts
+http://hardcoremedia.xyz:80/live/BG992263/38692743/117146.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WFLD-TV FOX 32 (Chicago IL)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2567.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL)
@@ -1259,10 +1259,8 @@ http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/725062.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KNPB-TV PBS 5 (Reno NV)
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/33699.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVCR-TV PBS 24.1 (San Bernardino/Los Angeles CA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVCR-TV PBS 24 (San Bernardino/Los Angeles CA)
 http://vocotv.pro:80/live/10/12345/2128.ts
-#EXTINF:0 tvg-logo="https://lptv.org/wp-content/uploads/2015/03/fnx-logo.png" group-title="Local Public Broadcast",KVCR-DT FNX 24.2 (San Bernardino/Los Angeles CA)
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KLCS-TV PBS 58 (Los Angeles CA)
 http://vocotv.pro:80/live/10/12345/2122.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)
@@ -2674,7 +2672,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/57969.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV Classic (East)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/57969.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV Live
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+http://fl2.moveonjoy.com/MTV_LIVE/mpegts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",MTV Yo! (Pluto)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="LGBT",Logo
@@ -7425,13 +7423,13 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47114.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN Deportes
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21591.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/47107.ts
+http://181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 2 en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/47098.ts
+http://181.114.57.246:4000/play/Z5TWRUY3869wGRLG/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 3 en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/47102.ts
+http://181.114.57.246:4000/play/4hrEpujghmYgjET8/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 4 en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/47110.ts
+http://181.80.15.131:8400/play/a0e0/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 5 en Español
 http://179.61.31.142:8000/play/a0ha/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",ESPN 6 en Español
@@ -7762,7 +7760,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/59855.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",OMNI 2 (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40640.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",OWN (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40635.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/57277.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Peachtree TV (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40632.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Showcase (Canada)
@@ -7825,7 +7823,6 @@ https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3075.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 1 (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3146.ts
-https://a1xs.vip/6000001
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 2 (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3145.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TSN 3 (Canada)
@@ -7851,7 +7848,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/40628.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",NBA TV (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40601.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",NFL Network (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40584.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3067.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Sportsnet 360 (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40618.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Sportsnet West (Canada)
@@ -7977,8 +7974,6 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47805.ts
 https://a1xs.vip/1000051
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Nick Jr. (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47796.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",Nick Jr. 2 (UK)
-http://kstv.us:8080/live/N427DpynGE/7049166651/23275.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Nick Jr. Too (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47797.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Nicktoons (UK)
@@ -7993,6 +7988,8 @@ https://anym3u8player.com/youtube.php/id/692261f0eca60.m3u8
 http://kstv.us:8080/live/N427DpynGE/7049166651/47802.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Pop Max (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47803.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Tiny Pop (UK)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2162.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",U&Alibi (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47739.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",U&Drama (UK)
@@ -8063,8 +8060,8 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47746.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47804.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",True Crime (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47754.ts
-#EXTINF:0 tvg-logo="" group-title="UK Channels",True Crime +1 (UK)
-http://kstv.us:8080/live/N427DpynGE/7049166651/47755.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",True Crime Xtra (UK)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47753.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Arts (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47811.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Atlantic (UK)
@@ -8111,8 +8108,6 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3972.ts
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3973.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Willow Sports (Austrailia)
 https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="UK Channels",GOL TV (UK)
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319489
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports Football (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47866.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Sports Premier League (UK)
@@ -8177,6 +8172,8 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47835.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47774.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Movie Spare (UK)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2151.ts
+#EXTINF:0 tvg-logo="" group-title="UK Channels",Movie24 (UK)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47791.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Action (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47813.ts
 #EXTINF:0 tvg-logo="" group-title="UK Channels",Sky Cinema Animation (UK)
