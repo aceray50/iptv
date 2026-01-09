@@ -6896,6 +6896,8 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4261.ts
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7a3a74d9-fdec-4890-859f-baf25e071f79b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ad956a1-b4ba-42ba-a994-a43ee976f83a&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",MTV Flow Latino (Pluto TV)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",MTV Tr3s
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89996.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nickelodeon en Español
 http://kstv.us:8080/live/N427DpynGE/7049166651/46926.ts
 #EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Nick en Español (Pluto TV)
