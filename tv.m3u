@@ -569,7 +569,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2503.ts
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2665.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WUSA-TV CBS 9 (Washington DC)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/559692.ts
-#EXTINF:0 tvg-logo="" group-title="Local Channels (Not 24/7)",WDVM-TV Ind. 25 (Washington DC)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DC_News_Now.svg/1280px-DC_News_Now.svg.png" group-title="Local Channels (Not 24/7)",WDVM-TV Ind. 25 (Washington DC)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/723847.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WRDC-TV MyNetworkTV 28 (Washington DC)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2475.ts
@@ -690,7 +690,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89617.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WGME-TV CBS 13 (Portland ME)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89616.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WPFO-TV FOX 23 (Portland ME)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/2163
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/2163.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KATU-TV ABC 2 (Portland OR)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2675.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KOIN-TV CBS 6 (Portland OR)
@@ -749,6 +749,10 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2621.ts
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/34428.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KCPQ-TV FOX 13 (Seattle WA)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89885.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KZJO-TV FOX 13+/MyNetworkTV 22 (Seattle WA)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/730458.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",KUNS-TV CW 51 (Seattle WA)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/597174.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WAVE-TV NBC 3 (Louisville KY)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/70148.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WHAS-TV ABC 11 (Louisville KY)
@@ -775,6 +779,14 @@ http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150206.ts
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150208.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVM-TV NBC 20 (Butte MT)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89661.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVQ-TV CBS 2 (Billings MT)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/555994.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KHMT-TV FOX 4 (Billings MT)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/555995.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KSVI-TV ABC 6 (Billings MT)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/555996.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KLUR-TV NBC 8 (Billings MT)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89660.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTUU-TV NBC 2 (Anchorage AK)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38320.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KTBY-TV FOX 4 (Anchorage AK)
@@ -2034,38 +2046,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1
 https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",Univision (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647750.ts
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Tijuana (Mexico)
-https://anym3u8player.com/youtube.php/id/6921ff52a282e.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Mexicali (Mexico)
-https://anym3u8player.com/youtube.php/id/692224f9bbb5f.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Del Bajio (Mexico)
-https://anym3u8player.com/youtube.php/id/692201f0ce39a.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Del Golfo (Mexico)
-https://anym3u8player.com/youtube.php/id/692223e528529.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa San Luis Potosi (Mexico)
-https://anym3u8player.com/youtube.php/id/6922260fe6d87.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Ensenada (Mexico)
-https://anym3u8player.com/youtube.php/id/692225b62834d.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Laguna (Mexico)
-https://anym3u8player.com/youtube.php/id/6922022f56051.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Monterrey (Mexico)
-https://anym3u8player.com/youtube.php/id/6922257856a21.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Ciudad Juarez (Mexico)
-https://www.youtube.com/watch?v=GkzKsdycdno
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Querétaro (Mexico)
-https://anym3u8player.com/youtube.php/id/69220261e3ac0.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Zacatecas (Mexico)
-https://anym3u8player.com/youtube.php/id/692200270019b.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Guadalajara (Mexico)
-https://anym3u8player.com/youtube.php/id/6922013536659.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Sonora (Mexico)
-https://anym3u8player.com/youtube.php/id/69220096715dd.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Vercruz (Mexico)
-https://anym3u8player.com/youtube.php/id/692200a8705b1.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Yucatán (Mexico)
-https://anym3u8player.com/youtube.php/id/6922246a3dcde.m3u8
-#EXTINF:0 tvg-logo="" group-title="Latino (Spanish)",Televisa Puebla (Mexico)
-https://anym3u8player.com/youtube.php/id/692200f12f280.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/1920px-%C2%A1HOLA%21TVlogo.jpg" group-title="Latino (Spanish)",Latin Hola TV
 http://kstv.us:8080/live/N427DpynGE/7049166651/46640.ts
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Mega-tv-logo2.svg/revision/latest?cb=20250101024217" group-title="Latino (Spanish)",Mega TV
@@ -2832,7 +2812,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3642.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FXX (West)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3833.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FXX (East)
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3649.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3736.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",FXM (FOX Movie Channel)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3736.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",TNT (West)
@@ -2929,13 +2909,11 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631836.ts
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647783.ts
 #EXTINF:0 tvg-logo="" group-title="Network Channels",CMT (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c8a04-7b2e-11ef-adb4-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=09f1e2ea-743c-4fc9-99e7-f481a057bd47&userId=&serverSideAds=true
-#EXTINF:0 tvg-logo="" group-title="Network Channels",Circle Country #1
-https://circle-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Network Channels",Circle Country #2
+#EXTINF:0 tvg-logo="" group-title="Network Channels",Circle Country
 https://amg00432-amg00432c1-circle-worldwide-2821.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-circleworldwide/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Network Channels",The Cowboy Channel #1
-https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Network Channels",The Cowboy Channel #2
+#EXTINF:0 tvg-logo="" group-title="Network Channels",The Cowboy Channel
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/84912.ts
+#EXTINF:0 tvg-logo="" group-title="Network Channels",The Cowboy Channel (Alt)
 https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Network Channels",Outlaw (The Western Channel)
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66213052abd90e037ccd1fe4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc
