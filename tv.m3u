@@ -7553,10 +7553,14 @@ http://xxip25.top:8080/live/char@dot.com/char@14223/57373.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/40732.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV 2 Vancouver Island (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40736.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV 2 Barrie Ontario (Canada)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/141745.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV 2 London (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/59860.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV 2 Vancouver (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/57316.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV 2 Toronto (Canada)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/93008.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV 2 Windsor (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/77165.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV 2 Atlantic (Canada)
