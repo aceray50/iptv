@@ -52,7 +52,7 @@ http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401596441.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WKBD-TV CW 50 (Detroit MI)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89623.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WWJ-TV CBS 62 (Detroit MI)
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2643.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/88065.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WCCO-TV CBS 4 (Minneapolis/St. Paul MN)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2634.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KSTP-TV ABC 5 (Minneapolis/St. Paul MN)
@@ -1319,6 +1319,8 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/470363.ts
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/470365.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WEDU-TV PBS 3 (Tampa Bay FL)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/470366.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KTCA-TV PBS 2 (Minneapolis/St. Paul MN)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/470337.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WGTV-TV GPB PBS 30 (Atlanta GA)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/703818.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WABE-TV PBS 30 (Atlanta GA)
