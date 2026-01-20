@@ -3094,8 +3094,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-634700569d64
 
 #EXTINF:0 tvg-logo="" group-title="Religious",Scientology Network
 https://stream6.scientology.org/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="Religious",The World Network
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",Victory Channel
 https://content.uplynk.com/channel/ea37a0934a0749fe80f493b402ce5908.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",TOG (Truth of God)
@@ -3107,7 +3105,7 @@ https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699
 #EXTINF:0 tvg-logo="" group-title="Religious",NRBTV
 https://tgn2.bozztv.com/nrbtv/nrbtv-live/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",ULFN (Universal Living Faith Network)
-https://live-ak.vimeocdn.com/exp=1750861405~acl=%2F8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4%2F%2A~hmac=bf56f78d314e426d9b0af11821a223284f8b0ba4f46123f697bd5a09217ad44e/8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4/hls.m3u8
+https://live-api.vimeocdn.com/sessions/a32c1465-36ac-4f2a-9220-77f511090cd5/playlist/avc/hls.m3u8?cdn=akamai-fmp4&json=1&~exp=1768946400&~id=player&~sig=IbRH49GkL1psTG-BY7xsDjPD4u8qoJI8whZ9bdOUmfw
 #EXTINF:0 tvg-logo="" group-title="Religious",Positiv
 https://cdn.jwplayer.com/v2/sites/fGLyccP5/media/FoWynVnP/ssai.m3u8?ad_config_id=wrVOL0T1&content_id=FoWynVnP&content_title=Positiv+TV&app_domain=https%3A%2F%2Fwatch.positiv.tv&app_bundle=PostivTV.web&custom_10=web&user_id=&site_id=38571&app_name=PostivTV&min_ad_duration=6&max_ad_duration=60&format=vast&ssai_enabled=1&ssai_vendor=jwplayer&livestream=1&content_genre=Entertainment&content_channel=PostivTV&content_network=PostivTV&height=1080&width=1920&content_cat=IAB1&page_url=https%3A%2F%2Fwatch.positiv.tv%2Fp%2FYVBF54l8%3Fchannel%3DFoWynVnP%26play%3D1&device_type=2
 #EXTINF:0 tvg-logo="" group-title="Religious",Radiant TV
@@ -3121,7 +3119,7 @@ https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",PTL Television Network
 https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",The Word Network
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/699668.ts
+https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",GEB America
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",CBN News
@@ -3145,7 +3143,7 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",Faith TV
 https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",Faith World TV
-https://stream.ecable.tv/faithworld/tracks-v1a1/mono.m3u8
+https://faithworldtv.abs.tv/1826926230/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",CYC (Christian Youth Channel)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",CTVN
@@ -3166,8 +3164,10 @@ https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 https://cdn-us-dca.b-cdn.net/hcorg_33O0ldvawCD/s/jsl_0sUSK6VA7GT/720p/main.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",GBN (Gospel Broadcasting Network)
 https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Religious",Hope Church Channel
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="Religious",Hope Channel
+https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
+#EXTINF:0 tvg-logo="" group-title="Religious",Hope Channel International
+https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",BYUtv
 https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="Religious",TBN
@@ -3208,7 +3208,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 6
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 7
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc7us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8
 #EXTINF:0 tvg-logo="" group-title="Shopping",QVC 10
@@ -3363,7 +3363,7 @@ https://amg02040-lguplus-amg02040c10-lg-us-6979.playouts.now.amagi.tv/playlist/a
 #EXTINF:0 tvg-logo="" group-title="Sports",Eleven Sports Network
 http://kstv.us:8080/live/N427DpynGE/7049166651/23327.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Altitude Sports Denver
-http://kstv.us:8080/live/N427DpynGE/7049166651/48335.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/332892.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Chicago Sports Network
 http://kstv.us:8080/live/N427DpynGE/7049166651/28741.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Space City Home Network
@@ -3378,8 +3378,6 @@ https://a1xs.vip/400052
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/512561.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Spectrum Sportsnet OC16
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649399.ts
-#EXTINF:0 tvg-logo="" group-title="Sports",Root Sports
-http://kstv.us:8080/live/N427DpynGE/7049166651/48334.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsnet (4K)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260804.ts
 #EXTINF:0 tvg-logo="" group-title="Sports",Sportsnet West
@@ -7634,19 +7632,19 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/40644.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Disney Channel (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3113.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Cartoon Network (Canada)
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3127.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3248.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Boomerang by Cartoon Network (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/103759.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Télétoon French (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40604.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3134.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TFO French (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40659.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3133.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Adult Swim (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3077.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Much (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3149.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",APTN (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40774.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3214.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",USA Network (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3114.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",A&E (Canada)
@@ -7660,7 +7658,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3051.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Home Network (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/127910.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Magnolia Network (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40722.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3086.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Knowledge Network (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/87955.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Wild (Canada)
@@ -7678,7 +7676,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3281.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Historia (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3223.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",AHC (American Heroes Channel) (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40777.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3213.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",BBC Earth (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/88022.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",WILD TV (Canada)
@@ -7693,8 +7691,8 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/93115.ts
 http://thevdm.xyz:25461/live/timmadden/timmad4765/127918.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Crime & Investigation (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3148.ts
-#EXTINF:0 tvg-logo="" group-title="Canadian Channels",Investigation (Canada)
-http://xxip25.top:8080/live/char@dot.com/char@14223/57442.ts
+#EXTINF:0 tvg-logo="" group-title="Canadian Channels",ID (Investigation Discovery) (Canada)
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/88083.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",TV Ontario (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3152.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",W Network (Canada) (West)
@@ -7702,7 +7700,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3050.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",W Network (Canada) (East)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/103818.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",YES TV (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40665.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3049.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Super Channel Fuse (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/59851.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Super Channel Quest (Canada)
@@ -7714,7 +7712,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/88026.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Silver Screen (Canada)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3294.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",Travel Escape (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40580.ts
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3296.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",HPItv East (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/173131.ts
 #EXTINF:0 tvg-logo="" group-title="Canadian Channels",CTV Drama Channel (Canada)
