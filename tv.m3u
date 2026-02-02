@@ -7319,7 +7319,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Milenio
 http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?420GKUSH_R4IN&DON%27TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",N+ FORO
-http://atlas.cdmx.gob.mx:8089/https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1770063180~acl=/*~hmac=40edb3b684e3055b630a424108d67e1e450e709d69111ec7e69d8bcf4ee493a2
+http://atlas.cdmx.gob.mx:8089/https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true&420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",N+ Guadalajara
 https://anym3u8player.com/youtube.php/id/69220360415f5.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",N+ Monterey
