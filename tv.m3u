@@ -1911,7 +1911,7 @@ https://catram-packager-018.nextologies.com/0bbcf6d6a85c81ca/45a975efb871cd32/b4
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/SpectrumNoticiasLogo2025.jpg" group-title="Latino (Spanish)",Spectrum Noticias NY1
 http://s.rocketdns.info:8080/live/52748969/72335180/649407.ts
 #EXTINF:0 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png" group-title="Latino (Spanish)",N+ Univision 24/7
-https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Noticias Telemundo Ahora
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a5b732d9-b450-413e-9e52-6717dc27423c/4.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias California
@@ -1923,19 +1923,19 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias Florida
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ed488175-2528-4ece-82e7-c6a5c806d300/4.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KMEX-TV Univision 34 (Los Angeles CA)
-https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTR-TV UniMás 46 (Los Angeles CA)
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2394.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
-https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WNJU-TV Telemundo 47 (New York NY)
 http://s.rocketdns.info:8080/live/52748969/72335180/3875.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WFUT-TV/WFTY-DT UniMás 67 (New York NY)
-https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WLTV-TV Univision 23 (Miami FL)
-https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WSCV-TV Telemundo 51 (Miami FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/50929.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WAMI-DT UniMás 69 (Miami FL)
@@ -1943,7 +1943,7 @@ http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410621.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WSNS-TV Telemundo 44 (Chicago IL)
 http://s.rocketdns.info:8080/live/52748969/72335180/2400.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WBGO-TV Univision 66 (Chicago IL)
-https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KCEC-TV Univision 14 (Denver CO)
 http://vocotv.pro:80/live/10/12345/3375.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KDEN-TV Telemundo 25 (Denver CO)
@@ -1951,7 +1951,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/2399.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFD-TV UniMás 50 (Denver CO)
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/18572.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KDTV-TV Univision 14 (San Francisco CA)
-https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KSTS-TV Telemundo 48 (San Francisco CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/2388.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KFTV-TV Univision 41 (Hanford/Fresno CA)
@@ -1989,13 +1989,13 @@ http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410650.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KDVA-TV Telemundo 60 (San Antonio TX)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410609.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KUVN-TV Univision 23 (Ft. Worth/Dallas TX)
-https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/3880.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KSTR-TV UniMás 49 (Ft. Worth/Dallas TX)
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3795.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",KXLN-TV Univision 45 (Houston TX)
-http://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/http://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTMD-TV Telemundo 47 (Houston TX)
 http://s.rocketdns.info:8080/live/52748969/72335180/89832.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTH-DT UniMás 67 (Houston TX)
@@ -2025,7 +2025,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/89502.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WRMD-CD Telemundo 49 (Tampa FL)
 http://s.rocketdns.info:8080/live/52748969/72335180/89509.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WUVG-TV Univision 34.1 (Atlanta GA)
-https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WUVG-DT UniMás 34.2 (Atlanta GA)
 http://s.rocketdns.info:8080/live/52748969/72335180/629647.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WKTB-TV Telemundo 47 (Atlanta GA)
@@ -2033,9 +2033,9 @@ http://s.rocketdns.info:8080/live/52748969/72335180/447423.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KFVE-DT Telemundo 6.2 (Honolulu HI)
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/149797.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WKAQ-TV Telemundo 2.1 (San Juan PR)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+https://cors-proxy.cooks.fyi/https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://dishcaribbean.com/img/upload/punto2-color-logo.png" group-title="Latino (Spanish)",WKAQ-DT Punto 2 2.2 (San Juan PR)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8
+https://cors-proxy.cooks.fyi/https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/WIPR_2015_blue.svg/1200px-WIPR_2015_blue.svg.png" group-title="Latino (Spanish)",WIPR-TV 6 (San Juan PR)
 http://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WLII-TV Univision 11 (San Juan PR)
@@ -6737,9 +6737,9 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260759.ts
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260658.ts
 
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Galavisión (West)
-https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Galavisión (East)
-https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",NBC Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Telemundo Internacional
@@ -7397,9 +7397,9 @@ http://181.188.234.21:8000/play/a042/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TUDN USA
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ViX Zona TUDN
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona-audio_eng=128000-video=6000000.m3u8
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ViX Lo Mejor de Liga MX
 https://live1009.delivery.roku.com/025088b2-d7e3-4803-9e66-a2a0eac3c39a/t2-origin/out/v1/live.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TVC Deportes
@@ -7925,35 +7925,35 @@ http://s.rocketdns.info:8080/live/52748969/72335180/59882.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC One (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47744.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC Two (UK)
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+https://cors-proxy.cooks.fyi/https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC 3 (UK)
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+https://cors-proxy.cooks.fyi/https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC 4 (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47742.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC 4 Cbeebies (UK)
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+https://cors-proxy.cooks.fyi/https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC Alba (UK)
 http://s.rocketdns.info:8080/live/52748969/72335180/2355.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 1 (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47784.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 2 (UK)
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+https://cors-proxy.cooks.fyi/https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 3 (UK)
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+https://cors-proxy.cooks.fyi/https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV 4 (UK)
-https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+https://cors-proxy.cooks.fyi/https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",ITV Be (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47788.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",More4 (UK)
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+https://cors-proxy.cooks.fyi/https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Film4 (UK)
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+https://cors-proxy.cooks.fyi/https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 4 (UK)
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+https://cors-proxy.cooks.fyi/https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 4 Seven (UK)
 https://livetvde.net/4seven/index.m3u8?token=5f5b5ba498257e261f0671e12fb9af3cf201db44-d16a3e62ca9bc18d2cd36418de24fa1b-1739998779-1739987979
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 (UK)
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+https://cors-proxy.cooks.fyi/https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5+ (UK)
 http://92.114.85.81:8000/play/a01f/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Channel 5 USA (UK)
