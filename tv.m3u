@@ -1232,19 +1232,19 @@ https://s9host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 https://jmp2.uk/rok-e35e1503bdf85e0fbb406b4663137473.m3u8
 
 #EXTINF:0 tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png" group-title="Local Public Broadcast",Create
-https://create.lls.pbs.org/index_1080p.m3u8
+https://cors-proxy.cooks.fyi/https://create.lls.pbs.org/index_1080p.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png" group-title="Local Public Broadcast",NHK World
-https://nhk.lls.pbs.org/index_1080p.m3u8
+https://cors-proxy.cooks.fyi/https://nhk.lls.pbs.org/index_1080p.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/World_Channel_2023.svg/1920px-World_Channel_2023.svg.png" group-title="Local Public Broadcast",PBS World
-https://world.lls.pbs.org/index_1080p.m3u8
+https://cors-proxy.cooks.fyi/https://world.lls.pbs.org/index_1080p.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://lptv.org/wp-content/uploads/2015/03/fnx-logo.png" group-title="Local Public Broadcast",FNX
-https://fnx.lls.pbs.org/index_1080p.m3u8
+https://cors-proxy.cooks.fyi/https://fnx.lls.pbs.org/index_1080p.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (West)
-https://pbs.lls.cdn.pbs.org/pst/index_1080p.m3u8
+https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/pst/index_1080p.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",PBS National (East)
-https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8
+https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/est/index_1080p.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png" group-title="Local Public Broadcast",PBS Retro
-https://amg02333-pbs-amg02333c6-lg-us-3175.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsretro-lgus/playlist.m3u8
+https://jmp2.uk/rok-34335ef32c02519d897664a78767cc59.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WVIZ-TV PBS 25.1 (Cleveland OH)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/243548.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Public Broadcast",WVIZ-DT 25.2 The Ohio Channel (Cleveland OH)
@@ -1308,9 +1308,9 @@ http://s.rocketdns.info:8080/live/52748969/72335180/470369.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WETA-TV WETA PBS 26.1 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/470368.ts
 #EXTINF:0 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png" group-title="Local Public Broadcast",WETA-DT WETA UK 26.2 (Washington DC)
-https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8
+https://cors-proxy.cooks.fyi/https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-metro_1900x1900.png" group-title="Local Public Broadcast",WETA-DT PBS Metro 26.5 (Washington DC)
-https://wetadt5.lls.pbs.org/wetadt5-cmaf-hls.m3u8
+https://cors-proxy.cooks.fyi/https://wetadt5.lls.pbs.org/wetadt5-cmaf-hls.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WHUT-TV PBS 32 (Washington DC)
 http://s.rocketdns.info:8080/live/52748969/72335180/446804.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",WMPB-TV MPT PBS 67 (Baltimore MD)
@@ -1348,7 +1348,7 @@ http://vocotv.pro:80/live/10/12345/2230.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KQED-TV PBS 9.1 (San Francisco CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/446801.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KQED-DT KQED+ PBS 9.2 (San Francisco CA)
-https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+https://cors-proxy.cooks.fyi/https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KVIE-TV PBS 6 (Sacramento CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/470374.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png" group-title="Local Public Broadcast",KUED-TV Utah PBS 7 (Salt Lake City UT)
@@ -2553,10 +2553,8 @@ http://s.rocketdns.info:8080/live/52748969/72335180/2502.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/3734.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Discovery Family
 http://s.rocketdns.info:8080/live/52748969/72335180/2598.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Baby First #1
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Baby First
 http://s.rocketdns.info:8080/live/52748969/72335180/3805.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Baby First #2
-http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Kids TV
 https://27d04f2ffe5446e6be4a4a49cf799af7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG_KidsTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Baby Einstein
