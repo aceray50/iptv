@@ -3269,12 +3269,10 @@ https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
 https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",BYUtv
 https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",LLBN (Lighting Live Blessing Nations)
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",LLBN His Word
 https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",LLBN His Light
 https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",LLBN His Word
-https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",LLBN Smart Lifestyle
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",TBN
@@ -6832,7 +6830,7 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Galavisión (East)
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast-audio_eng=128000-video=6000000.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",NBC Universo
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
+http://cloud.flynet.sv:1935/live/canal-065/playlist.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Telemundo Internacional
 https://cdnbarinas.tvzamora.com/telemundo/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Telemundo Al Día
