@@ -2255,7 +2255,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/3858.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Documentary",Discovery Science
 http://s.rocketdns.info:8080/live/52748969/72335180/2595.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Discovery Turbo TV
-https://s10host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/playlist.m3u8?ads.cdnhost=s10host1.localnow.api.cms.amdvids.com&ads.playbackid=5AA5E827-58E0-4035-9862-4EFD3BC9F11C&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=5AA5E827-58E0-4035-9862-4EFD3BC9F11C&ads.n4=content_name&ads.v4=Discovery%20Turbo%20TV&ads.n21=channel_corp&ads.v21=Warner%20Brothers%20Discovery&ads.n22=h&ads.v22=1080&ads.n23=app_version&ads.v23=0.0.0&ads.n24=did&ads.v24=&ads.n25=dnt&ads.v25=&ads.n26=content_custom_2_param&ads.v26=AMDB013586&ads.n27=channel_title&ads.v27=Discovery%20Turbo%20TV&ads.n28=channel_genre&ads.v28=Sports&ads.n29=device_make&ads.v29=&ads.n30=channel_id&ads.v30=5AA5E827-58E0-4035-9862-4EFD3BC9F11C&ads.n31=app_bundle&ads.v31=web.localnow&ads.n32=gpp&ads.v32=&ads.n33=app_name&ads.v33=&ads.n34=channel_name&ads.v34=Discovery%20Turbo%20TV&ads.n35=channel_language&ads.v35=en&ads.n36=content_custom_1_param&ads.v36=5AA5E827-58E0-4035-9862-4EFD3BC9F11C&ads.n37=device_model&ads.v37=&ads.n38=device_type&ads.v38=&ads.n39=pos&ads.v39=midroll&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F143.0.0.0%20Safari%2F537.36&ads.n41=network_name&ads.v41=motortrend-fast&ads.n42=ifa_type&ads.v42=&ads.n43=app_store_url&ads.v43=&ads.n44=channel_company_id&ads.v44=AMDP500559&ads.n45=content_provider&ads.v45=motortrend-fast&ads.n46=channel_ext_id&ads.v46=&ads.n47=channel_brand_id&ads.v47=AMDB013586&ads.n48=content_livestream&ads.v48=1&ads.n49=w&ads.v49=1920&ads.n50=channel_rating&ads.v50=TV-PG&ads.n51=us_privacy&ads.v51=1YNY&ads.n52=cust_devicename&ads.v52=desktop_web&ads.n53=gpp_sid&ads.v53=&ads.n54=content_type&ads.v54=channel&ads.n55=ip&ads.v55=76.32.150.23&ads.n56=url&ads.v56=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fdiscovery-turbo-tv&ads.n57=content_producer_name&ads.v57=Warner%20Brothers%20Discovery&ads.n58=content_custom_3_param&ads.v58=channel
+https://apollo.production-public.tubi.io/live/wbd-motortrend-GHD6sF.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/1024px-Destination_America_logo.svg.png" group-title="Documentary",Destination America
 http://s.rocketdns.info:8080/live/52748969/72335180/2602.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Documentary",Pluto TV History
@@ -2438,6 +2438,8 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991626/hls/master.m3u8?ads.xumo_cha
 http://s.rocketdns.info:8080/live/52748969/72335180/3714.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",CNBC World
 http://s.rocketdns.info:8080/live/52748969/72335180/2609.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",CNBC Europe
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",MSNBC
 http://s.rocketdns.info:8080/live/52748969/72335180/2479.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",CNN
@@ -2520,7 +2522,7 @@ https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
 https://amg02034-amg02034c1-amgplt0022.playout.now3.amagi.tv/playlist/amg02034-amg02034c1-amgplt0022/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",UN Web TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",DW
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",DW News
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
@@ -2538,6 +2540,8 @@ http://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 https://live-stream.cgtn.com/event-live/CGTN_1_1KuaIJvmqkw/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",NewsWorld
 https://amg01076-lightning-amg01076c5-tcl-us-2468.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-tclus/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="News Channels",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Weather News",The Weather Channel
 http://xxip25.top:8080/live/char@dot.com/char@14223/18926.ts
@@ -6859,12 +6863,14 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 http://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Azteca 7
 http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8?420GKUSH_R4IN&DON%27TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",AZ+
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Azteca A Más
 http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8&redirect=true&redirect=true&420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine Azteca
+http://cloud.flynet.sv:1935/live/canal-120/playlist.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cinema Azteca
+http://kstv.us:8080/live/N427DpynGE/7049166651/46536.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TV Azteca GUATE
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cinema Azteca (Mexico)
-http://kstv.us:8080/live/N427DpynGE/7049166651/46536.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Azteca Corazón
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Estrella TV
@@ -7209,8 +7215,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine Mexicano
 http://s.rocketdns.info:8080/live/52748969/72335180/649410.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine Mexicano (Mexico)
-http://cloud.flynet.sv:1935/live/canal-120/playlist.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine Latino
 https://iptv2.intersurtv.cl/CINELATINO_HD/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine Hispano
@@ -7415,7 +7419,7 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://4f597ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFfRXVyb25ld3NTcGFuaXNoX0hMUw/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Justicia TV (México)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",DW en Español
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",DW Noticias en Español
 http://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Mexico Regional News
 https://mdstrm.com/live-stream-playlist/686c4c6eb03d6c0e7b5e25a0.m3u8
@@ -7470,19 +7474,19 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TVMás
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/chunklist_w345992025_b3428000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",beIN Sports en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/46352.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/3613.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",beIN Sports Xtra en Español
 https://amg01334-amg01334c1-canelatv-international-6037.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FOX Deportes
-http://kstv.us:8080/live/N427DpynGE/7049166651/47115.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/40647.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FOX Sports Channel en Español
-https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
+https://apollo.production-public.tubi.io/live/fox-sports-espanol-QU7jRU.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FSN Premium en Español
 http://kstv.us:8080/live/N427DpynGE/7049166651/47129.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FSN 1 en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/47128.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/4243.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FSN 2 en Español
-http://kstv.us:8080/live/N427DpynGE/7049166651/47119.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/4241.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FSN 3 en Español
 http://kstv.us:8080/live/N427DpynGE/7049166651/47123.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ESPN Premium
@@ -7827,7 +7831,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/3096.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",(ZH) NTD (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/58023.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",NTV St. John`s (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40643.ts
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Bravo (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/3089.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Lifetime (Canada)
@@ -8056,7 +8060,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/2278.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",STV (UK)
 http://s.rocketdns.info:8080/live/52748969/72335180/2168.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky SYFY (UK)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/2167.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/2167.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Yesturday (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47847.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Really (UK)
@@ -8092,7 +8096,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47773.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&Gold (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47777.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",U&W (UK)
-http://restream-live.realiptv.to:8080/live/52748969/72335180/2145.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/2145.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Legend Xtra (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47781.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",E4 (UK)
@@ -8319,19 +8323,15 @@ http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",ARTN (Armenian)
 https://23.237.50.194:17071/C620/index.m3u8?token=zbZfygkRjNFRQ2FY
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",Horizon Armenian TV
-https://1.allnetcom.com/Horizon/Website/6030.m3u8
+http://1.allnetcom.com/Horizon/Website/6030.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",AMGA TV (Armenian)
 https://streamer1.connectto.com/AMGA_WEB_1202/index.fmp4.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",PATV (Pan Armenian TV)
 https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",FINNTV Sri Lanka
 https://249063.global.ssl.fastly.net/68c30e9150bf7e9693d0cfa6/live_6a81e1609dba11f0b889b33d3cd6db5c/index.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",SBS 에스비에스 (Korean)
-https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzA0MDE5NDQsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6NjAsInVubyI6ImZhN2UxZTg1LTg4ZmYtNDA5Zi04NjliLWM0ZDlmNmY4ZGQwNCIsImlhdCI6MTc3MDQwMTg4NH0.29pusWt4A6VMElSHPyCBk7yKtAnEfrxHG44OXXvHe4Y
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",YTV 회사연혁 Korea
-https://tps.tbo.tv/ytv-america.m3u8r
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",MBN 주식회사 매일방송 Korea
-https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3MDQ4ODU5OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=ZMCBR6gT72Jlf57Y3YQZdXXRdvdIxHQgS8RWOeh9wUkGoMqB2m3zd1sJzAq-wl1WkdM~Q3eO3aMQbTXeP-pVviS~D~6gI001oag6d3yKjc4h8-yhi5RErcVlwiQgCgwo2nTCfo~JALm2EL024ZS6-fGYq5uWcaH6Y9oWBCQfurU_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+https://tps.tbo.tv/ytv-america.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",WCETV 中國新聞 (Chinese)
 https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",NTDTV 新唐人電視台 (Chinese)
