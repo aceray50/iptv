@@ -3053,7 +3053,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Aspire
 http://s.rocketdns.info:8080/live/52748969/72335180/21630.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",BBC America
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/profile_0/chunklist.m3u8
+http://s.rocketdns.info:8080/live/52748969/72335180/3610.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",OuterSphere by Lionsgate
 https://amg00353-amg00353c17-vizio-us-2569.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-vizious/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Pop TV (West)
@@ -3289,6 +3289,8 @@ https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.is
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",TBN Teaching & Worship
 https://amg01700-tbn-amg01700c2-tbn-worldwide-966.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-tbnselect-tbnworldwide/playlist.m3u8?user_id=00uo63wifd34FGAJu697
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",TBN Christian Conferences
+https://cdn.jwplayer.com/v2/sites/Yal8cmyO/media/2voh5xei/ssai.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",TBN Women of Faith
 https://amg01700-tbn-amg01700c1-tbn-worldwide-967.playouts.now.amagi.tv/playlist/amg01700-trinitybroadcastingoftexas-womenoffaithontbn-tbnworldwide/playlist.m3u8?user_id=00uo63wifd34FGAJu697
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",TBN Africa
@@ -7562,23 +7564,23 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991276/hls/master.m3u8?ads.xumo_cha
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC News Network (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40760.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Calgary (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40579.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/21881.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Charlottetown (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/21882.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Edmonton (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/21883.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Halifax (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40570.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/21885.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Montreal (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40761.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/3245.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Ottawa (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40759.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/21887.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Toronto (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40758.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/21890.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Vancouver (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40757.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/21891.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Winnipeg (Canada)
-http://s.rocketdns.info:8080/live/52748969/72335180/3304.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/21893.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC Windsor (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/92737.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CBC New Brunswick/Fredericton (Canada)
@@ -7594,7 +7596,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/40595.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Winnipeg (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/141729.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Calgary (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40577.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/103771.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Edmonton Alberta (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/58725.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Halifax Nova Scotia (Canada)
@@ -7602,19 +7604,21 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/40595.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Kitchener (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/141722.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Montreal (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40585.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/3266.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Ottawa (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40734.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/88070.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Regina Saskatchewan (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/66381.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Saskatoon Saskatchewan (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/66382.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Toronto (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40733.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/3269.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Barrie Ontario (Canada)
 http://xxip25.top:8080/live/char@dot.com/char@14223/57373.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Vancouver (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40732.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/3270.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Atlantic (Canada)
+http://s.rocketdns.info:8080/live/52748969/72335180/88028.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV 2 Vancouver Island (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40736.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV 2 Barrie Ontario (Canada)
@@ -7787,7 +7791,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/88022.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/3300.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Love Nature (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/92715.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Nature
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",CTV Nature (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/127885.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Documentary (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/93115.ts
@@ -7869,7 +7873,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/3243.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/702668.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Canal Vie French (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40673.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",UnisTV
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",UnisTV (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/647751.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",PRISE 2 (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40631.ts
@@ -7947,6 +7951,8 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/40615.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/40614.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Sportsnet World (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/88060.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TVA Sports (Canada)
+http://s.rocketdns.info:8080/live/52748969/72335180/3180.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Fight Network (Canada)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Hard Knocks (Canada)
@@ -8034,9 +8040,9 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47844.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/2196.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Two (UK)
 http://s.rocketdns.info:8080/live/52748969/72335180/2178.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Movies
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Movies (UK)
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Romance
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Romance (UK)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",PBS America (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47800.ts
@@ -8048,7 +8054,7 @@ https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u
 https://www.bloomberg.com/media-manifest/videos/android/WiFi/c0fd1f87-6441-4321-a85c-d4594ab762b2.m3u8?idType=BMMP
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Bloomberg (Austrailia)
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC World News
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",BBC World News (UK)
 http://s.rocketdns.info:8080/live/52748969/72335180/2345.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky News (UK)
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
@@ -8291,16 +8297,22 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47822.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Cinema Thriller (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47823.ts
 
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",3ABN Russian Network
+https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",Afghanistan International (UK)
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",Alhiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",Iran International ایران اینترنشنال (Persian)
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",Iran International ایران اینترنشنال (Persian "Farsi")
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",IraneFarda TV (Persian)
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",IraneFarda TV (Persian "Farsi")
 https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",Safeer TV
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",Al-Horreya البث المباش (Arabic)
+https://cdn.jwplayer.com/live/broadcast/vh5CZx9y.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",TBN Tejat نجات (Persian "Farsi")
+https://cdn.jwplayer.com/live/broadcast/tnBb1riP.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",DW News (Arabic)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8?ern=0
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",i24 News (Arabic)
@@ -8327,6 +8339,8 @@ http://1.allnetcom.com/Horizon/Website/6030.m3u8
 https://streamer1.connectto.com/AMGA_WEB_1202/index.fmp4.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",PATV (Pan Armenian TV)
 https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",TBN (Armenian)
+https://164475.gvideo.io/cmaf/164475_650646/index.mpd
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",FINNTV Sri Lanka
 https://249063.global.ssl.fastly.net/68c30e9150bf7e9693d0cfa6/live_6a81e1609dba11f0b889b33d3cd6db5c/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",YTV 회사연혁 Korea
@@ -8355,7 +8369,7 @@ https://padqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTc2LjMyLjE1MC4yMyZ0ZXJtPTQmcWlkP
 https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTc2LjMyLjE1MC4yMyZ0ZXJtPTQmcWlkPSZjZG5leF9pZD1hbF9waG9uZTQmY2hzPSZkZWY9MSZzPTIwZDc3MDJjNjE5ZTBjMDMyYzljMzVhYjNhNTI3MTE4JnVpZD0mdXVpZD1kNzIzNWU0NTMxYTk1NjBjMWM4MDgzZTY3OThhNTQ4Yi00YzIwOTYxNyZ2PTImYXM9MCZlcz0xNzcwNjQ5OTc5/HNYLMPP360.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",Hunan TV Hunan City
 https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTc2LjMyLjE1MC4yMyZ0ZXJtPTQmcWlkPSZjZG5leF9pZD1hbF9waG9uZTQmY2hzPSZkZWY9MSZzPWQ4NWY2ZDU4NGIyYzQyM2RlOTE4MGE1MTUyN2E4MTQwJnVpZD0mdXVpZD00Zjk3YzFkYjFkZDQyYzgzYWZlN2NhM2NmMTJhMzk2ZC00YzIwOTYxNyZ2PTImYXM9MCZlcz0xNzcwNjUwMDQ5/HNDSMPP360.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",Khmer TV (Cambodian)
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",Khmer TV (Cambodia)
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Ethnic & International",Little Saigon TV (Vietnamese)
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIwNWQ4MmE2ZDE4ZTlmNWIxODE0YmNiMTZiNDk5Y2Y0OCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzcwNDQ2NzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.aDd7aQZV6GYdfkQV968Ru2o3da0VjMgEdA7fBqclbWKT3cJIg7ajOIWcuSSZjHuNCETv4Fx2DVsWalhq8WnIs8paINvwNugm07Ilx9k07qDfG7IYYAHyPcKMnTxEkDs1ZL8-lefNg1xPCea9drO2EvAhJIwLxtTxhpL-9ACn8BpZ12Ljtzm385vs3azZ9V2983cT26O52ZdCP6lKLnPfNEmmP6oAPQwkklMqAZ6FgrTaXU-5kViA6oQIRq1Oj-PAzT8ByGiaubPtu_xOjlgiXqsNrQCPgLYy-DpBMp7O2auY7bx3CA4z39CZ5U9uUSz0dPEOm361IuNrYBlUapheYg/manifest/video.m3u8
