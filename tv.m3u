@@ -2591,9 +2591,9 @@ https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast_2.m3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png" group-title="Children Channels",PBS Kids (Rocky Mountain)
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nickelodeon (West)
-http://s.rocketdns.info:8080/live/52748969/72335180/631831.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nickelodeon (East)
 http://s.rocketdns.info:8080/live/52748969/72335180/3673.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nickelodeon (East)
+http://xxip25.top:8080/live/char@dot.com/char@14223/38.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nick (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd630-7b2e-11ef-a94e-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebbf33a-e8f6-4c9f-91cc-df503deed9e8&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nick Jr. (West)
@@ -2607,7 +2607,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/3674.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",TeenNick (West)
 http://s.rocketdns.info:8080/live/52748969/72335180/631834.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",TeenNick (East)
-http://s.rocketdns.info:8080/live/52748969/72335180/74692.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/140004.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd748-7b2e-11ef-9deb-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1aa79af-a440-4286-a333-28de4fa58ebb&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Nickelodeon 90's Kids 2 (Pluto TV)
@@ -2627,11 +2627,11 @@ http://s.rocketdns.info:8080/live/52748969/72335180/2588.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Disney Jr. (East)
 http://s.rocketdns.info:8080/live/52748969/72335180/3632.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",CN (Cartoon Network) (West)
-http://s.rocketdns.info:8080/live/52748969/72335180/2653.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/57380.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",CN (Cartoon Network) (East)
-https://fl1.moveonjoy.com/CARTOON_NETWORK/mpegts
+http://xxip25.top:8080/live/char@dot.com/char@14223/57356.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",Boomerang by Cartoon Network
-http://s.rocketdns.info:8080/live/52748969/72335180/3616.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/14741.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",MeTV Toons
 http://s.rocketdns.info:8080/live/52748969/72335180/721378.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Children Channels",The Lego Channel
@@ -7446,7 +7446,7 @@ https://amg01918-cnnus-amg01918c4-lg-us-5720.playouts.now.amagi.tv/playlist/amg0
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Euronews en Español
 https://4f597ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFfRXVyb25ld3NTcGFuaXNoX0hMUw/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Justicia TV (México)
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Plural TV (México)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",DW Noticias en Español
 http://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -7513,15 +7513,15 @@ http://s.rocketdns.info:8080/live/52748969/72335180/3613.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",beIN Sports Xtra en Español
 https://amg01334-amg01334c1-canelatv-international-6037.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FOX Deportes
-http://s.rocketdns.info:8080/live/52748969/72335180/40647.ts
+http://s.rocketdns.info:8080/live/52748969/72335180/3809.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FOX Sports Channel en Español
 https://apollo.production-public.tubi.io/live/fox-sports-espanol-QU7jRU.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FSN Premium en Español
 http://kstv.us:8080/live/N427DpynGE/7049166651/47129.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FSN 1 en Español
-http://s.rocketdns.info:8080/live/52748969/72335180/4243.ts
+http://kstv.us:8080/live/N427DpynGE/7049166651/47128.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FSN 2 en Español
-http://s.rocketdns.info:8080/live/52748969/72335180/4241.ts
+http://kstv.us:8080/live/N427DpynGE/7049166651/47119.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",FSN 3 en Español
 http://kstv.us:8080/live/N427DpynGE/7049166651/47123.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ESPN Deportes
@@ -7790,7 +7790,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/3114.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",A&E (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/3141.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Dejaview (Canada)
-http://s.rocketdns.info:8080/live/52748969/72335180/698468.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/122001.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",AMC (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/3132.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Vision (Canada)
@@ -8072,6 +8072,12 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47844.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/2196.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Sky Two (UK)
 http://s.rocketdns.info:8080/live/52748969/72335180/2178.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",RTE 1 (UK)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47807.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",RTE 2 (UK)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47808.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",RTE News Now (UK)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47806.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Movies (UK)
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Great! Romance (UK)
@@ -8136,8 +8142,12 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47777.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/2145.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Legend Xtra (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47781.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Pick TV (UK)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47801.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",E4 (UK)
 http://s.rocketdns.info:8080/live/52748969/72335180/2292.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Watch (UK)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47846.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Travel Channel (UK)
 http://s.rocketdns.info:8080/live/52748969/72335180/2159.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Animal Planet (UK)
@@ -8198,6 +8208,8 @@ https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
 http://kstv.us:8080/live/N427DpynGE/7049166651/47746.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",Quest (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47804.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",DMAX (UK)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47769.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",True Crime (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47754.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="UK Channels",True Crime Xtra (UK)
