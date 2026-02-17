@@ -1941,14 +1941,20 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/40777fc3-8769-4733-8181-0abb4a83aaf5/4.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias Florida
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ed488175-2528-4ece-82e7-c6a5c806d300/4.m3u8
+#EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo+
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://allvectorlogo.com/img/2016/07/univision-logo.png" group-title="Latino (Spanish)",Univision (West)
 https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest-audio_eng=128000-video=6000000.m3u8
 #EXTINF:0 tvg-logo="https://allvectorlogo.com/img/2016/07/univision-logo.png" group-title="Latino (Spanish)",Univision (East)
 https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast-audio_eng=128000-video=6000000.m3u8
+#EXTINF:0 tvg-logo="https://allvectorlogo.com/img/2016/07/univision-logo.png" group-title="Latino (Spanish)",Univision+
+http://astra.fibernetisp.com.co/play/a0ma/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",UniMás (West)
 https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest-audio_eng=128000-video=6000000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",UniMás (East)
 https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/umaeast-audio_eng=128000-video=6000000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",UniMás+
+https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTINF:0 tvg-logo="https://allvectorlogo.com/img/2016/07/univision-logo.png" group-title="Latino (Spanish)",KMEX-TV Univision 34 (Los Angeles CA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex-audio_eng=128000-video=6000000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KFTR-TV UniMás 46 (Los Angeles CA)
@@ -1974,7 +1980,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo-aud
 #EXTINF:0 tvg-logo="https://allvectorlogo.com/img/2016/07/univision-logo.png" group-title="Latino (Spanish)",KCEC-TV Univision 14 (Denver CO)
 http://vocotv.pro:80/live/10/12345/3375.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KDEN-TV Telemundo 25 (Denver CO)
-http://s.rocketdns.info:8080/live/52748969/72335180/2399.ts
+https://nbculocallive.akamaized.net/hls/live/2037092/denver/stream1/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFD-TV UniMás 50 (Denver CO)
 http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/18572.ts
 #EXTINF:0 tvg-logo="https://allvectorlogo.com/img/2016/07/univision-logo.png" group-title="Latino (Spanish)",KDTV-TV Univision 14 (San Francisco CA)
@@ -1991,8 +1997,6 @@ http://s.rocketdns.info:8080/live/52748969/72335180/50949.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/89450.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KTFK-DT UniMás 64 (Sacramento CA)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410626.ts
-#EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",WTCL-TV Telemundo 6 (Cleveland OH)
-https://zeam-playlist.aws.syncbak.com/cpl/24004359/dai2v5/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MjQxMDksIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6IjUwMTk3YzUzODU4ODQ4YTA5ZjVkNjNhYzFlZmIyZDdkIiwiaXAiOiI1NC4xNzIuMTI2LjEyMiIsInVpcCI6Ijc2LjMyLjE1MC4yMyIsImRtYSI6ODAzLCJzbiI6IldlYiA0MTdlODA1Y2IwICIsInVpZCI6bnVsbCwiY3NiIjpmYWxzZSwibWlkIjoiMjQwMDQzNTkiLCJtZDUiOiJhODMwOTg0MjI2ZmY4ZDc5MTk1Mzc3NTM1Y2VjZDY0OSIsImlhdCI6MTc3MTEzMjE3MywiZXhwIjoxNzcxMTMyMjYzLCJpc3MiOiJXTFMiLCJzdWIiOiJjZmU2NTMyZS03MTQ0LTRmYWQtOWJjMS0zMTVmMDRhMDZlZmUifQ.nQgGEAy8lYPH7FqGQXr0LUjUpGNWrhE43PBapgiKF3M
 #EXTINF:0 tvg-logo="https://allvectorlogo.com/img/2016/07/univision-logo.png" group-title="Latino (Spanish)",WQHS-TV Univision 61.1 (Cleveland OH)
 http://s.rocketdns.info:8080/live/52748969/72335180/4474.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",WQHS-DT UniMás 61.2 (Cleveland OH)
@@ -2011,6 +2015,8 @@ http://s.rocketdns.info:8080/live/52748969/72335180/89879.ts
 http://hardcoremedia.xyz:80/live//BG992263/38692743/135410.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KBLR-TV Telemundo 39 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/52748969/72335180/89702.ts
+#EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTDO-TV Telemundo 48 (El Paso TX)
+https://nbculocallive.akamaized.net/hls/live/2037500/elpaso/stream1/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png" group-title="Latino (Spanish)",KNIC-TV UniMás 17 (San Antonio TX)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334557
 #EXTINF:0 tvg-logo="https://allvectorlogo.com/img/2016/07/univision-logo.png" group-title="Latino (Spanish)",KWEX-TV Univision 41 (San Antonio TX)
@@ -2040,9 +2046,9 @@ http://s.rocketdns.info:8080/live/52748969/72335180/89698.ts
 #EXTINF:0 tvg-logo="https://allvectorlogo.com/img/2016/07/univision-logo.png" group-title="Latino (Spanish)",KTVW-TV Univision 33 (Phoenix AZ)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410646.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTAZ-TV Telemundo 39 (Phoenix AZ)
-http://s.rocketdns.info:8080/live/52748969/72335180/89419.ts
+https://nbculocallive.akamaized.net/hls/live/2037089/phoenix/stream1/master.m3u8
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KTMW-TV Telemundo 20 (Salt Lake City UT)
-http://s.rocketdns.info:8080/live/52748969/72335180/89864.ts
+https://nbculocallive.akamaized.net/hls/live/2037605/saltlakecity/stream1/master.m3u8
 #EXTINF:0 tvg-logo="https://allvectorlogo.com/img/2016/07/univision-logo.png" group-title="Latino (Spanish)",KUTH-TV Univision 32 (Salt Lake City UT)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/135439.ts
 #EXTINF:0 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KUAN-TV Telemundo 20 (San Diego CA)
@@ -2167,8 +2173,8 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Once (México)
-https://vivo.Canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canal Once Internacional (México)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canal Once.3 Digital (México)
 https://vivo.Canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canal 14 (México)
@@ -7084,6 +7090,8 @@ http://s.rocketdns.info:8080/live/52748969/72335180/4247.ts
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",HGTV en Español
 https://cdnbarinas.tvzamora.com/hgtv/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Hogar TV
+http://astra.fibernetisp.com.co/play/a0sh/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Hallmark en Español
 https://jmp2.uk/rok-77e8baf2bb9e4d132571c00365e2a3f9.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",MyTime Movie Network en Español
@@ -7128,7 +7136,7 @@ https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Daystar en Español
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8?ads.vf=58GrEFelNTK
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Religious",3ABN Latino Network
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",3ABN Latino Network
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Majestad Televisión
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
@@ -7138,8 +7146,6 @@ https://edge.streann.com/almavision1/almavision1/chunks.m3u8?auth=eyJ0eXAiOiJKV1
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/8adc9953-2bbd-2432-1708-e47d4fa08b96.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",América TeVé
 https://live1009.delivery.roku.com/34a28884-2772-480e-9b98-7c324767a795/t2-origin/out/v1/live.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Ultra Mex (México)
-http://1.84423.xyz:8000/RestreamByDx04/0003xxx92Lqmm/131726
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Latino Vibes
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fuselatinovibes-ono/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Backstage en Español
@@ -7432,8 +7438,8 @@ http://atlas.cdmx.gob.mx:8089/https://notusaauth.univision.com/api/v3/akamai-aut
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",NTN24
 http://s.rocketdns.info:8080/live/52748969/72335180/40627.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Teleformula
-http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?&420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TeleFórmula
+http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8&420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TN Noticias (Argentina)
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",América 24 (Argentina)
@@ -7452,8 +7458,6 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 http://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Mexico Regional News
 https://mdstrm.com/live-stream-playlist/686c4c6eb03d6c0e7b5e25a0.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TeleFórmula
-http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8&420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Teleplay Sureste
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Mundo Sorprendente TV
