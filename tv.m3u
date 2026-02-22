@@ -46,7 +46,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/2558.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WDIV-TV NBC 4 (Detroit MI)
 http://s.rocketdns.info:8080/live/52748969/72335180/2459.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",WXYZ-TV ABC 7 (Detroit MI)
-https://fl1.moveonjoy.com/MI_DETROIT_ABC/mpegts
+http://s.rocketdns.info:8080/live/52748969/72335180/2690.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",WMYD-TV MyNetworkTV 20 (Detroit MI)
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401596441.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WKBD-TV CW 50 (Detroit MI)
@@ -3479,7 +3479,7 @@ https://dai.google.com/linear/hls/event/v4CTWEdUSzqQgJtYB9rmrw/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NFL Alt Channel
 http://s.rocketdns.info:8080/live/52748969/72335180/663903.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NFL Red Zone #1
-http://s.rocketdns.info:8080/live/52748969/72335180/3671.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/159118.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NFL Red Zone #2
 http://s.rocketdns.info:8080/live/52748969/72335180/3752.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Locked on NFL
@@ -3523,7 +3523,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/552928.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Spectrum Sports Encore
 http://s.rocketdns.info:8080/live/52748969/72335180/649400.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Spectrum SportsNet LA
-https://a1xs.vip/400052
+http://s.rocketdns.info:8080/live/52748969/72335180/74683.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Spectrum Sportsnet Lakers
 http://s.rocketdns.info:8080/live/52748969/72335180/74684.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Spectrum Sportsnet OC16
@@ -7772,9 +7772,9 @@ http://s.rocketdns.info:8080/live/52748969/72335180/3059.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Treehouse (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/3057.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",YTV (West) (Canada)
-http://kstv.us:8080/live/N427DpynGE/7049166651/40662.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",YTV (East) (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/647755.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",YTV (East) (Canada)
+http://s.rocketdns.info:8080/live/52748969/72335180/647754.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",TVO Kids (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40644.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Disney Channel (Canada)
@@ -8022,13 +8022,13 @@ http://s.rocketdns.info:8080/live/52748969/72335180/3206.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Movietime (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/3056.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 1 (Canada)
-http://s.rocketdns.info:8080/live/52748969/72335180/3184.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/57309.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 2 (Canada)
-http://s.rocketdns.info:8080/live/52748969/72335180/3185.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/57310.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 3 (Canada)
-http://s.rocketdns.info:8080/live/52748969/72335180/3186.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/57322.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Crave 4 (Canada)
-http://s.rocketdns.info:8080/live/52748969/72335180/3187.ts
+http://xxip25.top:8080/live/char@dot.com/char@14223/57311.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Hollywood Suite 70's Movies (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/59884.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Canadian Channels",Hollywood Suite 80's Movies (Canada)
@@ -8466,8 +8466,6 @@ http://bgdc.live:25461/live/folalawal@/4044225438/204364.ts
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Playboy TV (Europe)
 http://bgdc.live:25461/live/folalawal@/4044225438/204284.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Playboy TV (World)
-https://dvr2.kablova.tv/Playboy/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Playhouse
 http://bgdc.live:25461/live/folalawal@/4044225438/180744.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Miami TV Jenny Live
