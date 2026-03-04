@@ -479,8 +479,6 @@ http://s.rocketdns.info:8080/live/52748969/72335180/434317.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/2688.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGPE-TV CBS 47 (Fresno CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/89431.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Local Channels (Not 24/7)",KNXT-TV MyNetworkTV 53 (Fresno CA)
-https://zeam-playlist.aws.syncbak.com/cpl/23258158/dai2v5/1.0/7b2264657669636554797065223a382c226361706162696c6974696573223a7b7d7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOiI5MSIsImNpZCI6MjM1NTgsIm9vbSI6dHJ1ZSwiYXBzdCI6bnVsbCwic3NpZCI6ImVlYWY1ZjgyYmFiMzRjYWRhMmNhM2Y2ZDI0NTE1Mjg3IiwiaXAiOiIzLjgzLjI0NS44NCIsInVpcCI6Ijc2LjMyLjE1MC4yMyIsImRtYSI6ODAzLCJzbiI6IldlYiA0MTdlODA1Y2IwICIsInVpZCI6bnVsbCwiY3NiIjpmYWxzZSwibWlkIjoiMjMyNTgxNTgiLCJtZDUiOiI5ODc2NmNiM2QyNzgwMDEyMzYxM2FkMDE5ZTJmZDRjYiIsImlhdCI6MTc3MTEzMTg2MCwiZXhwIjoxNzcxMTMxOTUwLCJpc3MiOiJXTFMiLCJzdWIiOiJjZmU2NTMyZS03MTQ0LTRmYWQtOWJjMS0zMTVmMDRhMDZlZmUifQ.XymHAU7yHRhZo3mZrQ9qjZDbi1Ftey2lnMcJAou9wWg
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WFRE-TV CW 59 (Fresno CA)
 http://s.rocketdns.info:8080/live/52748969/72335180/629104.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KGET-TV NBC 17 (Bakerfield CA)
@@ -7454,7 +7452,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?420GKUSH_R4IN&DON%27TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",N+ FORO (México)
 http://atlas.cdmx.gob.mx:8089/https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true&420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",N+ (México)
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",N+ Noticieros (México)
 http://atlas.cdmx.gob.mx:8089/https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8&redirect=true&420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",N+ Guadalajara (México)
 http://atlas.cdmx.gob.mx:8089/https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel08secure-notusa.akamaized.net/hls/live/2037034/event01/index.m3u8&redirect=true&420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
