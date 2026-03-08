@@ -3570,8 +3570,6 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47473.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/46400.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",HBCU Go Sports
 https://6788041e31d84d16a8543d7183a2dd42.mediatailor.us-east-1.amazonaws.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/OneStudio_HBCUgo_Prod/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Sports Grid Live
-https://sportsgrid-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_60d4f2ce961d1109be12f573_sportsgrid-live-1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Tennis Channel
 http://s.rocketdns.info:8080/live/52748969/72335180/3685.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Tennis Channel (Alt)
@@ -3696,7 +3694,7 @@ https://linear30.channels.ballys.tv/abr_default/index.m3u8
 https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/dist/localnow/426/hls/master/playlist.m3u8?ads.cdnhost=s4host4.localnow.api.cms.amdvids.com&ads.playbackid=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n4=content_name&ads.v4=EPG%20%7C%20PokerGo&ads.n21=h&ads.v21=1080&ads.n22=dnt&ads.v22=&ads.n23=channel_brand_id&ads.v23=AMDB012786&ads.n24=app_name&ads.v24=&ads.n25=device_model&ads.v25=&ads.n26=content_provider&ads.v26=pokergo&ads.n27=channel_ext_id&ads.v27=62854474b70b3427203aeabc&ads.n28=gpp_sid&ads.v28=&ads.n29=url&ads.v29=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n30=app_store_url&ads.v30=&ads.n31=ifa_type&ads.v31=&ads.n32=content_custom_3_param&ads.v32=channel&ads.n33=content_custom_2_param&ads.v33=AMDB012786&ads.n34=content_type&ads.v34=channel&ads.n35=content_producer_name&ads.v35=Poker%20Central%20LLC&ads.n36=ua&ads.v36=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n37=device_make&ads.v37=&ads.n38=channel_id&ads.v38=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n39=channel_language&ads.v39=en&ads.n40=channel_corp&ads.v40=Poker%20Central%20LLC&ads.n41=did&ads.v41=&ads.n42=pos&ads.v42=midroll&ads.n43=ip&ads.v43=195.179.200.80&ads.n44=app_version&ads.v44=0.0.0&ads.n45=channel_title&ads.v45=EPG%20%20PokerGo&ads.n46=gpp&ads.v46=&ads.n47=channel_genre&ads.v47=Gaming&ads.n48=w&ads.v48=1920&ads.n49=device_type&ads.v49=&ads.n50=cust_devicename&ads.v50=desktop_web&ads.n51=channel_rating&ads.v51=TV-PG&ads.n52=content_livestream&ads.v52=1&ads.n53=us_privacy&ads.v53=1YNY&ads.n54=app_bundle&ads.v54=&ads.n55=channel_name&ads.v55=EPG%20%20PokerGo&ads.n56=network_name&ads.v56=pokergo&ads.n57=content_custom_1_param&ads.v57=B9A52C0B-CABF-4854-BEBD-012B01DA1CAA&ads.n58=channel_company_id&ads.v58=AMDP500405
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",WPT (World Poker Tour)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-vizious/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Sports Grid
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Sports Grid Live
 http://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
@@ -3707,11 +3705,11 @@ https://jmp2.uk/rok-b6a492b04d7d534fa0e9e69380382d02.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",WSN (Women's Sports Network)
 https://jmp2.uk/rok-11f70f2cc59750f4ad9a019d72ad17b1.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",UFC Channel
-http://fl1.moveonjoy.com/UFC/mpegts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",UFC Channel 24/7
-http://kstv.us:8080/live/N427DpynGE/7049166651/47643.ts
+https://linear-893.frequency.stream/dist/lg-us/893/hls/master/playlist_lg.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",UFC TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",UFC Channel 24/7
+http://kstv.us:8080/live/N427DpynGE/7049166651/47643.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",UFC Fight Pass
 http://s.rocketdns.info:8080/live/52748969/72335180/687460.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",FN (Fight Network)
@@ -3721,11 +3719,11 @@ https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Fite 24/7 by Triller
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",EPG Fighting Network
-https://fight-network-3-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66d087ead8324e4d44074832_fight-network-3-live/main.m3u8
+https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Swerve Sports
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",MSG Network
-https://fl2.moveonjoy.com/MSG/mpegts
+http://s.rocketdns.info:8080/live/52748969/72335180/4435.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",MSG 2
 http://s.rocketdns.info:8080/live/52748969/72335180/4433.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",MSG+
@@ -3734,6 +3732,8 @@ http://s.rocketdns.info:8080/live/52748969/72335180/4434.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/648959.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",MSGSN 2
 http://s.rocketdns.info:8080/live/52748969/72335180/4433.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",MSGSN 2 Zone
+http://s.rocketdns.info:8080/live/52748969/72335180/648959.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",MSG SportsZone
 https://dce277e4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",WWE Network
@@ -3742,8 +3742,6 @@ http://s.rocketdns.info:8080/live/52748969/72335180/3701.ts
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Impact Plus!
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",AXS-TV Fight Network Swerve Combat
-http://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Right Now TV
 https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Lacrosse TV
@@ -3769,11 +3767,9 @@ https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",BEK Sports West
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Billiard TV
-https://newidco-billiardstv-1-us.lg.wurl.tv/playlist.m3u8
+https://jmp2.uk/rok-0b4814b9a5e53029e2b9aba64ddc1df0.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",CampusLore
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Women's Sports Network
-https://apollo.production-public.tubi.io/live/womens-sports-network-1O1OWm.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",ESR Gaming Network
 http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/42205.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",TVS All American
@@ -6943,7 +6939,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/46536.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TV Azteca GUATE
 https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TV Azteca Honduras
-https://live.eu-north-1b.cf.dmcdn.net/sec2(gXdfOMk9xnAR9gOhOMvsC2zTWTxWSnF7T1K62ZTi0sgijw9heSEp_Gic4en8EyecO1XqMB8Q-bWv_IorpuEArfw27FJi00EVTjEqdOiUgEKTjVuglAfsgpVFQukHFQfV)/dm/3/x9saemc/s/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(WjsSR1VH0SIsI4ImWGFqApSwbVZ2J6NjPq5jRII0zrLfkQ35UveGFuoDyUzF79tt2oqqY_b8oG0Da7IcVPjuBpvzLUdgobHS5dyYpPfARlTPbzvHagvCXysByzN3CbFf)/dm/3/x9saemc/s/live-720.m3u8#cell=lcf-eu-north-1b
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Azteca Corazón
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Estrella TV
@@ -7269,15 +7265,15 @@ https://live1009.delivery.roku.com/32f4fc87-61df-48f8-8d87-6a4e3b82b489/t2-origi
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canela.TV Novelisima
 http://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canela.TV Novelas Turcas
-https://amg00658-amg00658c22-canelatv-international-5047.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelanovelasturcas-canelatvinternational/playlist.m3u8
+https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-themavivekanalddrama-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canela.TV Todo Novelas Más Pasiones
 https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canela.TV Pasión Latina
-https://amg00658-amg00658c3-lg-us-3416.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatv-lgus/playlist.m3u8
+https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ViX Grandes Parejas
-https://live1009.delivery.roku.com/fb245b6d-09b4-420b-9732-dfcd80c377b2/t2-origin/out/v1/live.m3u8
+https://jmp2.uk/rok-09430bcd30bf5b30a96ca22ecb87e3e1.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ViX JaJaJa
-https://live1009.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live.m3u8
+https://jmp2.uk/rok-c51c18ade0bd5b68b5e9bfa83410e372.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",DC (Distrito Comedia)
@@ -7345,15 +7341,14 @@ https://amg01705-amg01705c1-amgplt0023.playout.now3.amagi.tv/playlist/amg01705-a
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ViX Cine Club
 https://live1009.delivery.roku.com/0f232fec-f2cc-45e0-8876-af34537103d4/t2-origin/out/v1/live.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canela.TV
-https://amg00658-amg00658c29-canelatv-international-5110.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvusappta-canelatvinternational/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canela.TV Cinema
-https://amg00658-amg00658c25-canelatv-international-5055.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemausapp-canelatvinternational/playlist.m3u8
+https://amg00658-amg00658c5-canelatv-international-7217.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvusapp-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canela.TV Clasicos
-https://live1009.delivery.roku.com/a1d79c89-6586-4a31-94eb-7ac7fd56577f/t2-origin/out/v1/live.m3u8
+https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canela.TV Narco-Drama
 https://live1009.delivery.roku.com/6db7c87c-7e4b-4de4-bb6e-70efaac30d60/t2-origin/out/v1/live.m3u8
+https://jmp2.uk/rok-3bc1756db0ef525b9cab86edcd426c55.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canela.TV Pasión Latina
-https://live1009.delivery.roku.com/15a389c6-1b0d-4f8b-93d9-7a6ea0254e7f/t2-origin/out/v1/live.m3u8
+https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",G Plus
 http://kstv.us:8080/live/N427DpynGE/7049166651/46626.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",G Premier
@@ -7361,7 +7356,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/46627.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",G Edge
 http://kstv.us:8080/live/N427DpynGE/7049166651/46625.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",HBO
-http://45.228.234.30:16000/play/a008/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
+https://skhd01.skarnetchile.com/HBO_HD/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",HBO 2
 https://cdnbarinas.tvzamora.com/hbo2/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",HBO Plus
@@ -7371,7 +7366,7 @@ https://cdnbarinas.tvzamora.com/hbosignature/index.m3u8?420GKUSH_R4IN&DON'TSTEAL
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",HBO Family
 https://cdnbarinas.tvzamora.com/hbofamily/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",HBO Xtreme
-http://179.49.157.54:9973/play/a0pk/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
+https://cdnbarinas.tvzamora.com/hboxtreme/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",HBO Pop
 https://cdnbarinas.tvzamora.com/hbopop/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",HBO Mundi
@@ -7403,7 +7398,7 @@ https://live1009.delivery.roku.com/dee94bdd-c128-4649-95eb-e2cc1e557527/t2-origi
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine Romantico
 https://live1009.delivery.roku.com/7ee12862-2d8d-447d-9124-553bfec17e48/t2-origin/out/v1/live.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TCM
-http://179.49.157.54:9973/play/a0lj/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
+https://cdnbarinas.tvzamora.com/tcm/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TC Television en Español
 http://181.188.234.21:8000/play/a04p/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TVOAI Channel
