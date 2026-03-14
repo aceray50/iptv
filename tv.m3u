@@ -587,6 +587,10 @@ http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2651.ts
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/2572.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png" group-title="Local Channels (Not 24/7)",WNUV-TV CW 54 (Baltimore MD)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/34434.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WVFX-TV FOX 10 (Clarksburg WV)
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/631752.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WBOI-TV NBC 12 (Clarksburg WV)
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89904.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KUTV-TV CBS 2 (Salt Lake City UT)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89862.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVX-TV ABC 4 (Salt Lake City UT)
@@ -773,6 +777,14 @@ http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/629725.ts
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/38296.ts
 #EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",WDKY-TV FOX 56 (Lexington KY)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89580.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KBOI-TV CBS 2 (Boise ID)
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89545.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KIVI-TV ABC 6 (Boise ID)
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/512984.ts
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KTVB-TV NBC 7 (Boise ID)
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/89546.ts
+#EXTINF:0 tvg-logo="https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png" group-title="Local Channels (Not 24/7)",KNIN-TV FOX 9 (Boise ID)
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/512985.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KXLF-TV CBS 4 (Butte MT)
 http://tkosportz.live:25461/live/catrinamcdermott/catrinamcdermott/150209.ts
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="Local Channels (Not 24/7)",KWYB-TV ABC 18.1/28.1 (Butte MT)
@@ -2749,9 +2761,9 @@ http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/469939.ts
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/333484.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",fetv (Family Entertainment Television)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/512977.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Get TV
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Great. (Entertainment Television)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/30928.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Get TV (Alt)
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Get TV
 https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Network Channels",Get Comedy
 https://wurlgameshownetwork.global.transmit.live/hls/68d16b590531b397b61a778d/v1/gsn_cinevault_70s_1/lg_us/latest/main/hls/playlist.m3u8
@@ -3499,7 +3511,7 @@ https://lockedonsports-nba-live.sports.tv/v1/master/758627660e995d43cdf594915ca6
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",The Original Globetrotters
 https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8?ads.wurl_channel=1909
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NFL Network
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3754.ts
+http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/3670.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NFL Channel
 https://dai.google.com/linear/hls/event/v4CTWEdUSzqQgJtYB9rmrw/master.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",NFL Alt Channel
