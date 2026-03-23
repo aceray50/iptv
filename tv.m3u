@@ -6837,7 +6837,7 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260717.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | '70s & '80s Favorites
 http://hardcoremedia.xyz:80/live/BG992263/38692743/237646.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | '80s
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/42078.ts
+http://kstv.us:8080/live/N427DpynGE/7049166651/47912.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | '80s (Audio Channel)
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/647314.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | '80s One Hit Wonders (Audio Channel)
@@ -6845,7 +6845,7 @@ http://hardcoremedia.xyz:80/live/BG992263/38692743/260696.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | '80s Rock (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47916.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | '90s
-http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/42083.ts
+http://kstv.us:8080/live/N427DpynGE/7049166651/47918.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | '90s (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47918.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | '90s Club Hits (Audio Channel)
@@ -6864,8 +6864,6 @@ http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/42088.ts
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260726.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | 2010s (Audio Channel)
 http://hardcoremedia.xyz:80/live/BG992263/38692743/260695.ts
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | Classic Christmas
-http://hardcoremedia.xyz:80/live/BG992263/38692743/237670.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | Classic Christmas (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47942.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | Pop And Country
@@ -6884,10 +6882,12 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47953.ts
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/647320.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | Classic Country (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47943.ts
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | Honky Tonk (Audio Channel)
+http://kstv.us:8080/live/N427DpynGE/7049166651/47979.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | Contemporary Christian
 http://s.rocketdns.info:8080/live/nopbot/jbadWjxWV1/647321.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | Contemporary Christian (Audio Channel)
-http://hardcoremedia.xyz:80/live/BG992263/38692743/260765.ts
+http://kstv.us:8080/live/N427DpynGE/7049166651/47949.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | Pop Latino (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48013.ts
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Music",MC (Music Choice) | Rock Latino (Audio Channel)
