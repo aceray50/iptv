@@ -319,6 +319,12 @@ http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/183058
 http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/696419
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KMIR-TV NBC 36 (Palm Springs CA)
 http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/89444
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KVVB-TV YTA (YouToo America) 33.1 (Victorville CA)
+https://2-fss-2.streamhoster.com/pl_120/201950-1309230-1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KVVB-DT Victor Valley TV Ind. 33.5 (Victorville CA)
+https://2-fss-2.streamhoster.com/pl_120/201950-5317556-1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",KVVB-DT Events 33.10 (Victorville CA)
+https://2-fss-1.streamhoster.com/pl_122/201950-6609380-1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/WJXT_Logo_2014.png" group-title="Local Channels (Not 24/7)",WJXT-TV 4 Ind. (Jacksonville FL)
 http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/607668
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="Local Channels (Not 24/7)",WTLV-TV NBC 12 (Jacksonville FL)
@@ -1064,17 +1070,17 @@ https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
 https://jmp2.uk/rok-dcecb48012b5c99824cb0b1667f4499c.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",Law & Order
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993063/hls/master.m3u8?ads.xumo_channelId=99993063
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",CSI: Crime Scene Investigation
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",CSI Crime Scene Investigation
 https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",CSI en Español
 https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",CSI: NY
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",CSI NY
 https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",CSI: NY en Español
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",CSI NY en Español
 https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",CSI: Miami
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",CSI Miami
 https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",CSI: Miami en Español
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",CSI Miami en Español
 https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",REELZ Famous and Infamous
 https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8
@@ -1218,7 +1224,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993023/hls/master.m3u8?ads.xumo_cha
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",Hercules: The Legendary Journeys
 https://jmp2.uk/plu-68e38aaf8082ad3760def7bc.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",Xena: Warrior Princess
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",Xena Warrior Princess
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99993064/hls/master.m3u8?ads.xumo_channelId=99993064
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="24/7 Shows",Star Trek
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
@@ -1507,7 +1513,7 @@ http://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Public Access",KOCT-TV 18 (San Diego CA)
 https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8?dt=1749521028612
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Public Access",KOCT-TV 19 (San Diego CA)
-https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8?dt=1749520937749
+https://securestream11.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8?dt=1777686484512
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Public Access",CNC TV (County News Center) (San Diego CA)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_010/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Local Public Access",Pomona Internet Streaming Channel (Pomona CA)
@@ -3771,6 +3777,8 @@ http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/5289
 https://cdn-apse1-prodv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Outdoor America
 https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/dist/localnow/600/hls/master/playlist.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=23F40B93-4CDF-46AC-A617-60935E7562CC&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=23F40B93-4CDF-46AC-A617-60935E7562CC&ads.n4=content_name&ads.v4=EPG%20%7C%20Outdoor%20America&ads.n21=ip&ads.v21=195.179.200.80&ads.n22=ua&ads.v22=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n23=content_livestream&ads.v23=1&ads.n24=channel_rating&ads.v24=TV-PG&ads.n25=app_bundle&ads.v25=&ads.n26=channel_language&ads.v26=en&ads.n27=channel_name&ads.v27=EPG%20%20Outdoor%20America&ads.n28=channel_corp&ads.v28=Obsession%20Media%20LLC&ads.n29=network_name&ads.v29=outdoor-america&ads.n30=gpp_sid&ads.v30=&ads.n31=content_custom_3_param&ads.v31=channel&ads.n32=cust_devicename&ads.v32=desktop_web&ads.n33=did&ads.v33=&ads.n34=gpp&ads.v34=&ads.n35=pos&ads.v35=midroll&ads.n36=content_type&ads.v36=channel&ads.n37=device_make&ads.v37=&ads.n38=ifa_type&ads.v38=&ads.n39=dnt&ads.v39=&ads.n40=channel_title&ads.v40=EPG%20%20Outdoor%20America&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=app_version&ads.v42=0.0.0&ads.n43=channel_genre&ads.v43=Nature&ads.n44=device_model&ads.v44=&ads.n45=h&ads.v45=1080&ads.n46=channel_ext_id&ads.v46=613278f96bef01734f115e12&ads.n47=content_custom_1_param&ads.v47=23F40B93-4CDF-46AC-A617-60935E7562CC&ads.n48=channel_id&ads.v48=23F40B93-4CDF-46AC-A617-60935E7562CC&ads.n49=channel_company_id&ads.v49=AMDP500199&ads.n50=channel_brand_id&ads.v50=AMDB012224&ads.n51=url&ads.v51=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n52=content_provider&ads.v52=outdoor-america&ads.n53=app_store_url&ads.v53=&ads.n54=device_type&ads.v54=&ads.n55=content_producer_name&ads.v55=Obsession%20Media%20LLC&ads.n56=w&ads.v56=1920&ads.n57=app_name&ads.v57=&ads.n58=content_custom_2_param&ads.v58=AMDB012224
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Outdoor Action
+https://careco-outdoor-action-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Sports Fishing
 https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Fuel TV
