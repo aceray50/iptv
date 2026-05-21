@@ -2020,7 +2020,7 @@ https://catram-packager-018.nextologies.com/0bbcf6d6a85c81ca/45a975efb871cd32/b4
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/SpectrumNoticiasLogo2025.jpg" group-title="Latino (Spanish)",Spectrum Noticias NY1
 http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/649407
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/SpectrumNoticiasLogo2025.jpg" group-title="Latino (Spanish)",Spectrum Noticias
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/SpectrumNoticiasLogo2025.jpg" group-title="Latino (Spanish)",Spectrum Noticias+
 https://dbrb49pjoymg4.cloudfront.net/10001/99951414/hls/playlist.m3u8?ads.xumo_channelId=99951414
 #EXTINF:0 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2026/01/Noticias-Univision-to-N-Univision-logo-rebrand.png" group-title="Latino (Spanish)",N+ Univision 24/7
 https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
@@ -6655,7 +6655,7 @@ https://cablered.iptvperu.tv:1936/cablered/tntnovelas_new/playlist.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Univision TLNovelas
 http://bgdc.live:25461/folalawal@/4044225438/215212
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TL Novelas (México)
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TLNovelas (México)
 http://201.77.60.62:8002/play/a0ol/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png" group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
@@ -6892,7 +6892,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Milenio (México)
 http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",N+ FORO (México)
-http://38.49.150.44:8000/play/a0ny/index.m3u8u?hls
+http://201.77.60.62:8002/play/a0o3/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",N+ Noticieros (México)
 http://atlas.cdmx.gob.mx:8089/https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8&redirect=true
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",N+ Guadalajara (México)
@@ -8006,7 +8006,7 @@ http://169.150.255.53/PlayboyHD/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Playboy TV (Latin America)
 https://cdnbarinas.tvzamora.com/playboy/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Playboy TV (Europe)
-http://bgdc.live:25461/folalawal@/4044225438/204284
+http://31.148.48.15/Playboy_TV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Playhouse
 http://bgdc.live:25461/folalawal@/4044225438/180744
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Adults Only (XXX)",Miami TV Jenny Live
