@@ -6320,7 +6320,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",NBC Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png" group-title="Latino (Spanish)",Telemundo Internacional
-http://38.49.150.44:8000/play/a0mg/index.m3u8u?hls
+http://209.87.175.160:5001/play/a0my/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png" group-title="Latino (Spanish)",Telemundo Al Día
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747
 #EXTINF:0 tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png" group-title="Latino (Spanish)",Telemundo Acción
@@ -6657,6 +6657,8 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 http://bgdc.live:25461/folalawal@/4044225438/215212
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TLNovelas (México)
 http://201.77.60.62:8002/play/a0ol/index.m3u8?hls
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TLNovelas (Latin America)
+http://103.111.42.4:9999/play/a009/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png" group-title="Latino (Spanish)",Telemundo telenovelas clásicas (Pluto TV)
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Novelas Channel
@@ -6709,8 +6711,10 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://cdn-uw2-prodv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine en Español
 https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine Mexicano
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine México (U.S.A.)
 http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/649410
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine México (México)
+http://103.111.42.4:9999/play/a005/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine Latino
 https://iptv2.intersurtv.cl/CINELATINO_HD/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine Hispano
@@ -6729,7 +6733,7 @@ https://jmp2.uk/rok-acf637e8292736265712e3be566c0e5a.m3u8
 https://jmp2.uk/rok-b015fcbafb496320954672321e746f8a.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",AXN en Español
 http://kstv.us:8080/N427DpynGE/7049166651/46535
-#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine AXN (Mexico)
+#EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Cine AXN (México)
 http://179.61.31.142:8000/play/a01h/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Teleclásica
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
@@ -6954,7 +6958,7 @@ https://univtec.g-mana.media/6e7277cd-6602-4105-90d4-681b45a9c026/mainManifest.m
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",TD Teledario
 https://jmp2.uk/rok-ceb64d994c7756c2a8f09ace94c3e43f.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Azteca TV Deportes Network
-http://atlas.cdmx.gob.mx:8089/https://mdstrm.com/live-stream-playlist/61087e5b8e21e304a159211e.m3u8
+http://209.87.175.160:5001/play/a0mb/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Canela.TV Deportes
 https://amg00658-amg00658c29-canelatv-international-5110.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvusappta-canelatvinternational/playlist.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",GOL TV en Español
@@ -7018,7 +7022,7 @@ http://186.33.25.234:8125/play/a069/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",ESPN 7 en Español
 https://cdnbarinas.tvzamora.com/espn7/index.m3u8
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Golf Channel Latin America
-http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+http://8.243.126.131:8000/play/a0ea/index.m3u8?hls
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Wapa Deportes
 http://cors-proxy.cooks.fyi/http://hardcoremedia.xyz:80/BG992263/38692743/3115
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Latino (Spanish)",Red Bull TV en Español
